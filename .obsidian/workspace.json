@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar.md",
+                "file": "10_Chapters/Prologo/What_He_Held.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kyle_ElDespatar"
+              "title": "What_He_Held"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0c8e92eb0ea73b59",
@@ -213,65 +212,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "floating": {
-    "id": "bbcc69af490d1fd3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2e13121465b655b0",
-        "type": "window",
-        "children": [
-          {
-            "id": "d9ed50ffce267aa3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "72f67e41791dffb0",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 407,
-        "width": 793,
-        "height": 543,
-        "maximize": true,
-        "zoom": 2
-      }
-    ]
-  },
   "active": "da45260f4887d17d",
   "lastOpenFiles": [
-    "Log.md.tmp.39468.ce0eb4dcc481",
-    "05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar.md.tmp.39468.1a60dcf6949f",
-    "05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar.md.tmp.39468.eee0f7bbac3d",
-    "05_Dialogues/RenacimientosGuardianes/Gabriel_ElDespatar.md",
+    "10_Chapters/Prologo/The_Architecture_of_Endings.md",
+    "10_Chapters/Prologo/What_I_Believed_Then.md.tmp.28772.5f4ade1db5ad",
+    "01_Timeline/Age_0_Dance_Of_Negentropy_And_Entropy.md.tmp.28772.6fe445e35bb0",
+    "10_Chapters/Prologo/The_Undoing_of_Finality.md.tmp.28772.4ad97db6a4ec",
+    "10_Chapters/Prologo/What_I_Believed_Then.md",
+    "INDEX.md.tmp.28772.3e3a8f855d13",
+    "10_Chapters/Prologo/What_He_Held.md",
+    "log.md.tmp.28772.eeca821d6c65",
+    "INDEX.md.tmp.28772.7dbb786e846d",
+    "10_Chapters/Prologo/The_Architecture_of_Endings.md.tmp.28772.64157d2211e0",
+    "10_Chapters/Prologo/The_Architecture_of_Endings.md.tmp.28772.1141f6641437",
+    "10_Chapters/Prologo/The_Pain_of_Stillness.md",
+    "10_Chapters/Prologo/The_Architecture_of_Endings.md.tmp.28772.b858e9e11656",
+    "10_Chapters/Prologo/The_Undoing_of_Finality.md.tmp.28772.69f56009edce",
+    "10_Chapters/Prologo/The_Undoing_of_Finality.md",
     "05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar.md",
-    "05_Dialogues/RenacimientosGuardianes/Gabriel_ElDespatar.md.tmp.39468.5d40cf836d29",
+    "05_Dialogues/RenacimientosGuardianes/Gabriel_ElDespatar.md",
     "05_Dialogues/RenacimientosGuardianes/Amir_ElDespatar.md",
-    "05_Dialogues/RenacimientosGuardianes/Gabriel_ElDespatar.md.tmp.39468.3e902a812f24",
     "05_Dialogues/RenacimientosGuardianes/Jin_ElDespatar.md",
-    "05_Dialogues/RenacimientosGuardianes/Amir_ElDespatar.md.tmp.39468.91edd2e779d4",
     "05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar.md",
-    "05_Dialogues/RenacimientosGuardianes/Jin_ElDespatar.md.tmp.39468.6e56f6a09cb8",
     "01_Timeline/Age_I_A_New_Darkness.md",
     "05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal.md",
-    "Log.md.tmp.9100.4b73a9cc5918",
-    "05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar.md.tmp.39468.8710e6f650f5",
     "05_Dialogues/RenacimientosGuardianes/Jaden_ElDespatar.md",
     "05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_VuelveACasa.md",
     "05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa.md",
     "05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_LasMemoriasHechasMateria.md",
-    "05_Dialogues/RenacimientosGuardianes/Jaden_ElDespatar.md.tmp.39468.5bd4b1289b5a",
-    "05_Dialogues/RenacimientosGuardianes",
     "01_Timeline/Raids/SpireOfStars.md",
     "01_Timeline/Raids/EaterOfWorlds.md",
     "01_Timeline/Raids/Leviathan.md",
@@ -281,11 +249,6 @@
     "05_Dialogues/Dialogue_Guardian/Guardian_PostKingsFall.md",
     "05_Dialogues/Dialogue_Elsie/Elsie_PostKingsFall.md",
     "06_Timeline_Archives/Lost_Guardians/El_Guardian_del_Orden.md",
-    "06_Timeline_Archives/Lost_Guardians/El_Guardian_de_la_Espada.md",
-    "05_Dialogues/Dialogue_Elsie/Elsie_VaultOfGlass_PrimeraVisita.md",
-    "06_Timeline_Archives/Lost_Guardians/El_Guardian_de_Neomuna.md",
-    "06_Timeline_Archives/Lost_Guardians/El_Guardian_de_la_Verdad.md",
-    "06_Timeline_Archives/Lost_Guardians/El_Guardian_del_Sacrificio.md",
     "99_Reference/2a9b3587-dbac-4d03-9600-9e7ae8de8fb5.png"
   ]
 }
