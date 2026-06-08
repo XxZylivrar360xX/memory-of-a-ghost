@@ -72,6 +72,48 @@ INDEX.md actualizado: nueva sección `# Chapter Development`.
 
 ---
 
+### Prólogo — escenas escritas (2026-06-07, continuación)
+
+Cuatro archivos de prosa creados en `10_Chapters/Prologo/`. Estado: **borrador**.
+
+| Archivo | Personajes | Era | Contenido |
+|---|---|---|---|
+| `The_Pain_of_Stillness.md` | Testigo · Nezarec | Fin Edad de Oro | El Testigo encarga a Nezarec asegurar el Velo en Neomuna. Nezarec acepta por razones propias. |
+| `The_Undoing_of_Finality.md` | Testigo · Savathûn | Horas antes del Colapso | El Testigo pide cooperación para el asedio. Savathûn aparenta colaborar — El Gambito ya está en marcha. |
+| `The_Architecture_of_Endings.md` | Testigo · Nezarec · Savathûn · Viajero · Velo | El Colapso | Caída de ciudades (Beijing → Tokio → Europa → Américas). Raíces del Velo rodeando al Viajero. Explosión. Destierro del Velo a Neptuno por Savathûn. Nacimiento de los Espectros. |
+| `Prologo_Genesis.md` | Ghost · Kyle | Era Oscura → Cosmódromo | Ghost narra siglos de búsqueda. Despertar de Kyle. Diálogo canónico. |
+
+**Decisiones de craft aplicadas:**
+- Testigo reescrito como convergencia colectiva (no individuo): voz omnidireccional, presencia como peso de civilización, certeza como consenso no como inteligencia singular.
+- "El primer espectro Prismático" eliminado de `The_Undoing_of_Finality` → sustituido por "Un fragmento capaz de escuchar ambas voces sin pertenecer completamente a ninguna" para preservar el momento de descubrimiento en Age XIV.
+- El Velo colocado junto al Viajero durante el asedio (no en Neptuno); destierro a Neptuno como acto deliberado de Savathûn post-explosión.
+- `Age_0_A_New_Darkness.md` renombrado a `Age_0_Dance_Of_Negentropy_And_Entropy.md`.
+
+---
+
+### Prólogo — quinta escena (2026-06-07, continuación)
+
+**`What_He_Held.md`** — quien era Kyle. El puente durante el Colapso.
+
+Escena en cinco fragmentos: la parada en el puente, el peso diferente de la esposa moribunda, el diálogo con la hija ("tengo miedo" / "descuida, pequeña, no temas, no pueden alcanzarnos"), el abrazo final, la oscuridad. Última línea: la voz de la niña preguntando "¿te volveré a ver?".
+
+**Decisiones de craft:**
+- Kyle aparece como "él" / "el hombre" — sin nombre todavía; es quien será, no quien es.
+- La mentira paterna ("no pueden alcanzarnos") definida explícitamente como el tipo de mentira que no pretende ser verdad sino que entrega algo que la verdad no puede dar.
+- El abrazo final descrito en contraste con los abrazos anteriores — este tiene que contener todos los que no van a ocurrir.
+- La pregunta de la niña como cierre abierto: sin respuesta, no porque no exista sino porque ya no hay nadie que pueda darla.
+- Coda explícita: "Siglos después, en Neomuna, una voz sin cuerpo haría la misma pregunta." — conecta sin explicar. El lector llega a la conclusión por deducción.
+
+**Conexión canon:**
+- `Kyle_ElDespatar.md`: Ghost encuentra al hombre sosteniendo a una mujer y una niña — esta escena explica cómo llegaron allí.
+- `Kyle_ElDespatar.md` (Lightfall): el Velo devuelve la voz "¿Te volveré a ver?" — esa voz tiene nombre ahora, aunque el lector todavía no lo sabe.
+
+INDEX.md actualizado: 5 escenas en borrador; `What_He_Held` añadido entre `The_Architecture_of_Endings` y `What_I_Believed_Then`.
+
+**Rename:** `Prologo_Genesis.md` → `What_I_Believed_Then.md`. Referencias actualizadas en INDEX.md, What_He_Held, The_Architecture_of_Endings, The_Undoing_of_Finality, Age_0_Dance_Of_Negentropy_And_Entropy. Título elegido porque espeja la última línea de la escena ("Eso lo creía entonces") y coloca a Ghost como narrador con ironía dramática: su fe en Kyle llegará a ser cuestionada por la propia saga.
+
+---
+
 ## Sesión 2026-06-06 (noche)
 
 ### Tema principal

@@ -143,6 +143,7 @@
 
 > Cronología narrativa estructurada por Edades — cada archivo cubre una era temática con sus capítulos, arcos activos y notas narrativas. Basada en *Memories of a Ghost* (Borradores de Cronología).
 
+- [[01_Timeline/Age_0_Dance_Of_Negentropy_And_Entropy]] — Fundamento cosmológico: la tensión original, Luz y Oscuridad, el Jardinero y el Segador
 - [[01_Timeline/Prologo]] — Pre-Guardián: tensión original, Edad de Oro, Colapso, Era Oscura
 - [[01_Timeline/Age_I_The_First_Shape]] — Vanilla, Dark Below, House of Wolves (caps. 1–3)
 - [[01_Timeline/Age_II_The_Taken_King]] — The Taken King (caps. 4–6) · **El Gambito comienza**
@@ -169,7 +170,12 @@
 
 > Capa de prosa narrativa. `01_Timeline/` es el cimiento (estructura, arcos, diálogos asignados); `10_Chapters/` es donde se escribe el texto real de los capítulos. Cada subcarpeta corresponde a una Age.
 
-- `10_Chapters/Prologo/` — Génesis pre-Guardian
+- `10_Chapters/Prologo/` — Génesis pre-Guardian · **5 escenas en borrador**
+  - [[10_Chapters/Prologo/The_Pain_of_Stillness]] — El Testigo y Nezarec: el Velo como llave (fin Edad de Oro)
+  - [[10_Chapters/Prologo/The_Undoing_of_Finality]] — El Testigo y Savathûn: El Gambito se pone en marcha (horas antes del Colapso)
+  - [[10_Chapters/Prologo/The_Architecture_of_Endings]] — El Colapso: caída de ciudades, el vínculo, la explosión, los Espectros
+  - [[10_Chapters/Prologo/What_He_Held]] — El Colapso: el puente, el abrazo final, "¿te volveré a ver?" — quien era Kyle antes
+  - [[10_Chapters/Prologo/What_I_Believed_Then]] — Ghost narra: de la Edad de Oro al despertar de Kyle
 - `10_Chapters/Age_I/` — Caps 1–3 (A New Shape · Bane of Hope · The Queen's Paragon)
 - `10_Chapters/Age_II/` — Caps 4–6 (Price of Vengeance · The Kingslayer · The Rightful Pretender)
 - `10_Chapters/Age_III/` — Caps 7–9 (The Plaguelands Awakening · The Sorrow of Memory · The Purge of the Replication)
