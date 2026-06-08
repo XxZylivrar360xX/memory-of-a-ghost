@@ -52,13 +52,11 @@ El Viajero y el Velo.
 
 Dos mitades de un sistema que no debían existir separadas. El Viajero: posibilidad proyectada, el principio de que algo nuevo podía emerger, la fuerza que había impulsado a la humanidad a los planetas y que ahora orbitaba la Tierra como el eje alrededor del cual la civilización más prometedora del universo había construido su mejor versión de sí misma.
 
-El Velo: lo opuesto y lo complementario. No posibilidad sino conexión. No creación sino memoria. El registro de todo lo que había sido, sostenido en una estructura paracausal que el Traveler y el Velo compartían como dos cámaras del mismo órgano.
+El Velo: lo opuesto y lo complementario. No posibilidad sino conexión. No creación sino memoria. El registro de todo lo que había sido — dos cámaras del mismo órgano que llevaban eones sin reconocerse.
 
-Separados, el Viajero podía resistir. La resistencia era dolorosa, costosa, pero posible — un organismo podía sobrevivir sin una de sus cámaras si las condiciones lo requerían. Lo había hecho antes. Lo volvería a hacer si era necesario.
+Separados, el Viajero podía resistir. Unidos, producían lo que el Testigo necesitaba con la precisión de quien lleva eones calculando exactamente eso.
 
-Unidos, la resistencia desaparecía.
-
-No porque el Velo neutralizara al Viajero. Sino porque la unión creaba algo que el Testigo necesitaba: un canal. Una apertura paracausal entre la conciencia del Testigo y la estructura interna del Viajero. No fuerza bruta. Acceso.
+Un canal. No fuerza bruta. Acceso.
 
 — Una puerta — dijo Nezarec.
 

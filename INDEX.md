@@ -129,6 +129,7 @@
 - [[04_Concepts/Language]]
 - [[04_Concepts/Coexistence]]
 - [[04_Concepts/Hope]]
+- [[04_Concepts/Consequences]] — la tinta: cada arco debe costar algo claro, personal e irreversible; los costos por personaje y la diferencia entre pérdida y derrota
 - [[04_Concepts/Grief]]
 - [[04_Concepts/Fear]]
 - [[04_Concepts/Vulnerability]]
@@ -177,6 +178,9 @@
   - [[10_Chapters/Prologo/What_He_Held]] — El Colapso: el puente, el abrazo final, "¿te volveré a ver?" — quien era Kyle antes
   - [[10_Chapters/Prologo/What_I_Believed_Then]] — Ghost narra: de la Edad de Oro al despertar de Kyle
 - `10_Chapters/Age_I/` — Caps 1–3 (A New Shape · Bane of Hope · The Queen's Paragon)
+  - [[10_Chapters/Age_I/Cap_01_A_New_Shape]] — El Jardín Negro: costo personal, Rasputin abre un archivo, Cayde/Shaxx/Uldren, Eris llega
+  - [[10_Chapters/Age_I/Cap_02_Bane_of_Hope]] — Eris, la guerra contra Crota, la Cripta completa, Oryx recibe la noticia
+  - [[10_Chapters/Age_I/Cap_03_The_Queens_Paragon]] — House of Wolves: Mara Sov, la Prisión de los Mayores, la primera decisión filosófica de Kyle (Skolas vivo)
 - `10_Chapters/Age_II/` — Caps 4–6 (Price of Vengeance · The Kingslayer · The Rightful Pretender)
 - `10_Chapters/Age_III/` — Caps 7–9 (The Plaguelands Awakening · The Sorrow of Memory · The Purge of the Replication)
 - `10_Chapters/Age_IV/` — Cap 10 (Age of Triumph)

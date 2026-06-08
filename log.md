@@ -4,6 +4,121 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-08
+
+### Cap 03 — The Queen's Paragon (tercer capítulo de Age I)
+
+`10_Chapters/Age_I/Cap_03_The_Queens_Paragon.md` — estado: **borrador**.
+
+Ocho secciones cubriendo House of Wolves / Prison of Elders.
+
+| Sección | Contenido |
+|---|---|
+| I. La Reina | El mensaje que no era orden ni invitación. Uldren como evaluador. Ghost esperando afuera. |
+| II. Mara Sov | La sala diseñada para contar tableros. La alianza en sus términos. "Neutraliza" como palabra que deja la decisión en Kyle. |
+| III. Lo que los Lobos eran | Los archivos de Uldren. La historia Eliksni. El Colapso siguió al Viajero desde ellos hasta nosotros. El mapa de Kyle tiene una grieta. |
+| IV. La cacería | Kyle, Angie, Joe — escuadra de tres. Joe como eje fijo. Angie sosteniendo el calor sin Kevin/Resner/Tiago. |
+| V. La Prisión de los Mayores | Cuatro especies, cuatro lógicas. La versatilidad como confiar en el equipo que cubre lo que tú no puedes. Skolas no estaba en el briefing. |
+| VI. La decisión | Kyle no mata a Skolas. No compasión — comprensión de que la justicia no es eficiencia. Primera articulación filosófica, sin declaración, solo acción. Joe observa. Angie reconoce. Ghost en silencio. |
+| VII. La Reina, de vuelta | Mara recibe a Skolas sabiendo cómo llegó. El título cambia de función a evaluación. Uldren: "La Reina lo notó." |
+| VIII. El regreso | El peso de la decisión todavía en el cuerpo. Ghost calculando. La semilla de Forsaken plantada: "esa decisión ya no está disponible de la misma forma." |
+
+**Beats de personaje:**
+- Mara Sov construida desde cero (archivo vacío). Presente como fuerza política cósmica sin explicarse — el espacio hace el trabajo.
+- Uldren: tres apariciones con función distinta en cada una. El reconocimiento forzado deepens from Cap 01.
+- Eliksni como espejo de la humanidad: el mismo abandono, distinto resultado. Base filosófica de la decisión Skolas.
+- Joe: el eje. La permanencia como valor.
+- Angie: sosteniendo al equipo como personas cuando faltan tres de sus cinco.
+- Ghost: registrando sin hablar.
+
+**Foreshadowing:**
+- Forsaken: última línea del capítulo menciona explícitamente que la decisión no estará disponible de la misma forma cuando Uldren esté en la mira sin testigos.
+
+INDEX.md y log.md actualizados.
+
+---
+
+### Consequences — concepto fundacional
+
+`04_Concepts/Consequences.md` — creado. El usuario lo definió como **"la tinta con la que escribimos nuestra historia."**
+
+Propósito: garantizar que cada arco narrativo tenga un costo claro, personal e irreversible — no solo para el universo, sino para las personas que lo atraviesan.
+
+| Personaje | Pérdida fundamental | Cómo termina |
+|---|---|---|
+| Kyle | La inocencia — la certeza de que la Luz es suficiente | En paz, con las marcas, no a pesar de ellas |
+| Ghost | La fe sin fisuras — encontrar a Kyle era el principio del trabajo, no el final | Transformado; algo propio, no solo fragmento del Viajero |
+| Cayde | No muere heroicamente — muere injustamente | Muere el único que veía a Kyle como hombre, no como símbolo |
+| Elsie | El descanso — carga el peso de todas las iteraciones fallidas | Quiere que esta sea la última vez |
+
+**Regla estructural inscrita:** Cada victoria debe costar algo que no se recupera. La diferencia entre pérdida y derrota: los personajes no son derrotados, pero llegan al final diferentes de como empezaron.
+
+Registrado también en memoria del agente (`project-consequences-principle.md`). INDEX.md actualizado.
+
+---
+
+## Sesión 2026-06-07 (continuación 2)
+
+### Cap 02 — Bane of Hope (segundo capítulo de Age I)
+
+`10_Chapters/Age_I/Cap_02_Bane_of_Hope.md` — estado: **borrador**.
+
+Cinco secciones + seis subsecciones de la raid.
+
+| Sección | Contenido |
+|---|---|
+| I. Eris Morn | Primera conversación real. Lo que ve en Kyle. El framing de Crota como mecánica, no como aliento |
+| II. La guerra | Compressed: la campaña Dark Below. Personalidades de la escuadra establecidas en campo. "Oryx va a saber" sembrado por Tiago antes de la raid |
+| III. La Cripta | Las seis secciones de CrotasEnd.md en prosa: lámparas, puente, corredor, Cantora, Crota, salida |
+| IV. El regreso | La Ciudad celebra. Kyle no sabe qué hacer con la celebración. Angie lo encuentra en la plataforma — "Seis." |
+| V. La pregunta que ya viajaba | Oryx recibe la ausencia de Crota. Abre el Libro. El nombre todavía no lo tiene pero la pregunta ya viaja |
+
+**Beats de la escuadra (consistente con Primera_Escuadra.md):**
+- Kevin: cuenta cinco en la oscuridad, pánico; Angie lo resuelve con "Kevin"; Resner ríe; Kevin guarda el momento
+- Resner: la carcajada inesperada del disciplinado; sostiene el flanco de la Cantora sin moverse
+- Joe: la mirada sin explicación en el puente = confianza ofrecida sin condiciones; silencio como instrucción
+- Tiago: "Oryx va a saber" como dato, no advertencia
+- Angie: "Seis" al final — el cierre emocional del capítulo
+- Ghost: ya calculando las implicaciones de Tiago pero no las dice todavía
+
+**Decisiones de craft:**
+- El frío de la espada de Crota: físico, no metafórico. Conecta con Touch of Malice en King's Fall.
+- Eris no da aliento — da mecánica. La diferencia establece quién es ella.
+- La celebración de la Ciudad es real y Kyle no puede habitarla. Angie no lo fuerza a habitarla.
+- Oryx sin POV explícito — solo la ausencia de Crota como información recibida. La pregunta viaja sin que Kyle lo sepa.
+
+---
+
+## Sesión 2026-06-07 (continuación)
+
+### Cap 01 — A New Shape (primer capítulo de Age I)
+
+`10_Chapters/Age_I/Cap_01_A_New_Shape.md` — estado: **borrador**.
+
+Siete secciones. El Jardín Negro como evento central del capítulo, no como misión de juego sino como acto que el universo registra.
+
+| Sección | Contenido |
+|---|---|
+| I. Antes | Mensaje sin firma de Elsie — demasiados detalles específicos para ser táctica |
+| II. El Jardín Negro | Kyle entra casi solo. La presencia. El reconocimiento mutuo que no debería ser posible |
+| III. El Mente Jardín | La destrucción del anclaje. El Viajero pulsa. Crota se mueve |
+| IV. Lo que Rasputin Registró | Dos segundos de silencio en el canal — Kyle siente ser medido sin identificación |
+| V. El Regreso | Cayde (humor → momento real), Shaxx (los tres grados, el ángulo hacia adentro), Uldren (el pasillo, la recalibración forzada) |
+| VI. La Anomalía | Elsie ve en Kyle algo que no había registrado antes. Lo archiva. Referencia al VoG pendiente |
+| VII. Lo que Llegó Buscándolo | Eris llega a la Ciudad. Crota no dormía — estaba contenido. El sello roto |
+
+**Decisiones de craft:**
+- Kyle entra casi solo: más personas ≠ más seguridad en ese espacio.
+- La marca del Jardín es física y oblicua: Shaxx nota el ángulo de tres grados, no Kyle.
+- Rasputin nunca se identifica — solo la sensación de ser medido.
+- La mentira de Elsie ("he leído muchos informes") definida explícitamente como mentira que ocupa el espacio de una verdad no disponible.
+- Eris no explica cómo sobrevivió — eso viene después. Solo entrega lo urgente.
+- El eco que el Jardín transmitió a Kyle en su último momento: insinuado, sin explicar. El lector con contexto del Gambito entiende.
+
+INDEX.md y log.md actualizados.
+
+---
+
 ## Sesión 2026-06-07
 
 ### Tema principal

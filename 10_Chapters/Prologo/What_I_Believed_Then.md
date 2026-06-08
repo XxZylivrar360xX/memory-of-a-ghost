@@ -220,9 +220,8 @@ Vi esos mismos pueblos arder una semana después.
 
 ---
 
-Vi Guardianes usar la Luz para proteger.
-
-Y vi Guardianes usarla para dominar.
+Vi a un Guardian mantener vivo un pueblo durante un invierno entero sin pedir nada.
+Vi a otro Guardian cuyo nombre era suficiente para vaciar un camino.
 
 ---
 

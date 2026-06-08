@@ -10,7 +10,7 @@ characters: [Kyle — antes de ser Guardian]
 
 # What He Held
 
-*En algún lugar de la Tierra, durante el Colapso.*
+*El Cosmódromo. Durante el Colapso.*
 
 *Antes de que fuera un Guardian.*
 
@@ -22,9 +22,11 @@ Se detuvo en medio del puente.
 
 No porque hubiera decidido detenerse. Sino porque las piernas llegaron a ese punto y simplemente no continuaron, como si alguna parte de él que no era exactamente voluntad hubiera calculado que seguir adelante y quedarse quieto eran la misma cosa y hubiera elegido la que le permitía sostenerlas a las dos al mismo tiempo.
 
+Al fondo, las torres de lanzamiento seguían en pie contra el cielo oscuro. No porque algo las hubiera protegido. Sino porque lo que había llegado todavía no había necesitado mirarlas.
+
 El puente temblaba.
 
-No por el peso de los que huían — ya no quedaban suficientes para hacer temblar un puente. Temblaba porque la ciudad temblaba, porque la tierra temblaba, porque algo en el orden de las cosas que hacían que los puentes estuvieran quietos había dejado de aplicarse.
+No por el peso de los que huían — ya no quedaban suficientes para hacer temblar un puente. Temblaba de todas formas.
 
 Él las sostuvo.
 

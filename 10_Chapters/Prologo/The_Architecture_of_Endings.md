@@ -154,11 +154,11 @@ No en algún punto remoto del sistema solar — aquí, en la misma órbita, tra�
 
 El Velo lo reconoció antes de que el Testigo lo ordenara.
 
-Sus raíces — estructuras paracausales sin equivalente en ninguna geometría que la humanidad hubiera desarrollado para describir lo que no tiene forma física pero que ocupa espacio de todas formas — comenzaron a extenderse. Despacio al principio. Con la lentitud específica de algo que lleva tanto tiempo separado de lo que busca que en el momento de encontrarlo no sabe si creer que es real. Luego más rápido. Con la urgencia irrefrenable de dos sistemas que comparten arquitectura y que, al entrar en proximidad, simplemente se cierran el uno sobre el otro porque eso es lo que hacen.
+Sus raíces comenzaron a extenderse. Despacio al principio. Con la lentitud específica de algo que lleva tanto tiempo separado de lo que busca que en el momento de encontrarlo no sabe si creer que es real. Luego más rápido. Con la urgencia irrefrenable de dos sistemas que comparten arquitectura y que, al entrar en proximidad, simplemente se cierran el uno sobre el otro porque eso es lo que hacen.
 
 Las raíces rodearon el Viajero.
 
-No como abrazo. Como conexión forzada. Como la reconexión de algo que debería ser una sola cámara y que lleva eones siendo dos.
+No como abrazo. Como conexión forzada.
 
 Lo que el Testigo era lo recibió como confirmación — no el alivio de una duda resuelta sino la verificación de lo que ya sabían todos. Cada mente que alguna vez había formado parte de esa convergencia había llegado a este resultado por separado, desde un ángulo distinto, con los datos disponibles en su momento. Todas habían encontrado el mismo lugar. La certeza no era de una mente inteligente. Era el consenso de suficientes mentes distintas que habían calculado lo mismo sin coordinarse — y que por eso ya no necesitaban coordinarse nunca más.
 
