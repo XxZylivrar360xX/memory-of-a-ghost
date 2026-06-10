@@ -4,6 +4,49 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-09
+
+### Cap 01 — consolidación final + nuevas secciones
+
+**Archivos modificados:** `10_Chapters/Age_I/Cap_01_A_New_Shape.md`
+
+**Nueva sección XV — "Las Semanas Entre"** insertada entre la antigua XIV y XV. Condensa en prosa de capítulo las tres escenas de construcción de curiosidad (El Informe Innecesario, La Pregunta que No Era del Informe, El Acumulado) que justifican por qué Kyle quiere compartir la Mythoclast con Elsie. Las secciones siguientes renumeradas: XV→XVI, XVI→XVII, XVII→XVIII.
+
+**Corrección de consistencia — El Acumulado:** el escenario original (sector forestal, construcción de cabaña) era incorrecto — la cabaña se construye post-Vault. Corregido a sector industrial / instalación del módulo de Sparrow que dejó Amanda. La textura "manos ocupadas, mente suelta" se preserva, el setting es canónicamente correcto.
+
+**Tesis resaltada:** La frase *"La confianza no siempre llega con razones. A veces llega antes."* promovida a blockquote en sección XVI (Joe / entrada al Vault). Marcada como tesis central de Kyle.
+
+**Nota de desarrollo añadida al final del capítulo:** documenta el patrón de confianza de Año 1 y las dos grietas necesarias — Mara (malinterpretación inteligente) y el Guardian Sin Nombre (traición desde adentro).
+
+---
+
+### Seis archivos de diálogo — corrección de setting
+
+`05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_AntesDelVault_ElAcumulado.md` y `05_Dialogues/Dialogue_Elsie/Elsie_Guardian_AntesDelVault_ElAcumulado.md` — ambos reescritos con el nuevo setting (sector industrial, Sparrow, módulo de Amanda). Beats emocionales preservados: "No sé por qué te estoy contando todo esto" / "Sí lo sabes" / Ghost: "¿Bien?" distinto esta vez.
+
+---
+
+### Personajes nuevos — Mara Sov y Vale
+
+**`02_Characters/Mara_Sov.md`** — creado (archivo estaba vacío). Construido a partir de Cap_03. Núcleo: relación transaccional con Kyle, lee el patrón no la persona, predice comportamientos pero no puede predecir la elección individual. Su "Paragon" es clasificación, no elogio. Incluye tabla de arco, filosofía de Luz como instrumento, y nota de desarrollo sobre el futuro quiebre.
+
+**`02_Characters/El_Guardian_Sin_Nombre.md`** — creado como semilla estructural, luego reescrito con fundamento filosófico completo bajo el nombre de trabajo "Vale". Núcleo: no un traidor corrupto sino alguien que empezó con una pregunta casi idéntica a la de Kyle. La bifurcación clave:
+- Kyle: *¿Cómo estudiamos esto sin convertirnos en ello?*
+- Vale: *¿Cómo esperamos sobrevivir si nunca lo estudiamos?*
+
+La corrupción es deriva, no caída. Elsie no reconoce el nombre de ninguna línea temporal — señal de alarma. Nombre final pendiente.
+
+**INDEX.md** actualizado con ambos personajes en sección nueva: "Personajes de arco específico — traición y transacción".
+
+---
+
+**Pendiente para próxima sesión:**
+- Continuar desarrollo de Cap_02 (Bane of Hope)
+- Determinar cuándo y cómo entra Vale en el círculo de Kyle (¿post-Crota? ¿durante House of Wolves?)
+- Nombre final para Vale
+
+---
+
 ## Sesión 2026-06-08
 
 ### Cap 03 — The Queen's Paragon (tercer capítulo de Age I)

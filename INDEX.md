@@ -8,6 +8,8 @@
 
 # Core Foundation
 
+- [[00_Biblia/La_Pregunta_Central]] — **motor narrativo de los 55 capítulos:** qué hace alguien con la vida que le devolvieron sin recuerdos; los tres actos de la búsqueda; el Testigo como antagonista de esta pregunta
+- [[00_Biblia/Los_Errores_De_Kyle]] — los seis errores humanos de Kyle, las tres condiciones, el error central de la saga, y el mapa de quiebres por capítulo
 - [[00_Biblia/Vision]]
 - [[00_Biblia/Themes]]
 - [[00_Biblia/Cosmic_Rules]]
@@ -81,6 +83,10 @@
 - [[02_Characters/Resner]] — Titán Awoken
 - [[02_Characters/Tiago]] — Hechicero Exo (Tiago-13)
 - [[02_Characters/Joe]] — Titán Humano
+
+*Personajes de arco específico — traición y transacción*
+- [[02_Characters/Mara_Sov]] — La Reina del Arrecife; relación transaccional con Kyle; lee el patrón, no la persona; ver Cap_03
+- [[02_Characters/El_Guardian_Sin_Nombre]] — **semilla de traición; nombre pendiente;** Elsie no lo reconoce de ninguna línea temporal; agente Dredgen
 
 *El núcleo permanente — segunda escuadra*
 - [[02_Characters/Jaden]] — Titán Exo; el filo; Espectro: [[02_Characters/Sky]]
@@ -242,7 +248,13 @@
 
 *El arco de Kyle — quien cambia, elige, o se revela aquí es el Guardian.*
 
+### Kyle & Elsie — construcción de curiosidad (Post-Jardín Negro, pre-Vault)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostGarden_ElInformeInnecesario]] — Kyle habla más de lo que planeó porque nadie lo detiene; el espacio abierto como invitación
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostGarden_LaPreguntaQueNoEraDelInforme]] — intercambio escrito; Elsie añade una pregunta sin terminar de decidir; Kyle responde sin calcular el límite
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_AntesDelVault_ElAcumulado]] — en persona en el claro; Kyle habla de todo sin notarlo; "sí lo sabes"
+
 ### La escuadra — Vault of Glass
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_LaEntrada]] — "An Invite to Destiny": la patrulla ordinaria, las tres placas, Joe y la puerta que esperaba
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_VaultOfGlass_LaCabana]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDelLaberinto]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDeAtheon]]
@@ -341,6 +353,11 @@
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_03_Resner]] — "yo también lo he hecho"
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_04_Tiago]] — ceder información cargada sola por siglos
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_05_Joe]] — responder qué significó la última mirada
+
+### Elsie — construcción de curiosidad (Post-Jardín Negro, pre-Vault)
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_ElInformeInnecesario]] — el espacio en blanco en sus notas; el encabezado sin nombre que abre
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_LaPreguntaQueNoEraDelInforme]] — escribe la segunda pregunta antes de analizar si debe; archiva bajo un encabezado sin nombre
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_AntesDelVault_ElAcumulado]] — reconoce la sensación de compañía y sabe lo que implica reconocerla
 
 ### Perspectivas propias
 - [[05_Dialogues/Dialogue_Elsie/Elsie_VaultOfGlass_PrimeraVisita]] — el sistema de clasificación de Elsie fallando en tiempo real; la cabaña; el nombre que da antes de decidirlo; abre el bucle que cierra El_Ultimo_Guardian_ElNombre

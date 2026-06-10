@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal.md",
+                "file": "10_Chapters/Age_I/Cap_01_A_New_Shape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elsie_FinalShape_AntesDelFinal"
-            }
-          },
-          {
-            "id": "da45260f4887d17d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Chapters/Age_I/Cap_03_The_Queens_Paragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cap_03_The_Queens_Paragon"
+              "title": "Cap_01_A_New_Shape"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,24 +198,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "da45260f4887d17d",
+  "active": "9537afaaae01db03",
   "lastOpenFiles": [
-    "INDEX.md.tmp.28772.248bffdfeb7d",
-    "04_Concepts/Consequences.md",
-    "04_Concepts/Consequences.md.tmp.28772.b9c7e1f176ab",
-    "10_Chapters/Age_I/Cap_02_Bane_of_Hope.md",
-    "log.md.tmp.28772.d64078dffeb8",
-    "10_Chapters/Age_I/Cap_03_The_Queens_Paragon.md.tmp.28772.8630e1ff75ac",
+    "log.md.tmp.30976.4c7e95281de0",
+    "INDEX.md.tmp.30976.86c825dc7a39",
+    "02_Characters/El_Guardian_Sin_Nombre.md",
+    "02_Characters/El_Guardian_Sin_Nombre.md.tmp.30976.2b107d909e9e",
+    "02_Characters/Mara_Sov.md.tmp.30976.e938eace0ffe",
+    "10_Chapters/Age_I/Cap_01_A_New_Shape.md.tmp.30976.654f842371ab",
+    "10_Chapters/Age_I/Cap_01_A_New_Shape.md.tmp.30976.9bedc493cbb1",
+    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_AntesDelVault_ElAcumulado.md",
+    "10_Chapters/Age_I/Cap_01_A_New_Shape.md.tmp.30976.351ff26589dc",
+    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostGarden_ElInformeInnecesario.md",
+    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostGarden_LaPreguntaQueNoEraDelInforme.md",
+    "05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal.md",
+    "05_Dialogues/Dialogue_Elsie/Elsie_Guardian_AntesDelVault_ElAcumulado.md",
+    "05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_LaPreguntaQueNoEraDelInforme.md",
+    "05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_ElInformeInnecesario.md",
     "10_Chapters/Age_I/Cap_01_A_New_Shape.md",
+    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_AntesDelVault_ElAcumulado.md.tmp.30976.9768457d1452",
+    "05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_LaPreguntaQueNoEraDelInforme.md.tmp.30976.3332842368a6",
+    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostGarden_LaPreguntaQueNoEraDelInforme.md.tmp.30976.f8060ecc2638",
+    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostGarden_ElInformeInnecesario.md.tmp.30976.ab82c257291d",
+    "05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_LaEntrada.md",
+    "00_Biblia/Los_Errores_De_Kyle.md",
+    "00_Biblia/La_Pregunta_Central.md",
+    "10_Chapters/Age_I/Cap_03_The_Queens_Paragon.md",
+    "04_Concepts/Consequences.md",
+    "10_Chapters/Age_I/Cap_02_Bane_of_Hope.md",
     "10_Chapters/Prologo/What_He_Held.md",
-    "10_Chapters/Age_I/Cap_01_A_New_Shape.md.tmp.28772.70d7ec3e39c4",
-    "log.md.tmp.28772.c0377fa5a050",
-    "10_Chapters/Prologo/What_He_Held.md.tmp.28772.6e45bd6b864f",
-    "10_Chapters/Prologo/The_Architecture_of_Endings.md.tmp.28772.3ce57f1816bf",
-    "10_Chapters/Prologo/The_Pain_of_Stillness.md.tmp.28772.f6fe810c27ed",
     "10_Chapters/Prologo/The_Architecture_of_Endings.md",
-    "10_Chapters/Prologo/What_I_Believed_Then.md.tmp.28772.5f4ade1db5ad",
-    "01_Timeline/Age_0_Dance_Of_Negentropy_And_Entropy.md.tmp.28772.6fe445e35bb0",
     "10_Chapters/Prologo/What_I_Believed_Then.md",
     "10_Chapters/Prologo/The_Pain_of_Stillness.md",
     "10_Chapters/Prologo/The_Undoing_of_Finality.md",
@@ -238,18 +236,6 @@
     "05_Dialogues/RenacimientosGuardianes/Amir_ElDespatar.md",
     "05_Dialogues/RenacimientosGuardianes/Jin_ElDespatar.md",
     "05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar.md",
-    "01_Timeline/Age_I_A_New_Darkness.md",
-    "05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal.md",
-    "05_Dialogues/RenacimientosGuardianes/Jaden_ElDespatar.md",
-    "05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_VuelveACasa.md",
-    "05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa.md",
-    "05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_LasMemoriasHechasMateria.md",
-    "01_Timeline/Raids/SpireOfStars.md",
-    "01_Timeline/Raids/EaterOfWorlds.md",
-    "01_Timeline/Raids/Leviathan.md",
-    "05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal.md",
-    "08_Core_Relationships/Guardian_Elsie_Bray.md",
-    "05_Dialogues/Dialogue_Guardian/Guardian_UltimoGuardian_ElNombre.md",
     "99_Reference/2a9b3587-dbac-4d03-9600-9e7ae8de8fb5.png"
   ]
 }
