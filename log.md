@@ -4,6 +4,38 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-11
+
+### El Epílogo, el Winnower, la Estrella Polar y la Música
+
+Una sesión de apertura hacia el final de la saga. Cuatro archivos nuevos, dos modificados.
+
+---
+
+**CREADOS:**
+
+**`10_Chapters/Epilogo/The_Last_Shape.md`** — Capítulo 56, epílogo de toda la saga. *Años Después...* Kyle corta leña. El estante de la izquierda vacío — la Estrella Polar va con él en el bolsillo. La cicatriz del brazo izquierdo todavía ahí, décadas después. Los memoriales. Las dos lápidas detrás del árbol. El Winnower aparece junto al memorial con la forma del hombre que murió en el Cosmódromo — el primero, antes de todo. La conversación: "Te dije que no te abandonaría." / "¿Ella también? — Sí." / Kyle completo, no vacío. Final: "La mañana continuó." + flor blanca en la copa del árbol. Contrapunto directo de Cap_01_A_New_Shape.
+
+**`04_Concepts/La_Estrella_Polar.md`** — Concepto de orientación, no de amor romántico. La estrella que no se mueve mientras el resto del cielo rota. Recorrido del objeto en la saga: el nombre en el umbral → la taza del Último Guardián → el bolsillo de la camisa → el final. El estante vacío dice lo mismo que cualquier palabra: se fue con él.
+
+**`05_Dialogues/Dialogue_Guardian/Guardian_Ghost_PostRedWar_Io_LaMusica.md`** — Kyle investiga nodos del Estratega en Io emitiendo música pre-Colapso. Primera experiencia con música sin nostalgia ni referencia cultural — solo el fenómeno. "El sonido no pedía ser catalogado — pedía ser recibido." "¿Listo? — No." Al salir: "Que tenía razón." Conecta hacia adelante: décadas después, en la cabaña con Elsie, habrá música; Kyle ya sabrá qué hacer con ella.
+
+**`05_Dialogues/Dialogue_Guardian/Guardian_Lodi_PostGambito_EDZ_LaVoz.md`** — Un año post-Gambito. Kyle investiga la profecía incompleta de III usando a Lodi como intermediario. El canal se abre y Lodi toma tres posturas diferentes en tres segundos, como si se reajustara una marioneta en la mano. Escudos a cero. El Winnower habla — diálogo canónico respetado íntegramente. "No te abandonaré" archivado sin categoría. Lodi, al recuperar el canal: "Eso no eran los Nueve... pero te conocía. *Muy* bien. No sé qué era eso." Lugar elegido con precisión: el fragmento del Viajero donde Kyle recuperó la Luz.
+
+---
+
+**MODIFICADOS:**
+
+**`05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostRedWar_LasCicatrices.md`** — Elsie es quien sutura (no Kyle suturándose solo). Misión ajustada: búnker del Estratega en Io (no Biblioteca Ishtar). Añadido: "¿Qué es música contemporánea?" / "Eso tendrás que descubrirlo por tu cuenta. No lo puedo explicar con palabras." — semilla directa de LaMusica. La cicatriz del brazo izquierdo que aparece en The_Last_Shape décadas después es el nudo de esta escena.
+
+**`06_Timeline_Archives/Personal_Memories/The_Last_Reset.md`** — Nota narrativa ampliada con lectura retroactiva: el Winnower pregunta "¿quién gana la partida?" sabiendo ya la respuesta — días antes, Elsie visitó a Kyle sin saber que era su futuro, y el tablero ya estaba resuelto. Ella estuvo ahí. No lo supo. Quien pregunta ya conoce la respuesta.
+
+---
+
+**Decisión narrativa central de la sesión:** la Estrella Polar no queda en el estante como legado — se va con Kyle. El estante vacío al inicio del epílogo confirma en silencio que fue así.
+
+---
+
 ## Sesión 2026-06-09
 
 ### Cap 01 — consolidación final + nuevas secciones

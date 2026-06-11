@@ -147,5 +147,6 @@ Como algo que todavía no tenía nombre pero que, de alguna forma, ya sabía que
 
 ---
 
-*Conecta con: [[00_Biblia/Elsie_ElMapaYLaPregunta]], [[02_Characters/Elsie]], [[06_Timeline_Archives/Personal_Memories/The_First_Reset]]*  
-*Nota narrativa: La Voz no se identifica y no regresa. Esta escena no necesita explicar qué es ni de dónde viene. El reinicio falla sin explicación mecánica — lo que importa es la ausencia de lo que siempre había estado ahí. The_First_Reset existe como contrapunto: lo que sintió la primera vez que funcionó.*
+*Conecta con: [[00_Biblia/Elsie_ElMapaYLaPregunta]], [[02_Characters/Elsie]], [[06_Timeline_Archives/Personal_Memories/The_First_Reset]], [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian]], [[10_Chapters/Epilogo/The_Last_Shape]]*
+
+*Nota narrativa: La Voz no se identifica y no regresa. Esta escena no necesita explicar qué es ni de dónde viene. El reinicio falla sin explicación mecánica — lo que importa es la ausencia de lo que siempre había estado ahí. The_First_Reset existe como contrapunto: lo que sintió la primera vez que funcionó. La pregunta '¿quién gana la partida?' llega cargada de algo que Elsie no puede ver todavía: quien pregunta ya conoce la respuesta. El tablero no tiene más movimientos porque el movimiento necesario ya ocurrió — en una cabaña, días antes, con una taza de té y una estrella en el fondo. Elsie estuvo ahí. No lo supo.*

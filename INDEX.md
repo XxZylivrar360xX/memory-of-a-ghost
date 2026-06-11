@@ -143,6 +143,7 @@
 - [[04_Concepts/Legacy]]
 - [[04_Concepts/Trust]]
 - [[04_Concepts/Loyalty]]
+- [[04_Concepts/La_Estrella_Polar]] — el norte que Kyle encontró; no el más brillante sino el que no se mueve; lo que Elsie representa para alguien que empezó sin saber dónde estaba el norte; del estante al bolsillo al final
 
 ---
 
@@ -204,6 +205,8 @@
 - `10_Chapters/Age_XVI/` — Caps 45–47 (Echoes I–III)
 - `10_Chapters/Age_XVII/` — Caps 48–50 (Revenant I–III)
 - `10_Chapters/Age_XVIII/` — Caps 51–55 (Heresy I–IV · El Gambito Concluye)
+- `10_Chapters/Epilogo/` — Cap 56 · *Años Después...*
+  - [[10_Chapters/Epilogo/The_Last_Shape]] — el hacha, la cicatriz, la Estrella Polar en el bolsillo; el Winnower como el hombre que murió en el Cosmódromo; "¿Ella también? — Sí."; flor blanca en la copa del árbol; contrapunto de [[10_Chapters/Age_I/Cap_01_A_New_Shape]]
 
 ---
 
@@ -301,7 +304,8 @@
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_RedWar_LaCaida]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Elsie_RedWar_LaAlborada]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_RedWar_PreGhaul]]
-- [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostRedWar_LasCicatrices]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostRedWar_LasCicatrices]] — Elsie sutura la herida; el kit de campo; la cicatriz como elección; misión al búnker del Estratega en Io; "Eso tendrás que descubrirlo por tu cuenta"
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_PostRedWar_Io_LaMusica]] — primera experiencia con música; grabaciones pre-Colapso del Estratega; "el sonido no pedía ser catalogado"; "¿Listo? — No."; "Que tenía razón"
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostCurseOfOsiris]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostWarmind]]
 
@@ -332,6 +336,9 @@
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Temporadas_Crow]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Temporadas_Caiatl]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Temporadas_Mithrax]]
+
+### Post-Gambito — La Voz
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Lodi_PostGambito_EDZ_LaVoz]] — el Winnower usa el canal de Lodi; escudos a cero sin daño; diálogo canónico en el fragmento donde Kyle recuperó su Luz; "No te abandonaré" archivado sin categoría; Lodi: "No sé qué era eso"
 
 ### Final Shape — perspectiva de Kyle
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Crow_FinalShape_AntesDelUmbral]] — Crow y Kyle antes de la batalla; el portal abriéndose al fondo
