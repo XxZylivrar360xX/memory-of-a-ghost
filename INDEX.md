@@ -244,6 +244,7 @@
 > - **Dialogue_Guardian/** — la escena existe para revelar algo de Kyle.
 > - **Dialogue_Elsie/** — la escena existe para revelar algo de Elsie.
 > - **Dialogue_Guardian_Elsie/** — la escena existe para desarrollar la *relación*, que es prácticamente un tercer personaje de la saga.
+> - **Dialogue_Ghost/** — la escena existe para revelar algo de Ghost (y de la segunda escuadra). Su cierre es el protagonista aquí.
 
 ---
 
@@ -348,6 +349,12 @@
 - [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal]] — Cayde, Ghost, Crow; Kyle dice "te amo" sereno; la familia que construyó; entra no estando solo
 - [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_LasMemoriasHechasMateria]] — el umbral interior del Pale Heart; cada memoria hecha material; la Leyenda vs. el hombre; "vuelve a casa" eclipsa todo
 
+### Post-Gambito — El cierre de Ghost (perspectiva de Kyle)
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_PostGambito_LaUltimaResurreccion]] — el sacrificio desde Kyle; el "No" antes de oír nada; el silencio con bordes; la retirada de la red; la primera respiración mortal contada
+
+### El cierre de Elsie — El Último Crepúsculo (perspectiva de Kyle + el después)
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo]] — permanece sin detenerla; la herida hermosa; el después: la lápida grande *"El hogar que elegimos"*, la taza al estante, la estrella al bolsillo, deja crecer la barba (puente a *El Último Guardián*); sigue viviendo
+
 ---
 
 ## Dialogue_Elsie
@@ -381,6 +388,12 @@
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Caiatl_FinalShape_FuerzaDeAsalto]]
 - [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa]] — la ausencia de cálculo; el "Espera" sin protocolo; "te amo" sin red de seguridad; "vuelve a casa" como definición de hogar
 - [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal]] — observa el orgullo de Cayde aterrizando en Kyle; cierra los ojos; dice "Kyle" en voz alta por primera vez en la línea principal; Elizabeth decide sola
+
+### Post-Gambito — El cierre de Ghost (perspectiva de Elsie)
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Ghost_PostGambito_LaUltimaResurreccion]] — la primera que comprende; salvar de la inmortalidad, no de la muerte; apaga el viejo sistema y no busca la variable; la que nunca pudo soltar, soltando; ve su propia lápida futura sin miedo
+
+### El Último Crepúsculo — su propio cierre (perspectiva de Elsie)
+- [[05_Dialogues/Dialogue_Elsie/Elsie_ElUltimoCrepusculo]] — **interior**; la corredora que por fin llega; se detiene porque ganó, no porque pierda; el mapa sin nada que corregir; la muerte como última elección; las pruebas de que la vida continúa
 
 ---
 
@@ -424,6 +437,21 @@
 ### Final Shape — el vínculo en su punto más alto
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_AntesDelFinal]] — "te amo"; el nombre; la entrada a la oscuridad
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_VuelveACasa]]
+
+### El cierre de Elsie — El Último Crepúsculo (muchos años después de Ghost)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_ElUltimoCrepusculo]] — **centro**; los años solo viviendo; la barba; el búho que pasa de vigilancia a descanso; ella elige; "por fin lo tuve"; Kyle permanece; el crepúsculo
+
+---
+
+## Dialogue_Ghost
+
+*El arco de Ghost y la segunda escuadra — quien cambia, se revela o se despide aquí es Ghost. El cierre de la saga desde el narrador emocional.*
+
+### El cierre de Ghost — La Última Resurrección (post-Gambito)
+- [[05_Dialogues/Dialogue_Ghost/Ghost_PostGambito_LaConclusion]] — beat interior; la última narración del narrador antes de callar; "Kyle ya ganó: la vida"; la decisión ya tomada desde antes de saberlo
+- [[05_Dialogues/Dialogue_Ghost/Ghost_Guardian_PostGambito_LaUltimaResurreccion]] — **centro canónico** del sacrificio; "déjame, esta vez, terminar"; "no me quedé con el mito, me quedé contigo"; "Valió la pena" → **"Vive"**; el cuerpo bajo la lápida pequeña
+- [[05_Dialogues/Dialogue_Ghost/Espectros_PostGambito_LaUltimaResurreccion]] — la segunda escuadra alrededor de la piedra; cada Espectro en su clave; el epitafio *"El hogar que nos acoge"* (par con la lápida de Elsie, *"El hogar que elegimos"*)
+- [[05_Dialogues/Dialogue_Ghost/Ghost_Guardian_ElReencuentro]] — **coda final de la saga**; décadas después, tras el Epílogo; despierta sin nada que buscar; "Te tardaste." / "Te encontré. Por última vez."
 
 ---
 

@@ -318,4 +318,25 @@ Y es completamente suya.
 
 ---
 
-*Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[08_Core_Relationships/Ghost_Elsie_Bray]], [[00_Biblia/Elsie_ElMapaYLaPregunta]], [[00_Biblia/Memoriales_EcoPrismatic]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[06_Timeline_Archives/Personal_Memories/The_First_Reset]]*
+## El Último Crepúsculo — El Cierre
+
+Muchos años después de Ghost, tras una vida entera junto a Kyle en la cabaña, Elsie muere. No de derrota, no de enfermedad ganando, no del desgaste Exo cobrando una deuda — eso es contexto, no causa. Muere por **elección**: la última de una mujer que peleó siglos por conservar, sobre todo lo demás, la capacidad de elegir. Decide ella cuándo ha vivido suficiente.
+
+Es el cierre exacto de su arco del **mapa roto**. Por primera vez desde que tiene memoria, revisa el mapa y no queda nada que corregir: la línea temporal correcta ya no la necesita — no porque haya fracasado, sino porque **ganó**. El futuro sobrevivió. Y por una vez, no busca la variable.
+
+Su tesis: *toda la vida corriendo hacia el mañana, y el milagro no era el mañana — era llegar a quedarse el tiempo suficiente para verlo.* La mujer que no podía quedarse en ninguna parte se detiene; no porque no pueda seguir, sino porque **ya llegó**. Por primera vez en toda su existencia, no necesita ir a ningún lado. Está en casa.
+
+Muere al crepúsculo, junto al arroyo, apoyada en Kyle — que no la detiene, porque comprende, y por eso permanece. El último sonido es un búho: lo que toda la saga fue vigilancia (la guardia que no duerme) ahora significa descanso. *La noche llega. Todo está bien.* Lo que escucha al final no es una despedida sino las pruebas de que la vida continúa — la respiración de Kyle, el agua, el viento — exactamente aquello por lo que luchó siglos, que ya no tiene que defender, solo confiar al mundo.
+
+La entierran bajo el árbol, junto a Ghost. Su lápida (la grande) forma par con la de él:
+
+> *El hogar que elegimos.* — Elsie · el hogar **elegido**
+> (*El hogar que nos acoge.* — Ghost · el hogar que **acoge**)
+
+Su muerte se vuelve la herida más profunda de Kyle — no por trágica, sino por feliz; algunas pérdidas duelen más precisamente porque fueron dichosas. Y él hace lo único que ningún mapa de Elsie predijo: la entierra, y **sigue viviendo**. (Ver Epílogo, [[10_Chapters/Epilogo/The_Last_Shape]].)
+
+**Escenas del cierre:** [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_ElUltimoCrepusculo]] (centro) · [[05_Dialogues/Dialogue_Elsie/Elsie_ElUltimoCrepusculo]] (interior) · [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo]] (Kyle + después)
+
+---
+
+*Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[08_Core_Relationships/Ghost_Elsie_Bray]], [[00_Biblia/Elsie_ElMapaYLaPregunta]], [[00_Biblia/Memoriales_EcoPrismatic]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_ElUltimoCrepusculo]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[06_Timeline_Archives/Personal_Memories/The_First_Reset]]*

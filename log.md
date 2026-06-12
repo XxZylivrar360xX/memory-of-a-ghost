@@ -4,6 +4,86 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-11 (continuación 3)
+
+### Unificación de grafía — "Elizabeth"
+
+Corrección global: "Elisabeth" (con s) era error tipográfico; la grafía canónica es "Elizabeth" (con z). Se encontraron 13 ocurrencias en 9 archivos y se eliminaron todas.
+
+**MODIFICADOS:**
+
+- `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_PrimeraVisita.md` — 3 ocurrencias (el diálogo donde Elsie entrega su nombre)
+- `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_ElArmaImposible.md` — 2 ocurrencias
+- `05_Dialogues/Dialogue_Elsie/Elsie_VaultOfGlass_PrimeraVisita.md` — 3 ocurrencias
+- `05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal.md` — 1 ocurrencia (nota narrativa)
+- `06_Timeline_Archives/Elsie_UltimoGuardian_ElNombre.md` — 2 ocurrencias
+- `06_Timeline_Archives/El_Ultimo_Guardian.md` — 1 ocurrencia
+- `04_Concepts/La_Estrella_Polar.md` — 1 ocurrencia (en la descripción del bucle de nombres)
+- `10_Chapters/Age_I/Cap_03_The_Queens_Paragon.md` — 1 ocurrencia
+- `log.md` — entrada previa corregida + nota de pendiente cerrada
+
+**ACTUALIZADO:** `CLAUDE.md` — estado del vault al día: 127 escenas (+9 vs. sesión anterior), Dialogue_Ghost añadida al árbol, última sesión documentada.
+
+Verificación final: grep sobre todo el vault confirma 0 ocurrencias de "Elisabeth".
+
+---
+
+## Sesión 2026-06-11 (continuación 2)
+
+### El cierre de Elsie — El Último Crepúsculo
+
+Tercero y último de los tres cierres (Kyle → Ghost → Elsie). Brief del autor: intimidad, "su momento de ellos dos", sin cronología ni universo Destiny — solo hogar. Ocurre muchos años después de Ghost, tras una vida juntos en la cabaña. Tres archivos (ecosistema más leve que el de Ghost, fiel a la intimidad pedida).
+
+**Decisiones:** la muerte como elección (las secuelas Exo son contexto, no causa); cierre autocontenido sin coda de reencuentro (ella es la que espera en casa; el Epílogo carga el reencuentro); explorar un poco de los años antes del crepúsculo; dejar implícito que *El Último Guardián* ocurre ~2 años después (la barba como prueba).
+
+**CREADOS:**
+
+- **`Dialogue_Guardian_Elsie/Guardian_Elsie_ElUltimoCrepusculo.md`** — **centro**. Cuatro movimientos: los años (té, arroyo, la barba, los búhos como presencia); el día (tarde normal, el cuerpo soltando sin dolor); el crepúsculo (se apoya en él, Kyle no la detiene — comprende y permanece, sin despedida); el último sonido (el búho como descanso, no alarma). "Por fin lo tuve / el milagro no era el mañana sino llegar a quedarme a verlo." Kyle dice "Elizabeth".
+- **`Dialogue_Elsie/Elsie_ElUltimoCrepusculo.md`** — **interior**. La corredora que por fin llega; se detiene porque ganó, no porque pierda (desmonta su miedo secreto: detenerse ≠ fracasar); el mapa sin nada que corregir; la muerte como ejercicio final de elegir; soltar las pruebas de la vida no es perderlas, es confiárselas al mundo.
+- **`Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo.md`** — **POV Kyle + el después**. La herida más profunda (por feliz, no por trágica). Aftermath que paga el Epílogo: lápida grande **"El hogar que elegimos"** (elegida por Kyle, par de la de Ghost), taza al estante, Estrella Polar que con el tiempo pasará al bolsillo, y **deja crecer la barba** (puente a *La Conversación*, ~2 años después). Sigue viviendo — lo que ningún mapa de Elsie predijo.
+
+**MODIFICADOS:**
+
+- **`02_Characters/Elsie.md`** — nueva sección "El Último Crepúsculo — El Cierre" (cierre del arco del mapa roto; el par de lápidas; enlaces a las tres escenas).
+- **`INDEX.md`** — tres clusters nuevos (en Guardian_Elsie, Elsie y Guardian).
+
+**Símbolos canonizados:** la barba (afeitado por ella en vida → la deja crecer cuando falta); el búho (vigilancia → descanso); el par de epitafios (hogar que acoge / hogar que elige).
+
+**CANON DEL NOMBRE (resuelto — paradoja-espejo, no inconsistencia):** el intercambio de nombres es deliberado y a dos tiempos. `Guardian_Elsie_VaultOfGlass_PrimeraVisita` (Año 1, línea principal): Elsie le confía "Elizabeth" a Kyle como símbolo de confianza; él se queda como "Guardian". `Elsie_UltimoGuardian_ElNombre` (línea perdida): Kyle le devuelve "Elizabeth" y le entrega "Kyle" en señal de reconocimiento (sabe que es su Elsie aunque ella no vea que es él). Bucle de identidad sin origen discernible; por eso Elsie lo llama "Kyle" en la principal desde Beyond Light. Notas de los tres archivos del cierre + `La_Estrella_Polar` corregidas para reflejarlo (antes lo marqué erróneamente como contradicción). *(Grafía unificada en sesión siguiente: "Elizabeth" en todos los archivos.)*
+
+**DEPENDENCIA narrativa (abierta):** el búho necesita plantarse en capítulos (deriva del asedio de la Última Ciudad en Red War, donde Elsie entra por Kyle) para que su resignificación en el cierre tenga setup.
+
+---
+
+## Sesión 2026-06-11 (continuación)
+
+### El cierre de Ghost — La Última Resurrección
+
+Sienta el ecosistema completo del cierre de Ghost, segundo de los tres cierres (tras Kyle, antes de Elsie). Encaja en el puente canónico entre Cap 55 (El Gambito Concluye) y Cap 56 (Epílogo): el acto que convierte a Kyle de portador-de-Luz en mortal humano, completando el arco Cadáver → Arma → Símbolo → Anomalía → **Persona**. Seis archivos nuevos en la nueva carpeta `05_Dialogues/Dialogue_Ghost/` (más dos POV en Guardian y Elsie).
+
+**Decisiones autorales:** sacrificio en el umbral post-guerra (no años después); presenciado por Kyle, Elsie y los cinco Espectros (coral, con la intimidad enmarcada por la familia silenciosa); ecosistema completo de 6 piezas.
+
+**CREADOS:**
+
+- **`Dialogue_Ghost/Ghost_PostGambito_LaConclusion.md`** — beat interior; la última narración del narrador de la saga antes de callar. "Kyle ya ganó: la vida." Ensaya en privado "vale la pena" / "siempre supe que podría hacerlo".
+- **`Dialogue_Ghost/Ghost_Guardian_PostGambito_LaUltimaResurreccion.md`** — **centro canónico**. El sacrificio + última conversación. "Déjame, esta vez, terminar." / "No me quedé con el mito, me quedé contigo." / "Valió la pena" → **"Vive."** El cuerpo bajo la lápida pequeña tras el árbol. *(Corregido vía fork: Ghost va a la lápida pequeña, NO a un estante; el estante vacío del Epílogo es la taza de Elsie + Estrella Polar, reservado al cierre de Elsie.)*
+- **`Dialogue_Guardian/Guardian_Ghost_PostGambito_LaUltimaResurreccion.md`** — POV Kyle. El "No" antes de oír; el silencio con bordes; la retirada de la red (no la Luz, la certeza del regreso); la primera respiración mortal contada.
+- **`Dialogue_Elsie/Elsie_Ghost_PostGambito_LaUltimaResurreccion.md`** — POV Elsie. La primera que comprende: salvar de la inmortalidad, no de la muerte. Apaga el viejo sistema y elige no buscar la variable. La que nunca pudo soltar, soltando. Ve su lápida grande futura sin miedo.
+- **`Dialogue_Ghost/Espectros_PostGambito_LaUltimaResurreccion.md`** — la segunda escuadra alrededor de la piedra; cada Espectro en su clave (Sky entiende primero y graba; Basim no halla contingencia; Hornet sostiene el perímetro; Rune halla las palabras; Maverick mira a Ghost). Epitafio: ***"El hogar que nos acoge."*** (par con la lápida grande de Elsie, *"El hogar que elegimos."*).
+- **`Dialogue_Ghost/Ghost_Guardian_ElReencuentro.md`** — **coda final de la saga**. Décadas después, tras el Epílogo. Ghost despierta sin nada que buscar — la única vez. "Te tardaste." / "Te encontré. Por última vez." Bookend exacto con el Cosmódromo.
+
+**MODIFICADOS:**
+
+- **`02_Characters/Ghost.md`** — nueva sección "La Última Resurrección — El Cierre" tras Final Evolution, con la inversión temática (el que más temía la soledad se va primero) y enlaces a las seis escenas.
+- **`INDEX.md`** — nueva categoría Dialogue_Ghost en la lógica de carpetas y su sección completa; clusters "Post-Gambito — El cierre de Ghost" en Dialogue_Guardian y Dialogue_Elsie.
+- **`10_Chapters/Epilogo/The_Last_Shape.md`** — enlaces a centro y coda; nota que canoniza la lápida pequeña = Ghost y el pago fuera de cuadro de "¿Ella también? — Sí".
+
+**Decisión narrativa central de la sesión:** el mayor acto de amor de Ghost no es mantener vivo a Kyle, es devolverle la mortalidad. La inversión de su miedo nuclear (la soledad) se vuelve su legado: ser *"el hogar que nos acoge"*, y él no se queda solo — solo llega antes.
+
+**Gancho abierto para el cierre de Elsie (próxima sesión):** la lápida grande tras el árbol y el estante vacío (taza + Estrella Polar) son suyos; Elsie_Ghost_LaUltimaResurreccion ya planta que ve su final finito sin miedo. Decidir si comparte cuadro en la coda del reencuentro o tiene coda propia (recomendado: propia).
+
+---
+
 ## Sesión 2026-06-11
 
 ### El Epílogo, el Winnower, la Estrella Polar y la Música
@@ -593,7 +673,7 @@ Perspectiva de Elsie. Llega llamándolo internamente *El Guardián*. Cada beat d
 Perspectiva de Kyle. Sacó dos tazas esta mañana sin saber por qué. No se gira cuando la escucha llegar — si se gira demasiado pronto quizás no entra, y sabe que no es racional y lo hace igual. Reconoce el gesto de la barba porque lo ha visto desde adentro cientos de veces: Elizabeth volviendo. "Ella decía lo mismo" — lo dice sin planear; ve que ella entiende sin preguntar. "Kyle": no fue calculado. Ella le dio su nombre en un porche junto a un arroyo. Él tiene esto para devolver. El cierre — taza en la encimera, navaja, soplido suave, crepúsculo, sonrisa — existe en la versión omnisciente, pero aquí tiene el camino que lo hace posible.
 
 **La rima con PrimeraVisita:**
-- VoG: Elsie da "Elisabeth" → Kyle extiende la mano → "Encantado de conocerte, Elisabeth" → Kyle dice "Guardian funciona para mí"
+- VoG: Elsie da "Elizabeth" → Kyle extiende la mano → "Encantado de conocerte, Elizabeth" → Kyle dice "Guardian funciona para mí"
 - El Último Guardián: Kyle llama "Elizabeth" → "Nunca te dije mi nombre" → "Kyle" → Elsie dice "Hasta pronto, Kyle"
 La historia completa existe entre esas dos frases. El bucle no tiene origen claro — ella usa su nombre en la línea principal porque lo recibió aquí; este momento existe porque ya había una relación. Paradoja de identidad, no de eventos.
 

@@ -231,7 +231,7 @@ Como una coordenada anotada con suficiente exactitud para llegar al sector corre
 
 Se giró medio cuerpo.
 
-— Elisabeth.
+— Elizabeth.
 
 El Guardian no respondió de inmediato.
 
@@ -239,7 +239,7 @@ Bien. Las respuestas inmediatas a información inesperada solían ser inexactas 
 
 — ¿Disculpa?
 
-— Mi nombre — dijo Elsie. — Es Elisabeth.
+— Mi nombre — dijo Elsie. — Es Elizabeth.
 
 Él la miró.
 
@@ -255,7 +255,7 @@ Nadie lo hacía ya.
 
 Era del mundo anterior. De antes del Colapso, de antes de la Era Oscura, de antes de que los Guardianes llegaran y todo cambiara de forma que hizo que los rituales del mundo viejo parecieran de otra especie. En los siglos de ciclos que Elsie había atravesado, no recordaba la última vez que alguien le había extendido una mano con esa sinceridad específica — sin ironía, sin postura, sin el reconocimiento consciente de que era un gesto antiguo. Solo: *este momento merece ser honrado como lo que es.*
 
-— Encantado de conocerte, Elisabeth.
+— Encantado de conocerte, Elizabeth.
 
 Tomó su mano.
 

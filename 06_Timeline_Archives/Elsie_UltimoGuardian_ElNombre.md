@@ -279,7 +279,7 @@ Elsie lo sostuvo.
 
 No como información — sabía cómo se llamaba, lo había sabido desde el principio, lo había leído en archivos, lo había escuchado en informes, lo había visto escrito en documentos de misión durante años. Pero eso no era lo mismo que recibirlo. Recibirlo era otra cosa. Era lo que ocurría cuando alguien decidía que el momento merecía ser honrado con el gesto más simple que existe: decir quién es uno.
 
-Ella le había dado *Elisabeth* en un porche sin terminar porque la cabaña la había movido de una forma que no cabía en ninguna categoría.
+Ella le había dado *Elizabeth* en un porche sin terminar porque la cabaña la había movido de una forma que no cabía en ninguna categoría.
 
 Él le daba *Kyle* ahora.
 
@@ -319,4 +319,4 @@ Pero tampoco lo necesitaba.
 
 *Conecta con: [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian]], [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian_LaConversacion]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_PrimeraVisita]], [[05_Dialogues/Dialogue_Guardian/Guardian_UltimoGuardian_ElNombre]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[02_Characters/Elsie]], [[02_Characters/Guardian]]*
 
-*Nota narrativa: La paradoja del nombre cierra el bucle de la primera visita: Elsie dio "Elisabeth" en el porche porque la cabaña la movió; Kyle da "Kyle" décadas después porque el momento lo merece. Ninguno planea el intercambio. El intervalo entre las dos frases contiene la historia completa. Elsie sale de esta línea temporal llamándolo Kyle por primera vez — lo que hace posible que lo llame así en la narrativa principal sin que ninguna escena explique cuándo empezó a hacerlo. Ese fue siempre el momento.*
+*Nota narrativa: La paradoja del nombre cierra el bucle de la primera visita: Elsie dio "Elizabeth" en el porche porque la cabaña la movió; Kyle da "Kyle" décadas después porque el momento lo merece. Ninguno planea el intercambio. El intervalo entre las dos frases contiene la historia completa. Elsie sale de esta línea temporal llamándolo Kyle por primera vez — lo que hace posible que lo llame así en la narrativa principal sin que ninguna escena explique cuándo empezó a hacerlo. Ese fue siempre el momento.*

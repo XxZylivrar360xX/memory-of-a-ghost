@@ -34,7 +34,7 @@ La Estrella Polar no es una persona. Es lo que esa persona representa para algui
 
 **Antes de existir como objeto:** La orientación que Elsie representa para Kyle precede al objeto en sí. Desde Venus, desde la primera conversación en la Torre, desde la cabaña en construcción — hay un norte que Kyle empieza a reconocer sin tener nombre para él.
 
-**El nombre:** En una tarde en un umbral, con el crepúsculo detrás, Kyle le da a Elsie su nombre — *Elizabeth* — con la Estrella Polar en la mano. Ese es el momento de origen del objeto como símbolo: el instante en que los dos se reconocen completamente, sin protocolo, sin distancia. Ella dice *hasta pronto, Kyle*. Él dice *Elizabeth*. La Estrella está presente.
+**El nombre:** El intercambio de nombres es una paradoja a dos tiempos. Primero, junto a la cabaña en construcción (Año 1, [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_PrimeraVisita|Primera Visita]]), Elsie le confía a Kyle *su* nombre — *Elizabeth* — porque el lugar la movió de una forma sin categoría; él todavía se presenta solo como *Guardian*. Después, en la línea del Último Guardián ([[06_Timeline_Archives/Elsie_UltimoGuardian_ElNombre|El Nombre]]), Kyle cierra el bucle: le devuelve *Elizabeth* y le entrega el suyo, *Kyle*, en señal de reconocimiento. Ella dice *hasta pronto, Kyle*. Ese es el instante en que los dos se reconocen completamente, sin protocolo, sin distancia — y la Estrella acompaña ese reencuentro, en el fondo de la taza.
 
 **La taza:** En el futuro del Último Guardián, Elsie visita a Kyle sin saber que es su Kyle. Cuando se va, deja la Estrella en el fondo de la taza. Kyle la encuentra. La deja en la encimera — no guardada, ahí, donde se vea. No como reliquia. Como presencia.
 
@@ -76,6 +76,8 @@ Y lo llevó hasta el final.
 
 ---
 
-*Aparece en: [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian_LaConversacion]], [[06_Timeline_Archives/Guardian_UltimoGuardian_ElNombre]], [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa]], [[10_Chapters/Epilogo/The_Last_Shape]]*
+*Aparece en: [[06_Timeline_Archives/El_Ultimo_Guardian_LaConversacion]], [[06_Timeline_Archives/Guardian_UltimoGuardian_ElNombre]], [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa]], [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo]], [[10_Chapters/Epilogo/The_Last_Shape]]*
+
+*Nota: el nombre es una paradoja-espejo (no una inconsistencia) — Elsie confía "Elizabeth" en [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_PrimeraVisita|Primera Visita]] (Año 1, como confianza); Kyle entrega "Kyle" en [[06_Timeline_Archives/Elsie_UltimoGuardian_ElNombre|El Nombre]] (como reconocimiento). Ambos se dan su nombre; bucle sin origen. En [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_ElUltimoCrepusculo|El Último Crepúsculo]], Kyle dice "Elizabeth" como cierre de ese bucle.*
 
 *Relacionado con: [[Love]], [[Memory]], [[Hope]], [[Identity]], [[The_Gardener_and_Winnower]]*

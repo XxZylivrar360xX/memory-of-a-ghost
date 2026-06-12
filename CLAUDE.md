@@ -25,7 +25,8 @@ Memories Of A Ghost/
 ├── 05_Dialogues/             # Written scenes — organized by emotional protagonist
 │   ├── Dialogue_Guardian/    # Scenes where Kyle's arc is primary
 │   ├── Dialogue_Elsie/       # Scenes where Elsie's arc is primary
-│   └── Dialogue_Guardian_Elsie/  # Scenes developing the relationship as a character
+│   ├── Dialogue_Guardian_Elsie/  # Scenes developing the relationship as a character
+│   └── Dialogue_Ghost/       # Scenes where Ghost's arc is primary (closure + coda)
 ├── 06_Timeline_Archives/     # Elsie's alternate timeline memories — canon support material
 │   ├── Dark_Futures/         # Timelines where humanity lost — Elsie's fears
 │   ├── Lost_Guardians/       # Versions of Kyle that failed, left, or fell — explains her attachment
@@ -87,9 +88,9 @@ Every important scene should answer at least one of: *What does it mean to exist
 
 - **Saga:** *Destiny: Renewed Fate* — 56 capítulos (Prólogo + Ages I–XVIII + Epílogo)
 - **Capítulos escritos:** 9 de 56 — Prólogo ×5 · Age I ×3 · Epílogo ×1 (resto: stubs estructurados)
-- **Escenas escritas:** 118 — Dialogue_Guardian ×67 · Dialogue_Elsie ×19 · Dialogue_Guardian_Elsie ×26 · RenacimientosGuardianes ×6
+- **Escenas escritas:** 127 — Dialogue_Guardian ×69 · Dialogue_Elsie ×21 · Dialogue_Guardian_Elsie ×27 · Dialogue_Ghost ×4 · RenacimientosGuardianes ×6
 - **Timeline Archives:** 16 archivos — 4 raíz · Lost_Guardians ×6 · Bray_Legacies ×2 · Personal_Memories ×4
 - **Conceptos:** 44 archivos en `04_Concepts/`
 - **Personajes:** 65 archivos en `02_Characters/`
 - **Relaciones principales:** 5 archivos en `08_Core_Relationships/`
-- **Última sesión:** 2026-06-11 — Epílogo (The_Last_Shape, cap. 56), La_Estrella_Polar, escena del Winnower/Lodi en EDZ, primera música en Io; LasCicatrices y The_Last_Reset ajustados
+- **Última sesión:** 2026-06-11 — Tres cierres completos: Kyle (sesión previa) · Ghost (LaConclusion, LaUltimaResurreccion ×3 POVs, ElReencuentro) · Elsie (ElUltimoCrepusculo ×3 POVs); nueva carpeta Dialogue_Ghost; par de epitafios canonizado; grafía "Elizabeth" unificada en todo el vault

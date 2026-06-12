@@ -164,17 +164,17 @@ No fue una pausa de cálculo — fue el tipo de pausa que ocurre cuando algo que
 
 Se giró medio cuerpo.
 
-—Elisabeth.
+—Elizabeth.
 
 El Guardian no respondió de inmediato.
 
 —¿Disculpa?
 
-—Mi nombre —dijo Elsie—. Es Elisabeth.
+—Mi nombre —dijo Elsie—. Es Elizabeth.
 
 El Guardian la miró. No como confirmación táctica. Como alguien que entiende que le acaban de dar algo que no estaba esperando recibir.
 
-—Encantado de conocerte, Elisabeth.
+—Encantado de conocerte, Elizabeth.
 
 Le extendió la mano.
 

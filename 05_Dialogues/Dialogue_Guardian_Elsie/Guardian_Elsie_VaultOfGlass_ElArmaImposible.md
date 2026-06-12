@@ -134,7 +134,7 @@ Asintió.
 
 Un solo asentimiento, despacio. El de alguien que registra que quería que se quedara y que no se va a quedar, y que eso es un hecho ahora, sin necesidad de hacer nada más con ello.
 
-—Siempre es un gusto, Elisabeth.
+—Siempre es un gusto, Elizabeth.
 
 Elsie lo miró un segundo más de lo necesario. Luego se fue.
 
@@ -142,7 +142,7 @@ Cuando Elsie se fue — con la coordinación de llegada y salida que tenía: pun
 
 La Bóveda existió. Atheon existió. Kabr, Praedyth y Pahanin existieron y cada uno pagó un precio diferente por eso.
 
-Y él tenía el arma. Y Elisabeth lo sabía.
+Y él tenía el arma. Y Elizabeth lo sabía.
 
 La Vanguardia podía seguir administrando su versión de los hechos.
 

@@ -300,7 +300,7 @@ La misma persona que una vez construyó una cabaña junto a un arroyo porque que
 
 La misma persona que una vez le extendió la mano y dijo:
 
-*"Encantado de conocerte, Elisabeth."*
+*"Encantado de conocerte, Elizabeth."*
 
 Elsie no supo qué decir.
 

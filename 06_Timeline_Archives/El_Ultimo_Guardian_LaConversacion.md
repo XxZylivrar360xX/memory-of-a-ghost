@@ -311,6 +311,8 @@ Y sonrió.
 
 ---
 
-*Conecta con: [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[02_Characters/Elsie]], [[02_Characters/Guardian]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[00_Biblia/Elsie_ElMapaYLaPregunta]]*
+*Conecta con: [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo]], [[02_Characters/Elsie]], [[02_Characters/Guardian]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[00_Biblia/Elsie_ElMapaYLaPregunta]]*
+
+*Nota de continuidad: la barba que Kyle lleva aquí nace en [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo|El Último Crepúsculo]] — se la deja crecer al morir Elsie, ~2 años antes de esta visita. Por eso la Stranger, que la conoce de todas las líneas menos de ésta, repite "no estoy segura de la barba" sin saber por qué lo sabe: es exactamente lo que dijo la Elsie de esta línea en vida.*
 
 *Nota narrativa: La Estrella Polar en la taza es el último objeto del archivo — no un memorial sino una presencia. Kyle no la guarda como reliquia. La guarda como lo que es: algo que sigue brillando. La escena termina sin palabras porque la respuesta a la Voz no necesita ser articulada. Está en el crepúsculo. En la taza. En la sonrisa de alguien que perdió todo y descubrió que todavía había algo que mirar.*

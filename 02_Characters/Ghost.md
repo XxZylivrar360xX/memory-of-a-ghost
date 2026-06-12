@@ -624,3 +624,25 @@ Ghost comenzó buscando a “su Guardián”.
 Pero eventualmente encuentra algo mucho más importante:
 
 > una persona digna de ser amada incluso después de convertirse en mito.
+
+---
+
+# La Última Resurrección — El Cierre
+
+Después de que la guerra termina (post-Gambito), Ghost llega a la conclusión que cierra toda su existencia: Kyle ya no necesita otra resurrección. Ya ganó — no una guerra, sino la vida. Aprendió a amar, a perdonar, a construir; encontró hogar, a Elsie, paz. La misión que Ghost cargó solo desde el primer instante —traer de vuelta a la persona, no al arma ni al símbolo— está cumplida.
+
+Y comprende la inversión exacta de su miedo. Mientras él exista, existe una próxima resurrección, y por tanto una próxima guerra: Kyle nunca sería libre, solo estaría en tregua. El mayor acto de amor ya no es mantenerlo vivo. Es devolverle la mortalidad.
+
+Ghost, que pasó toda su existencia aterrado de quedarse solo otra vez, **elige ser quien se va primero**. Usa toda la Luz que le queda — no para destruir ni ganar, sino para garantizar que Kyle viva una vida completa: una sola, finita, irrepetible, humana. Cierra así el arco ontológico de Kyle: Cadáver → Arma → Símbolo → Anomalía → **Persona**. Quien lo encontró cadáver lo completa como persona.
+
+Sus últimas palabras no son un discurso — nunca fue su estilo. *"Valió la pena."* Y, como última lección, lo único que le faltaba enseñarle después de haberle enseñado a sobrevivir: **"Vive."**
+
+Lo entierran bajo una lápida pequeña, tras el árbol, junto al arroyo. Los cinco Espectros eligen el epitafio que invierte su miedo nuclear en su legado — ser el hogar que recibió a todos:
+
+> *El hogar que nos acoge.*
+
+Forma par con la lápida grande de Elsie (*"El hogar que elegimos."*): Ghost es el hogar dado, el que acoge; Elsie, el hogar elegido.
+
+Y su miedo resulta haber estado equivocado en lo único que de verdad temía. **No se queda solo. Solo llega antes.** Décadas después, cuando el Winnower se lleva a Kyle, Ghost despierta —por primera vez en su existencia— sin nada que buscar, ya llegado. Y cierra el círculo que abrió en el Cosmódromo con las únicas palabras que hacían falta: *"Te encontré. Por última vez."*
+
+**Escenas del cierre:** [[05_Dialogues/Dialogue_Ghost/Ghost_PostGambito_LaConclusion]] · [[05_Dialogues/Dialogue_Ghost/Ghost_Guardian_PostGambito_LaUltimaResurreccion]] · [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_PostGambito_LaUltimaResurreccion]] · [[05_Dialogues/Dialogue_Elsie/Elsie_Ghost_PostGambito_LaUltimaResurreccion]] · [[05_Dialogues/Dialogue_Ghost/Espectros_PostGambito_LaUltimaResurreccion]] · [[05_Dialogues/Dialogue_Ghost/Ghost_Guardian_ElReencuentro]]

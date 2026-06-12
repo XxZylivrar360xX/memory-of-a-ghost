@@ -10,7 +10,7 @@ status: borrador
 
 *En el espacio entre Crota y lo que venía después, el universo fue amable durante un tiempo breve.*
 
-*Breve en términos relativos. Suficiente para que Kyle aprendiera algunas cosas sobre el Vault of Glass y sobre una mujer llamada Elisabeth que sabía demasiado sobre él para ser solo alguien que había leído muchos informes. Suficiente para que Ghost encontrara la manera de guardar cada momento sin que Kyle le pidiera que lo hiciera. Suficiente para que Joe, en el epílogo de la Cripta de Crota, terminara de decidir algo sobre el Guardian al que había empezado a mirar de una manera que no requería explicación.*
+*Breve en términos relativos. Suficiente para que Kyle aprendiera algunas cosas sobre el Vault of Glass y sobre una mujer llamada Elizabeth que sabía demasiado sobre él para ser solo alguien que había leído muchos informes. Suficiente para que Ghost encontrara la manera de guardar cada momento sin que Kyle le pidiera que lo hiciera. Suficiente para que Joe, en el epílogo de la Cripta de Crota, terminara de decidir algo sobre el Guardian al que había empezado a mirar de una manera que no requería explicación.*
 
 *Y luego llegó el mensaje del Arrecife.*
 
