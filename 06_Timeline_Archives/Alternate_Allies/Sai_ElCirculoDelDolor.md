@@ -11,7 +11,7 @@
 
 ## La línea
 
-En esta realidad, Mara Sov y Osiris fallaron.
+En esta realidad, Mara Sov y Osiris fallaron — pero la raíz del fallo no fue suya.
 
 El plan para matar a Oryx en el Acorazado existió igual que en todas partes — pero aquí los seis Guardianes que debían cerrar el círculo no lo cerraron. No por cobardía. El plan entero se construyó sobre la certeza de la Forastera —*este Oryx es como todos los Oryx*—, y sobre esa certeza el cálculo de Mara salió un grado torcido y Osiris leyó tarde la ventana. La causa raíz no fue de ellos: fue de quien les dio el final por seguro. Porque este Oryx rompió el patrón. No llegó solo a Sol. Al borde de la derrota partió su propio Acorazado con la espada, y de la herida emergieron sus hermanas — Savathûn y Xivu Arath. Seis Guardianes entraron a terminar a un rey y el rey, en lugar de morir, encontró seis vasijas nuevas. (El nacimiento, en vivo: [[06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento]].)
 
@@ -31,7 +31,7 @@ Seis Guardianes con sus rostros puestos y la voluntad de Oryx debajo. No espectr
 
 Oryx no necesitaba ejércitos. Tenía el Plano.
 
-Trajo a **Quria** — en esta línea no la regaló a Savathûn; la conservó, la afinó, la usó — y con ella desató el Plano Ascendente *sobre* la Ciudad Soñada. No una incursión. Una superposición. Dos realidades ocupando el mismo espacio sin permiso, y el espacio no aguantándolo.
+Trajo a **Quria** — en esta línea no la regaló a Savathûn, ni siquiera con ella presente; la conservó, la afinó, la usó — y con ella desató el Plano Ascendente *sobre* la Ciudad Soñada. No una incursión. Una superposición. Dos realidades ocupando el mismo espacio sin permiso, y el espacio no aguantándolo.
 
 La inestabilidad consumía la ciudad por puntos. No explosiones — *sustracciones*. Un patio que dejaba de haber estado ahí. Una escalera que se volvía un lugar donde nadie podía recordar haber subido. La realidad se gastaba como tela vieja, y donde se gastaba no quedaba ruina: quedaba la nada particular de algo que ni siquiera dejó hueco.
 

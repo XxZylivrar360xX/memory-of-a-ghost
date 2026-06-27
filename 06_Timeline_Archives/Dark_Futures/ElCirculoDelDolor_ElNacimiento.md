@@ -1,7 +1,7 @@
 # El Círculo del Dolor — El Nacimiento
 *Destiny: Renewed Fate — Timeline Archives, Dark Futures*
 
-**Línea:** Aquella donde Oryx no murió (la misma de [[06_Timeline_Archives/Alternate_Allies/Sai_ElCirculoDelDolor]])
+**Línea:** Aquella donde Oryx no murió (la misma de [[06_Timeline_Archives/Alternate_Allies/Sai_ElCirculoDelDolor]]) — **archivo de línea alterna; no describe la continuidad principal.**
 **Lugar:** El Acorazado — el umbral de King's Fall, en los anillos de Saturno, Sol
 **Contexto:** El origen del Círculo del Dolor. No empieza con seis Guardianes Tomados: empieza con seis Guardianes vivos y valientes, y con una mujer que creyó conocer el final antes de que llegara. Dos movimientos — la conspiración del regicidio (POV Elsie) y la caída en el Threshold (en tiempo real). Aquí la ventaja de Elsie —la anticipación, su mapa— se vuelve, por una sola vez, la causa de todo. Oryx corona a los seis **«La Corte Final»**; la Ciudad Soñada, al sobrevivirlos, los llamará **«El Círculo del Dolor»** — el nombre del que se enorgullece el verdugo y el que susurra la víctima, para el mismo horror.
 
@@ -75,9 +75,11 @@ De la herida emergieron.
 
 **Savathûn**, que teje. **Xivu Arath**, que es la guerra y no necesita ser otra cosa.
 
-—Es un arte de familia —dijo Oryx—. Yo no vine solo a Sol.
+—Es un arte de familia —dijo Oryx—. No acuden a un amo: acuden a un hermano. Yo no vine solo a Sol.
 
 Uno de los Hechiceros gritó algo — una orden, un nombre, el principio de un plan que ya no existía. No se le oyó el final. El Threshold se había vuelto, en un latido, el lugar equivocado para tener voz.
+
+Uno de los Titanes buscó a tientas la mano del que tenía al lado — el reflejo viejo de la escuadra, agarrarse del de junto cuando el mundo se cae. La encontró. Por un segundo más fueron seis personas que se sabían los nombres unos a otros.
 
 —No los voy a matar. —El Rey avanzó entre ellos mientras lo Tomado empezaba a comerles los bordes—. Matar es para lo que no sirve. A ustedes los voy a **Tomar**. Y a lo Tomado se le da su forma verdadera.
 
@@ -97,7 +99,7 @@ Y al último —el Cazador, el que se escondía en la sombra para seguir vivo, e
 
 —Cumpliste. Volviste. La sombra siempre vuelve; es lo único que sabe hacer. **Sekh-Ra. La Sombra Que Persiste. Mi Sombra.**
 
-Seis filos en pie. El consejo de guerra de un rey que no vino solo, en una nave partida, bajo la mirada de dos hermanas recién salidas de una herida en el mundo. Seis portaluces que cargaban ahora, también, su Oscuridad — la Luz y la Sombra en unas mismas manos, sostenidas juntas no por entendimiento sino por la voluntad de un rey.
+Seis filos en pie. El consejo de guerra de un rey que no vino solo, en una nave partida, bajo la mirada de dos hermanas recién salidas de una herida en el mundo. Seis portaluces que cargaban ahora, también, su Oscuridad — la Luz y la Sombra en unas mismas manos, sostenidas juntas no por entendimiento sino por la voluntad de un rey: dos lenguajes obligados a convivir sin comprenderse.
 
 —Una corte —dijo el Rey—. Una corte para el fin de todas las cosas, que es hacia donde afila todo filo cuando por fin se afila del todo. —Miró a los seis: ya suyos, ya otros—. Mi Corte Final.
 
