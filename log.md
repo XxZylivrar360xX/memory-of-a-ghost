@@ -4,6 +4,48 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-27 — Pipeline multi-agente · Git · Revisión ChatGPT #1 (cierre de sesión larga)
+
+Cierre formal de la sesión extendida del 26-27 de junio. El trabajo narrativo (nacimiento del Círculo del Dolor + reconciliación de `Sai_ElCirculoDelDolor`) ya está registrado en el bloque del 26 más abajo. Esta entrada recoge los tres bloques de infraestructura que faltaban en el log.
+
+### Bloque 1 — Pipeline multi-agente
+
+**CREADOS:**
+
+- **`99_Reference/Development_Workflow.md`** — define el pipeline completo: roles (Víctor/Claude Code/Claude Opus/ChatGPT), modelo de ramas (`develop` = WIP, `main` = canon publicado), cadencia de merge (por arco/lote, decisión de Víctor), protocolo de handoff con ChatGPT, formato de Paquete de Revisión.
+- **`99_Reference/ChatGPT_Editor_Brief.md`** — configuración del GPT personalizado "Editor — Renewed Fate": rol (Postproducción Narrativa, no reemplaza), 9 reglas no-negociables del universo (tesis, Luz/Oscuridad, Prismática, arco Guardian, Testigo, anti-utilería, vulnerabilidad, complejidad, esperanza ganada), checklist editorial (continuidad, peso dramático, filosofía/identidad, simetrías, preguntas centrales), cómo consultar el repo (URLs raw de `develop`), formato de output (`Hallazgo | Por qué | Sugerencia | Severidad | ¿canon bloqueado?`).
+- **`99_Reference/Faceclaims.md`** — índice de referencias visuales (marcado no-canon; manda la ficha). Primera entrada: **Sai = Ana de Armas** (esencia: cara legible/humana, no etérea; resonancias Joi/BR2049 y Marta/Knives Out). Ajustes: edad lee mayor → tomar como vibra; ojos recolor (castaño → verde con veta café); piel lila-rosa; mechones decolorados.
+
+### Bloque 2 — Infraestructura git
+
+- **`.gitignore` reescrito en UTF-8** — el original fue escrito por PowerShell en UTF-16 con BOM; git no puede leer UTF-16 → todas las reglas de ignore fallaban silenciosamente desde siempre. Reescrito (UTF-8 limpio). Reglas: `desktop.ini`, `Thumbs.db`, `.DS_Store`, `.obsidian/workspace.json`, `.obsidian/workspace-mobile.json`, `.obsidian/cache`, `.trash/`.
+- **`workspace.json` desrastreado** (`git rm --cached .obsidian/workspace.json`) — Obsidian lo reescribe constantemente; estaba rastreado y bloqueaba checkouts.
+- **`.git` reubicado fuera de Google Drive** (`--separate-git-dir`): el directorio `.git/` vive ahora en `C:\Users\avada\git-repos\memory-of-a-ghost.git`; en el vault queda un archivo puntero `.git`. Elimina los problemas de: `desktop.ini` inyectados por Drive en `.git/`, locks de GC bloqueados por drivefs, `gc.auto` en loop (también: `gc.auto=0`, `maintenance.auto=false`). Implementado con copy+swap atómico (rename cross-drive no es posible). Restos: carpeta `.git_OLD` con algunos locks — silenciada en `info/exclude`; borrar manualmente con Drive pausado y apps cerradas.
+- **Identidad git local** + URL remoto para cuenta personal (`paz.victor0707@gmail.com` / `XxZylivrar360xX`).
+
+### Bloque 3 — Primera revisión ChatGPT (Paquete de Revisión #1)
+
+Paquete enviado al GPT "Editor — Renewed Fate": `ElCirculoDelDolor_ElNacimiento.md` + `Sai_ElCirculoDelDolor.md`. Devolvió 9 hallazgos (2 alta, 5 media, 2 baja). Triados y aplicados 3:
+
+- **A (alta):** añadida la frase que define el mecanismo de la Prismática torcida — *"dos lenguajes obligados a convivir sin comprenderse"* — en el párrafo de la Corte Final (Movimiento II).
+- **B (alta):** *"No acuden a un amo: acuden a un hermano"* — precisión sobre las hermanas de Oryx: no son súbditas, son iguales convocadas por su hermano; la Lógica de la Espada como código de familia.
+- **C (media):** beat humano antes del renombrado — el Titán busca a tientas la mano del compañero; último acto de escuadra antes de que Oryx les arranque los nombres. Paga el espejo "dado vs. arrancado".
+
+6 hallazgos descartados como interferencia con canon o bajo impacto (guardados en contexto de sesión, no en vault).
+
+**Commit:** `17ee986` en `develop` — *"Paquete de Revisión #1: 3/9 hallazgos de ChatGPT aplicados"*. Primer commit sobre el `.git` reubicado en C: — limpio, sin locks.
+
+### Estado al cierre
+
+- `develop`: 1 commit adelante de `origin/develop`.
+- `main`: varios commits adelante de `origin/main`.
+- **Pendiente #1 (máxima prioridad):** reescritura de `Sai_Guardian_WitchQueen_ElLoboMasJoven.md` — nuevo encuadre: Sai ve lo que Kyle CONSTRUYÓ (la cabaña, la manada elegida); ancla de Saladin entregándose a Caiatl por Crow; Kyle resiste *"lobito"* → *"No. Lobo joven."* → Sai: *"Son la misma cosa."*; flash-forward *"Los jueves, lobito / Los jueves, niña"* (décadas después, cuando ya no corrige).
+- **Pendiente #2:** Season of the Risen (Saladin/Caiatl/Crow) — escena de referencia para el ancla de la reescritura.
+- **Pendiente #3:** lugartenientes de La Corte Final (Nazgûl-style) — marcador en `07_Unsorted_Ideas/Borrador_Nacimiento_Circulo_Del_Dolor`.
+- (Heredados) threading "norte"/"lobito" en prosa; fichas stub Shuro-Chi/Kalli/Sedia; escena Last Wish; fichas Famke/Amanda_Holiday/Glint.
+
+---
+
 ## Sesión 2026-06-26
 
 ### Cimiento del arco de Sai en Season of the Lost — "La Que No Va Sola"
