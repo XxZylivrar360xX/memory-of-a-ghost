@@ -176,6 +176,8 @@ Lo que iba a decirle ella también era verdad. Era el tipo de verdad que viene d
 
 Y decirlo ahora sonaría como justificación. Como el peso de otros Guardianes aplastando a este.
 
+Y no era lo único que se tragaba. Debajo había algo más nuevo, con forma de Centurión en el suelo y de un segundo que él ya no esperaba: que el hombre que acababa de pedirle confianza en su juicio sobre su propia vida era el mismo que se había vuelto ligero con la de otros. Que abajo, en la Ciudad sin sol, Mithrax seguía vivo porque alguna vez ese hombre le dio a un desconocido el segundo que ahora no gastaba — y que algo había vuelto de la Luna sabiendo menos de lo que cuesta quedarse indefenso. Encajaría perfecto en esta conversación. Y ponerlo sobre la consola ahora sería usar una herida como palanca: la versión más limpia de lo único que se había jurado dejar de hacer.
+
 Reconoció ese borde también.
 
 —Sí —dijo—. Deberíamos.
@@ -190,7 +192,7 @@ No se giró.
 
 —Elsie.
 
-—¿Qué.
+—¿Qué?
 
 —Lo que ibas a decir. —Una pausa—. No era nada. No era *nada* de lo que dijiste que era.
 
@@ -207,5 +209,6 @@ Los dejó correr un poco más.
 ---
 
 *Pilares activos: [[04_Concepts/Trust|Confianza]], [[04_Concepts/Memory|Memoria]], [[04_Concepts/Sacrifice|Sacrificio]], [[04_Concepts/Identity|Identidad]]*  
-*Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Guardian]], [[02_Characters/Elsie]], [[02_Characters/Ghost]], [[02_Characters/Mithrax]], [[04_Concepts/Vex|Vex]]*  
+*Conecta con: [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Splicer_MientrasDuraLaNoche]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Splicer_LaAurora]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Guardian]], [[02_Characters/Elsie]], [[02_Characters/Ghost]], [[02_Characters/Mithrax]], [[01_Timeline/Age_VII_The_Lunar_Cataclysm]], [[04_Concepts/Vex|Vex]]*  
 *Semilla narrativa: la primera fractura real. Ninguno dijo lo que no podían decir — y ambos saben que el otro lo notó. La separación no nace de rabia sino del reconocimiento mutuo de que si se quedaban un minuto más dirían algo verdadero en el momento equivocado. La reconciliación no puede ser solo regresar — tiene que incluir lo que no se dijo aquí.*
+*Eco del hilo de Mithrax (sin subir el tono, en el registro de lo no dicho): entre lo que Elsie se traga aparece el residuo de [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Chosen_LoQueNoPeso|Lo Que No Pesó]] — el Centurión, la levedad, "algo volvió de la Luna sabiendo menos de lo que cuesta quedarse indefenso". El precedente Mithrax (vivo en la Ciudad porque el viejo Kyle dio a un desconocido el segundo que ahora no gasta) se usa por fin, pero como herida que Elsie elige NO convertir en palanca — coherente con su arco de renunciar al control. El argumento tiene dientes; sigue sin detonarse.*

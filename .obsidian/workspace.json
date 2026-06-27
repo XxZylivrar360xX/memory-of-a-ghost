@@ -25,14 +25,10 @@
             "id": "9537afaaae01db03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Dialogues/Dialogue_Elsie/Elsie_ElUltimoCrepusculo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elsie_ElUltimoCrepusculo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
@@ -200,20 +196,24 @@
   },
   "active": "9537afaaae01db03",
   "lastOpenFiles": [
-    "log.md.tmp.18056.584d7b1a79ed",
-    "CLAUDE.md.tmp.18056.c2057d3138ab",
-    "log.md.tmp.18056.1854f5d37fe7",
-    "04_Concepts/La_Estrella_Polar.md.tmp.18056.04498d70715d",
-    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_PrimeraVisita.md.tmp.18056.5668b042a7f1",
-    "log.md.tmp.18056.dff29b97310d",
-    "log.md.tmp.18056.64e557438316",
-    "06_Timeline_Archives/El_Ultimo_Guardian.md.tmp.18056.8a1af7cfddd5",
-    "06_Timeline_Archives/Elsie_UltimoGuardian_ElNombre.md.tmp.18056.110dbe8467fc",
-    "05_Dialogues/Dialogue_Elsie/Elsie_VaultOfGlass_PrimeraVisita.md.tmp.18056.6cd2073226a0",
-    "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_ElArmaImposible.md.tmp.18056.cd2e7d521f9f",
+    "07_Unsorted_Ideas/Borrador_Nacimiento_Circulo_Del_Dolor.tmp.5688.140bbdba382f",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.ada0e106eb68",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.79133dd55ae9",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.e859f2f2d67b",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.d17d30bffbfc",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.90eef3a9d61e",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.036174e709d4",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.6dd1e6af47b5",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.0b6b047caea0",
+    "06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md.tmp.5688.f3f67bdc1c1a",
+    "log.md.tmp.5688.8f51d9ed9f1a",
+    "05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola.md",
+    "99_Reference/Faceclaims.md",
+    "05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta.md",
+    "05_Dialogues/Dialogue_Elsie/Elsie_ElUltimoCrepusculo.md",
     "05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo.md",
     "05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_ElUltimoCrepusculo.md",
-    "05_Dialogues/Dialogue_Elsie/Elsie_ElUltimoCrepusculo.md",
     "05_Dialogues/Dialogue_Guardian/Guardian_Lodi_PostGambito_EDZ_LaVoz.md",
     "Log.md",
     "04_Concepts/La_Estrella_Polar.md",
@@ -232,10 +232,6 @@
     "05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_LaPreguntaQueNoEraDelInforme.md",
     "05_Dialogues/Dialogue_Elsie/Elsie_Guardian_PostGarden_ElInformeInnecesario.md",
     "05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_LaEntrada.md",
-    "00_Biblia/Los_Errores_De_Kyle.md",
-    "00_Biblia/La_Pregunta_Central.md",
-    "10_Chapters/Age_I/Cap_03_The_Queens_Paragon.md",
-    "04_Concepts/Consequences.md",
     "99_Reference/2a9b3587-dbac-4d03-9600-9e7ae8de8fb5.png"
   ]
 }

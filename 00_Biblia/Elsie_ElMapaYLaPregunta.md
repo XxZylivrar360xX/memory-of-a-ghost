@@ -134,6 +134,36 @@ No como profecía. No como advertencia. Como duda.
 
 ---
 
+## El Mapa Nuevo: Las Personas
+
+El mapa de líneas se acabó en Europa (ver [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]]). Pero Elsie no se queda *sin* mapa — construye uno nuevo. Y el cambio decisivo es de qué está hecho.
+
+El mapa viejo era de **futuros**: líneas, bifurcaciones, finales. Servía para una sola cosa — **sobrevivir** lo que venía, llegar al siguiente intento con un poco más de información.
+
+El mapa nuevo es de **personas**: Kyle, Ghost, Ana, Mara, Osiris. Ya no se orienta por el tiempo; se orienta por ellos. Y sirve para algo distinto — no para *sobrevivir* el futuro, sino para **vivirlo**. Es una diferencia de verbo, y es toda la diferencia.
+
+### Por qué se disipa el miedo al apego
+
+Durante siglos el miedo de Elsie a atarse tuvo una lógica impecable: no te ates, porque atarte le da al universo una cosa más que quitarte, y siempre hay una línea a la que escapar antes de que duela. Pero sin tablero, sin próximo intento, sin reinicio — ya no hay línea a la que escapar.
+
+> *¿Dónde te alejas si ya no hay a dónde ir?*
+
+El terror de quedarse necesitaba una salida para tener sentido, y la salida dejó de existir. Por eso, a partir de Beyond Light, los lazos se fortalecen: no porque Elsie deje de tener miedo, sino porque el miedo perdió su escape.
+
+### El espejo a escala cósmica (fin de Seraph)
+
+Cuando el Viajero, acorralado por el Testigo, deja de huir y sube a ponerse en medio, Eramis pregunta por qué. El Testigo responde:
+
+> *"Porque ya no tiene a dónde huir."*
+
+Es la misma frase, a otra escala. El Viajero deja de huir porque no le queda a dónde; Elsie deja de huir del apego por lo mismo. Acorralados hasta que la única libertad que sobra es dejar de correr — y resulta que dejar de correr no es el final de algo, sino el principio. (Ver [[10_Chapters/Age_XI/Cap_32_The_Last_Theorem_of_War]] §IV; [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Hunt_SinMapa]].)
+
+### Consecuencia para la saga
+
+Por eso Witch Queen, Lightfall y Final Shape son, para Elsie, la historia de su mapa nuevo. Ya no observa líneas — sostiene personas. En Lightfall se arroja al Velo por Ghost (una coordenada, no una línea): la prueba en acto de que la brújula cambió. El primer trazo de ese mapa fue el día que dijo "Kyle" en un transmat de Europa ([[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]]); el "te amo" de Final Shape es el último.
+
+---
+
 ## Parte III — La Respuesta
 
 ### Final Shape: La Victoria que no Cierra
@@ -177,7 +207,8 @@ Kyle demuestra que el tablero no necesitaba ese resultado.
 |---|---|
 | Vault of Glass | Primera grieta — Elsie racionaliza |
 | King's Fall | Confirmación — ya no puede negarlo |
-| Beyond Light | Fin del mapa + la Voz + la pregunta |
+| Beyond Light (The Last Reset) | Fin del ciclo + la Voz + la pregunta. Vuelve **sin mapa** |
+| Beyond Light → Lightfall | **El mapa nuevo: personas.** Vivir, no sobrevivir. El miedo al apego se disipa (sin tablero, sin a dónde huir) |
 | Final Shape | Victoria militar — respuesta aparente |
 | Heresy / Gambito | Respuesta filosófica real — el tablero no necesitaba ganador |
 
@@ -189,9 +220,10 @@ Kyle demuestra que el tablero no necesitaba ese resultado.
 - **Entre King's Fall y Beyond Light:** Elsie carga la confirmación sola. No comparte la duda.
 - **Shadowkeep:** Elsie se aleja. La distancia no es abandono — es la primera vez que no sabe qué hacer si se queda.
 - **Beyond Light en adelante:** Elsie acompaña a Kyle hacia un futuro que ninguno de los dos entiende. Ambos se convierten en exploradores.
+- **El mapa nuevo (Beyond Light → Final Shape):** el mapa de líneas ya NO se pierde en estas eras — se perdió en The Last Reset. Lo que ocurre ahora es que Elsie **construye un mapa de personas**. No escribir "pierde el mapa" en escenas post-Europa; escribir "se orienta por la gente". El motor emocional es: sin a dónde huir, el apego deja de dar miedo. En Lightfall NO pierde el mapa (ya no lo tiene) — se arriesga por una persona (Ghost), que es la prueba de su brújula nueva.
 - **La Voz:** Nunca se identifica. Nunca se explica. Nunca regresa. No es el Viajero, no es el Testigo, no es el Tejedor ni el Jardinero. Es algo que existe en el margen del tablero y que reconoció una verdad antes de que Elsie pudiera verla.
 - **La pregunta:** No domina las escenas. Existe silenciosamente. No necesita mencionarse para estar presente.
 
 ---
 
-*Conecta con: [[00_Biblia/KingsFall_HerenciaOculta]], [[00_Biblia/Narrative_Principles]], [[02_Characters/Elsie]], [[08_Core_Relationships/Guardian_Elsie_Bray]]*
+*Conecta con: [[00_Biblia/KingsFall_HerenciaOculta]], [[00_Biblia/Narrative_Principles]], [[02_Characters/Elsie]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[10_Chapters/Age_XI/Cap_32_The_Last_Theorem_of_War]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Hunt_SinMapa]]*

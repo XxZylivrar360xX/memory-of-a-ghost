@@ -1,12 +1,12 @@
 ---
-title: "Cap 46 â€” Echoes II"
+title: "Cap 50 — Echoes II"
 type: chapter
 age: "[[01_Timeline/Age_XVI_Echoes]]"
-chapter: 46
+chapter: 50
 status: pendiente
 ---
 
-# Cap 46 â€” Echoes II
+# Cap 50 — Echoes II
 
 *[[01_Timeline/Age_XVI_Echoes]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XVI_Echoes#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XVI_Echoes#Diálogos relacionados]])*

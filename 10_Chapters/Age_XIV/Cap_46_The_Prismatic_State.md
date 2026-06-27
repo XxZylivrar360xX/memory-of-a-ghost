@@ -1,12 +1,12 @@
 ---
-title: "Cap 42 â€” The Prismatic State"
+title: "Cap 46 — The Prismatic State"
 type: chapter
 age: "[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]"
-chapter: 42
+chapter: 46
 status: pendiente
 ---
 
-# Cap 42 â€” The Prismatic State
+# Cap 46 — The Prismatic State
 
 *[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#Diálogos relacionados]])*

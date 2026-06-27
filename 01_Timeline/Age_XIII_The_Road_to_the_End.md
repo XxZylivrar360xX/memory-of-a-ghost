@@ -1,5 +1,5 @@
 # Age XIII — The Road to the End
-*Memories of a Ghost — Capítulos 36 a 39*
+*Memories of a Ghost — Capítulos 40 a 43*
 
 ---
 
@@ -15,7 +15,7 @@ El sistema solar sabiéndose al borde. Ikora. Crow. Mara Sov. Savathûn muerta p
 
 ## Capítulos
 
-### 36. The Defiance
+### 40. The Defiance
 **Era:** Season of Defiance
 
 Los supervivientes de Neomuna. El Shadow Legion y los prisioneros. La humanidad organizada resistiendo con lo que tiene.
@@ -24,7 +24,7 @@ Crow como personaje definitivo — ya no la sombra de Uldren Sov, ya no el apren
 
 ---
 
-### 37. The Voice of the Deep
+### 41. The Voice of the Deep
 **Era:** Season of the Deep
 
 Titan regresa. El Mar de Metano como espacio narrativo — las cosas que se creían muertas siguen presentes bajo la superficie. El eco de Oryx en ese espacio, débil pero reconocible.
@@ -33,7 +33,7 @@ Ahora se puede nombrar lo que Kyle respondió involuntariamente en King's Fall.
 
 ---
 
-### 38. The Witch's Last Theorem
+### 42. The Witch's Last Theorem
 **Era:** Season of the Witch
 
 El plan de Savathûn desde la muerte. El Hive Ritualist. Xivu Arath y el intento de resucitar a la Reina de las Brujas.
@@ -42,7 +42,7 @@ Eris Morn alcanzando su transformación final — la persona que entró a la tum
 
 ---
 
-### 39. The Last Wish's Answer
+### 43. The Last Wish's Answer
 **Era:** Season of the Wish
 
 Riven concediendo el último deseo. El Arrecife. Mara Sov como eje de una maniobra cósmica que nadie comprende completamente excepto ella.

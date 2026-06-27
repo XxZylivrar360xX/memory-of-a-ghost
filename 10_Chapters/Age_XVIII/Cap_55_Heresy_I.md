@@ -1,12 +1,12 @@
 ---
-title: "Cap 51 â€” Heresy I"
+title: "Cap 55 — Heresy I"
 type: chapter
 age: "[[01_Timeline/Age_XVIII_Heresy]]"
-chapter: 51
+chapter: 55
 status: pendiente
 ---
 
-# Cap 51 â€” Heresy I
+# Cap 55 — Heresy I
 
 *[[01_Timeline/Age_XVIII_Heresy]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XVIII_Heresy#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XVIII_Heresy#Diálogos relacionados]])*

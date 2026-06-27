@@ -1,7 +1,7 @@
 # Guardian & Lodi — Post Gambito: EDZ, La Voz
 *Destiny: Renewed Fate — Dialogue_Guardian*
 
-**Era:** Un año después de [[10_Chapters/Age_XVIII/Cap_55_El_Gambito_Concluye]]
+**Era:** Un año después de [[10_Chapters/Age_XVIII/Cap_59_El_Gambito_Concluye]]
 **Lugar:** EDZ — el fragmento del Viajero, sector sur
 **Contexto:** Kyle investiga la profecía de extinción que III dejó incompleta antes de morir en Edge of Fate y Renegades. La pista más reciente apunta a los archivos de los Nueve. Lodi sirve de intermediario. La conversación no llega a su destino.
 
@@ -169,6 +169,6 @@ Tenía cosas en las que pensar.
 
 ---
 
-*Conecta con: [[10_Chapters/Age_XVIII/Cap_55_El_Gambito_Concluye]], [[10_Chapters/Epilogo/The_Last_Shape]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[02_Characters/Guardian]], [[04_Concepts/The_Gardener_and_Winnower]], [[04_Concepts/Death]]*
+*Conecta con: [[10_Chapters/Age_XVIII/Cap_59_El_Gambito_Concluye]], [[10_Chapters/Epilogo/The_Last_Shape]], [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]], [[02_Characters/Guardian]], [[04_Concepts/The_Gardener_and_Winnower]], [[04_Concepts/Death]]*
 
 *Nota narrativa: El Winnower elige el fragmento del Viajero — el lugar donde Kyle recuperó la Luz — para el primer contacto directo en la línea principal. No como provocación sino como reconocimiento completo: la Luz lo encontró aquí; la Oscuridad también sabe dónde está. El diálogo no exige respuesta porque no la necesita — el Winnower ya conoce el arco. Lo que dice "no te abandonaré" a alguien que perderá a Ghost, a su escuadra, a la mujer que ama, a la humanidad entera en algunas líneas temporales, es la cosa más perturbadora y más honesta que podría decir. Kyle no sabe todavía qué hacer con eso. Lo sabrá después.*

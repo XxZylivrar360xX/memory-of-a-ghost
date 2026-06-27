@@ -1,557 +1,68 @@
-﻿# Zavala
+# Zavala
+*Destiny: Renewed Fate — Ficha de Personaje*
 
-# The Titan Who Refused to Break — Destiny: Renewed Fate Saga
-
----
-
-# Core Identity
-
-Zavala es el peso de la responsabilidad convertido en persona.
-
-Dentro de _Destiny: Renewed Fate_, Zavala representa:
-
-- deber,
-    
-- sacrificio,
-    
-- resiliencia emocional,
-    
-- y el costo humano de sostener esperanza durante demasiado tiempo.
-    
-
-Mientras otros personajes:
-
-- buscan respuestas,
-    
-- persiguen poder,
-    
-- o intentan escapar del dolor,
-    
-
-Zavala permanece.
-
-Incluso cuando:
-
-- está agotado,
-    
-- roto,
-    
-- o perdiendo fe.
-    
-
-Porque cree que alguien debe mantenerse firme mientras el resto del mundo colapsa.
+**Clase:** Titán
+**Raza:** Awoken (Risen de la Edad Oscura)
+**Rol:** Comandante de la Vanguardia — la vieja guardia; el muro al que mira una Ciudad asustada. El peso de la responsabilidad hecho persona.
+**Estado:** Vivo durante la saga; al final se retira, cede el mando a [[02_Characters/Ikora]], suelta la Luz y termina su vida como un hombre mortal — reconciliado con su hijo [[02_Characters/Hakim]], abuelo, muerto en paz de viejo junto a un arroyo.
+**Aparece en:** [[05_Dialogues/Dialogue_Guardian/Guardian_Zavala_Haunted_LoQueNoSeEntierra]], [[05_Dialogues/Dialogue_Guardian/Guardian_Zavala_PostFinalShape_UnaCervezaDeViejos]]
 
 ---
 
-# Before the Last City
+## Quién es
 
-Antes de convertirse en comandante, Zavala fue simplemente otro Risen perdido dentro del caos del Dark Age.
+Zavala es lo que pasa cuando un hombre se confunde con su deber durante tanto tiempo que casi olvida que hay un hombre debajo. Para casi toda la galaxia es un cargo antes que una persona — el Comandante, la postura, la voz que mantiene la calma mientras todo se cae. Lo cultivó a propósito: una Ciudad asustada necesita una montaña a la que mirar, y él decidió ser la montaña.
 
-Despertó en un mundo donde:
+Despertó en la Edad Oscura como un Risen Awoken más, perdido, sin recuerdos ni nombre — *"todo deber y nada debajo."* De ahí sacó disciplina, protección, liderazgo, sacrificio. Y también algo peligroso: la idea de que **su propio dolor importa menos que la seguridad de los demás.** Esa convicción lo hizo un gran comandante y un mal hombre para sí mismo. Pasó siglos aislando el dolor, cargando las pérdidas solo, volviéndose despacio símbolo en lugar de persona.
 
-- la humanidad sobrevivía fragmentada,
-    
-- la violencia era constante,
-    
-- y la esperanza parecía imposible.
-    
+El costo de ser un muro es que nadie te trata como a un hombre — y, peor, que tú dejas de tratarte así. La lección que le tomó cuatrocientos años terminar de creer es la que [[#Safiyah y Hakim|Safiyah]] le dejó: que **un hombre es más que la línea que defiende.**
 
-Durante años aprendió:
+## Safiyah y Hakim — la familia por elección
 
-- disciplina,
-    
-- protección,
-    
-- liderazgo,
-    
-- y sacrificio.
-    
+Lo que de verdad define a Zavala no es la Vanguardia. Es la familia que eligió, y las dos formas en que la perdió.
 
-Pero también desarrolló algo peligroso:
+**Safiyah** lo encontró después del Colapso, le puso un nombre, le hizo una casa — hizo de un soldado sin pasado un hombre con una vida. (El eco con Kyle es exacto: a los dos los *nombró* alguien hacia la existencia — a Zavala su esposa; a Kyle su Espectro y luego Elsie.) La perdió *"como se pierde todo lo bueno: no en una batalla, donde al menos hay a quién culpar. En una cama. Por el tiempo."* Una pérdida limpia: la muerte, sin culpa.
 
-La idea de que:
+**[[02_Characters/Hakim]]** es la otra pérdida, la que pesa más, porque es con culpa. El hijo que él y Safiyah adoptaron — *"de elección, que pesa más que la sangre."* Cuando Safiyah murió, Zavala pudo volcarse en el hijo vivo que le quedaba o huir hacia la Ciudad entera, y eligió la Ciudad — *porque ser el padre de todos es más fácil que ser el padre de uno.* Dejó que Hakim creciera mirándole la nuca. Once años de silencio. Esa es la herida que carga, no la que llora.
 
-> su propio dolor importa menos que la seguridad de los demás.
+## El arco — de muro a hombre
 
----
+**Season of the Haunted** ([[05_Dialogues/Dialogue_Guardian/Guardian_Zavala_Haunted_LoQueNoSeEntierra|Lo Que No Se Entierra]]): la Pesadilla de Safiyah lo arrastra a la lección que evitó toda la vida — *"pasé meses creyendo que mi trabajo era resistir; resulta que mi trabajo era recordar bien."* Las Pesadillas no se matan, se integran (la enseñanza de [[02_Characters/Eris_Morn|Eris]]). Y recordar bien incluye no enterrar también al hijo vivo: decide **llamar a Hakim.** *"Marcar el número sí está en mis manos."*
 
-# What Zavala Represents
+**El retiro:** cede el mando a Ikora el día que entiende que retenerlo ya no es servir, sino tener miedo de no ser nadie sin él — *"un hombre que se aferra al puesto porque no sabe quién es sin él no es un líder; es un Poseído con mejor postura"* (eco directo de [[04_Concepts/The_Lord_of_Every_Nothing]]). Y **suelta la Luz**, porque cargarla sin usarla habría sido pedirle al universo una excepción, *"y ya he visto lo que pasa con las cosas que se niegan a terminar."* Elige envejecer y morir como un hombre. Es la "Evolución Final" de su vida: la fortaleza no es cargar todo solo. Por primera vez deja que otros lo sostengan, y eso no lo vuelve más débil — lo vuelve otra vez humano.
 
-Ontológicamente, Zavala representa:
+**La reconciliación:** Hakim contesta. No le devuelve al comandante ni al héroe — e hizo bien — pero le deja ser el abuelo que poda mal los manzanos del nieto. La paz que les quedó, y suficiente.
 
-> la resistencia emocional frente al agotamiento.
+## Relaciones
 
-No porque nunca dude.
+- **[[02_Characters/Cayde-6]]:** una de las pocas personas capaces de romper su armadura — humor y espontaneidad contra estructura y solemnidad. Su muerte lo destroza no solo por la pérdida, sino porque *sintió que falló en proteger a alguien que era familia.* (La culpa fundacional que prefigura la de Hakim.)
+- **[[02_Characters/Crow]]:** le recuerda a Cayde, le carga culpa heredada — y aun así ve en él honestidad y necesidad genuina de pertenecer. La relación se vuelve mentoría y afecto: Crow es uno de los hijos por elección de Zavala. (Y el contraste: a Crow sí supo padrearlo; a Hakim no.)
+- **[[02_Characters/Ikora]]:** dos formas de cargar la responsabilidad — él resiste, ella cuestiona. Discrepan y se entienden a fondo; cada uno sabe cuánto dolor oculta el otro. Por eso le cede el mando a ella: confía en quién la conoce.
+- **Caiatl / [[02_Characters/Saint-14]]:** pares en el peso. Caiatl entiende como pocos lo cansado que está (dos imperios rotos, decisiones imposibles). Saint es memoria de épocas menos oscuras, lealtad sin palabras.
+- **El Viajero / el Testigo:** su crisis espiritual — *¿la Luz de verdad comprende el sufrimiento humano?* En el Pale Heart entiende lo doloroso: el Viajero nunca prometió ausencia de sufrimiento, solo posibilidad. Sigue luchando igual, no por recompensa divina, sino porque todavía ama a la humanidad. El Testigo es exactamente lo que teme volverse: el agotamiento que concluye que la existencia debe terminar. La diferencia es que Zavala sigue creyendo que vale la pena protegerla, aunque duela.
 
-Sino porque continúa incluso cuando hacerlo duele.
+## Con Kyle — humanidad, no divinidad
 
-Zavala demuestra:
+Una de las preocupaciones más viejas de Zavala es ver al Guardián dejar de sentirse humano — porque reconoce las señales que él mismo vivió: aislamiento, despersonalización, el universo convirtiendo a una persona en mito. Pasó años intentando recordarle a Kyle descanso, humanidad, conexión… aunque él mismo hubiera olvidado cómo hacerlo consigo.
 
-- que la esperanza puede existir sin ingenuidad,
-    
-- y que la fortaleza real muchas veces significa seguir adelante mientras todo dentro de ti quiere rendirse.
-    
+La amistad de verdad empieza tarde, y empieza en un velorio — el de Safiyah, *"el segundo vaso"* — donde Kyle hace lo que casi nadie: tratarlo como hombre y no como cargo. *"Tú entraste a la sala donde guardo a mi muerta y me hablaste como a un hombre."*
 
----
+Son el bookend del otro: dos veteranos que **pusieron la inmortalidad en el suelo para terminar de ser personas** (Kyle suelta su red; Zavala la Luz y el mando). Encarnan la tesis de la saga — el final feliz no es una fortaleza más grande, es gente que ya no la necesita: *"una Ciudad amurallada existe para que un día deje de hacer falta; la derribaron porque ganamos."* Y al final, viejo soldado, es quien le lee a Kyle que *"ya cuadró sus cuentas"* — que va al Winnower — y le hace la pregunta que recorre la saga, *"¿volverás?"*, sin convertir la decisión de un hombre en una batalla. Lo aprendió, como Kyle, de la mujer que lo enterró primero por dentro.
 
-# Personality
+## Función narrativa
 
-Zavala es:
+- **El espejo y la advertencia de la paternidad de Kyle.** Tres formas de perder a quién ser padre: Safiyah (muerte, limpia), Hakim (descuido, con culpa) y el fantasma sin nombre de Kyle (borrado, sin memoria). Zavala le compra a Kyle la lección clave: el peligro no es de dónde viene tu amor, es fallarle al vivo que tienes enfrente — *"dale a [[02_Characters/Sai|Sai]] lo que yo no le di a Hakim: el frente, no la nuca."*
+- **La tesis "humanidad, no divinidad" hecha vieja guardia.** Soltar el puesto, soltar la Luz, pasar la estafeta. La institución que triunfa es la que se vuelve innecesaria — rima con Kyle como "el último rey que cierra el reino" y con todo el motivo de la saga: soltar tronos. Su tragedia (creerse muro hasta olvidar que los muros también se quiebran) se redime al dejar de ser muro a tiempo.
 
-- disciplinado,
-    
-- protector,
-    
-- introspectivo,
-    
-- emocionalmente contenido,
-    
-- honorable,
-    
-- y profundamente humano.
-    
+## Cómo escribirlo
 
-Muchos lo perciben como:
-
-- rígido,
-    
-- distante,
-    
-- o excesivamente serio.
-    
-
-Pero debajo de eso existe alguien que:
-
-- siente profundamente cada pérdida,
-    
-- carga culpa constantemente,
-    
-- y teme fallarle a las personas que protege.
-    
+- **Voz:** medida, formal, con peso; frases que cierran, emoción contenida. Con la edad el hierro se curte en algo más cálido, pero nunca pierde la economía — Zavala no malgasta palabras ni sentimientos.
+- **Da respeto no convirtiendo la decisión de un hombre en una batalla.** No ruega, no ofrece variables, no pelea el irse de nadie. Es su forma de amar.
+- **Evitar el spanglish "fatherear":** usar *proteger*, *ser padre de*. (Convención del usuario.)
+- Per [[feedback-navigation-compass]]: su función manda sobre el detalle — existe para reflejar la paternidad y la mortalidad de Kyle y para encarnar el "soltar el puesto". Escríbelo desde ahí.
 
 ---
 
-# Core Traits
+*Conecta con: [[02_Characters/Hakim]], [[02_Characters/Guardian]], [[02_Characters/Sai]], [[02_Characters/Cayde-6]], [[02_Characters/Crow]], [[02_Characters/Ikora]], [[02_Characters/Saint-14]], [[02_Characters/Eris_Morn]], [[02_Characters/Witness]], [[04_Concepts/Grief]], [[04_Concepts/The_Lord_of_Every_Nothing]], [[00_Biblia/La_Pregunta_Central]]*
 
-## Duty
-
-El deber define gran parte de la existencia de Zavala.
-
-No porque disfrute cargar responsabilidades.
-
-Sino porque cree sinceramente que:
-
-> alguien debe hacerlo.
-
-Incluso cuando:
-
-- nadie reconoce el costo emocional,
-    
-- o el universo parece indiferente al sacrificio.
-    
-
----
-
-## Emotional Restraint
-
-Zavala rara vez expresa completamente:
-
-- miedo,
-    
-- tristeza,
-    
-- o desesperación.
-    
-
-Porque siente que:
-
-- si él colapsa,
-    
-- otros también podrían hacerlo.
-    
-
-Eso provoca que pase gran parte de su vida:
-
-- aislando dolor,
-    
-- cargando pérdidas solo,
-    
-- y convirtiéndose lentamente en símbolo antes que persona.
-    
-
----
-
-## Compassion
-
-A pesar de toda su disciplina, Zavala jamás pierde empatía.
-
-Cada muerte:
-
-- le afecta,
-    
-- lo persigue,
-    
-- y deja marcas emocionales reales.
-    
-
-Por eso muchas veces duda antes de:
-
-- sacrificar vidas,
-    
-- iniciar guerras,
-    
-- o convertir Guardianes únicamente en armas.
-    
-
----
-
-# Fear
-
-El mayor miedo de Zavala no es morir.
-
-Es no poder proteger a quienes dependen de él.
-
-Teme:
-
-- tomar decisiones incorrectas,
-    
-- perder más personas,
-    
-- y eventualmente convertirse en alguien incapaz de seguir sintiendo dolor.
-    
-
-Porque para Zavala:
-
-> dejar de sufrir por otros equivaldría a dejar de amarlos.
-
----
-
-# Relationship with the Guardian
-
-El Guardián representa para Zavala:
-
-- orgullo,
-    
-- esperanza,
-    
-- preocupación,
-    
-- y miedo silencioso.
-    
-
-Al principio ve en él:
-
-- un Guardian extraordinario,
-    
-- y recurso crucial para proteger la Ciudad.
-    
-
-Pero con el tiempo comienza a notar algo más preocupante:
-
-El universo entero empieza a transformar al Guardián en mito.
-
-Y Zavala comprende perfectamente el costo emocional de eso.
-
-Por eso muchas veces intenta recordarle:
-
-- descanso,
-    
-- humanidad,
-    
-- y conexión.
-    
-
-Aunque él mismo haya olvidado cómo hacerlo para sí mismo.
-
----
-
-# Relationship with Cayde-6
-
-Cayde era una de las pocas personas capaces de romper la armadura emocional de Zavala.
-
-Mientras Zavala:
-
-- cargaba estructura,
-    
-- deber,
-    
-- y solemnidad,
-    
-
-Cayde constantemente le recordaba:
-
-- humanidad,
-    
-- humor,
-    
-- y espontaneidad.
-    
-
-La muerte de Cayde destruye profundamente a Zavala.
-
-No solo por la pérdida de un amigo.
-
-Sino porque siente que:
-
-> falló en proteger a alguien que consideraba familia.
-
----
-
-# Relationship with Ikora Rey
-
-Ikora y Zavala representan dos formas distintas de cargar responsabilidad.
-
-Zavala:
-
-- resiste,
-    
-- protege,
-    
-- y soporta peso.
-    
-
-Ikora:
-
-- cuestiona,
-    
-- analiza,
-    
-- y busca verdad.
-    
-
-Aunque muchas veces discrepan…  
-se entienden profundamente.
-
-Ambos saben:
-
-- cuánto dolor oculta el otro,
-    
-- y cuánto sacrificaron por sostener la Última Ciudad.
-    
-
----
-
-# Relationship with Crow
-
-Crow despierta emociones extremadamente complejas en Zavala.
-
-Porque:
-
-- le recuerda constantemente a Cayde,
-    
-- representa culpa heredada,
-    
-- y desafía ideas tradicionales de identidad.
-    
-
-Pero también ve en Crow:
-
-- honestidad,
-    
-- necesidad genuina de pertenecer,
-    
-- y alguien intentando desesperadamente convertirse en mejor persona.
-    
-
-Eso lentamente transforma la relación entre ambos en:
-
-- mentoría,
-    
-- comprensión,
-    
-- y eventual afecto genuino.
-    
-
----
-
-# Relationship with Caiatl
-
-La relación entre Zavala y Caiatl se construye sobre:
-
-- respeto,
-    
-- responsabilidad compartida,
-    
-- y comprensión mutua del liderazgo.
-    
-
-Ambos:
-
-- cargan imperios rotos,
-    
-- toman decisiones imposibles,
-    
-- y entienden el peso de enviar personas a morir.
-    
-
-Caiatl probablemente es una de las pocas personas que realmente comprende cuán cansado está Zavala.
-
----
-
-# Relationship with Saint-14
-
-Saint representa para Zavala:
-
-- amistad antigua,
-    
-- lealtad,
-    
-- y memoria de épocas menos oscuras.
-    
-
-Entre ambos existe una conexión silenciosa basada en:
-
-- guerras sobrevividas,
-    
-- pérdidas compartidas,
-    
-- y necesidad constante de seguir adelante incluso agotados.
-    
-
----
-
-# Relationship with the Traveler
-
-La relación de Zavala con el Traveler evoluciona profundamente durante la saga.
-
-Al principio:
-
-- confía,
-    
-- cree,
-    
-- y encuentra propósito en la Luz.
-    
-
-Pero después de:
-
-- pérdidas,
-    
-- silencios,
-    
-- y abandono aparente,
-    
-
-comienza a cuestionarse algo devastador:
-
-> ¿la Luz realmente comprende el sufrimiento humano?
-
-Eso provoca una de las crisis espirituales más importantes de su vida.
-
----
-
-# Relationship with the Witness
-
-El Witness representa exactamente aquello que Zavala teme convertirse:
-
-- agotamiento absoluto,
-    
-- desesperanza,
-    
-- y rendición emocional.
-    
-
-Porque el Witness también vio:
-
-- sufrimiento,
-    
-- muerte,
-    
-- y pérdida infinita.
-    
-
-La diferencia es que:
-
-- el Witness concluyó que la existencia debe terminar,
-    
-- mientras Zavala sigue creyendo que todavía vale la pena protegerla.
-    
-
-Incluso cuando duele.
-
----
-
-# Relationship with the Guardian’s Humanity
-
-Una de las mayores preocupaciones de Zavala es ver al Guardián dejar de sentirse humano.
-
-Porque reconoce señales que él mismo experimentó:
-
-- aislamiento,
-    
-- agotamiento emocional,
-    
-- y despersonalización progresiva.
-    
-
-Parte de Zavala teme que:
-
-> el universo termine consumiendo al Guardián igual que consumió partes de él.
-
-Por eso muchas veces intenta proteger no solo su vida…  
-sino también su humanidad.
-
----
-
-# The Pale Heart
-
-La entrada al Pale Heart representa uno de los momentos más importantes para Zavala.
-
-Porque finalmente debe confrontar:
-
-- fe,
-    
-- pérdida,
-    
-- y significado.
-    
-
-Ahí comprende algo profundamente doloroso:
-
-El Traveler nunca prometió ausencia de sufrimiento.
-
-Solo posibilidad.
-
-Y aun así…  
-Zavala decide seguir luchando.
-
-No porque espere recompensa divina.
-
-Sino porque todavía ama a la humanidad.
-
----
-
-# Final Evolution
-
-Al final de la saga, Zavala finalmente aprende algo que pasó siglos ignorando:
-
-> la fortaleza no significa cargar todo completamente solo.
-
-Por primera vez en muchísimo tiempo:
-
-- permite que otros lo sostengan,
-    
-- acepta vulnerabilidad,
-    
-- y deja de existir únicamente como comandante.
-    
-
-Eso no lo vuelve más débil.
-
-Lo vuelve nuevamente humano.
-
----
-
-# Final Tragedy
-
-La tragedia de Zavala es que pasó gran parte de su existencia convencido de que:
-
-> debía convertirse en muro para proteger a todos los demás.
-
-Y lentamente olvidó que incluso los muros también pueden quebrarse.
-
-Pero aun así…
-
-siguió resistiendo.
-
-Y precisamente por eso se convirtió en uno de los pilares emocionales más importantes de la humanidad.
+*Nota de mantenimiento (2026-06-21): ficha reescrita al formato de la casa desde un perfil ontológico anterior en bullets. Se conservó e integró su sustancia (deber, contención emocional, compasión, el miedo a fallar, Cayde/Ikora/Crow/Caiatl/Saint, Viajero/Testigo, el Pale Heart, la "Evolución Final") y se añadió el canon establecido esta sesión: Safiyah, [[02_Characters/Hakim]], el retiro, soltar la Luz, la amistad con Kyle y la función de "padre por elección". Pendiente: ficha de Safiyah (esposa, fallecida) si gana peso.*

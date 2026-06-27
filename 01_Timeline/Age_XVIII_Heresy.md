@@ -1,5 +1,5 @@
 # Age XVIII — Heresy
-*Memories of a Ghost — Capítulos 51 a 55*
+*Memories of a Ghost — Capítulos 55 a 59*
 
 ---
 
@@ -15,14 +15,14 @@ La respuesta. El Gambito de los Dos Reyes concluye. Kyle descubre que Oryx tení
 
 ## Capítulos
 
-### 51. The Dreadnaught Returns
+### 55. The Dreadnaught Returns
 **Era:** Heresy — Inicio
 
 El Acorazado regresa. La Hive de Xivu Arath intentando reclamar lo que Oryx dejó. Pero algo más está ocurriendo — algo que requiere comprender el Gambito de los Dos Reyes antes de poder nombrarlo.
 
 ---
 
-### 52. The King's Final Move
+### 56. The King's Final Move
 **Era:** Heresy — El Gambito
 
 Kyle y el eco de Oryx. No el Oryx del King's Fall — algo más tenue, más filosófico. Una conversación que debería ser imposible y que sin embargo es exactamente lo que era necesario.
@@ -37,7 +37,7 @@ Ver [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_06_Oryx]], [[00_B
 
 ---
 
-### 53. The Heretic's Answer
+### 57. The Heretic's Answer
 **Era:** Heresy — Acto central
 
 Kyle como hereje. No porque haya traicionado la Luz — sino porque ha trascendido la necesidad de que ninguna de las dos fuerzas gane. Eso es inaceptable para quienes construyeron su identidad alrededor de la victoria de una sobre la otra.
@@ -46,7 +46,7 @@ La Herejía como título que Kyle lleva. Herejía frente a la Lógica de la Espa
 
 ---
 
-### 54. The Voice's Question Answered
+### 58. The Voice's Question Answered
 **Era:** Heresy — El momento de Elsie
 
 La Voz preguntó algo en Europa. Nunca más habló.
@@ -61,7 +61,7 @@ Ver [[00_Biblia/Elsie_ElMapaYLaPregunta]] y [[06_Timeline_Archives/Personal_Memo
 
 ---
 
-### 55. The New Shape
+### 59. The New Shape
 **Era:** Heresy — Cierre de la saga
 
 No hay Final Shape que resuelva la existencia. Hay un universo que continúa — imperfecto, variable, capaz de pérdida y también de amor.

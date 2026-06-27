@@ -4,6 +4,153 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-26
+
+### Cimiento del arco de Sai en Season of the Lost — "La Que No Va Sola"
+
+Antes de seguir ajustando las escenas de los nombres (lobito / Lo Que No Se Arranca), el autor pidió **fundamentar el papel de Sai durante Season of the Lost**: cómo, inspirada por lo que Elsie hizo por ella, acuerda con Mara y el aquelarre ser la lectora/exploradora del Plano Ascendente. Escena nueva, POV Sai, que ocupa el hueco que la ficha marcaba como arco ("de víctima a recurso por elección", "la lectora que se niega a ir sola") y que ninguna escena escrita cubría.
+
+**CREADO:**
+
+- **`05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola.md`** — Season of the Lost, después del rescate (LoQueSostiene/LoQueToma) y antes de las escenas de los nombres de Witch Queen. El consejo del aquelarre. MOTOR = el miedo del Plano de Sai (volver a estar sola en lo invisible — NO el de reemplazo, ese es exclusivo de Elsie/Kyle). MECANISMO = convierte la herida en método como Elsie: en vez de aceptar como herramienta (lo que Mara quiere) o rehusar por miedo, pone la condición "**no iré sola / no mando a nadie solo**" y redefine qué es una Techeun lectora. Mara fichada: ofrece transacción honesta pero instrumentaliza (lee "la lectora del Plano", no a la persona); Sai le pone una condición fuera de su modelo y Mara la REGISTRA sin entenderla ("no te modelé bien") — eco de LoQueToma. Espejo Elsie↔Sai consolidado: Sai se vuelve para el aquelarre lo que Elsie es para el mundo.
+
+**MODIFICADOS:**
+
+- **`02_Characters/Sai.md`** — escena añadida a "Aparece en"; el paso 2 del arco ("de víctima a recurso por elección") ahora enlaza la escena como su acto fundacional.
+- **`INDEX.md`** — nueva subsección **"Season of the Lost — la elección del sitio"** en `## Dialogue_Sai`, antes de la de recuperación/nombres.
+- **`02_Characters/Sai.md` (apariencia + don)** — §"Apariencia": **piel lila-rosa viva** (no el azul espectral de las Techeun mayores — una Awoken más cálida, más "de este lado"); **ojos verde esmeralda con vetas de café, sin la luz interna Awoken** — "ojos de humana", como si el Plano, al casi borrarla, la hubiera arrastrado un paso de vuelta hacia lo humano y la hubiera soltado "diferente, no cambiada"; **pelo decolorado por el Plano** (base oscura azul-negro con mechones blanco-ceniza a parches, en los sitios por donde se gastaba cuando Elsie la alcanzó — la herida vuelta rasgo); **la ropa como arco** (empieza en regalia ceremonial Techeun recién reconocida en *La Que No Va Sola*; con los años, por influencia de Kyle y gravitación hacia Elsie, migra hacia la silueta de viajera/abrigo de Elsie — la lectora del aquelarre terminando de verse como la otra lectora). §"El don": nueva secuela del casi-borrado — **radar paracausal latente, pasivo, no dominante**, que capta fuerzas paracausales cercanas (lo Tomado, lo ascendente) sin que ella lo invoque ni lo controle; explica que roce el secreto de Ghost, la marca de las Techeun Tomadas, y la semilla de las Pesadillas (Haunted).
+
+**Apariencia (cont.) — color y faceclaim:**
+- **`02_Characters/Sai.md`** — §"Apariencia" actualizada: **piel tono vivo entre lila y rosa** (Awoken cálida, no el azul espectral de las mayores) y **ojos verde esmeralda con vetas de café, sin la luz interna Awoken** ("ojos de humana", "como si el Plano la hubiera arrastrado un paso de vuelta hacia lo humano — diferente, no cambiada"). Único sitio que fijaba el color (verificado por grep); ninguna escena lo contradice.
+- **`99_Reference/Faceclaims.md` (NUEVO)** — índice de referencias visuales, marcado **no-canon** (manda la ficha). Primera entrada: **Sai = Ana de Armas** (esencia: cara humana/legible, no etérea; resonancias Joi/BR2049 y Marta/Knives Out). Ajustes anotados: edad lee mayor → tomar como vibra; ojos a recolor (castaño→verde con veta café); piel lila-rosa; pelo con mechones decolorados.
+- **`Sai_Aquelarre_SeasonLost_LaQueNoVaSola.md`** — **sembrado el color de ojos en escena**: Mara, que lee el patrón y no a la persona, se detiene una vez en los ojos humanos de Sai (lo único que no encaja en su casilla) y los archiva como *"anómalo, merece seguimiento"* — instrumentaliza hasta lo más humano de ella. Anotado en la semilla narrativa.
+
+**Diferenciador físico sembrado en el rescate:**
+- **`05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene.md`** — sembrados **ojos** y **mechones** como diferenciador textual de Elsie ("esta no es la Sai que me salvó en la otra línea"). Dos inserciones en POV Elsie, en el primer avistamiento: (1) los **mechones blanco-ceniza** quemándose *en vivo* donde el Plano la gasta → esta escena es el ORIGEN del rasgo (cuadra con ficha §Apariencia, "cuando Elsie la alcanzó"); la alt-Sai se fragmentó de golpe, sin tiempo de marcarse. (2) los **ojos verde-café sin luz Awoken, con alguien detrás** = reverso EXACTO de la imagen-trauma de la alt-Sai ("ojos abiertos sin nada detrás", `Sai_ElCirculoDelDolor`). Calibrado para NO romper la superposición: el rostro entrenado de Elsie certifica "no es ella" (racional) y entra igual — refuerza el motor "no era ella / era exactamente ella" en vez de desactivarlo. Anotado en la semilla narrativa de la escena.
+
+**Decisiones de canon (del autor):**
+- **Las tres Techeun mayores (Shuro-Chi, Kalli, Sedia) ya volvieron.** Fueron Tomadas por Oryx y rescatadas en la **Última Voluntad (Last Wish)** — escena aún por escribir. Por eso la escena NO es una misión de rescate (reponerlas en peligro sería redundante y excesivo): es la formalización del rol de Sai. Su autoridad moral sobre "¿dejamos entrar a la niña?" viene de haber sobrevivido la peor soledad. Voces distintas: Shuro-Chi (protege, dice "no" primero), Kalli (la que más lejos estuvo — aritmética pagada con el cuerpo, no crueldad), Sedia (la única que le pregunta a SAI qué quiere).
+- **Inversión de la idea original:** Sai no rescata a sus hermanas yendo al Plano; las honra hacia atrás cambiando la regla que las dejó solas ("la regla la puso la más joven").
+- **Petra:** parentesco implícito sostenido en acción, no etiqueta (coherente con el ajuste del 2026-06-25).
+
+**Pendiente:**
+- Fichas stub de **Shuro-Chi, Kalli, Sedia**; escena de **Last Wish** (rescate de las Techeun Tomadas).
+- (Sigue) ajuste de las dos escenas de los nombres; threading "norte"/"lobito"; cimientos Kyle↔Sai doméstico y Sai↔Ghost.
+
+---
+
+## Sesión 2026-06-25 (continuación)
+
+### El origen de los ritos de nombre — dos escenas hermanas
+
+Cerrado el pendiente #1 de la sesión anterior: el origen de los nombres (Opción A — los cotidianos "norte"/"lobito" NACEN aquí, no se retrofitean a las escenas ya escritas). Escrito primero como una sola escena combinada y luego, **a petición del autor, separado en dos momentos** (`lobito` y `norte chiquito`) para poder ajustar cada uno por su lado. La escena combinada (`Sai_GuardianElsie_WitchQueen_LosNombresQueElegi.md`) fue borrada al dividirse; su contenido vive íntegro en las dos hermanas.
+
+**CREADOS:**
+
+- **`05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_ElLoboMasJoven.md`** — **el origen de "lobito" (Kyle↔Sai)**. Age X, recuperación en la Ciudad Soñada, POV Sai. MOTOR = el miedo a ser un reemplazo en clave Kyle (él la cuida "como si ya lo hubiera hecho" — el eco paterno de Las Manos Recuerdan). Sai lo lee buscando *el nombre debajo del nombre* y NO encuentra nada enterrado — "debajo de Kyle hay más Kyle, y debajo el cero" (canon de la asimetría: se construyó desde cero, sin un antes que enterrar). Funda el mote en Saladin / Señor de Hierro (Rise of Iron) + el lobo más joven (los demás murieron con SIVA). Nombrar-HACIA-ABAJO como ternura, no desenterrar un secreto. Kyle le devuelve "niña" como trato → cimiento Kyle↔Sai cotidiano. RESOLUCIÓN única de Kyle: un reemplazo necesita un muerto enterrado al que parecerse; Kyle no tiene cuarto cerrado dentro, así que no la pone en el lugar de nadie. (El eco paterno sí existe pero Sai NO lo lee — Ghost lo guarda, "algo en él lo desvía".)
+- **`05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca.md`** — **el origen de "norte"/"Elizabeth" (Elsie↔Sai)**. Misma era, POV Sai. MOTOR = el miedo en clave Elsie: el "milímetro de más", el fantasma de la otra Sai detrás del hombro. MECANISMO CENTRAL (el eje del arco): Sai lee a Elsie, SÍ encuentra el nombre enterrado (Elizabeth), está a un tirón de arrancarlo (el "segundo Famke" en miniatura) y SE DETIENE — cierra el don con el nombre en la boca. Y *porque* no lo arranca pudiendo, Elsie se lo DA. Planta el patrón "porque no tomó nada, le fue dado" que [[05_Dialogues/Dialogue_Sai/Sai_Elsie_PostFinalShape_LoQueSeDaSinPedirlo|Lo Que Se Da Sin Pedirlo]] cosecha post-Final Shape. "Elizabeth" = 2ª persona en la existencia a quien Elsie da su nombre verdadero (antes solo Kyle) → prueba ontológica contra el miedo. "norte" nace de [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene|Lo Que Sostiene]] ("no te sueltes del norte") devuelto; Elsie responde **"norte chiquito"** + **"Saiidris"** (sagrado, no regaño). El gesto de la mano en el pelo prefigura el sueño de LoQueSeDaSinPedirlo.
+
+ANTI-UTILERÍA (ambas): el querer, el miedo, la decisión y el crecimiento son de Sai. Las dos abren con el mismo miedo a ser reemplazo en la clave de cada persona —el cero/sin-cuarto-cerrado (Kyle) y el milímetro/fantasma (Elsie)— y se sostienen solas.
+
+**MODIFICADOS:**
+
+- **`02_Characters/Sai.md`** — §"Los nombres": el cierre que decía "aún no tiene escena propia" ahora enlaza a las DOS escenas y resume cada mecanismo; ambas añadidas a "Aparece en".
+- **`INDEX.md`** — nueva subsección **"Recuperación — Año de la Bruja (Age X)"** en `## Dialogue_Sai` (las dos hermanas), antes de la semana del duelo.
+- **`CLAUDE.md`** — escenas 175→177 (Dialogue_Sai ×10, +2 origen de los nombres); pendiente del origen marcado como hecho.
+
+**Decisiones de canon:**
+- **La asimetría Kyle/Elsie hecha acción:** el don de Sai toca fondo en Kyle (no hay nombre oculto) y encuentra muro en Elsie (Elizabeth). Kyle no tiene nombre sagrado porque no tiene un antes que enterrar; con él, lo hondo es el silencio o "papá".
+- **Restricción deliberada:** las regresiones "mamá"/"papá" NO nacen aquí (registro aparte, solo cuando Sai se quiebra del todo). Las escenas se quedan en cotidiano ("norte"/"lobito"/"niña") + sagrado ("Elizabeth"/"Saiidris").
+- **Timing:** Age X, después de [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan|Las Manos Recuerdan]] (la intimidad ya construida); coherente con que Sai diga "Adiós, Elizabeth" post-Final Shape como nombre ya recibido.
+- **Separación en dos momentos** (decisión del autor): dos registros emocionales distintos (Kyle↔Sai y Elsie↔Sai); cada uno autocontenido y movible. El autor tiene planes de ajuste sobre cada uno.
+
+**Divergencia (2026-06-26): nacimiento del Círculo del Dolor — ESCRITO.**
+- **EN PAUSA (retomar):** el ajuste del *lobito* (`Sai_Guardian_WitchQueen_ElLoboMasJoven`) — se divergió a esta escena.
+- **CREADO:** `06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento.md` — **PRIMER archivo de `Dark_Futures`**. El nacimiento del Círculo del Dolor (línea "donde Oryx no murió"; compañera de `Alternate_Allies/Sai_ElCirculoDelDolor`). Dos movimientos: **(I) La Conspiración (POV Elsie)** — el error es de ELLA: anticipa de más, trata a este Oryx como variable resuelta ("será como todos"), y el plan de Mara/Osiris se construye sobre su lectura → ella = causa raíz, ellos = próxima. **(II) El Filo de Su Conquista (voz de Oryx)** — casi vencido, ríe e invoca a sus hermanas (Savathûn/Xivu Arath; "no vine solo" = el patrón que el mapa de Elsie no tenía), sella la línea, Toma a los 6 y los renombra como su consejo de guerra. Los 6 (mapeo #4/#5 cruzado): Vorak/Bastión del Último No/**La Muralla**, Khûl-Tor/El Yugo Eterno/**La Cadena**, Ir Varesh/Voz del Abismo/**La Voz**, Nhazir/Portador del Silencio Profundo/**La Sentencia**, Ul-Kareth/Heraldo del Fin Verdadero/**La Visión**, Sekh-Ra/La Sombra Que Persiste/**La Sombra**. Temática: respuesta a "¿qué miedo nace aquí?" = que su mapa la traicione por confiarlo (origen del "error inicial" de Lost_Guardians); espejo oscuro del "dado vs. arrancado" del arco de los nombres de Sai; el cierre "lo que se valida, permanece" enlaza con `LoQueToma`. El Cazador→Sekh-Ra paga el beat humano "nos vemos del otro lado".
+- **MODIFICADO:** `INDEX.md` — primera entrada de la sección `## Dark_Futures`.
+- **Marcador:** `07_Unsorted_Ideas/Borrador_Nacimiento_Circulo_Del_Dolor` (plan + decisiones, cerrado).
+- **AJUSTES (2026-06-26 cont.):** (a) **Nombre colectivo dual** — Oryx corona a los seis **«La Corte Final»** (endónimo del verdugo; coronamiento añadido al final del Movimiento II); la Ciudad los llama **«El Círculo del Dolor»** (exónimo, ya canon). (b) **Movimiento II reescrito a tiempo real** (vivido, no narrado): escuadra cantando victoria → risa → Oryx parte el Acorazado → emergen las hermanas → Toma/renombrado en vivo. (c) **Prismática torcida** — la Corte porta Luz Y Oscuridad sostenidas por la voluntad de Oryx (reverso oscuro de la Prismática); sembrado en la escena y en `Sai_ElCirculoDelDolor`. (d) Tildes corregidas en los seis conceptos ("Mí"→"Mi", posesivo).
+- **HECHO — reconciliación de `Alternate_Allies/Sai_ElCirculoDelDolor`:** Elsie = causa raíz del fracaso (Mara/Osiris heredan su lectura); añadidas las hermanas (Savathûn/Xivu Arath) como el patrón que rompió su mapa; «La Corte Final» como endónimo + la Prismática torcida; cross-link a la escena nueva en cuerpo, footer y nota narrativa.
+
+**Pendiente para próxima sesión:**
+- **Threading de "norte"/"lobito" en prosa** de capítulos (decidir el toque en el capstone vs. dejarlo a las escenas).
+- **Cimientos del mapa (auditoría):** Kyle↔Sai doméstico (inserciones en `FinalShape_AntesDelFinal`/`VuelveACasa`); Sai↔Ghost (1 beat); el "cuarto que fue suyo"/los jueves que el capstone afirma sin escena previa.
+- **Caso Crow día 5**: revisar si "mamá/papá" descriptivos se vuelven implícitos.
+- **Housekeeping**: enlazar la escena de Crow (`LoQueNoTuveQuePerdonar`) en `02_Characters/Crow.md`.
+- (Heredado) Famke ficha provisional pendiente de expansión; fichas `Amanda_Holiday` y `Glint` aún inexistentes.
+
+---
+
+## Sesión 2026-06-25
+
+### Ajustes y cimientos del arco de Sai
+
+Iteración sobre los diálogos de Sai para que la semana del duelo aterrice en base sólida y no se sienta forzada. El autor pidió: (1) volver implícito el parentesco; (2) subir la edad aparente de Sai; (3) fundar el romance con Crow, que la semana daba por establecido sin escena de origen; (4) un sistema de motes que diga el vínculo sin etiquetas.
+
+**CREADOS:**
+
+- **`05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar.md`** — escena fundacional, **el ORIGEN de Sai+Crow**. Funda "la gente que regresa reconoce a otra que regresó" que [[05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta|La Puerta Que Sigue Abierta]] y [[05_Dialogues/Dialogue_Guardian/Guardian_Crow_PostFinalShape_UnUltimoViaje|Un Último Viaje]] daban por hecho en retrospectiva. **Season of the Lost, Jardines de Esila, POV Sai** — misma temporada del rescate de Sai y del Crow más en carne viva (usado por Savathûn, empatía incómoda con ella). MOTOR = el don de Sai (lee a Crow sin querer, lo nombra; por primera vez nombrar no la aísla — lo alcanza). COLUMNA Savathûn (a petición del autor): "te aterra entenderla; crees que la empatía es una confesión — no lo es, entender es brújula, no contagio". El gatillo de Kyle (jaló sobre Uldren) ENTERRADO como ironía para el lector (paga en Un Último Viaje). NO romance aún (Amanda viva) — solo el reconocimiento. Anti-utilería: Sai gana lo suyo (la 1ª prueba de que no está sola en lo invisible; el don como puente). MOTIVO: los Jardines de Esila que el ciclo marchita y devuelve, espejo de los dos que vuelven.
+
+**MODIFICADOS:**
+
+- **`05_Dialogues/Dialogue_Sai/Sai_Petra_PostFinalShape_DondeSePonenLasManos.md`** — parentesco hecho IMPLÍCITO (quitadas las etiquetas literales madre/padre/hija → dicho por la acción: Kyle planta el árbol y sostiene la cabaña; Elsie "me corregía a media frase"/"el norte"; "los que te forjaron son tercos hasta la médula" incluye a Ghost, no "los Bray" — Kyle no es Bray). Línea 57 afinada ("Sosteniéndolo, como hace hoy todo el mundo menos yo" en vez del plano "Él es importante para mí"; "¿Qué clase de persona da media vuelta camino del hogar?"); tildes.
+- **Edad aparente de Sai: 16 → 19** (blindar el romance con Crow). 5 menciones: ficha de Sai + `Elsie_Sai…LoQueSostiene` + `Guardian_Sai…LasManosRecuerdan` + `Elsie_Sai…ElMapaNoLlegaAqui` ×2. Las "dieciséis líneas temporales" (Elsie/Kyle) NO se tocaron.
+- **`02_Characters/Sai.md`** — nombre completo **Saiidris Thelis, *la lectora del Plano*** ("Sai" = diminutivo); nueva sección **"Los nombres"** con el sistema de tres capas.
+- **`05_Dialogues/Dialogue_Sai/Sai_Elsie_PostFinalShape_LoQueSeDaSinPedirlo.md`** (el sueño, día 6) — aplicado el ritual: Elsie corrige con el nombre completo ("Así no, Saiidris"); Sai devuelve "Adiós, **Elizabeth**" y Elsie cierra "Hasta luego, Saiidris".
+- **`INDEX.md`** — añadida la escena de Crow al clúster Season of the Lost. **`CLAUDE.md`** — Estado del vault al día.
+
+**Decisiones de canon de la sesión:**
+- **Nombre real de Sai: Saiidris Thelis** ("Sai" diminutivo).
+- **Sistema de motes (3 capas):** *hacia Sai* — Kyle→"niña", Elsie→"norte chiquito" / "Saiidris" (sagrado). *De Sai* — a Elsie→"norte"/"mi norte" (cotidiano) / **"Elizabeth"** (sagrado) / "mamá" (regresión); a Kyle→**"lobito"** (cotidiano) / "papá" (regresión).
+- **"Elizabeth" deja de ser exclusivo de Kyle:** Elsie da su nombre real a DOS seres — esposo e hija. Eleva el vínculo Elsie↔Sai al registro sagrado de la pareja.
+- **"lobito" fundado:** Saladin nombró a Kyle Señor de Hierro (Rise of Iron, `Guardian.md`:856); es el más joven de ellos (los demás murieron con SIVA) → el lobo más joven. Asimetría temática: Kyle NO tiene nombre oculto (se construyó desde cero, sin un antes que enterrar).
+- **Sai+Crow se conocen en Season of the Lost (Jardines de Esila)** — sin mover fechas.
+
+**Pendiente para próxima sesión (lo que el autor pidió guardar):**
+- **Escena de ORIGEN de los ritos de nombre** (Elsie↔Sai y Kyle↔Sai): el día en que Sai empezó a llamarlos "norte"/"lobito" y Elsie le confió "Elizabeth". Mata dos pájaros: cimiento del vínculo + nacimiento de los nombres. (Acordado Opción A: guardar el cotidiano "norte"/"lobito" para esta escena, en vez de retrofitear las actuales.)
+- **Threading de "norte"/"lobito" en prosa**: decidir si un toque en el capstone ("Cómete algo, lobito") o esperar a la escena de origen. Conservar las regresiones deliberadas "mamá/papá" del sueño y el capstone.
+- **Cimientos del mapa (auditoría)**: Kyle↔Sai doméstico (inserciones en escenas post-rescato — `FinalShape_AntesDelFinal`/`VuelveACasa`); Sai↔Ghost (1 beat); el "cuarto que fue suyo"/"¿comiste?"/los jueves que el capstone afirma sin escena previa.
+- **Caso Crow día 5**: la conversación "lo de mis padres vs lo nuestro" usa mamá/papá descriptivos — revisar si se vuelve implícito.
+- **Housekeeping**: la escena de Crow ya está en "Aparece en" de la ficha de Sai; falta enlazarla en `02_Characters/Crow.md`.
+- (Heredado) Famke ficha provisional pendiente de expansión; fichas `Amanda_Holiday` y `Glint` aún inexistentes.
+
+---
+
+## Sesión 2026-06-24
+
+### La semana de Sai — el duelo paralelo (post-El Último Crepúsculo)
+
+Completar el arco de Sai en el duelo por Elsie: el reverso, de geometría OPUESTA, de la semana del pésame de Kyle (él se queda quieto y el mundo viene a la cabaña; ella no puede quedarse quieta y huye en el trabajo en Marte). Tres días ya existían sin registrar (Petra, Ikora, Saint, de sesión previa no logueada); esta sesión escribió los días 4-6, el capstone POV Sai, la ficha de Famke, y dio mantenimiento al INDEX (la sección `Dialogue_Sai` no existía).
+
+**Estructura del arco (6 días de huida + el cruce):** progresión física como latido — d1 no se levanta de la silla / d2 no va a la lanzadera / d3 hasta la puerta / d4 cierra la puerta falsa y acepta / d5 decide / d6 suelta y cruza.
+
+**CREADOS:**
+
+- **`05_Dialogues/Dialogue_Sai/Sai_Famke_PostFinalShape_LoQueElDeseoNoDevuelve.md`** — **día 4, el día oscuro**. Famke, Ahamkara joven hija de Riven, NO viene de visita: la atrae el deseo que Sai no se confiesa (Sai abre el don y busca a Elsie en el Plano — lo que Ikora le prohibió). Ofrece traer a Elsie de vuelta — la tentación más cercana de la semana (cancela el duelo, no lo atraviesa). Sai casi dice que sí y rechaza por triple razón canónica: (1) una apuesta Ahamkara devuelve "un hueco con su cara" — y Sai, de toda la gente, teme ser un reemplazo; (2) Elsie murió por ELECCIÓN ("el hogar que elegimos") — traerla deshace su última elección libre; (3) el agujero es lo último verdadero que le queda. Cierra la puerta falsa (inversión del motivo del umbral) y por fin llora: acepta la pérdida.
+- **`05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta.md`** — **día 5, la decisión**. Crow, pareja de Sai: amor JOVEN E INTENSO (no el de Kyle/Elsie) pero "de la misma madera" — validación pedida por el autor: "lo de tus padres no fue de verdad porque fuera callado, fue de verdad porque eligieron quedarse; te enamoraste de mí porque reconociste la cosa auténtica". NÚCLEO: Crow es el único ser vivo destruido por esa estirpe (fue Uldren, a quien RIVEN amplificó el deseo hasta quemarlo todo). MATIZ CAYDE (a petición del autor): un deseo IMPLÍCITO de Crow con la estirpe de Riven SÍ trajo a Cayde de vuelta en la Forma Final (Pale Heart) — distinción clave: hay deseos que traen a alguien "para quedártelo" (la trampa de Uldren / Famke) y deseos que lo traen "para soltarlo bien" (Cayde, por gracia, para una despedida; Crow lo dejó ir una 2ª vez); "lo que sana viene envuelto en un adiós, lo que condena en un para siempre". SELLO INDIRECTO (madurez del cazador, sin empujar): su puerta cerrada (Amanda) le muestra a Sai que la suya sigue abierta — "yo daría el universo por la puerta que llevas cinco días sin cruzar". Se niega a llevarla ("presentarse se hace con las propias piernas").
+- **`05_Dialogues/Dialogue_Sai/Sai_Elsie_PostFinalShape_LoQueSeDaSinPedirlo.md`** — **día 6, "el sueño del don"** (sembrado por Ikora y Crow). El reverso exacto de la apuesta de Famke: donde la Ahamkara exigía "pide un deseo", esto se da sin pedirlo. Sai se da el día para JUNTARSE no huir (Petra: "estar lista es puntería"); duerme sin huir y NO abre el don — y precisamente por no pedir, le es dado. Elsie viene en sueños, blindada contra la trampa: honestidad ontológica ("soy lo que tu don alcanza de mí, no todo pero tampoco nada"), no se deja agarrar ("vine a que me sueltes bien"), envuelta en adiós. Entrega la tesis del arco de Sai ("el don nunca fue la herida; la herida era estar SOLA con él") y el mensaje de El Último Crepúsculo ("no me llores quieta, llórame caminando; ya llegué, me fui llegada, gané"). Sai SUELTA (abre las manos, como Crow soltó a Cayde) y honra la advertencia de Ikora (no se lanza al Plano a buscar el eco). Cruza: "Mañana fue la mentira del día 2. Hoy."
+- **`05_Dialogues/Dialogue_Sai/Sai_Guardian_PostFinalShape_LoQueTrajeDeVuelta.md`** — **capstone, día 7, POV Sai** — el reverso interior de [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PostFinalShape_LaHijaQueElegimos|La Hija Que Elegimos]] (que ya cubría la llegada por lo que revela a KYLE). Decisión de diseño: NO redundante — aquella muestra a Kyle contándole su semana; esta es la mitad de ELLA de esa misma conversación, que carga lo que la otra no podía (se escribió antes de la semana de Sai). EJE: Sai como mensajera — no trajo a Elsie de vuelta (pudo; dijo que no), trajo "lo único real que se trae de los muertos: sus palabras". Beats únicos: confesión de Famke (Kyle cruza horror+deseo → alivio/orgullo: "esa es exactamente su hija"); el sueño y el GIRO AGRIDULCE que lo salva de lo sentimental ("¿por qué a ti y no a mí?" leído por Sai → "no vino a mí, me mandó a ti, el recado era tuyo"); entrega del mensaje; ironía dramática del "¿comiste?" (Elsie lo predijo en el sueño; Sai lo dice sin saberlo).
+- **`02_Characters/Famke.md`** — ficha nueva (antes pendiente en tres semillas). Ahamkara joven, hija de Riven, nacida tras la Gran Cacería. Construida como ESPEJO OSCURO de Sai (don/naturaleza que llegó antes que la madurez; lo último de su estirpe; soledad heredada). NO villana (regla de Riven: no malicia, amplifica el deseo); la edad la hace más sincera, más hambrienta y —clave para la escena— más alcanzable (un "no" con compasión la toca). **Estado: provisional, pendiente de expansión.**
+
+**MODIFICADOS:**
+
+- **`05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta.md`** — insertado el matiz Cayde (a petición del autor) y reconciliado el párrafo de Amanda (Crow SABE que un deseo puede devolver a alguien y aun así no fue a buscar uno para ella — "dejé su puerta cerrada, por amor no a pesar de él"). Marco del vault verificado: el regreso de Cayde es en el Pale Heart = reconciliación/"último regalo", no restauración — la capa del deseo implícito explica el mecanismo sin contradecirlo.
+- **`INDEX.md`** — nueva sección `## Dialogue_Sai` (los 7 archivos del arco, incluidos los 3 previos sin registrar); `Dialogue_Sai/` añadida a la lógica de carpetas; Famke añadida a Main Characters (marcada como ficha provisional).
+- **`CLAUDE.md`** — Estado del vault al día (escenas y personajes recontados; última sesión).
+
+**Decisiones de canon de la sesión:**
+- **Famke = hija de Riven**, nueva criatura; el deseo Ahamkara como eje del "día oscuro".
+- **El regreso de Cayde (Forma Final) como deseo implícito de Crow** canalizado por la estirpe de Riven — articula la distinción "quedárselo vs. soltarlo bien" que ordena toda la semana y siembra el día 6.
+- **El sueño del día 6 NO es Elsie literal devuelta**, sino "lo que el don alcanza" — honesto sobre ser un fragmento, por gracia y para despedida (modelo Cayde). Reverso de Famke.
+- **El capstone POV Sai complementa, no reemplaza, La Hija Que Elegimos** — dual-POV del mismo día 7 (precedente del vault: El Último Crepúsculo ×3, etc.).
+
+**Pendiente para próxima sesión:**
+- **`02_Characters/Famke.md` — ficha provisional, pendiente de expansión** (debutó esta sesión; falta llevarla al nivel de las fichas mayores). Marcada como tal en INDEX.
+- Fichas aún inexistentes enlazadas por las escenas nuevas: `02_Characters/Amanda_Holiday.md` y `02_Characters/Glint.md` (ya eran enlaces pendientes desde `Guardian_Crow_PostFinalShape_SinSaberQueLohacia`).
+- Sesiones previas sin loguear (semana del pésame de Kyle, ~2026-06-23) no documentadas aquí; los conteos del vault sí están al día.
+
+---
+
 ## Sesión 2026-06-11 (continuación 3)
 
 ### Unificación de grafía — "Elizabeth"
@@ -959,3 +1106,151 @@ Añadida navegación cronológica `← →` en todos los archivos para cadena co
 - **Contenido saga principal:** sala de estatuas (Final Shape), regreso de Kyle, Gambito enfrentamiento final, viñetas Símil del Sueño y Wrath of the Machine
 
 ---
+
+## [2026-06-19] escena + corrección canon | Lightfall: "No Vayas a Morir" (Guardian & Elsie)
+
+Nueva escena dual-POV `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Lightfall_NoVayasAMorir.md`: antesala del abordaje del Typhon Imperator. Elsie llega de coordinar la defensa de Neomuna con Nimbus y Osiris tras la muerte de Rohan; Kyle llega de sobrevivir por poco a un Tormentor (Ghost lo saca) con la revelación de que el Testigo quiere *usar* el Viajero, no destruirlo. Centro: "No vayas a morir." / "No puedes matar algo que ya vive en memorias." — bravata de Kyle que aterriza como el peor miedo de Elsie (ella es quien carga las memorias de todos los Kyle muertos).
+
+**Corrección de canon** en `01_Timeline/Age_XII_The_Blasphemous_Dawn.md`: Ghost **no muere en Lightfall**. Cap. 34 reescrito de "The Death of a Friend" → "The Edge of Losing Him" (casi-muerte, no muerte; la primera Prismática involuntaria se mantiene pero nace de *no perderlo*). Cap. 35 reescrito para centrar el dilema del enlace (el Testigo usa a Ghost como canal Velo↔Viajero; Kyle no puede destruirlo; elige a Ghost; el portal se abre) y la revelación "usar, no destruir". La muerte de Ghost queda confirmada como sacrificio elegido **años después de Final Shape**, en el arco Post-Gambito (`Dialogue_Ghost/Ghost_PostGambito_LaConclusion` + `LaUltimaResurreccion`). Nota de corrección dejada en la página.
+
+INDEX.md: añadida sección "Lightfall — la antesala del Typhon" en Dialogue_Guardian_Elsie.
+
+## [2026-06-19] pendientes resueltos | Ficha de Rohan + renombrado del enlace de Ghost
+
+Creada ficha `02_Characters/Rohan.md`: Cloud Strider veterano de Neomuna, mentor de Nimbus. Anclado a su función narrativa — es "la primera muerte que Elsie no pudo predecir" (el mapa se acabó en Lightfall), lo que prepara el terror de dejar ir a Kyle al Typhon. Enlazado desde la escena `Guardian_Elsie_Lightfall_NoVayasAMorir` y desde INDEX (Main Characters).
+
+Renombrado el enlace en `Age_XII_The_Blasphemous_Dawn.md`: `Guardian_Ghost_Lightfall_LaMuerte` → `Guardian_Ghost_Lightfall_Destrozado` (coherente con el nuevo canon: Ghost no muere, queda destrozado/al borde). La escena de diálogo aún no existe; el enlace marca el beat pendiente.
+
+## [2026-06-19] semilla canon | El inicio real de la guerra (final de Seraph → Lightfall)
+
+Canonizada la transición Season of the Seraph → Lightfall en `Age_XI_The_Long_Descent.md` (cap. 32 "The Weight of Winter") y enganchada en `Age_XII_The_Blasphemous_Dawn.md` (cap. 33). El final de Seraph deja de ser cierre de temporada y se vuelve el inicio REAL de la guerra: campaña espacial (Pirámides vs. flota de la Coalición), poblados civiles atacados fuera de la Última Ciudad, la caída de Rasputin con consecuencia estructural (sin escudo orbital → semilla de Season of Defiance), y la guerra psíquica semi-percibida por Mara.
+
+Semilla clave del reparto de escuadra: Jaden y Carina pelean junto a Kyle en el aire; cuando el Typhon Imperator de Calus escapa a Neomuna, Kyle queda en la encrucijada (perseguir a Calus vs. salvar inocentes) y Carina le dice "Síguelo" — ella y Jaden sostienen la batalla de la Tierra. Esto JUSTIFICA que Kyle entre a Lightfall sin su escuadra. Fichas de `Carina.md` y `Jaden.md` actualizadas con el beat ("El umbral de Lightfall"). Memoria del roster (Age XI y XII) actualizada.
+
+## [2026-06-19] ajuste canon | Leviatán vs. Typhon + asedio de Xivu Arath a la Última Ciudad
+
+`Age_XI_The_Long_Descent.md` cap. 29 ajustado: el Leviatán es un casco abandonado/embrujado sobre la Luna (desierto desde el final de Season of the Hunt), corrompido por las Pirámides como amplificador de Pesadillas — ya NO es la nave activa de Calus. Calus opera desde el Typhon Imperator. Corregidas todas las apariciones donde se llamó "Leviatán de Calus" a la nave que escapa a Neomuna (ahora Typhon) en Age XI/XII, fichas de Carina y Jaden, memoria del roster y log.
+
+Cap. 32 reforzado: el asedio a la Última Ciudad ahora lo lideran los lugartenientes de Xivu Arath (guerra como fe). Por primera vez desde la Red War, todos los Guardianes —incluso Cazadores— regresan a defender el hogar para no volver a perderlo. Eso carga de urgencia la encrucijada de Kyle: se va solo justo cuando todos eligen quedarse. Memoria del roster (Age XI) actualizada con Xivu Arath.
+
+## [2026-06-19] capítulo escrito | Cap 32 — The Last Theorem of War (final de Season of the Seraph)
+
+Redactado `10_Chapters/Age_XI/Cap_32_The_Last_Theorem_of_War.md` (status: borrador), antes pendiente. Título adoptado del Borrador_Cronologia_Pt2 ("The Last Theorem of War") manteniendo la numeración del vault (Cap 32, Age XI); el stub previo se llamaba "The Seraph". Títulos de sección en inglés. El final de Seraph como el inicio REAL de la guerra. Seis secciones: (I) Rasputin avisa sin pedir ayuda — Ana lo traduce; (II) Eramis presionada, cansada del Testigo, baja las defensas de los Segadores lo justo — no redención, una mujer eligiendo no terminar de obedecer; (III) el sacrificio sin testigos de Rasputin (apaga ULDREN y los Segadores, se apaga él) — "grandeza sin audiencia"; (IV) el Viajero abandona la Última Ciudad y sube a órbita — eco del Colapso eliksni: la humanidad vive por fin lo que sintieron los Eliksni; (V) la Flota Negra rodea al Viajero + Xivu Arath inicia la invasión de fe a la Ciudad, todos los Guardianes (incluso Cazadores) regresan; (VI) umbral: el Typhon de Calus rompe el cerco hacia Neomuna y la decisión de Kyle queda en el aire — termina justo antes del "Síguelo".
+
+Puntero hacia escena futura `Dialogue_Guardian/Guardian_Equipo_Seraph_ElSiguelo` (la despedida de la escuadra). CLAUDE.md: estado del vault actualizado (10 caps escritos, 128 escenas, 66 personajes, última sesión).
+
+## [2026-06-19] escenas + contabilidad | Bloque Seraph (4 escenas) y cierre de índices
+
+Cuatro escenas nuevas que dramatizan el final de Season of the Seraph (apoyando el Cap 32, *The Last Theorem of War*):
+
+- `05_Dialogues/Dialogue_Elsie/Elsie_Ana_Seraph_AdiosRojo.md` — a bordo del HELM en órbita; Rasputin con voz y cuerpo en el exoframe de Clovis Bray; Ana lo apaga para autodestruir la red de satélites secuestrada antes de que dispare al Viajero; "Adiós, rojo"; Elsie llega sin mapa, solo presencia, a sostener a su hermana. Carga Bray: apaga a su familia real en el cuerpo de su miedo (Clovis).
+- `05_Dialogues/Dialogue_Guardian/Guardian_Eramis_Seraph_ElInterruptor.md` — simultánea; Kyle y Mithrax alcanzan a Eramis con el interruptor; el Testigo la presiona; no aprieta (no redención, primer "no terminar de obedecer"); Mithrax "puedes mostrarles un camino mejor" / Kyle "lo que pase ahora está en tus manos".
+- `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Seraph_ElCanal.md` — justo después del inicio del asedio; diálogo por canal: Kyle en la batalla aérea, Elsie en consola del HELM evacuando civiles a esquifes Eliksni y cruceros Cabal; asimetría de la pareja hecha acción; solo ella dice "Kyle"; payoff de las alianzas.
+- `05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Seraph_ElSiguelo.md` — la batalla sobre la Tierra; el Typhon huye a Neptuno; Carina lee el titubeo de la nave de Kyle y dice "Síguelo"; Jaden "esta vez el flanco es un planeta"; Kyle se va solo cuando todos se quedan. Empalma con `Guardian_Elsie_Lightfall_NoVayasAMorir`.
+
+Las dos primeras son las dos mitades del mismo instante (Eramis a punto de disparar / Rasputin destruyendo la red); ambas cierran en el mismo cielo (Flota Negra rodeando al Viajero + legiones de Xivu sobre la Ciudad).
+
+**Contabilidad cerrada:** INDEX.md — añadidas secciones "Season of the Seraph" en Dialogue_Guardian, Dialogue_Elsie y Dialogue_Guardian_Elsie; título del Cap 32 actualizado a *The Last Theorem of War* y marcado como escrito. CLAUDE.md — escenas 128→132 (Dialogue_Guardian ×71 · Dialogue_Elsie ×22 · Dialogue_Guardian_Elsie ×29 · Dialogue_Ghost ×4 · Renacimientos ×6); nota de última sesión actualizada. Memoria: feedback de títulos de sección en inglés guardado.
+
+## [2026-06-19] añadido | Xivu Arath profana la vieja Torre (en El Síguelo)
+
+Añadido a `Guardian_Equipo_Seraph_ElSiguelo.md` un beat cruel y colectivo: la silueta de fuego del alma de Xivu Arath se alza sobre la vieja Torre (la cicatriz de la Guerra Roja nunca reconstruida), declara su monólogo en inglés ("I am Strife. / I am Death. / I am Xivu Arath. / And I am your end." + himno "Raise your voices... / Sing a hymn... / ...to the Goddess of War."), y la derrumba con una espada colosal abriendo la brecha de la muralla. El golpe es a la memoria, no al cuerpo; silencia incluso a Carina y a Jaden, y luego fija la decisión de todos de quedarse — lo que hace que la partida de Kyle duela el doble. Eco en la sección V del Cap 32 (The Last Theorem of War) con pointer a la escena. Conexión añadida a Age_V_The_Red_War y Xivu_Arath.
+
+## [2026-06-19] añadido | Contraste del ascenso (en El Síguelo)
+
+Añadido a `Guardian_Equipo_Seraph_ElSiguelo.md` un destello de contraste: al cruzar la estratosfera tras Calus, Kyle ve cientos de Guardianes bajando a la Última Ciudad a defenderla. Oposición direccional (él arriba/solo/al vacío; ellos abajo/juntos/a casa); no set-piece, solo gente poniendo el cuerpo entre la muerte y su hogar. Kyle se guarda la imagen como la razón de irse solo. Nota en la semilla.
+
+## [2026-06-20] decisión de canon | Neomuna = mito no confirmado (anti deus ex machina)
+
+Decidido cómo manejar Neptuno/Neomuna al final de Seraph: Neomuna existe como rumor/colonia perdida que la Vanguardia archivó como mito (siembra a nivel mundo, no de personaje). Kyle salta a ciegas tras el Typhon hacia Neptuno, donde —hasta donde cualquiera sabe— no hay nada; el reveal en Lightfall lee como "el rumor era cierto", no como ciudad surgida de la nada. Ajustes: `Guardian_Equipo_Seraph_ElSiguelo.md` (bloque de contexto + línea de Ghost "no hay nada ahí afuera... ¿por qué huiría hacia la nada?"; destino desconocido para Kyle, coherente con la edición previa del usuario). `Age_XII_The_Blasphemous_Dawn.md` cap. 33: Neomuna enmarcada como el rumor confirmado, no deus ex machina. Pendiente opcional: sembrar el rumor en una escena anterior (Osiris/Vanguardia) para reforzar el world-building antes del payoff.
+
+## [2026-06-20] siembra + inicio de capítulo | Osiris/Neomuna y Cap 33
+
+Nueva escena `05_Dialogues/Dialogue_Guardian/Guardian_Osiris_Seraph_LaColoniaPerdida.md`: Osiris siembra a nivel mundo el rumor de la colonia perdida (Neomuna) que persiguió once años y archivó como mito; da el nombre para el payoff, pero sin saber que el Typhon irá allí (Kyle sigue saltando a ciegas). Evita el deus ex machina del canon.
+
+Escrito el inicio de `10_Chapters/Age_XII/Cap_33_The_Blasphemous_Dawn.md` (status: pendiente → borrador): secciones I "A Rumor Made True" (llegada a Neptuno, la ciudad imposible, "Osiris tenía razón", Neomuna) y II "What the Witness Came For" (el Velo como contraparte del Viajero, el cerco que toma en vez de aniquilar, confirmación de "usar, no destruir"). Títulos de sección en inglés. Queda pendiente el resto del capítulo según la estructura de Lightfall a definir.
+
+## [2026-06-20] reestructuración mayor | Lightfall expandido 3→7 capítulos (+ renumerado +4)
+
+Lightfall (Age XII) pasa de 3 a 7 capítulos absorbiendo los 8 actos del Borrador_Lightfall_Reimaginado:
+- Cap 33 The Blasphemous Dawn (inicio escrito) · 34 The Hunger in Ambition · 35 The Irony of Pure Grace · 36 The Anatomy of a Phantom · 37 The Sovereignty of Panic · 38 The Parable of the Trigger · 39 The Last Breath of the Empire (34–39 en esquema con beats).
+
+Renumerado +4 de todo lo posterior (operación en orden descendente para evitar colisiones): Cap_36–55 → Cap_40–59. Tocado:
+- 20 archivos de capítulo renombrados (git mv) + frontmatter/H1 regenerados (y arreglado el em-dash mal codificado de los stubs).
+- Páginas de Timeline Age XIII–XVIII: líneas de rango "Capítulos X a Y" y encabezados "### NN." +4. Age XII reescrita a 7 beats con todas las correcciones de canon.
+- Refs externas: Cap_55_El_Gambito_Concluye → Cap_59 (3 archivos).
+- INDEX.md: rangos de Timeline y de carpetas de capítulos; conteo "55 → 59 capítulos".
+- CLAUDE.md: saga 56 → 60; capítulos escritos 11 de 60; escenas 133.
+
+Verificado: capítulos 33–59 contiguos, sin huecos/duplicados, sin referencias rotas a la numeración vieja.
+
+## [2026-06-20] reescritura | Cap 32 (The Last Theorem of War) — versión completa
+
+Rehecho `10_Chapters/Age_XI/Cap_32_The_Last_Theorem_of_War.md` integrando todas las adiciones posteriores, ahora como plano general que cose las 5 escenas:
+- §I Rasputin **embodied** en el exoframe de Clovis (corregido: ya no "sin cuerpo"); avisa; Kyle parte hacia Eramis.
+- §II "The Switch": Eramis con el interruptor que dispararía los satélites al Viajero; Kyle+Mithrax la alcanzan; no aprieta → ElInterruptor.
+- §III "The Last Theorem": el teorema de Rasputin (destruir los satélites y a sí mismo); Ana lo apaga ("Adiós, rojo") en el HELM; el interruptor muere en la mano de Eramis en simultáneo → AdiosRojo. El precio: la Tierra sin escudo.
+- §IV el Viajero parte (eco eliksni).
+- §V el asedio + Torre de Xivu + **nueva evacuación** (Elsie, esquifes Eliksni/cruceros Cabal, payoff de alianzas) → ElCanal.
+- §VI umbral: el Typhon huye a Neptuno; **eco de la siembra de Osiris** (Kyle recuerda la leyenda/Neomuna, salta a ciegas) → LaColoniaPerdida; "Síguelo" → ElSiguelo; resolución completa (Kyle se va solo, contraste del ascenso) y cierre que empalma con Cap 33.
+
+Apunta a las 5 escenas + Cap 33. Sin cambio de conteos (Cap 32 ya contaba como escrito).
+
+## [2026-06-20] añadido | El despertar de Nezarec como clímax de Cap 33
+
+A petición del usuario, el momento del despertar de Nezarec (el Viajero golpea al Testigo con Luz pura → el Testigo la redirige por el Velo → atraviesa la esencia de Nezarec → despierta por accidente) se escribe como §III "The Blasphemous Dawn" de `Cap_33`, dándole al capítulo el sentido de su título (el alba de la blasfemia). Antes estaba asignado al esquema de Cap 35.
+
+Re-encaje sin renumerar: Cap 34 (Hunger in Ambition) pasa de "el miedo previo de Calus" a "Calus consumido/poseído" (consecuencia del despertar); Cap 35 (Irony of Pure Grace) pasa de "el evento" a "la anatomía/ironía de lo nacido" (Nezarec como contradicción Luz+Oscuridad; primeras pesadillas → puente al cap. 37). Beats 33–35 de la página de Timeline Age XII actualizados; memoria de cronología actualizada. Arreglada una duplicación de sección en Cap 35.
+
+## [2026-06-20] cierre de sesión — resumen
+
+Sesión dedicada al bloque Seraph→Lightfall. Lo producido y consolidado hoy:
+
+**Escenas nuevas (Seraph):** Guardian_Osiris_Seraph_LaColoniaPerdida (siembra de Neomuna). (Las de la sesión 06-19 —AdiosRojo, ElInterruptor, ElCanal, ElSiguelo, NoVayasAMorir— ya estaban.)
+
+**Capítulos:**
+- Cap 32 (The Last Theorem of War) rehecho como versión completa que cose las 5 escenas (Rasputin embodied en exoframe de Clovis, evacuación de ElCanal, siembra de Osiris, resolución completa).
+- Cap 33 (The Blasphemous Dawn) escrito §I–III: llegada a Neomuna ("el rumor era cierto") + el Velo + **el despertar de Nezarec** como clímax.
+- Lightfall expandido 3→7 capítulos (33–39) con esquemas de beats; renumerado +4 de todo lo posterior (Cap_36–55 → Cap_40–59) con frontmatter, Timeline XIII–XVIII, INDEX, refs externas y CLAUDE.md.
+
+**Decisiones de canon:** Neomuna = mito sembrado (anti deus ex machina), Kyle salta a ciegas; el despertar de Nezarec vive en Cap 33 (título = alba de la blasfemia), 34 = Calus poseído, 35 = ironía/naturaleza.
+
+**Estado:** saga 60 caps; 11 escritos; 133 escenas. **Pendiente:** prosa de caps 34–39; escena Guardian_Ghost_Lightfall_Destrozado.
+
+## [2026-06-20] escena | Kyle & Elsie — Year of the Witch: Sin Mapa (cruce a Amor)
+
+Nueva escena `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Hunt_SinMapa.md`: el pivote canónico a la Fase 4 (Amor, transición 7), en la quietud temprana de Age IX tras Beyond Light. La inversión: Elsie pierde el mapa (instrumentos apagados = armadura perdida) y Kyle, que nunca tuvo certeza, le muestra cómo estar en el no-saber sin resolverlo. La asimetría hecha texto ("él ya estaba aquí, esperándola"). No es declaración —el "te amo" es Final Shape—; el equivalente es "ya lo sé" dicho como un *me quedo*. INDEX: nueva sección "The Year of the Witch — el cruce a Amor". Escenas 133→134 (Dialogue_Guardian_Elsie ×30).
+
+## [2026-06-20] escena | Kyle & Elsie — Year of the Witch: El Frío Conocido (la Oscuridad en él)
+
+Nueva escena `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Chosen_ElFrioConocido.md` (seed 2): Elsie ve a Kyle usar Estasis y reconoce el frío de los Kyle que enterró en otras líneas (Lost_Guardians). Reabre la tensión proteger-vs-controlar y la resuelve un grado: sin mapa (tras Sin Mapa) no puede "cortar antes", así que elige confiar sin pronóstico. Filo temático: Kyle le devuelve su lección de Estasis ("la Oscuridad responde a quién eres") — confiar en él es confiar en que lo que ella le enseñó prendió, algo que los Kyle perdidos no tuvieron porque llegaron al frío solos. "Prefiero mirarte sin saber a vigilarte sabiendo." Amor sin ilusión, sin "te amo". Distinta de BeyondLight_Estasis (esa es la lección; esta es el miedo/confianza). INDEX (sección Year of the Witch), escenas 134→135 (Dialogue_Guardian_Elsie ×31).
+
+## [2026-06-20] escena + corrección de continuidad | El primer "Kyle" en la línea principal
+
+El usuario detectó que no existía escena dedicada al primer "Kyle" de Elsie en la línea principal (el archivo UltimoGuardian_ElNombre es la línea ALTERNA), y que el canon estaba contradictorio: la convención decía "desde Beyond Light" pero las escenas de Beyond Light no tenían ningún "Kyle" (0 ocurrencias), y Final Shape afirmaba "primera vez en la línea principal" — además mis dos escenas de Age IX (SinMapa, ElFrioConocido) ya la tenían diciéndolo.
+
+Resolución (escena dedicada nueva): `Guardian_Elsie_BeyondLight_ElNombre` — el primer "Kyle" de la línea principal, privado, en un transmat de Europa, como cierre del arco del reencuentro. El nombre como armadura soltada; espejo cruzado con la línea alterna. Esto deja consistentes SinMapa/ElFrioConocido (ella ya lo dice en privado desde Beyond Light). **Reformulado Final Shape** (Elsie POV: cuerpo + semilla) de "primera vez en la línea principal" → "primera vez junto al 'te amo' por fin pronunciado". INDEX y memoria `feedback-kyle-name-convention` corregidos (tres momentos del nombre: privado en Beyond Light → uso en Age IX → en voz alta con te-amo en Final Shape). Escenas 135→136 (Dialogue_Guardian_Elsie ×32).
+
+## [2026-06-20] decisión de canon | El nombre de Kyle = bucle sin origen (no resolver)
+
+Pregunta del usuario: cómo descubre Kyle su nombre. Decisión: se MANTIENE como bucle causal cerrado sin primera fuente (Ghost lo dice → Elsie lo carga entre líneas → Kyle se lo da en la alterna → ella lo devuelve en la principal). No se escribe escena de descubrimiento ni se le da origen (ni Velo, ni vida pre-Colapso). Coherente con la tesis: el origen no importa; Kyle no descubre su nombre, crece hasta merecerlo. El pasado humano (mujer y niña bajo el árbol; voz de la niña vía Velo) queda como hilo separado, no como origen del nombre. Blindado en la memoria feedback-kyle-name-convention.
+
+## [2026-06-20] reconciliación de canon | El mapa de Elsie: pérdida (The Last Reset) + mapa nuevo de personas
+
+Corregido un error de continuidad que yo había introducido (poner la pérdida del mapa en Age IX). Canon correcto, según marco del usuario: el mapa de líneas se pierde en `The_Last_Reset` (Europa, durante la ausencia, antes del reencuentro de Beyond Light); Elsie vuelve YA sin mapa. Desde ahí construye un mapa NUEVO, de personas (Kyle, Ghost, Ana, Mara, Osiris): el viejo era para sobrevivir el futuro, el nuevo para vivirlo. El miedo al apego se disipa porque sin tablero/reinicio ya no hay a dónde huir.
+
+Cambios:
+- `Sin Mapa` (Age IX): reescrito — ya no es el shock de la pérdida (vieja) sino el descubrimiento del mapa-personas; añadido el beat "ya no hay a dónde huir / el miedo al apego pierde su escape". Contexto y semilla actualizados.
+- `BeyondLight_ElNombre`: corregida nota errónea ("todavía no ha perdido el mapa" → ya está sin mapa; el nombre = primer trazo del mapa-personas).
+- Lightfall (Age XII timeline beat 39 + Tema/Arcos/Notas + Cap 39 esquema): "pierde el último fragmento del mapa" → ya no aplica; se arroja al Velo POR Ghost (una persona), prueba de la brújula nueva; el Velo le deja "el vacío que canta".
+- Cap 32 §IV: canonizado el intercambio Eramis/Testigo sobre el Viajero — "¿Por qué no huye?" / "Porque ya no tiene a dónde huir" — espejo cósmico del arco de Elsie; enlazado a la biblia.
+- `00_Biblia/Elsie_ElMapaYLaPregunta`: nueva sección "El Mapa Nuevo: Las Personas" (vivir vs sobrevivir; miedo al apego; espejo del Viajero; consecuencia para Witch Queen/Lightfall/Final Shape) + fila en la tabla + regla de escritura.
+- Memoria `project-elsie-protagonist`: integrado el mapa-personas como redención de `La_Construccion_Del_Mapa` (su error más costoso); regla "no escribir 'pierde el mapa' post-Europa".
+
+## [2026-06-20] escena | Kyle & Elsie — Splicer: Mientras Dura la Noche (eslabón cálido)
+
+Nueva escena `Guardian_Elsie_Splicer_MientrasDuraLaNoche.md`: el momento cálido que faltaba entre ElFrioConocido y PrimerFractura, para darle peso a la fractura y preparar la corona de LaAurora. Calidez específica (la taza "para sostener, no para beber" = Kyle aprende el dato inútil; el mapa-personas de Elsie tomando forma). La línea de falla en miniatura: Elsie repite la salida 4 veces (vigilar, no mirar), con la herida de **Shadowkeep** debajo — la única vez que lo dejó solo de verdad él casi se perdió en la Luna, y ella no estuvo (eco directo de lo que SÍ hará en la red Vex en PrimerFractura). Detalle Shadowkeep vago a propósito (pendiente de desarrollo). Cierra invirtiendo el callback de la taza del Último Guardián: la sostiene hasta enfriarse, pero esta vez no sola. INDEX (Splicer), back-link en PrimerFractura, escenas 136→137 (Dialogue_Guardian_Elsie ×33).
+
+## [2026-06-20] escena | Kyle & Elsie — Chosen: Lo Que No Pesó (residuo de Shadowkeep)
+
+Nueva escena `Guardian_Elsie_Chosen_LoQueNoPeso.md`: el residuo MORAL de Shadowkeep (distinto de ElFrioConocido, que es el poder/Oscuridad). Tras una Cacería Imperial, Kyle termina a un Centurión vencido con margen de rendición — tácticamente defendible, pero lo deja pasar A LA LIGERA, sin el peso que el Kyle de antes ("toda vida puede salvarse") habría cargado. "No te diste cuenta de que no esperaste." Elsie lo registra por la levedad, no por el acto. Doble elección de no cruzar el borde: ella no empuja (sería repetir el error de superponer/controlar de ElFrioConocido, y la obliga a admitir que NO ESTUVO cuando ocurrió en la Luna), él no abre la puerta. "Está bien / Lo sé / No lo estaba, y los dos lo sabían." Rodean la "habitación cerrada con la palabra Luna". Detalle Shadowkeep vago (pendiente de desarrollo) — deuda narrativa plantada. Cadena Age IX ahora: SinMapa → ElFrioConocido → LoQueNoPeso → MientrasDuraLaNoche → PrimerFractura → LaAurora. INDEX, escenas 137→138 (Dialogue_Guardian_Elsie ×34).

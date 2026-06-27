@@ -1,12 +1,12 @@
 ---
-title: "Cap 41 â€” The Cartography of Memory"
+title: "Cap 45 — The Cartography of Memory"
 type: chapter
 age: "[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]"
-chapter: 41
+chapter: 45
 status: pendiente
 ---
 
-# Cap 41 â€” The Cartography of Memory
+# Cap 45 — The Cartography of Memory
 
 *[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#Diálogos relacionados]])*

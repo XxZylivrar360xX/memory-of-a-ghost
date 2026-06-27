@@ -1,12 +1,12 @@
 ---
-title: "Cap 44 â€” The Long Way Home"
+title: "Cap 48 — The Long Way Home"
 type: chapter
 age: "[[01_Timeline/Age_XV_Excision]]"
-chapter: 44
+chapter: 48
 status: pendiente
 ---
 
-# Cap 44 â€” The Long Way Home
+# Cap 48 — The Long Way Home
 
 *[[01_Timeline/Age_XV_Excision]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XV_Excision#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XV_Excision#Diálogos relacionados]])*

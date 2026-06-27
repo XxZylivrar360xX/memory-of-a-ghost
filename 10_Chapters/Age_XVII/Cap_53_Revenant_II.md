@@ -1,12 +1,12 @@
 ---
-title: "Cap 49 â€” Revenant II"
+title: "Cap 53 — Revenant II"
 type: chapter
 age: "[[01_Timeline/Age_XVII_Revenant]]"
-chapter: 49
+chapter: 53
 status: pendiente
 ---
 
-# Cap 49 â€” Revenant II
+# Cap 53 — Revenant II
 
 *[[01_Timeline/Age_XVII_Revenant]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XVII_Revenant#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XVII_Revenant#Diálogos relacionados]])*

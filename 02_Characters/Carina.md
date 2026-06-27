@@ -52,6 +52,18 @@ Eso es lo que Cayde hacía. Y Carina ni siquiera lo sabe.
 
 ---
 
+## El umbral de Lightfall — "Síguelo"
+
+Al final de Season of the Seraph, cuando la guerra deja de ser preparación y se vuelve frente abierto, Carina y Jaden pelean junto a Kyle en el aire contra la Flota Negra sobre la Tierra. Entonces el Typhon Imperator de Calus rompe la línea y escapa hacia Neomuna, y Kyle queda partido: perseguir a Calus o quedarse a proteger a los poblados que la caída de Rasputin dejó expuestos.
+
+Es Carina quien lo resuelve por él. *Síguelo.* Ella y Jaden se quedan con la batalla de la Tierra.
+
+Es coherente con quién es: Carina lee a las personas para encontrar lo que vale la pena, y lee a Kyle en ese segundo sabiendo exactamente lo que está sacrificando al dejarlo ir solo —pero también sabiendo que él no se perdonaría quedarse mientras Calus escapa hacia algo peor. No es un gesto heroico de despedida. Es la última decisión correcta dicha rápido, sin drama, para que él no tenga que cargar también con haberla tomado.
+
+Esa elección es la razón por la que Kyle enfrenta Lightfall sin su escuadra. Ver [[01_Timeline/Age_XI_The_Long_Descent]] y [[01_Timeline/Age_XII_The_Blasphemous_Dawn]].
+
+---
+
 ## Lo que construye
 
 Carina no deja ecos filosóficos. Deja algo más simple y más difícil de reemplazar: la evidencia de que se puede ser completamente honesto con alguien sin que eso los destruya a ninguno de los dos.

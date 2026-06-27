@@ -1,12 +1,12 @@
 ---
-title: "Cap 37 â€” Into the Deep"
+title: "Cap 41 — Into the Deep"
 type: chapter
 age: "[[01_Timeline/Age_XIII_The_Road_to_the_End]]"
-chapter: 37
+chapter: 41
 status: pendiente
 ---
 
-# Cap 37 â€” Into the Deep
+# Cap 41 — Into the Deep
 
 *[[01_Timeline/Age_XIII_The_Road_to_the_End]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIII_The_Road_to_the_End#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIII_The_Road_to_the_End#Diálogos relacionados]])*

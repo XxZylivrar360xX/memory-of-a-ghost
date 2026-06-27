@@ -544,6 +544,33 @@ Esa es la decisión de quedarse.
 
 ---
 
+# Los Dos Reconocimientos
+
+Reconocer ≠ declarar ≠ sentir. El **sentimiento** crece a la par en los dos, estructural, desde antes de que ninguno lo nombre. La **declaración** es una sola y tardía: el *"te amo"* de Elsie en [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa|Vuelve a Casa]] (Final Shape). Entre medias está el **reconocimiento** — el instante en que cada uno *se da cuenta* —, y es **asimétrico**: Kyle primero, Elsie años después. Que estén alejados no es defecto de ritmo: es el contenido. El sentimiento es simétrico; la conciencia de él no. Y un detalle común: ninguno se reconoce en soledad — a cada uno lo destapa su familia.
+
+## El reconocimiento de Kyle — pre-Shadowkeep (Etapa 6, Apego)
+**Se oye describirla y entiende lo que siente.**
+
+Una fogata con la escuadra, días antes de que Elsie se vaya el año de Shadowkeep. Carina pregunta qué se traen él y Elsie; Kyle responde objetivo —"el activo más valioso"— y la respuesta se le evoluciona sola hasta la taza que ella sostiene sin tomar. Se reconoce **al oírse**, no porque se lo digan. No lo declara: lo sabe, lo guarda, y la deja irse sin decírselo — porque sostener a alguien no es sujetarlo (proteger ≠ controlar, resuelto del lado correcto sin saberlo). A tiempo para todo menos para decirlo.
+
+> Ver: [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Forsaken_EnVozAlta|En Voz Alta]]
+
+## El reconocimiento de Elsie — Splicer (Etapa 6 → 7)
+**Recibe la estrella y deja de esconder el nombre verdadero.**
+
+Después de [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Splicer_PrimerFractura|La Primera Fractura]], Kyle no le da una disculpa: le da una estrella de lonsdaleíta — *te veo*. Recibirla —ser vista como persona— es lo que tira el último cerrojo. Ante Ana (espejo de [[05_Dialogues/Dialogue_Elsie/Elsie_Ana_Splicer_LoQueNoControla|Lo Que No Controla]]) nombra por fin el dato verdadero: *lo amo*. Pero a Ana, no a Kyle; la palabra para él tiene su momento, y no es la guerra. El mapa no sirve para esto — sirve quedarse.
+
+> Ver: [[05_Dialogues/Dialogue_Elsie/Elsie_Ana_Splicer_LoQueConserva|Lo Que Conserva]] · objeto: [[04_Concepts/La_Estrella_Polar]]
+
+## El puente — el rescate al Plano (Season of the Lost)
+**El amor dicho en acto, antes de la palabra — al costo más alto.**
+
+Entre el reconocimiento y la declaración: ambos ya se aman en privado y ninguno lo ha dicho. Elsie, desde un sentimentalismo raro en ella (la herida suspendida de [[06_Timeline_Archives/Alternate_Allies/Sai_ElCirculoDelDolor|Sai]]), entra sola al Plano Ascendente —el único lugar donde su mapa no sirve— a salvar a una Techeun con el rostro de quien la salvó en otra línea, y se pierde. Kyle desafía el "no" expreso de Mara y **roza por primera vez el poder del Rey de los Poseídos** para sacarla; las trae a ambas. Ninguno dice *te amo* (eso es Final Shape) — el acto lo dice. Inversiones cruzadas: Elsie comete lo que le reprochaba a él (ir sola, sin margen); Kyle paga un costo irreversible (Oryx se queda en él). La frase que lo resume: *"¿Bromeas? Iría al mismísimo Black Terrace si fuera necesario. Siempre."* — engancha con el *"Sigo contigo. Siempre."* de Vuelve a Casa.
+
+> Ver: [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_ElMapaNoLlegaAqui|El Mapa No Llega Aquí]] · [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene|Lo Que Sostiene]] · [[05_Dialogues/Dialogue_Guardian/Guardian_Mara_SeasonLost_LoQueToma|Lo Que Toma]]
+
+---
+
 # Dinámica Central en la Era de la Forma Final
 
 Durante Final Shape:

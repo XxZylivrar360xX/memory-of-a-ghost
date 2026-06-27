@@ -1,12 +1,12 @@
 ---
-title: "Cap 40 â€” The Threshold of Silence"
+title: "Cap 44 — The Threshold of Silence"
 type: chapter
 age: "[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]"
-chapter: 40
+chapter: 44
 status: pendiente
 ---
 
-# Cap 40 â€” The Threshold of Silence
+# Cap 44 — The Threshold of Silence
 
 *[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#Diálogos relacionados]])*

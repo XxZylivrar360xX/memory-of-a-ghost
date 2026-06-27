@@ -1,5 +1,5 @@
 # Age XVII — Revenant
-*Memories of a Ghost — Capítulos 48 a 50*
+*Memories of a Ghost — Capítulos 52 a 54*
 
 ---
 
@@ -15,7 +15,7 @@ El pasado que regresa como pregunta. Fikrul y Sjur Eido — una historia de amor
 
 ## Capítulos
 
-### 48. The Fanatic's Return
+### 52. The Fanatic's Return
 **Era:** Revenant — Inicio
 
 Fikrul. El Fanático Caído que murió dos veces y regresó. Su existencia como artefacto de lo que Uldren Sov fue — y como recordatorio de que las consecuencias de las acciones de personas muertas persisten.
@@ -24,7 +24,7 @@ Sjur Eido como centro emocional de esta temporada. No la guardiana más poderosa
 
 ---
 
-### 49. The Tower of Sloane
+### 53. The Tower of Sloane
 **Era:** Revenant — Acto central
 
 La Guarida de Tonics. El espacio donde Fikrul opera. Una amenaza menor en escala cósmica — mayor en escala personal.
@@ -33,7 +33,7 @@ Cayde está muerto y Fikrul lo sabe. Sjur está viva y Fikrul lo sabe. Eso confi
 
 ---
 
-### 50. The Reckoning of Old Wounds
+### 54. The Reckoning of Old Wounds
 **Era:** Revenant — Cierre
 
 El cierre del arco de Sjur Eido. Lo que se puede y no se puede resolver cuando el responsable ya no existe en la forma que existía cuando hizo el daño.

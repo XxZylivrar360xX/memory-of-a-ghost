@@ -8,7 +8,7 @@
 
 # Core Foundation
 
-- [[00_Biblia/La_Pregunta_Central]] — **motor narrativo de los 55 capítulos:** qué hace alguien con la vida que le devolvieron sin recuerdos; los tres actos de la búsqueda; el Testigo como antagonista de esta pregunta
+- [[00_Biblia/La_Pregunta_Central]] — **motor narrativo de los 59 capítulos:** qué hace alguien con la vida que le devolvieron sin recuerdos; los tres actos de la búsqueda; el Testigo como antagonista de esta pregunta
 - [[00_Biblia/Los_Errores_De_Kyle]] — los seis errores humanos de Kyle, las tres condiciones, el error central de la saga, y el mapa de quiebres por capítulo
 - [[00_Biblia/Vision]]
 - [[00_Biblia/Themes]]
@@ -37,7 +37,8 @@
 - [[02_Characters/Witness]]
 - [[02_Characters/Crow]]
 - [[02_Characters/Cayde-6]]
-- [[02_Characters/Zavala]]
+- [[02_Characters/Zavala]] — Comandante Titán Awoken; el muro/el deber hecho persona; padre por elección (Safiyah †, [[02_Characters/Hakim]], Crow, la Ciudad). Arco: de muro a hombre — Haunted (Pesadilla de Safiyah, llama a Hakim), retiro (cede a Ikora, **suelta la Luz**), muere mortal y reconciliado. Bookend de amistad con Kyle (humanidad, no divinidad)
+- [[02_Characters/Hakim]] — hijo adoptivo de Zavala y Safiyah ("de elección, que pesa más que la sangre"); civil; 11 años distanciado tras la muerte de Safiyah (Zavala eligió la Ciudad sobre el hijo vivo) y reconciliado tarde; ancla del "padre por elección" y **advertencia-espejo** para el dilema de Kyle con Sai (el peligro no es de dónde viene el amor, sino fallar al vivo que tienes enfrente)
 - [[02_Characters/Ikora]]
 -  [[02_Characters/Mara_Sov]]
 -  [[02_Characters/Uldren_Sov]]
@@ -48,6 +49,7 @@
 -  [[02_Characters/Mithrax]]
 - [[02_Characters/Eido]]
 -  [[02_Characters/Osiris]]
+- [[02_Characters/Rohan]] — Cloud Strider de Neomuna; la primera muerte que Elsie no pudo predecir (Lightfall)
 -  [[02_Characters/Saint-14]]
 - [[02_Characters/Alak-Hul]]
 - [[02_Characters/Ecthar]]
@@ -63,7 +65,9 @@
 - [[02_Characters/Crota]]
 - [[02_Characters/Nokris]]
 - [[02_Characters/Petra_Venj]]
+- [[02_Characters/Sai]] — la Techeun más joven del aquelarre de Mara; lee el **Plano Ascendente** (complementaria de Elsie: ve donde el mapa temporal de Elsie es ciego); rescatada del Plano, en recuperación; entra en la familia elegida de Kyle/Elsie (eco materno de Elsie, eco paterno de Kyle, la única que casi lee el secreto de Ghost); su don aísla como el de Elsie (defecto: lee de más); miedo de ser un reemplazo. Arco Age X → Season of the Haunted (puente a Zavala)
 - [[02_Characters/Riven]]
+- [[02_Characters/Famke]] — Ahamkara joven, hija de [[02_Characters/Riven|Riven]]; el deseo hecho criatura, todavía joven; espejo oscuro de Sai (don/naturaleza que llegó antes que la madurez). Debuta ofreciéndole a Sai traer a Elsie de vuelta (rechazada). **Ficha provisional — pendiente de expansión.**
 - [[02_Characters/Xur]]
 - [[02_Characters/The_Nine]]
 - [[02_Characters/The_Traveler]]
@@ -144,6 +148,8 @@
 - [[04_Concepts/Trust]]
 - [[04_Concepts/Loyalty]]
 - [[04_Concepts/La_Estrella_Polar]] — el norte que Kyle encontró; no el más brillante sino el que no se mueve; lo que Elsie representa para alguien que empezó sin saber dónde estaba el norte; del estante al bolsillo al final
+- [[04_Concepts/Saberes_Heredados]] — cosas pequeñas que Kyle sabe hacer porque alguien con nombre se las enseñó (cuchillo de Cayde, mecánica de Amanda, runas vía Eris, eliksni de Mithrax, técnica de Elsie); sedimento de relaciones, no poderes; registro "creo que puedo, sin certeza" como antídoto al síndrome Batman
+- [[04_Concepts/The_Lord_of_Every_Nothing]] — **anti-tesis de Kyle (post-Final Shape):** el trono de los Poseídos que Kyle rechazó no se borró — quedó vacante, y la obediencia sin amo se condensó en una soberanía hecha de nada ("ordena sin ordenar, reina sin reinar"); no un enemigo, una consecuencia. Los Poseídos = lógica del Winnower torcida (muerte burlada vuelta servidumbre); el Winnower aparte, aliviado sin decirlo. Se vence desmantelando la vacante — Kyle libera a los Poseídos: "el último rey, el que lo cerró". Sai es la primera que lo siente (acausal = su terreno, ceguera de Elsie)
 
 ---
 
@@ -164,13 +170,13 @@
 - [[01_Timeline/Age_IX_The_Year_of_the_Witch]] — Hunt, Chosen, Splicer, Lost (caps. 22–25)
 - [[01_Timeline/Age_X_The_Scarlet_Revelation]] — Witch Queen (caps. 26–28)
 - [[01_Timeline/Age_XI_The_Long_Descent]] — Risen, Haunted, Plunder, Seraph (caps. 29–32)
-- [[01_Timeline/Age_XII_The_Blasphemous_Dawn]] — Lightfall · **Ghost casi no regresa** (caps. 33–35)
-- [[01_Timeline/Age_XIII_The_Road_to_the_End]] — Defiance, Deep, Witch, Wish (caps. 36–39)
-- [[01_Timeline/Age_XIV_The_Heart_of_Becoming]] — Final Shape — campaña principal (caps. 40–43)
-- [[01_Timeline/Age_XV_Excision]] — Excision (cap. 44)
-- [[01_Timeline/Age_XVI_Echoes]] — Echoes (caps. 45–47)
-- [[01_Timeline/Age_XVII_Revenant]] — Revenant (caps. 48–50)
-- [[01_Timeline/Age_XVIII_Heresy]] — Heresy · **El Gambito concluye. La respuesta.** (caps. 51–55)
+- [[01_Timeline/Age_XII_The_Blasphemous_Dawn]] — Lightfall · **Ghost casi no regresa** (caps. 33–39)
+- [[01_Timeline/Age_XIII_The_Road_to_the_End]] — Defiance, Deep, Witch, Wish (caps. 40–43)
+- [[01_Timeline/Age_XIV_The_Heart_of_Becoming]] — Final Shape — campaña principal (caps. 44–47)
+- [[01_Timeline/Age_XV_Excision]] — Excision (cap. 48)
+- [[01_Timeline/Age_XVI_Echoes]] — Echoes (caps. 49–51)
+- [[01_Timeline/Age_XVII_Revenant]] — Revenant (caps. 52–54)
+- [[01_Timeline/Age_XVIII_Heresy]] — Heresy · **El Gambito concluye. La respuesta.** (caps. 55–59)
 
 ---
 
@@ -197,14 +203,14 @@
 - `10_Chapters/Age_VIII/` — Caps 19–21 (No Time to Explain · The Voice of Europa · The Unspoken)
 - `10_Chapters/Age_IX/` — Caps 22–25 (The Hunt · The Chosen · The Splicer · The Lost)
 - `10_Chapters/Age_X/` — Caps 26–28 (An Uncomfortable Resurrection · Blueprint of Miracles · The Burden of the Past)
-- `10_Chapters/Age_XI/` — Caps 29–32 (The Long Descent · The Haunting · The Plunder · The Seraph)
-- `10_Chapters/Age_XII/` — Caps 33–35 (The Blasphemous Dawn · Ghost at the Edge · The Parable of the Trigger)
-- `10_Chapters/Age_XIII/` — Caps 36–39 (Defiance · Into the Deep · The Final Wish · A Handful of Hope)
-- `10_Chapters/Age_XIV/` — Caps 40–43 (The Threshold of Silence · The Cartography of Memory · The Prismatic State · The Shape of Home)
-- `10_Chapters/Age_XV/` — Cap 44 (The Long Way Home)
-- `10_Chapters/Age_XVI/` — Caps 45–47 (Echoes I–III)
-- `10_Chapters/Age_XVII/` — Caps 48–50 (Revenant I–III)
-- `10_Chapters/Age_XVIII/` — Caps 51–55 (Heresy I–IV · El Gambito Concluye)
+- `10_Chapters/Age_XI/` — Caps 29–32 (The Long Descent · The Haunting · The Plunder · The Last Theorem of War) — **Cap 32 escrito**
+- `10_Chapters/Age_XII/` — Caps 33–39 (The Blasphemous Dawn · The Hunger in Ambition · The Irony of Pure Grace · The Anatomy of a Phantom · The Sovereignty of Panic · The Parable of the Trigger · The Last Breath of the Empire) — **Cap 33 escrito (§I–III, hasta el despertar de Nezarec); 34–39 esquema**
+- `10_Chapters/Age_XIII/` — Caps 40–43 (Defiance · Into the Deep · The Final Wish · A Handful of Hope)
+- `10_Chapters/Age_XIV/` — Caps 44–47 (The Threshold of Silence · The Cartography of Memory · The Prismatic State · The Shape of Home)
+- `10_Chapters/Age_XV/` — Cap 48 (The Long Way Home)
+- `10_Chapters/Age_XVI/` — Caps 49–51 (Echoes I–III)
+- `10_Chapters/Age_XVII/` — Caps 52–54 (Revenant I–III)
+- `10_Chapters/Age_XVIII/` — Caps 55–59 (Heresy I–IV · El Gambito Concluye)
 - `10_Chapters/Epilogo/` — Cap 56 · *Años Después...*
   - [[10_Chapters/Epilogo/The_Last_Shape]] — el hacha, la cicatriz, la Estrella Polar en el bolsillo; el Winnower como el hombre que murió en el Cosmódromo; "¿Ella también? — Sí."; flor blanca en la copa del árbol; contrapunto de [[10_Chapters/Age_I/Cap_01_A_New_Shape]]
 
@@ -245,6 +251,7 @@
 > - **Dialogue_Elsie/** — la escena existe para revelar algo de Elsie.
 > - **Dialogue_Guardian_Elsie/** — la escena existe para desarrollar la *relación*, que es prácticamente un tercer personaje de la saga.
 > - **Dialogue_Ghost/** — la escena existe para revelar algo de Ghost (y de la segunda escuadra). Su cierre es el protagonista aquí.
+> - **Dialogue_Sai/** — la escena existe para revelar algo de Sai, la Techeun lectora del Plano, hija elegida de Kyle y Elsie.
 
 ---
 
@@ -313,6 +320,7 @@
 ### Forsaken
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Forsaken_LaCaza]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Forsaken_PostCayde]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Forsaken_EnVozAlta]] — el **reconocimiento de Kyle**: una fogata con la escuadra; Carina pregunta "¿tú y Elsie qué se traen?"; la respuesta se le evoluciona de "activo valioso" a la taza que sostiene sin tomar; se reconoce al oírse; Jaden: "ya lo sabías, solo no lo habías dicho en voz alta"; días antes de Shadowkeep, a tiempo para todo menos para decirlo (espejo de LoQueConserva)
 
 ### Shadowkeep — Beyond Light
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Shadowkeep_LaPartida]]
@@ -320,11 +328,14 @@
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Europa_ElBrilloDeEstrella]]
 
 ### Season of the Lost — Witch Queen — Vow of the Disciple
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Mara_SeasonLost_LoQueToma]] — el clímax del rescate imprudente: Kyle desafía el "no" de Mara y **roza por primera vez el poder del Rey de los Poseídos** para forzar un umbral al Plano y sacar a Elsie y a Sai; al conquistar para proteger le da la razón a Oryx, y Oryx se queda a vivir en él (siembra de La Oferta); "¿Bromeas? Iría al mismísimo Black Terrace si fuera necesario. Siempre."
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_SeasonLost_ElEscape]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Savathun_Prision]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Savathun_AntesDelExorcismo]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Savathun_ElRitual]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_WitchQueen_AntesDelVoto]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Ciudad_LaBicicleta]] — recado en la Ciudad; primer uso de los [[04_Concepts/Saberes_Heredados]]: la mecánica de Amanda devuelta a un niño con la cadena ("usa una palanca, deja que la rueda suba la cadena"); no salva ninguna misión — Kyle HABITA la Ciudad que protege; siembra la infancia que no tuvo → Aprender Tarde
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan]] — **el eco paterno**: Elsie lleva a Kyle a ver a Sai (Techeun en recuperación); aparece un "modo de estar con alguien pequeño" que Kyle no recuerda haber aprendido (≠ Saber Heredado: sin fuente, pre-vida). Sai: "como si ya lo hubieras hecho / tus manos sí". Elsie lee el patrón (el gesto en cada Kyle que enterró; la Luz no lo dio, la muerte no lo quitó = afrenta al Testigo). **Ghost SABE** (canon de [[05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar]]) y calla: Sai le hace a Kyle la misma pregunta de la niña bajo el árbol ("¿te volveré a ver?") y él responde "sí" sin saberlo. Siembra la puerta a Zavala (padre por elección)
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_VotoDelDiscipulo_Adquisicion]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_VotoDelDiscipulo_ElCustodio]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Rhulk_VotoDelDiscipulo_ElDiscipulo]]
@@ -337,6 +348,14 @@
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Temporadas_Crow]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Temporadas_Caiatl]]
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_Temporadas_Mithrax]]
+
+### Season of the Haunted — el duelo
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Zavala_Haunted_LoQueNoSeEntierra]] — Kyle busca a Zavala en la temporada de las Pesadillas (Zavala enfrenta la de Safiyah); **dos padres por elección** en contraste: Zavala llora a quien recuerda, Kyle extraña a quien no puede (el eco paterno). Lección: el amor no necesita su objeto — un amor suelto se pudre en Pesadilla o ATERRIZA en alguien vivo (Sai no es reemplazo, es donde aterrizó); "lo que no se entierra sale en cómo tratas a los vivos". Planta la amistad (el segundo vaso) → bookend con la cerveza de viejos post-Final Shape
+
+### Season of the Seraph — el inicio de la guerra
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Osiris_Seraph_LaColoniaPerdida]] — Osiris siembra el rumor de Neomuna (la colonia perdida que persiguió 11 años y archivó como mito); paga la deuda del reveal de Lightfall y evita el deus ex machina
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Eramis_Seraph_ElInterruptor]] — Kyle y Mithrax llegan a Eramis con el interruptor que dispararía los satélites al Viajero; el Testigo la presiona; no aprieta; Mithrax: "puedes mostrarles un camino mejor" / Kyle: "lo que pase ahora está en tus manos"
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Seraph_ElSiguelo]] — la batalla sobre la Tierra; Xivu Arath profana la vieja Torre y abre la brecha ("I am Strife. I am Death. I am Xivu Arath. And I am your end."); el Typhon huye a Neptuno; Carina lee el titubeo de su nave y dice "Síguelo"; Jaden: "esta vez el flanco es un planeta"; Kyle se va solo cuando todos se quedan
 
 ### Post-Gambito — La Voz
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Lodi_PostGambito_EDZ_LaVoz]] — el Winnower usa el canal de Lodi; escudos a cero sin daño; diálogo canónico en el fragmento donde Kyle recuperó su Luz; "No te abandonaré" archivado sin categoría; Lodi: "No sé qué era eso"
@@ -352,8 +371,16 @@
 ### Post-Gambito — El cierre de Ghost (perspectiva de Kyle)
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_PostGambito_LaUltimaResurreccion]] — el sacrificio desde Kyle; el "No" antes de oír nada; el silencio con bordes; la retirada de la red; la primera respiración mortal contada
 
+### Después de The Final Shape — el último trono
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PostFinalShape_LaVacante]] — abre el arco final de Kyle como Rey de los Poseídos. Sai siente [[04_Concepts/The_Lord_of_Every_Nothing]] —los Poseídos sin amo que se ordenan alrededor de una vacancia, "no un enemigo, una consecuencia"— y hace lo contrario de su herida: **corre a Kyle/Elsie en vez de quedarse sola** (su graduación). Elsie ciega (acausal); Kyle reconoce el trono que rechazó; siembra la resolución: desmantelar la vacante, **liberar a los Poseídos** ("el último rey, el que lo cerró"); el Winnower aliviado sin decirlo
+
 ### El cierre de Elsie — El Último Crepúsculo (perspectiva de Kyle + el después)
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_ElUltimoCrepusculo]] — permanece sin detenerla; la herida hermosa; el después: la lápida grande *"El hogar que elegimos"*, la taza al estante, la estrella al bolsillo, deja crecer la barba (puente a *El Último Guardián*); sigue viviendo
+
+### Los testigos que continúan (antes del Winnower)
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Zavala_PostFinalShape_UnaCervezaDeViejos]] — **bookend** de Lo Que No Se Entierra, décadas después: la amistad que empezó en el velorio de Safiyah, su última ronda. Zavala retirado, sin Luz, cedió el mando a Ikora — viejo y mortal por elección; los dos pusieron la inmortalidad en el suelo para ser personas (humanidad, no divinidad). El mundo sin Ciudad/Vanguardia como VICTORIA ("una fortaleza existe para que un día deje de hacer falta; la derribaron porque ganamos"). Zavala lee que Kyle "ya cuadró sus cuentas" (va al Winnower) y le pregunta "¿volverás?" — "no lo sé"; despedida sin nombrarla; "el de Zavala lo dejó secando, por si acaso"
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PostFinalShape_LaHijaQueElegimos]] — cierre del arco de Sai en clave DOMÉSTICA (no una despedida). Poco después de El Último Crepúsculo: la pérdida RECIENTE de Elsie (barba apenas empezando), no que Kyle vaya a morir (faltan meses, no lo profetiza). Un padre y una hija que eligieron ser familia, poniéndose al día; la mortalidad solo implícita. Sai HEREDA el "¿comiste?" y se lo devuelve; recuerdan a Elsie juntos ("el norte se reparte en los sitios que tocó"); su miedo a ser reemplazo muerto sin discurso ("es mi casa también"). Continuidad ENCARNADA, no anunciada: **"los jueves"** (vendrá a cenar y a criticarle la comida) — "no las despedidas… las vueltas, mientras durara el durar"
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Crow_PostFinalShape_UnUltimoViaje]] — **el último hilo, días antes de [[10_Chapters/Epilogo/The_Last_Shape]]** (gana su "no quedaba nada pendiente"). Kyle, en paz, despeja su nave de años de hojas y musgo ("¿estás lista para un último viaje, linda?") y vuela A MANO (sin Ghost) al Arrecife a ver a Sai, que vive con Crow. Despedida SOLO implícita. Clímax Kyle↔Crow: **"Cuídala"** — Crow lo entiende; "no lo digas; quiero que sea un martes en que pasé a verlos"; el abrazo. Peso del perdón: Crow fue (como Uldren) el instrumento de la herida de Cayde, y es a quien Kyle confía a su hija. Cierra con "¿quién soy?" del Prólogo por fin entera — "la construí a mano… estaba listo"
 
 ---
 
@@ -378,7 +405,16 @@
 - [[05_Dialogues/Dialogue_Elsie/Elsie_PostKingsFall]] — perspectiva de Elsie; el mapa con su primera grieta real; Kyle hizo algo sin precedente en dieciséis líneas temporales; lo archiva sin decirlo
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Ghost_RedWar_MasAllaDelPico]]
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Ana_Splicer_LoQueNoControla]]
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Ana_Splicer_LoQueConserva]] — el **reconocimiento de Elsie**: espejo de LoQueNoControla; Kyle le da la estrella de lonsdaleíta ("te veo", no "perdóname"); Ana le saca el nombre verdadero —"lo amo"— pero a ella, no a él; "el mapa no sirve para esto, sirve quedarse"; cierra en "lo conservó" (no es la declaración: eso es VuelveACasa)
 - [[05_Dialogues/Dialogue_Elsie/Elsie_UltimoGuardian_ElNombre]] — perspectiva de Elsie en la línea temporal perdida; el mapa cede en tiempo real; llega llamándolo "El Guardián", se va llamándolo "Kyle"; cierra el bucle con PrimeraVisita
+
+### Season of the Lost — la herida suspendida
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_ElMapaNoLlegaAqui]] — la transgresión de Elsie: superpone a la Techeun Sai con la niña que la salvó en otra línea y entra sola al Plano Ascendente —el único lugar paracausal donde su mapa no sirve—; se pierde, incomunicada, deseando (callada) que alguien la siga
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene]] — Elsie encuentra a Sai (queda un parpadeo), reconoce su superposición y elige quedarse; ofrece una esperanza aprendida de Kyle ("un hombre que logra lo imposible" — presagio del rescate) y, sin salida que dar, la sostiene: se vuelve "el norte"; la inversión de El Círculo del Dolor y "el mapa no sirve para esto, sirve quedarse" hecho acto
+- [[05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar]] — durante la reintegración de Sai (Jardines de Esila): el **origen de Sai+Crow**, dos que volvieron de un borrado y se reconocen; el don de Sai como puente (no condena), la empatía-Savathûn de Crow, el gatillo de Kyle enterrado; no romance aún (Amanda viva) — el reconocimiento del que el amor estará hecho; funda "la gente que regresa reconoce a otra que regresó"
+
+### Season of the Seraph — el sacrificio de Rasputin
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Ana_Seraph_AdiosRojo]] — a bordo del HELM; Rasputin con voz y cuerpo en el exoframe de Clovis; Ana lo apaga para destruir la red de satélites; "Adiós, rojo"; Elsie llega sin mapa, solo presencia, a sostener a su hermana
 
 ### Final Shape — perspectiva de Elsie
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Savathun_FinalShape_LaClaveDelPortal]] — la estrella polar; Elsie decide usarla; el ancla Mara-Crow
@@ -387,7 +423,7 @@
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Micah10_FinalShape_ElEspejo]]
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Caiatl_FinalShape_FuerzaDeAsalto]]
 - [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa]] — la ausencia de cálculo; el "Espera" sin protocolo; "te amo" sin red de seguridad; "vuelve a casa" como definición de hogar
-- [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal]] — observa el orgullo de Cayde aterrizando en Kyle; cierra los ojos; dice "Kyle" en voz alta por primera vez en la línea principal; Elizabeth decide sola
+- [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal]] — observa el orgullo de Cayde aterrizando en Kyle; cierra los ojos; dice "Kyle" junto al "te amo" por fin pronunciado (el primer "Kyle" privado fue en Beyond Light, ver ElNombre); Elizabeth decide sola
 
 ### Post-Gambito — El cierre de Ghost (perspectiva de Elsie)
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Ghost_PostGambito_LaUltimaResurreccion]] — la primera que comprende; salvar de la inmortalidad, no de la muerte; apaga el viejo sistema y no busca la variable; la que nunca pudo soltar, soltando; ve su propia lápida futura sin miedo
@@ -423,16 +459,45 @@
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElRegreso]]
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_Estasis]]
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_LoNoDicho]]
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]] — **el primer "Kyle" de Elsie en la línea principal** (privado, en un transmat de Europa); el nombre como armadura soltada — "enterrar una función cuesta menos que enterrar a una persona"; espejo cruzado con la línea alterna (UltimoGuardian_ElNombre); NO es el "te amo" (eso es Final Shape)
+
+### The Year of the Witch — el cruce a Amor
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Hunt_SinMapa]] — **pivote a la Fase 4 (Amor, transición 7)**; los instrumentos apagados (Elsie sin mapa por primera vez); Kyle, que nunca tuvo certeza, le muestra el no-saber; la asimetría ("él ya estaba aquí"); "ya lo sé" como un *me quedo*; sin "te amo" todavía
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Chosen_ElFrioConocido]] — la Oscuridad en él; Elsie ve a los Kyle que enterró en otras líneas; proteger-vs-controlar reabierto; sin mapa no puede "cortar antes", elige confiar; Kyle le devuelve su lección de Estasis ("la Oscuridad responde a quién eres"); "prefiero mirarte sin saber a vigilarte sabiendo"
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Chosen_LoQueNoPeso]] — el residuo moral de Shadowkeep (no la Oscuridad/poder, el alma): Kyle deja pasar **a la ligera** una vida que el Kyle de antes habría pesado; "no te diste cuenta de que no esperaste"; ambos rodean la "habitación cerrada con la palabra *Luna*" sin abrirla; deuda narrativa plantada — la puerta tendrá que abrirse
 
 ### Season of the Splicer
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Splicer_MientrasDuraLaNoche]] — eslabón cálido en la noche eterna; la taza "para sostener, no para beber" (Kyle aprende el dato inútil); el mapa-personas de Elsie; la línea de falla en miniatura (repite la salida 4 veces) con la herida de Shadowkeep debajo ("ella no estuvo"); da peso a la fractura y prepara la aurora
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Splicer_PrimerFractura]]
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Splicer_LaAurora]]
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Temporadas_Traicion]]
+
+### Season of the Lost
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_SeasonLost_LaHabitacionDeLaLuna]] — **abre la "habitación de la Luna"**: la misma noche del rescate de Sai, Kyle por fin le cuenta a Elsie el año que sobrevivió sin ella (Shadowkeep→Europa) en dos movimientos — la Pirámide y las Pesadillas, los corredores del tiempo y el futuro que vio (una muerte que no nombra y una Elsie rota); los Dignos, el **trato Dredgen** por los códigos de Rasputin (deuda abierta), los mundos restados, y Estasis tomada "perdido, no fuerte". Elsie confiesa por qué se fue (pago de LaPartida); invierte LoQueNoPeso (él abre la puerta) y MientrasDuraLaNoche (ella no tira del hilo de lo que él calla esta noche). Kyle dice "Elizabeth" por primera vez (línea principal)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PreWitchQueen_UnaNocheCualquiera]] — el respiro doméstico antes de la tormenta: Kyle cocina, Ghost pelea con una gotera, Elsie está ahí "por nada, por querer estar" y se ríe sin defenderse; por fin le da un sorbo a la taza que nunca toma; y bailan — en un tocadiscos de chatarra suena una canción de reencuentro tras larga ausencia ("It's been a long, long time"), "no bailo" (callback del "no tomo té"), sin beso ni declaración; lo que la guerra que viene servirá para proteger
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PreWitchQueen_AprenderTarde]] — paga [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Ciudad_LaBicicleta]]: "¿montaste en bicicleta?"; Elsie sí (la bici roja, la cuesta, Ana — recuerdo limpio en una infancia Bray complicada); Kyle no — despertó adulto, su "niñez" fue ser el novato, "me construí sin cimiento, empecé por el tejado"; reencuadre de [[00_Biblia/La_Pregunta_Central]] (le devolvieron "la mitad de atrás"); giro de Elsie: las primeras veces que cuentan llegan tarde y con compañía (taza, baile, risa); **role-reversal** — ella le ofrece enseñarle (la cuesta de la EDZ); lo inútil que vale la pena; "tarde / tarde" por fin sin pérdida
+
+### The Witch Queen — la campaña (8 etapas)
+*El Mundo Trono de Savathûn como campo de batalla entre quién fue (Oscuridad) y quién es (Luz); antagonista por intereses, no por dicotomía. POV dual Kyle/Elsie en cada una.*
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_01_TheArrival]] — la llegada: el Mundo Trono imposible (Rhulk/Xivu/Oryx vs. Palacio Luciente); la Colmena que resucita agrieta la dicotomía. (Ikora, Ghost)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_02_TheInvestigation]] — Eris + Elsie: el gusano excisionado, el hambre reemplazada por Luz; "la que mató a Cayde es la de antes". (Eris, Ghost)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_03_TheGhosts]] — Fynch: la Luz no es veredicto moral; la bondad de Kyle nunca fue el don — "eres tú". (Fynch, Ghost)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_04_Communion]] — la mentirosa dice una verdad: la tesis del tablero, "¿quién eres fuera del juego?" clavada en cada uno; Mara contrapeso. (Savathûn, Mara)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_05_TheMirror]] — canal cortado; la portaluz ≠ la asesina de Cayde; Savathûn ve a Oryx en Kyle y guarda el secreto; Elsie se ve "pieza renunciando a serlo". (Savathûn, Ghost)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_06_TheCunning]] — los pastorean hacia Rhulk; Eris: "que tenga razón es el arma"; "entenderla no es confiar en ella". (Savathûn, Eris)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_07_TheLastChance]] — **Savathûn renuncia al juego** (Elsie nunca lo vio en ninguna línea; el enemigo la "ganó"); renunciar no libera, el Testigo viene a cobrar; "no salgas del tablero solo". (Mara, Ikora, Savathûn)
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_WitchQueen_08_TheRitual]] — el Testigo cobra su pieza (repossesión, no batalla); venganza por Cayde rendida moot; la verdad incómoda: no estaba del todo equivocada; la ventaja que el tablero no quita: llegar a la puerta con alguien. (Savathûn, Ghost, Ikora)
 
 ### Vow of the Disciple
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VotoDelDiscipulo_LaEntrada]]
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VotoDelDiscipulo_ElUmbral]]
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VotoDelDiscipulo_PostRaid]]
+
+### Season of the Seraph — el asedio
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Seraph_ElCanal]] — por canal de comunicaciones: él en la batalla aérea, ella en la consola del HELM organizando la evacuación de civiles a esquifes Eliksni y cruceros Cabal; la asimetría hecha acción; solo ella dice "Kyle"; "después de esto"
+
+### Lightfall — la antesala del Typhon
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Lightfall_NoVayasAMorir]] — dos POVs convergen en el transmat; ella viene de perder a Rohan, él de sobrevivir a un Tormentor; la revelación (el Testigo quiere *usar* el Viajero); "No vayas a morir" / "No puedes matar algo que ya vive en memorias" — bravata que aterriza como su peor miedo
 
 ### Final Shape — el vínculo en su punto más alto
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_AntesDelFinal]] — "te amo"; el nombre; la entrada a la oscuridad
@@ -455,6 +520,31 @@
 
 ---
 
+## Dialogue_Sai
+
+*El arco de Sai — quien cambia o se revela aquí es Sai, la Techeun lectora del Plano, hija elegida de Kyle y Elsie.*
+
+### Season of the Lost — la elección del sitio
+> Después del rescate del Plano (ver `Dialogue_Elsie/Elsie_Sai_SeasonLost_*` y `Guardian_Mara_SeasonLost_LoQueToma`). El paso de rescatada-objeto a agente-por-elección, antes de las escenas de los nombres.
+- [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola]] — **el consejo donde Sai elige su sitio**. Mara la quiere como lectora del Plano y le ofrece una transacción honesta pero la instrumentaliza (lee el patrón, no a la persona — mismo error que con Kyle). Las tres Techeun mayores (Shuro-Chi, Kalli, Sedia), que volvieron de ser Tomadas por Oryx, discuten si dejar entrar a la niña. Sai no acepta como herramienta ni rehúsa por miedo: pone su condición — "**no iré sola, no mando a nadie solo**" — y redefine qué es una Techeun lectora (la acompañada, no la solitaria que casi la mata). Funda el espejo Elsie↔Sai (dos lectoras que se niegan a ir solas) y el paso "de víctima a recurso por elección". No las rescata yendo al Plano (ya volvieron): las honra cambiando la regla que las dejó solas.
+
+### Recuperación — Año de la Bruja (Age X)
+> El origen de los ritos de nombre, en dos escenas hermanas (dos registros del mismo miedo a ser un reemplazo). Separadas a propósito para ajuste independiente.
+- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_ElLoboMasJoven]] — **el origen de "lobito" (Kyle↔Sai)**. Sai lee a Kyle buscando el nombre enterrado bajo el suyo y no encuentra nada — "debajo de Kyle hay más Kyle, y debajo el cero" (se construyó desde cero, sin un antes que esconder). En vez de desenterrar un secreto, *da* uno pequeño: nombrar-hacia-abajo como ternura. Kyle le devuelve "niña" como trato. El miedo desactivado: un reemplazo necesita un muerto enterrado al que parecerse; Kyle no tiene cuarto cerrado dentro.
+- [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]] — **el origen de "norte"/"Elizabeth" (Elsie↔Sai)**. Sai *casi* le arranca a Elsie el nombre que esconde (el "segundo Famke" en miniatura) y se detiene; y *porque* no lo arrancó pudiendo, Elsie le confía "Elizabeth" (la 2ª persona en la existencia). "norte" nace del Plano devuelto ("no te sueltes del norte") → "norte chiquito" + "Saiidris". Planta el eje "dado vs. arrancado" del arco entero.
+
+### La semana de Sai — el duelo paralelo (post-El Último Crepúsculo)
+> Arco de geometría OPUESTA al de Kyle: él se queda quieto y el mundo viene a la cabaña; ella no puede quedarse quieta y huye en el trabajo en Marte. Seis días de huida + el cruce. Cada día la visita alguien con un ángulo distinto sobre el mismo duelo; la progresión física hacia la lanzadera es el latido del arco. La llegada se narra también desde Kyle en [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PostFinalShape_LaHijaQueElegimos|La Hija Que Elegimos]].
+- [[05_Dialogues/Dialogue_Sai/Sai_Petra_PostFinalShape_DondeSePonenLasManos]] — **día 1 · Petra Venj**. "El trabajo es buen sitio para poner las manos, pero las manos no son donde tienes el duelo." No se levanta de la silla.
+- [[05_Dialogues/Dialogue_Sai/Sai_Ikora_PostFinalShape_LoQueElSaberNoToca]] — **día 2 · Ikora Rey**, el contramodelo (perdió a Cayde). "El saber no toca el duelo." + el regalo de la Elsie que Sai no conoció + la advertencia del Plano. No va a la lanzadera.
+- [[05_Dialogues/Dialogue_Sai/Sai_Saint14_PostFinalShape_ConLasManosLlenas]] — **día 3 · Saint-14**. "El amor se presenta, con las manos llenas." Llega hasta la puerta (la vuelta más cercana).
+- [[05_Dialogues/Dialogue_Sai/Sai_Famke_PostFinalShape_LoQueElDeseoNoDevuelve]] — **día 4 · Famke** (Ahamkara hija de Riven, atraída por el deseo). Ofrece traer a Elsie de vuelta; Sai casi dice que sí y rechaza (un hueco con su cara / Elsie eligió irse). Cierra la puerta falsa y por fin llora: acepta la pérdida.
+- [[05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta]] — **día 5 · Crow**, su pareja (amor joven e intenso, no el de Kyle/Elsie pero de la misma madera). El único destruido por esa estirpe (fue Uldren / Riven); el matiz Cayde (el deseo que trae para soltar, no para quedarse); su puerta cerrada (Amanda) sella indirectamente que la de Sai sigue abierta. Decide ir.
+- [[05_Dialogues/Dialogue_Sai/Sai_Elsie_PostFinalShape_LoQueSeDaSinPedirlo]] — **día 6 · "el sueño del don"** (el reverso de la apuesta de Famke). Al dejar de agarrar, el don le DA: Elsie en sueños, por gracia, para una despedida (no para quedarse). "El don nunca fue la herida; la herida era estar sola con él." Suelta y cruza.
+- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_PostFinalShape_LoQueTrajeDeVuelta]] — **capstone (día 7, POV Sai)** · el reverso interior de *La Hija Que Elegimos*. Sai como mensajera — no trajo a Elsie de vuelta, trajo sus palabras; entrega a Kyle el recado del sueño ("llórala caminando / ganó"). Complementa, no reemplaza, la versión POV Kyle.
+
+---
+
 ## Sin categoría
 - [[05_Dialogues/LaVanguardia_HELM_LaHeridaSeAbre]]
 
@@ -469,6 +559,8 @@
 ## Dark_Futures
 *Líneas donde la humanidad perdió. Los errores que Elsie nunca quiere repetir.*
 > Pregunta narrativa: ¿Qué temor nace aquí?
+
+- [[06_Timeline_Archives/Dark_Futures/ElCirculoDelDolor_ElNacimiento]] — **el nacimiento del Círculo del Dolor** (línea donde Oryx no murió; compañera de `Alternate_Allies/Sai_ElCirculoDelDolor`). Dos movimientos: la conspiración del regicidio (POV Elsie — su mapa la traiciona: trata a este Oryx como variable resuelta, "será como todos", y rompe el patrón) y la caída de los 6 en el Threshold de King's Fall (voz de Oryx — casi vencido, ríe e invoca a sus hermanas; "no vine solo"; Toma a los 6 y los renombra como el filo de su conquista: Vorak/La Muralla, Khûl-Tor/La Cadena, Ir Varesh/La Voz, Nhazir/La Sentencia, Ul-Kareth/La Visión, Sekh-Ra/La Sombra). **El temor que nace:** que confiar en su mapa condene a quienes confían en ella — origen del "error inicial" de Lost_Guardians. Espejo oscuro del "dado vs. arrancado" del arco de los nombres de Sai. **Dos nombres:** Oryx los corona «La Corte Final» (endónimo del verdugo); la Ciudad los llamará «El Círculo del Dolor» (exónimo del terror).
 
 ## Lost_Guardians
 *Versiones del Guardian que fracasaron, se fueron o cayeron. Explican la relación de Elsie con Kyle en la línea principal.*
@@ -496,6 +588,8 @@
 
 ## Alternate_Allies
 *Personas que existieron en otras realidades y dejaron huella en Elsie. Algunos murieron. Algunos nunca existieron en la línea principal. Todos ayudan a explicar quién es ella hoy.*
+
+- [[06_Timeline_Archives/Alternate_Allies/Sai_ElCirculoDelDolor]] — la línea donde Oryx no murió (poseyó a 6 Guardianes → "El Círculo del Dolor") y desató el Plano Ascendente sobre la Ciudad Soñada con Quria; Sai, la Techeun más joven, empuja a Elsie fuera de una realidad que se consumía y se fragmenta —muerta en vida, sin cierre—; la herida suspendida que despierta el sentimentalismo raro de Elsie en Season of the Lost
 
 ---
 

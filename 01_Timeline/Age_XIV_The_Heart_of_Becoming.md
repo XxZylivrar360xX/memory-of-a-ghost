@@ -1,5 +1,5 @@
 ﻿# Age XIV — The Heart of Becoming
-*Memories of a Ghost — Capítulos 40 a 43*
+*Memories of a Ghost — Capítulos 44 a 47*
 
 ---
 
@@ -15,7 +15,7 @@ El Prismático como primera verdad. El Testigo como antagonista que tiene razón
 
 ## Capítulos
 
-### 40. Into the Pale Heart
+### 44. Into the Pale Heart
 **Era:** Final Shape — Entrada
 
 La Forma Pálida — el interior del Viajero como espacio físico y filosófico simultáneo. Todo lo que el Viajero ha observado durante milenios, todo lo que ha esperado, contenido en un lugar que funciona según reglas propias.
@@ -24,7 +24,7 @@ Los Guardianes atrapados. El Testigo dentro. El tiempo corriendo de una manera q
 
 ---
 
-### 41. The Witness's Argument
+### 45. The Witness's Argument
 **Era:** Final Shape — El argumento
 
 El Testigo no está equivocado sobre el sufrimiento. Está equivocado sobre la solución.
@@ -35,7 +35,7 @@ El problema es que sin variables no hay nada. Sin pérdida no hay nada. Sin angu
 
 ---
 
-### 42. Prismatic
+### 46. Prismatic
 **Era:** Final Shape — El momento central
 
 Kyle usando Luz y Oscuridad simultáneamente — no como fusión sino como armonía. No "ambas son lo mismo" sino "ambas son verdad al mismo tiempo."
@@ -46,7 +46,7 @@ Ver [[04_Concepts/Prismatic]] y [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_
 
 ---
 
-### 43. The Shape of the Answer
+### 47. The Shape of the Answer
 **Era:** Final Shape — La derrota del Testigo
 
 El Testigo derrotado. No aniquilado — transformado. Lo que queda después del momento central no es una victoria limpia: es el primer instante de un universo sin ese peso específico.

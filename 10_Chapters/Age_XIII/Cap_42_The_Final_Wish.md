@@ -1,12 +1,12 @@
 ---
-title: "Cap 38 â€” The Final Wish"
+title: "Cap 42 — The Final Wish"
 type: chapter
 age: "[[01_Timeline/Age_XIII_The_Road_to_the_End]]"
-chapter: 38
+chapter: 42
 status: pendiente
 ---
 
-# Cap 38 â€” The Final Wish
+# Cap 42 — The Final Wish
 
 *[[01_Timeline/Age_XIII_The_Road_to_the_End]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIII_The_Road_to_the_End#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIII_The_Road_to_the_End#Diálogos relacionados]])*

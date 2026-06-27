@@ -1,5 +1,5 @@
 # Age XV — Excision
-*Memories of a Ghost — Capítulo 44*
+*Memories of a Ghost — Capítulo 48*
 
 ---
 
@@ -15,7 +15,7 @@ El trabajo después de la victoria. La operación que nadie recordará como hero
 
 ## Capítulos
 
-### 44. The Architect's Work
+### 48. The Architect's Work
 **Era:** Excision
 
 La operación de limpieza dentro del Pale Heart. No hay antagonista dramático aquí — hay el trabajo de asegurarse de que lo que se derrotó no deje grietas por donde regresar.

@@ -56,6 +56,16 @@ Eso también fue suficiente.
 
 ---
 
+## El umbral de Lightfall — sostener el frente
+
+Al final de Season of the Seraph, cuando la guerra se vuelve campaña espacial abierta, Jaden y Carina pelean junto a Kyle contra la Flota Negra sobre la Tierra. Cuando el Typhon Imperator de Calus escapa hacia Neomuna y Kyle tiene que elegir entre perseguirlo o proteger a los civiles expuestos por la caída de Rasputin, es Carina quien le dice que lo siga. Jaden no discute.
+
+No hay discurso de su parte. Hay economía, como siempre: la decisión ya está tomada, el análisis ya se hizo, y gastar palabras en confirmarla sería ruido. Se queda con Carina a sostener la batalla de la Tierra mientras Kyle se va solo hacia lo que viene. Jaden entiende mejor que nadie lo que significa cubrir un flanco para que otro pueda resolver el que importa — es lo que ha hecho desde el primer asalto. Esta vez el flanco es un planeta.
+
+Que Kyle enfrente Lightfall sin su escuadra es, en parte, decisión de Jaden tanto como de Carina: quedarse fue elegir el deber menos visible. Ver [[01_Timeline/Age_XI_The_Long_Descent]] y [[01_Timeline/Age_XII_The_Blasphemous_Dawn]].
+
+---
+
 ## Lo que construye
 
 Jaden no deja ecos — no es ese tipo de presencia. Lo que hace es más difícil de nombrar: construye competencia en las personas que trabajan con él, no porque enseñe sino porque su estándar obliga a subir el propio.

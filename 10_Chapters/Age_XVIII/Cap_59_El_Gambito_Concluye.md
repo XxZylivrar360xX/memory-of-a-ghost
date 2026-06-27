@@ -1,12 +1,12 @@
 ---
-title: "Cap 55 â€” El Gambito Concluye"
+title: "Cap 59 — El Gambito Concluye"
 type: chapter
 age: "[[01_Timeline/Age_XVIII_Heresy]]"
-chapter: 55
+chapter: 59
 status: pendiente
 ---
 
-# Cap 55 â€” El Gambito Concluye
+# Cap 59 — El Gambito Concluye
 
 *[[01_Timeline/Age_XVIII_Heresy]]*
 
@@ -14,10 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## Nota
+## Diálogos de referencia
 
-*El cierre del arco filosÃ³fico que comenzÃ³ en King's Fall (Age II). Kyle es persona, no sÃ­mbolo. Elsie puede quedarse. Ghost es nombrado compaÃ±ero. La pregunta de la Voz encuentra respuesta.*
-
-## DiÃ¡logos de referencia
-
-*(Ver [[01_Timeline/Age_XVIII_Heresy#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XVIII_Heresy#Diálogos relacionados]])*

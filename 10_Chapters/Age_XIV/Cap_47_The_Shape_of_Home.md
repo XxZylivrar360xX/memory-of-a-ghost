@@ -1,12 +1,12 @@
 ---
-title: "Cap 43 â€” The Shape of Home"
+title: "Cap 47 — The Shape of Home"
 type: chapter
 age: "[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]"
-chapter: 43
+chapter: 47
 status: pendiente
 ---
 
-# Cap 43 â€” The Shape of Home
+# Cap 47 — The Shape of Home
 
 *[[01_Timeline/Age_XIV_The_Heart_of_Becoming]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIV_The_Heart_of_Becoming#Diálogos relacionados]])*

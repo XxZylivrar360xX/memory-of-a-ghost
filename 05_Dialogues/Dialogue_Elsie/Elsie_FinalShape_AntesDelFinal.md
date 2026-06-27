@@ -113,7 +113,7 @@ Y después, en el espacio más pequeño — en el espacio donde solo existían e
 
 Su nombre. El que había aprendido en una línea temporal llena de ceniza y luz de tarde. El que él le había dado desde un umbral, exactamente como ella le había dado el suyo en un porche junto a un arroyo. El bucle que no tenía origen claro porque se sostenía solo.
 
-Lo decía ahora, en voz alta, en la línea principal, por primera vez.
+Lo había dicho antes — en un transmat de Europa, en privado, el día que decidió que él valía el riesgo de tener un nombre. Pero nunca así: en voz alta, sin un umbral del que irse, con el "te amo" por fin pronunciado y todo lo que entonces aún no se atrevían a nombrar puesto detrás de las dos sílabas.
 
 No como información. Como entrega — la misma entrega que él había hecho entonces, la misma que ella había recibido sin saber todavía del todo lo que significaba.
 
@@ -173,4 +173,4 @@ Sin miedo.
 
 *Conecta con: [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_AntesDelFinal]], [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal]], [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_VuelveACasa]], [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian_LaConversacion]], [[02_Characters/Elsie]], [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Cayde-6]]*
 
-*Nota narrativa: La versión conjunta (Guardian_Elsie_FinalShape_AntesDelFinal) muestra el intercambio. Esta versión muestra lo que Elsie observa antes de que llegue su momento: el orgullo de Cayde aterrizando en Kyle, la sonrisa de siempre en Ghost, la diferencia acumulada en esta línea. El "Kyle" que dice cuando responde al "te amo" es la primera vez que usa su nombre en la línea principal — no como información sino como entrega. El bucle: ella dio "Elizabeth" porque la cabaña la movió; él dio "Kyle" en otra cabaña; ella da "Kyle" aquí, de vuelta, para que lo lleve consigo. El mapa no tiene ninguna instrucción para este momento. Elizabeth decidió sola.*
+*Nota narrativa: La versión conjunta (Guardian_Elsie_FinalShape_AntesDelFinal) muestra el intercambio. Esta versión muestra lo que Elsie observa antes de que llegue su momento: el orgullo de Cayde aterrizando en Kyle, la sonrisa de siempre en Ghost, la diferencia acumulada en esta línea. El "Kyle" que dice cuando responde al "te amo" no es el primero de la línea principal — ese fue privado, en un transmat de Europa (ver [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]]) — pero sí es el primero dicho en voz alta junto a la palabra por fin pronunciada: el nombre y el "te amo" en el mismo aliento. El bucle: ella dio "Elizabeth" porque la cabaña la movió; él dio "Kyle" en otra cabaña; ella empezó a dárselo en Europa y aquí lo cierra, de vuelta, para que lo lleve consigo. El mapa no tiene ninguna instrucción para este momento. Elizabeth decidió sola.*

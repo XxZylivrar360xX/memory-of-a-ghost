@@ -1,12 +1,12 @@
 ---
-title: "Cap 36 â€” Defiance"
+title: "Cap 40 — Defiance"
 type: chapter
 age: "[[01_Timeline/Age_XIII_The_Road_to_the_End]]"
-chapter: 36
+chapter: 40
 status: pendiente
 ---
 
-# Cap 36 â€” Defiance
+# Cap 40 — Defiance
 
 *[[01_Timeline/Age_XIII_The_Road_to_the_End]]*
 
@@ -14,6 +14,6 @@ status: pendiente
 
 *(Pendiente)*
 
-## DiÃ¡logos de referencia
+## Diálogos de referencia
 
-*(Ver [[01_Timeline/Age_XIII_The_Road_to_the_End#DiÃ¡logos relacionados]])*
+*(Ver [[01_Timeline/Age_XIII_The_Road_to_the_End#Diálogos relacionados]])*

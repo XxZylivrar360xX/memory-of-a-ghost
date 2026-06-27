@@ -1,5 +1,5 @@
 # Age XVI — Echoes
-*Memories of a Ghost — Capítulos 45 a 47*
+*Memories of a Ghost — Capítulos 49 a 51*
 
 ---
 
@@ -15,7 +15,7 @@ El sistema solar aprendiendo a existir sin la amenaza que lo definió durante a�
 
 ## Capítulos
 
-### 45. The Shape of Silence
+### 49. The Shape of Silence
 **Era:** Echoes — Inicio
 
 El mundo después. El silencio que no se esperaba que se sintiera así. La humanidad construyendo en un espacio que ya no está bajo amenaza existencial inmediata — y descubriendo que eso también requiere aprendizaje.
@@ -24,7 +24,7 @@ Los Guardianes sin enemigo unificador. Eso genera tanto alivio como desorientaci
 
 ---
 
-### 46. Resonance Fragments
+### 50. Resonance Fragments
 **Era:** Echoes — Temporada
 
 Los Ecos del Testigo: no el Testigo, sino los patrones que dejó en la Vex-net, en ciertos espacios físicos, en los artefactos que tocó. Ikora y el equipo de investigación del Templo.
@@ -33,7 +33,7 @@ No es una amenaza cósmica — es arqueología de algo que estuvo a punto de ter
 
 ---
 
-### 47. The World Rebuilding
+### 51. The World Rebuilding
 **Era:** Echoes — Cierre
 
 La Ciudad Última. Los Eliksni y los Guardianes compartiendo espacio de manera que habría sido imposible tres años antes. Las primeras decisiones políticas de un sistema solar que no está en guerra por su existencia.
