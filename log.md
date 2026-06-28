@@ -4,6 +4,12 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-28 — Timeline Archive: EstaVezAlguienCruza
+
+CREADO: `06_Timeline_Archives/Personal_Memories/EstaVezAlguienCruza.md` — 6 secciones completas (despertar en el Cosmódromo, Edad Oscura, ZME, después, cierre del loop, lo que llegó). Inversión de heridas: Elsie olvida / Kyle recuerda. Nombres de frontera "Roja"/"Extraño". Ghost Ember: fría y cautelosa, se presenta a ambos, grieta en "No te llamaba nada". Kyle muere cuando ya quería vivir — "Sujétalo". Legado: Tomás, la regla "entremos sin armas". Cicatriz fundacional de la maternidad Elsie→Sai. Eliminado borrador de `07_Unsorted_Ideas`. Actualizado INDEX.md.
+
+---
+
 ## Sesión 2026-06-27 — Pipeline multi-agente · Git · Revisión ChatGPT #1 (cierre de sesión larga)
 
 Cierre formal de la sesión extendida del 26-27 de junio. El trabajo narrativo (nacimiento del Círculo del Dolor + reconciliación de `Sai_ElCirculoDelDolor`) ya está registrado en el bloque del 26 más abajo. Esta entrada recoge los tres bloques de infraestructura que faltaban en el log.

@@ -585,6 +585,7 @@
 - [[06_Timeline_Archives/Personal_Memories/El_Primer_Fracaso]] — actuó correctamente, a tiempo, con el plan correcto; el universo encontró otro camino; nace el mapa
 - [[06_Timeline_Archives/Personal_Memories/La_Construccion_Del_Mapa]] — la inversión sin momento; las personas dejaron de importar por sí mismas y empezaron a justificar el mapa
 - [[06_Timeline_Archives/Personal_Memories/The_Last_Reset]] — el reinicio no ocurre; la Voz; la pregunta sin respuesta
+- [[06_Timeline_Archives/Personal_Memories/EstaVezAlguienCruza]] — Edad Oscura; Elsie muere humana y vuelve Portaluz sin memoria; Kyle sobrevive siglos con el duelo intacto; "Entremos sin armas" / "Sujétalo"; raíz de la maternidad Elsie→Sai ("proteger no es poseer"); Ghost: Ember
 
 ## Alternate_Allies
 *Personas que existieron en otras realidades y dejaron huella en Elsie. Algunos murieron. Algunos nunca existieron en la línea principal. Todos ayudan a explicar quién es ella hoy.*
