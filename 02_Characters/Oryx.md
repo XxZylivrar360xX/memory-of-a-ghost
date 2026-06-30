@@ -471,3 +471,20 @@ El Guardián finalmente le demuestra algo que jamás pudo aceptar:
 Y en el fondo…
 
 parte de Oryx siempre quiso que eso fuera verdad.
+
+---
+
+# La Sombra — Faris
+
+En una línea temporal alternativa, la Luz resucita a Oryx en las profundidades de *Ghosts of the Deep*.
+
+Sin memoria. Sin Lógica de la Espada. Sin nombre.
+
+Lo que queda no es Oryx redimido. Es una pregunta con su forma.
+
+Se llama [[02_Characters/Faris]] — nombre elegido, no recordado. Hechicero Hive con vestimentas neomuni, alas recogidas como capa, radicado en Neomuna porque es el único lugar del sistema solar que no tiene muertos concretos detrás de su nombre anterior.
+
+Faris no cancela a Oryx. Lo hace más difícil: obliga a cada personaje que lo encuentra a decidir si la ética de la segunda oportunidad tiene un límite de escala, y si ese límite lo pone la lógica o el dolor de los sobrevivientes.
+
+> *Oryx conquistó para probar que existía.*  
+> *Faris camina para descubrir si todavía merece hacerlo.*

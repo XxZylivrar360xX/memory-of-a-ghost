@@ -4,6 +4,25 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-06-29 — Arco Faris completo · Las hermanas · El arco del rechazo
+
+**CREADOS (sesión completa):**
+
+- `06_Timeline_Archives/Alternate_Allies/Faris_GhostsDeep_ElDespertarBajoMetano.md` — POV Carina; señal-trampa, Ecthar, zanjas vacías, corona de Oryx sobre el Portaluz; Faris despierta sin memoria en burbuja de Vacío; Esquerda ofrece "Faris, por ahora"; Kyle dispara tarde. *Inicio del arco.*
+- `06_Timeline_Archives/Alternate_Allies/Faris_Savathun_LoQueNoSupeSoltar.md` — POV dual; Savathûn lo observa días antes de hablar; confiesa que hizo posible su regreso; hace el duelo de Oryx en voz alta ("amé a alguien que nunca dejé ir"); "no dejes que el universo decida tu destino antes de que tengas algo que decir al respecto"; lo mira a los ojos — Oryx no está — y se va. *Entre el mar y Neomuna; Faris sin nombre.*
+- `06_Timeline_Archives/Alternate_Allies/Faris_Neomuna_ElTestigoErrante.md` — POV Faris; Neomuna: la única ciudad sin muertos concretos detrás de su nombre anterior; Nimbus dice "Faris. Bueno." sin peso; nombre establecido. *El hogar provisional.*
+- `06_Timeline_Archives/Alternate_Allies/Faris_Xivu_LoQueLaEspadaNoNombra.md` — POV dual; Xivu expulsada de su Mundo Trono, sin inmortalidad, sola; viene cargando eones de reproches que pertenecen a Oryx; Faris la derrota y no la mata; Xivu lo interpreta como lástima — rechazo según la Lógica de la Espada (*ser derrotada y no eliminada = no alcanzas el umbral*); el corazón de Xivu se rompe no por la derrota sino por la indiferencia; Faris se queda con el peso de una herida que no hizo y no puede cerrar. *Después de Neomuna.*
+- `06_Timeline_Archives/Alternate_Allies/Elsie_Faris_Hypernet_LaEticaIncomoda.md` — POV Elsie; encuentro en el Hypernet; trabajan juntos en anomalía Vex; Faris distingue *saber quién fui* de *recordarlo*; Elsie no lo reporta. Cicatriz: la misericordia que solo funciona cuando el rostro del resucitado resulta cómodo no es ética, es preferencia. *Cierre del arco.*
+- `02_Characters/Faris.md` — ficha completa; filosofía, conexiones, frases, conceptos asociados, La inversión de Oryx.
+
+- `06_Timeline_Archives/Alternate_Allies/Faris_LibrosDelDolor_PorqueAunLosMonstruosPuedenAmar.md` — dos movimientos: (1) Neomuna — Faris lee los Libros del Dolor en versión anotada por Savathûn; sus marginalia cubren todo menos la sección sobre Sol (margen en blanco deliberado); (2) Plano Ascendente — Toland responde: Oryx fue a Sol porque Crota había sido derrotado allí y no pudo no ir; la Lógica de la Espada no era suficiente para contenerlo. *"Porque aún los monstruos pueden amar."* Revelación: la capacidad de amar estuvo siempre ahí — envuelta en teología de destrucción, pero ahí. Pregunta que queda: qué hacer con esa capacidad sin un sistema que le diga qué forma tomar.
+
+- `06_Timeline_Archives/Alternate_Allies/Kyle_Faris_ElTableroSinReyes.md` — cierre del arco; inverso de El Gambito de los Dos Reyes; POV dual; Neomuna, encuentro sin guión: Kyle lleva Raze-Lighter (fragmento de Ecthar) y no la toca; Faris cruza la calle en vez de esquivar; preguntan los nombres de los Espectros; se separan sin declarar nada. El destino entre ellos reescrito tantas veces que ya no sabe qué forma tomar — el respiro es el espacio donde ninguno corre el guión disponible.
+
+**MODIFICADOS:** `02_Characters/Oryx.md` (nodo inverso), `02_Characters/Faris.md` (conexiones), `INDEX.md` (7 entradas nuevas en Alternate_Allies), `log.md`.
+
+---
+
 ## Sesión 2026-06-28 — Timeline Archive: EstaVezAlguienCruza
 
 CREADO: `06_Timeline_Archives/Personal_Memories/EstaVezAlguienCruza.md` — 6 secciones completas (despertar en el Cosmódromo, Edad Oscura, ZME, después, cierre del loop, lo que llegó). Inversión de heridas: Elsie olvida / Kyle recuerda. Nombres de frontera "Roja"/"Extraño". Ghost Ember: fría y cautelosa, se presenta a ambos, grieta en "No te llamaba nada". Kyle muere cuando ya quería vivir — "Sujétalo". Legado: Tomás, la regla "entremos sin armas". Cicatriz fundacional de la maternidad Elsie→Sai. Eliminado borrador de `07_Unsorted_Ideas`. Actualizado INDEX.md.
