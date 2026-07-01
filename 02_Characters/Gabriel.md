@@ -84,3 +84,19 @@ El Guardian de Espinas. Hermoso, afilado, y el primero en sangrar por los demás
 ---
 
 *Conecta con: [[02_Characters/Jin]], [[02_Characters/Carina]], [[04_Concepts/Sword_Logic]], [[01_Timeline/Age_VI_Forsaken]]*
+
+---
+
+## Maestría de Luz — Titán
+
+*Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]], Amir en [[02_Characters/Amir|la suya]] y Jaden en [[02_Characters/Jaden|la suya]].*
+
+Gab pelea con público en mente, incluso cuando no hay nadie mirando. Es una decisión, no un accidente.
+
+**Sunbreaker (Solar) — la subclase de casa.** Martillos en llamas, lanzados con la visera arriba. La versión más teatral de cualquier super Titán, en el Titán que más la disfruta. *Para que me reconozcan* — la misma línea que ya dijo sobre su armadura aplica exacta a su super. Comparte subclase con Amir, pero donde Amir usa el fuego para dar calor silencioso, Gab lo usa para que se note desde el otro lado del campo.
+
+**Lo que evita — y por qué es más interesante que "no le gusta".** Estasis y Hebra — las dos subclases de Oscuridad. No es que no pueda dominarlas. Es que carga Espinas, un arma forjada en el camino Dredgen, y ya sabe que Eris lo mira con la misma sospecha con la que miró a todos los que vinieron antes con el mismo argumento. Quedarse deliberadamente del lado de la Luz — visible, teatral, innegable — es su forma de responder a esa sospecha sin decir una palabra. Hilo narrativo abierto: qué pasa el día en que la Oscuridad sea la única opción sobre la mesa y tenga que decidir si la toma.
+
+**Sentinel (Vacío) — cobertura ocasional, nunca identidad.** Lo usa cuando el equipo lo necesita. No lo reclama como suyo — ese lugar ya lo ocupa Jaden, y Gab, que vive de que lo reconozcan, elige no competir por ese en particular.
+
+**Prismatic — default: Sunbreaker.** Incluso con todo el kit disponible, sigue siendo el fuego visible. Es lo único que no negociaría.

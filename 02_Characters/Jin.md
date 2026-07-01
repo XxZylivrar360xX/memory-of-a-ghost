@@ -65,3 +65,21 @@ Lo que deja en Kyle es más difícil de nombrar: la certeza de que las preguntas
 ---
 
 *Conecta con: [[02_Characters/Amir]], [[02_Characters/Gabriel]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Gambito_de_los_Dos_Reyes]], [[01_Timeline/Age_V_The_Red_War]]*
+
+---
+
+## Maestría de Luz — Hechicero
+
+*Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]].*
+
+Jin es Hechicero, y pelea del mismo modo en que estudia: buscando el sistema detrás de la amenaza, no solo la amenaza.
+
+**Broodweaver (Hebra) — la subclase de casa.** Needlestorm no solo suspende enemigos: les compra tiempo al equipo para que alguien más encuentre la respuesta — literalmente lo que Jin ya hace con contexto histórico ("no siempre tiene la respuesta correcta. Tiene el contexto que hace posible que alguien más la encuentre"). Weavewalk, además, es la versión mecánica de su ojo de historiador: atravesar lo sólido para ver la arquitectura oculta detrás de lo que todos los demás solo ven de frente.
+
+**Devour (Vacío) — el experimento, no el instinto.** A diferencia de Kyle, que lo usa por necesidad protectora sin pensarlo, Jin lo usa deliberadamente, como quien prueba una hipótesis sobre sí mismo: si el mecanismo de la Colmena que convierte la muerte en combustible (Espinas, Necrochasm, Caricia de Malicia) puede redirigirse, ¿por qué no probarlo en su propio kit primero?
+
+**Lo que evita.** Stormtrance / Chaos Reach (Arco). Poder sin filtro, sin espacio para el análisis — el opuesto exacto de cómo procesa el mundo ("Jin procesa el mundo en contexto histórico", a diferencia de Jaden, que lo procesa en estructuras funcionales). Casi nunca lo saca del arsenal.
+
+**Solar — no es su instrumento.** Lo toca poco. No por evitarlo activamente, sino porque el registro de fe/renovación de Solar no es el suyo — el suyo es sistema e historia, no renovación.
+
+**Prismatic — default: Needlestorm + Weavewalk.** Suspende, y mientras tanto, mira lo que nadie más está mirando.

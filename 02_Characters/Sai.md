@@ -6,7 +6,7 @@
 **Rol:** La más joven del aquelarre de las Techeun de Mara Sov — lectora del Plano Ascendente
 **Espectro:** Ninguno (no es Guardiana; su don es propio, no paracausal-Luz)
 **Estado:** Viva — en recuperación con las Techeun tras ser rescatada del Plano; entra en la órbita de la familia elegida de Kyle y Elsie
-**Aparece en:** [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_ElMapaNoLlegaAqui]], [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene]], [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola]], [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan]], [[05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_ElLoboMasJoven]], [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]], [[05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar]] · (y la semana del duelo en `Dialogue_Sai/`)
+**Aparece en:** [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_ElMapaNoLlegaAqui]], [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene]], [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola]], [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan]], [[05_Dialogues/Dialogue_Sai/Sai_Guardian_Risen_ElLoboMasJoven]], [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]], [[05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar]], [[05_Dialogues/Dialogue_Sai/Sai_Guardian_FinalShape_LaPuertaQueNoTiembla]] · (y la semana del duelo en `Dialogue_Sai/`)
 
 ---
 
@@ -91,7 +91,7 @@ Cómo la llaman —y cómo llama ella— dice quién es cada quién para el otro
 **La asimetría que importa:** Sai esconde a una mujer entera bajo el diminutivo (Saiidris), y Elsie también (Elizabeth). Kyle no. Kyle no tiene un nombre sagrado oculto porque "Kyle" ya es el nombre que él mismo eligió desde el cero, sin un antes que enterrar. Por eso, con él, el registro más hondo no es un nombre secreto: es "papá", o el silencio.
 
 El círculo de intimidad más estrecho del vínculo: gente que se da el nombre que no le da a nadie más. El origen de estos ritos está en dos escenas hermanas, separadas a propósito porque son dos registros distintos del mismo miedo a ser un reemplazo:
-- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_ElLoboMasJoven|El Lobo Más Joven]] (Kyle↔Sai) — Sai lo lee buscando el nombre enterrado bajo el suyo y no encuentra nada (Kyle se construyó desde cero, sin un antes que esconder); así que en vez de desenterrar un secreto, *da* uno pequeño: "lobito". Kyle le devuelve "niña".
+- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_Risen_ElLoboMasJoven|El Lobo Más Joven]] (Kyle↔Sai, Season of the Risen) — Sai lo lee buscando el nombre enterrado bajo el suyo y no encuentra nada (Kyle se construyó desde cero, sin un antes que esconder); ese cero, junto al espejo de Saladin (fortaleza vs. cabaña), le muestra que lo que Kyle esconde no es un secreto, es una casa. En vez de desenterrar un secreto, *da* uno pequeño: "lobito". Kyle resiste ("lobo joven") antes de aceptarlo con el tiempo; le devuelve "niña".
 - [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca|Lo Que No Se Arranca]] (Elsie↔Sai) — Sai *casi* le arranca a Elsie el nombre que esconde, y se detiene; y precisamente porque no lo arrancó pudiendo, Elsie le confía "Elizabeth" (la segunda persona en la existencia a quien se lo da). Funda "norte"/"norte chiquito"/"Saiidris" y el eje "dado vs. arrancado" que el arco entero cosecha.
 
 ---

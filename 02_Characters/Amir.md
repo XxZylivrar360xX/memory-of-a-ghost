@@ -59,3 +59,19 @@ Sun Tzu habría estado de acuerdo. Amir nunca lo diría.
 ---
 
 *Conecta con: [[02_Characters/Jin]], [[01_Timeline/Age_V_The_Red_War]]*
+
+---
+
+## Maestría de Luz — Titán
+
+*Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]], Carina en [[02_Characters/Carina|la suya]] y Jaden en [[02_Characters/Jaden|la suya]].*
+
+Amir pelea como cita a Sun Tzu: siempre hacia el mismo punto. *La suprema habilidad consiste en doblar la resistencia del enemigo sin necesidad de combatir.*
+
+**Behemoth (Estasis) — la subclase de casa.** Congelar no es agredir, para Amir. Es la versión literal de su Sun Tzu favorito: un enemigo detenido no necesita ser vencido a golpes. La pelea termina antes de volverse pelea. Lo usa con la misma calma con la que sirve el té — sin urgencia, sin espectáculo.
+
+**Sunbreaker (Solar) — pero al revés de lo esperado.** No lanza martillos en llamas para hacer daño. Usa las fogatas (sunspots) como lo que su ficha ya dice que construye: temperatura. Un Titán de fuego cuya versión del fuego es mantener caliente el lugar donde el equipo se para, no quemar lo que tiene enfrente.
+
+**Lo que evita.** Striker (Arco). Fists of Havoc es la respuesta sin imaginación — resolver a golpes lo que se pudo resolver doblando la resistencia sin combatir. No es que no pueda. Es que Sun Tzu no lo habría aprobado, y Amir se lo toma personalmente.
+
+**Prismatic — default: Behemoth + el fuego de Sunbreaker combinados.** Congela la amenaza, calienta a los suyos. La misma filosofía de siempre, con todo el kit disponible al mismo tiempo.

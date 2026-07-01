@@ -71,3 +71,23 @@ Carina no deja ecos filosóficos. Deja algo más simple y más difícil de reemp
 Kyle, después de años de cargar solo las preguntas que no tenían respuesta limpia, aprendió a decirlas en voz alta. No porque alguien le enseñó que podía. Sino porque Carina nunca actuó como si no pudiera.
 
 Eso no se enseña. Se demuestra, incursión por incursión, hasta que el otro lo cree.
+
+---
+
+## Maestría de Luz — Cazadora
+
+*Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]].*
+
+Carina es Cazadora, y se nota desde el primer disparo: no pelea para sobrevivir, pelea con el mismo instinto con el que lee una habitación — encontrando lo que vale la pena en medio segundo y actuando antes de que el momento se cierre.
+
+**Gunslinger (Solar) — la subclase de casa.** Golden Gun es ella en su forma más pura: precisión, confianza, cero desperdicio de movimiento. No dispara para impresionar. Dispara porque ya decidió, y decidir rápido es lo suyo desde antes de tener un arma paracausal en la mano.
+
+**Nightstalker (Vacío) — leer el campo como lee a la gente.** Shadowshot no es solo control de área: es la misma habilidad que usa para encontrar qué conecta a las personas, aplicada al espacio de batalla. La usa, con nombre y lugar, en la batalla sobre la Tierra al final de Season of the Seraph — el mismo momento de "Síguelo" — tejiendo el flanco que ella y Jaden sostienen mientras Kyle se va solo hacia Neomuna.
+
+**Arcstrider (Arco) — el Crisol.** Es donde más la saca. La danza de cuchillas es la versión física de su personalidad: rápida, imprevisible, imposible de ignorar en una sala. La rivalidad de años con Jaden en el circuito competitivo se juega, en parte, aquí.
+
+**Lo que evita.** Revenant (Estasis). Lo intentó una vez y no volvió. Congelar el tiempo, silenciar una sala — es exactamente lo contrario de lo que ella hace por instinto, que es mantener el espacio vivo y habitable. No es que no pueda controlarlo. Es que no le gusta lo que se siente hacerlo.
+
+**Threadrunner (Hebra) — Lightfall.** Le llega casi tan natural como a Kyle, pero por una razón distinta: a él los hilos le resuenan como mapa de personas; a ella, como la misma lectura social que ya hacía toda la vida, vuelta literal. Compite con Shadowshot por ser su segunda favorita.
+
+**Prismatic — default: Golden Gun.** Incluso con todo el kit disponible al mismo tiempo, sigue siendo la misma: la que decide rápido y dispara una sola vez, bien.

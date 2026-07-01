@@ -73,3 +73,23 @@ Jaden no deja ecos — no es ese tipo de presencia. Lo que hace es más difícil
 Kyle, años después de conocerlo, todavía resuelve ciertos tipos de problemas con la misma economía que aprendió de Jaden — sin palabras innecesarias, sin movimientos de más, con la confianza de que el análisis previo fue suficiente.
 
 Jaden no sabe que enseñó eso. Probablemente no le importaría saberlo.
+
+---
+
+## Maestría de Luz — Titán
+
+*Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]] y Carina en [[02_Characters/Carina|la suya]].*
+
+Jaden es Titán, y su relación con la Luz tiene la misma economía que su relación con las palabras: nada que no tenga un propósito.
+
+**Sentinel (Vacío) — la subclase de casa.** Ward of Dawn es, literalmente, "escudos de barricada como cobertura táctica" (ver arriba, §Apariencia) elevado a super. No lo usa como declaración de poder — lo usa como extensión de cobertura para alguien más. Es su default desde el principio; a diferencia de Kyle, Jaden no tuvo que aprender a proteger. Ya lo hacía.
+
+**Striker (Arco) — un golpe, no una racha.** Fists of Havoc casi nunca se repite dos veces en la misma pelea. Wrath of the Machine, encuentro de Aksis: un solo golpe cronometrado que termina lo que habría sido un enfrentamiento prolongado. El equipo lo recuerda como "el golpe" — nunca hizo falta un segundo.
+
+**Lo que evita.** Sunbreaker (Solar). Lo probó temprano, en el circuito competitivo, y lo dejó — un martillo en llamas es una declaración, y Jaden no hace declaraciones. Su armadura ya dijo que no necesita decir nada; el fuego contradice eso.
+
+**Behemoth (Estasis) — el que más rápido dominó.** Control quieto, cobertura de cristal, ningún desperdicio. Le llegó solo, sin que nadie se lo enseñara — es, literalmente, el idioma en el que ya pensaba.
+
+**Berserker (Hebra) — el que menos le sienta, todavía.** Garras, agresión visible, movimiento grande. Lo usa bien porque es competente en todo, pero es la única subclase que no se siente todavía como él. Sigue adaptándose.
+
+**Prismatic — default: Ward of Dawn.** Con todo el kit disponible, sigue siendo el que sostiene la cobertura para que otro resuelva. Nunca el que rompe la pared primero.

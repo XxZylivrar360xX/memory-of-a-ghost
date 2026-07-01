@@ -366,7 +366,7 @@
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Testigo_FinalShape_LaOferta]] — el trono del Rey de los Poseídos; Ghost silenciado; Elsie en las comunicaciones
 - [[05_Dialogues/Dialogue_Guardian/Guardian_Testigo_FinalShape_LaConfrontacion]] — Prismático, el Aegis, la estatua quebrada, retirada bajo la ira del Testigo
 - [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_VuelveACasa]] — Kyle recibe el "te amo" de Elsie; Elsie sin sistema; lo que lleva consigo al portal
-- [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal]] — Cayde, Ghost, Crow; Kyle dice "te amo" sereno; la familia que construyó; entra no estando solo
+- [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal]] — a la salida de Salvation's Edge, con el raid team (Carina, Jaden, Amir, Jin, Gabriel); Cayde, Ghost, Crow; Kyle y Elsie pelean juntos y se ganan el "te amo" sin audiencia; "todavía falta, pero ya no falta solo"
 - [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_LasMemoriasHechasMateria]] — el umbral interior del Pale Heart; cada memoria hecha material; la Leyenda vs. el hombre; "vuelve a casa" eclipsa todo
 
 ### Post-Gambito — El cierre de Ghost (perspectiva de Kyle)
@@ -424,7 +424,7 @@
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Micah10_FinalShape_ElEspejo]]
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Caiatl_FinalShape_FuerzaDeAsalto]]
 - [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_VuelveACasa]] — la ausencia de cálculo; el "Espera" sin protocolo; "te amo" sin red de seguridad; "vuelve a casa" como definición de hogar
-- [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal]] — observa el orgullo de Cayde aterrizando en Kyle; cierra los ojos; dice "Kyle" junto al "te amo" por fin pronunciado (el primer "Kyle" privado fue en Beyond Light, ver ElNombre); Elizabeth decide sola
+- [[05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_AntesDelFinal]] — a la salida de Salvation's Edge; cuenta las seis siluetas, observa al raid team, pelea junto a Kyle contra Poseídos rezagados; cierra los ojos; dice "Kyle" junto al "te amo" por fin pronunciado sin audiencia (el primer "Kyle" privado fue en Beyond Light, ver ElNombre); Elizabeth decide sola
 
 ### Post-Gambito — El cierre de Ghost (perspectiva de Elsie)
 - [[05_Dialogues/Dialogue_Elsie/Elsie_Ghost_PostGambito_LaUltimaResurreccion]] — la primera que comprende; salvar de la inmortalidad, no de la muerte; apaga el viejo sistema y no busca la variable; la que nunca pudo soltar, soltando; ve su propia lápida futura sin miedo
@@ -501,7 +501,7 @@
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Lightfall_NoVayasAMorir]] — dos POVs convergen en el transmat; ella viene de perder a Rohan, él de sobrevivir a un Tormentor; la revelación (el Testigo quiere *usar* el Viajero); "No vayas a morir" / "No puedes matar algo que ya vive en memorias" — bravata que aterriza como su peor miedo
 
 ### Final Shape — el vínculo en su punto más alto
-- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_AntesDelFinal]] — "te amo"; el nombre; la entrada a la oscuridad
+- [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_AntesDelFinal]] — a la salida de Salvation's Edge, en medio del campo de guerra; el raid team despeja el espacio a propósito; "te amo"; el nombre; sin audiencia; "todavía falta, pero ya no falta solo"
 - [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_VuelveACasa]]
 
 ### El cierre de Elsie — El Último Crepúsculo (muchos años después de Ghost)
@@ -530,9 +530,16 @@
 - [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola]] — **el consejo donde Sai elige su sitio**. Mara la quiere como lectora del Plano y le ofrece una transacción honesta pero la instrumentaliza (lee el patrón, no a la persona — mismo error que con Kyle). Las tres Techeun mayores (Shuro-Chi, Kalli, Sedia), que volvieron de ser Tomadas por Oryx, discuten si dejar entrar a la niña. Sai no acepta como herramienta ni rehúsa por miedo: pone su condición — "**no iré sola, no mando a nadie solo**" — y redefine qué es una Techeun lectora (la acompañada, no la solitaria que casi la mata). Funda el espejo Elsie↔Sai (dos lectoras que se niegan a ir solas) y el paso "de víctima a recurso por elección". No las rescata yendo al Plano (ya volvieron): las honra cambiando la regla que las dejó solas.
 
 ### Recuperación — Año de la Bruja (Age X)
-> El origen de los ritos de nombre, en dos escenas hermanas (dos registros del mismo miedo a ser un reemplazo). Separadas a propósito para ajuste independiente.
-- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_ElLoboMasJoven]] — **el origen de "lobito" (Kyle↔Sai)**. Sai lee a Kyle buscando el nombre enterrado bajo el suyo y no encuentra nada — "debajo de Kyle hay más Kyle, y debajo el cero" (se construyó desde cero, sin un antes que esconder). En vez de desenterrar un secreto, *da* uno pequeño: nombrar-hacia-abajo como ternura. Kyle le devuelve "niña" como trato. El miedo desactivado: un reemplazo necesita un muerto enterrado al que parecerse; Kyle no tiene cuarto cerrado dentro.
-- [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]] — **el origen de "norte"/"Elizabeth" (Elsie↔Sai)**. Sai *casi* le arranca a Elsie el nombre que esconde (el "segundo Famke" en miniatura) y se detiene; y *porque* no lo arrancó pudiendo, Elsie le confía "Elizabeth" (la 2ª persona en la existencia). "norte" nace del Plano devuelto ("no te sueltes del norte") → "norte chiquito" + "Saiidris". Planta el eje "dado vs. arrancado" del arco entero.
+> El origen de uno de los ritos de nombre.
+- [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]] — **el origen de "norte"/"Elizabeth" (Elsie↔Sai)**. Sai *casi* le arranca a Elsie el nombre que esconde (el "segundo Famke" en miniatura) y se detiene; y *porque* no lo arrancó pudiendo, Elsie le confía "Elizabeth" (la 2ª persona en la existencia). "norte" nace del Plano devuelto ("no te sueltes del norte") → "norte chiquito" + "Saiidris". Planta el eje "dado vs. arrancado" del arco entero. Hermana de pareja con `El Lobo Más Joven` (más abajo, Season of the Risen) — separadas a propósito para ajuste independiente.
+
+### Season of the Risen (Age XI) — el origen de "lobito"
+> El mismo día del sacrificio de Lord Saladin por Crow ante Caiatl (ver [[05_Dialogues/Dialogue_Guardian/Guardian_Caiatl_PostFinalShape_LoQueElDeberCobra|Lo Que El Deber Cobra]], donde Kyle lo recuerda años después).
+- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_Risen_ElLoboMasJoven]] — **el origen de "lobito" (Kyle↔Sai)**. Sai ve a Saladin alejarse solo tras rechazar la gratitud de Caiatl, y ve a Crow temblar por el miedo de ser, otra vez, el que carga el error de otro — el reflejo exacto de su propio miedo, al revés. Cuando lee a Kyle, encuentra el mismo vacío de sobreviviente que en Saladin, pero convertido en cabaña en vez de fortaleza: "debajo de Kyle hay más Kyle, y debajo el cero" — y ese cero, en Kyle, es una casa con la puerta sin llave, no un cuarto cerrado. En vez de desenterrar un secreto, *da* uno pequeño: nombrar-hacia-abajo como ternura. Kyle RESISTE ("No. Lobo joven.") — con el sacrificio de Saladin fresco, quiere el registro serio del linaje; Sai no cede ("son lo mismo") pero tampoco insiste. Cementa solo, sin fecha exacta, semanas después. Kyle le devuelve "niña" como trato esa misma noche. Callback años después en [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PostFinalShape_LaHijaQueElegimos|La Hija Que Elegimos]] ("Los jueves, lobito" / "Los jueves, niña").
+
+### Final Shape — la puerta que abre Sai
+> El portal principal queda inestable tras la huida del Testigo. Sai abre una puerta propia desde el Plano Ascendente — la primera vez que usa el don a esta escala desde el Alineamiento, la vez que casi no vuelve. Esta vez sostiene sin temblar.
+- [[05_Dialogues/Dialogue_Sai/Sai_Guardian_FinalShape_LaPuertaQueNoTiembla]] — Sai abre la puerta trasera a la antesala de la Sala de las Estatuas para los 6 (Kyle + raid team); intercambio silencioso "vi que por fin lo hiciste, lobito" / "no lo digas"; el Viajero forja una espada de luz para cada uno de los cinco (el Aegis de Kyle ya existe); los 6 quiebran las estatuas de los disidentes juntos — "nunca estuvo solo" hecho literal, pagando la profecía de [[05_Dialogues/Dialogue_Guardian/Guardian_Testigo_FinalShape_LaConfrontacion|La Confrontación]].
 
 ### La semana de Sai — el duelo paralelo (post-El Último Crepúsculo)
 > Arco de geometría OPUESTA al de Kyle: él se queda quieto y el mundo viene a la cabaña; ella no puede quedarse quieta y huye en el trabajo en Marte. Seis días de huida + el cruce. Cada día la visita alguien con un ángulo distinto sobre el mismo duelo; la progresión física hacia la lanzadera es el latido del arco. La llegada se narra también desde Kyle en [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PostFinalShape_LaHijaQueElegimos|La Hija Que Elegimos]].

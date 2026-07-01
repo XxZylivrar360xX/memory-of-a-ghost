@@ -227,6 +227,52 @@ Sino porque acepta partes de sí mismo que otros rechazan.
 
 ---
 
+# Maestría de Luz — El Kit de Combate
+
+*Nota de desarrollo: exploración en curso, sujeta a ajuste. Clase confirmada en canon: Hechicero (ver [[01_Timeline/Raids/WrathOfTheMachine]], "las tres firmas simultáneas de Kyle (Hechicero), Jaden (Titán) y Carina (Cazadora)").*
+
+Kyle es Hechicero — la clase diseñada para sostener a otros. Las primeras semanas no lo sabe. No hay "clase predilecta" todavía, solo instinto: combate cuerpo a cuerpo, agresión cruda, la reacción de un cuerpo que no confía en nada todavía (ver "La Primera Resurrección" — instinto puro de supervivencia en la Biblioteca Ishtar). La ironía fundacional: nace en la clase que cura y protege, y tarda años en descubrir que esa opción existe.
+
+**Voidwalker (Vacío) — la subclase de casa.** Nova Bomb encaja con la agresión inicial: burst, no control. Es lo que usa cuando todavía no tiene nada que proteger más que a sí mismo.
+
+**Stormcaller (Arco) — Taken King.** Después de Crota, cuando la venganza de Oryx lo obliga por primera vez a cargar consecuencias sobre otros y no solo sobre sí mismo, Stormtrance es poder sin filtro — no elegido con calma, descargado. Se convierte, literalmente, en la tormenta; no dirige el poder, lo padece.
+
+**Cuándo aprende a ser support.** No es una lección que alguien le da. Se ancla a la herida todavía vaga de Shadowkeep (ver `Guardian_Elsie_Splicer_MientrasDuraLaNoche` y `Guardian_Elsie_Chosen_LoQueNoPeso` — la vez que casi se pierde solo en la Luna y Elsie no estuvo). Después de eso aprende Well of Radiance (Solar): no porque alguien se lo enseñe, sino porque decide que si él no siempre va a tener a alguien cuidándole la espalda, al menos puede ser el que se asegura de que los demás sí la tengan.
+
+**Devour (Void 3.0, Witch Queen) — su firma definitiva.** Una habilidad egoísta por diseño —robar vida para sostenerse— que él reescribe en clave de protector: no la usa para acumular poder, la usa para no caer y dejar un hueco sin cubrir. "Toda vida puede salvarse" vuelto mecánica de juego.
+
+**Estasis (Beyond Light) — enseñada por Elsie.** Ya es canon (ver más abajo, "Estasis — el método y la pregunta incómoda"): la usa desde emoción, no desde control, a diferencia de ella. Es su subclase más íntima y menos dominada — la única que no perfeccionó solo.
+
+**Strand (Lightfall) — la que más resuena filosóficamente.** Los hilos como magia son, literalmente, el mapa de personas que ya vive en él (ver `00_Biblia/Elsie_ElMapaYLaPregunta`, "El Mapa Nuevo: Las Personas" — aplicado aquí a Kyle en espejo). Casi no necesita entrenamiento para entenderlo: conectar, no controlar, ya es su instinto.
+
+**Lo que evita — "se le resbala el balón".** La auto-resurrección de Sunsinger (Radiance, D1). La tiene disponible y no la usa cómodo; nunca explica bien por qué. Un Hechicero cuyo arco entero es aprender que la pérdida importa no puede sostener con gusto una habilidad que dice "puedo traerme de vuelta a mí mismo" — otra deuda narrativa plantada, a la manera de Shadowkeep.
+
+## Los Supers — uno por uno
+
+*Cuáles usa, cuáles no, y cuándo/dónde. Recorrido cronológico, no jerárquico — el orden importa más que el ranking.*
+
+- **Nova Bomb (Voidwalker/Vacío) — SÍ.** Cosmódromo en adelante; su primer super, aprendido sin nadie que lo guíe. Variante **Cataclysm** (persecución errática, encadenada) en los primeros años — encaja con el instinto sin control. Con el tiempo migra hacia **Vortex** (zona de negación, quieta, paciente) según empieza a pensar en el espacio como algo que se protege y no solo se despeja.
+
+- **Radiance (Sunsinger, D1) — NO.** Disponible desde Taken King. Nunca la reclama como propia pese a ser táctimente útil (autor-resurrección en pelea prolongada). Ver arriba, "se le resbala el balón" — es la deuda narrativa que dejamos plantada.
+
+- **Stormtrance (Stormcaller/Arco) — SÍ, pero retirada.** Exclusiva del año de rabia post-Crota (Taken King). Después de esa era, casi no vuelve a tocar Arco. No es una decisión anunciada — simplemente deja de reaparecer en su kit, como algo que pertenece a una versión de él que no quiere volver a ser.
+
+- **Chaos Reach (Stormcaller, variante posterior) — NO, con una excepción pendiente de escribir.** Cuando el rework de Arco la vuelve disponible, no la toma. Sería un buen gancho futuro: un momento de quiebre real (¿Final Shape? ¿la pérdida de Elsie?) donde la tormenta vieja vuelve a estar disponible y él tiene que decidir si la usa — la tentación de la vieja rabia, todavía ahí, nunca del todo cerrada.
+
+- **Daybreak (Dawnblade/Solar) — SÍ, pero tardía.** Solo después de dominar Well of Radiance (ver abajo). Es la ofensiva ELEGIDA, no reactiva — la diferencia entre Nova Bomb/Stormtrance (poder que lo usa a él) y Daybreak (poder que él decide soltar, en momentos específicos, con control). Marca de madurez: ofender ya no es lo único que sabe hacer bajo presión.
+
+- **Well of Radiance (Dawnblade/Solar) — SÍ, su firma.** Nace de la herida de Shadowkeep (ver arriba). Se vuelve su default en incursiones desde ese punto — el super que más usa en total, aunque no el más vistoso.
+
+- **Winter's Wrath (Shadebinder/Estasis) — SÍ, desde Beyond Light.** La usa en momentos de alto riesgo emocional, no como herramienta táctica fría (esa es Elsie). Menos precisa, más honesta. La reserva para cuando algo que quiere proteger está a punto de perderse — nunca la usa por eficiencia pura.
+
+- **Needlestorm (Broodweaver/Strand) — SÍ, casi de inmediato.** Lightfall/Neomuna. La adopta con una naturalidad que sorprende a los que lo conocen — porque los hilos no son una herramienta nueva para él, son la forma en que ya piensa (el mapa de personas).
+
+- **Prismatic (Final Shape) — no es un super nuevo, es la posibilidad de elegir entre todos los anteriores y combinar aspectos/fragmentos de Luz y Oscuridad a la vez.** Su elección por default sigue siendo **Well of Radiance** — la prueba de que, incluso con acceso a todo su historial de poder disponible al mismo tiempo, sigue eligiendo ser el que sostiene el techo y no el que rompe la pared.
+
+**Prismatic (Final Shape) — la síntesis.** No es un build de daño puro. El gancho de Strand como movilidad es, literalmente, la capacidad de lanzarse al lado de la caída por alguien más (el motivo ya compartido con Elsie — elegir sentarse/pararse del lado donde alguien podría caer). Solar para curar y potenciar al equipo. Devour de Void para sostenerse sin quitarle recursos a nadie. Estasis solo como un segundo de quietud que le da a otro — nunca como aislamiento para sí mismo.
+
+---
+
 # Relaciones Principales
 
 ---
