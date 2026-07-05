@@ -4,6 +4,420 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-07-04 — La Familia Elegida · El Torneo de los Velocistas (infraestructura)
+
+Sesión de diseño narrativo (brainstorm → estructura), no de prosa. Objetivo: expandir la dinámica familiar Kyle/Elsie/Sai (+Ghost como testigo y parte) en la ventana Season of the Lost → Final Shape, usando los eventos anuales de la Ciudad (Aurora, Festival de las Almas Perdidas, Solsticio, Juegos de los Guardianes) y la SRL como territorio poco explorado del vault.
+
+**CREADOS:**
+
+- `08_Core_Relationships/La_Familia_Elegida.md` — el cuarto documento de relaciones fundamentales (faltaba el cuarteto). La historia de la frase de la lápida de Elsie ("El hogar que elegimos"): los cuatro roles (eco paterno / norte / hija elegida / testigo y parte), los rituales con su estado (nombres ✅; "¿comiste?" y "los jueves" ⏳ pendientes de escena de origen — deudas que el PostFinalShape ya cobra), el calendario anual como vara de medir (progresión de tres fases: incómodo → pleno → interrumpido), la geometría táctica de la familia en combate (precedente: `Elsie_FinalShape_LaHuida`), los tres hilos propios de Ghost, y 5 reglas de escritura (anti-utilería elevada a regla familiar; "la alegría se escribe dorada, la Tinta cobra sola").
+- `04_Concepts/Torneo_De_Los_Velocistas.md` — el mundial de la SRL, con las especificaciones del autor: ciclo bienal (año de clasificatorias amistosas + año eliminatorio), título vitalicio **"El Velocista de Sol"**, final tradicional en la Aurora. Distinción SRL (liga viva) vs Torneo (mundial). Reglas de pista: sin Luz (la humanidad compite, no la paracausalidad), la máquina manda (mecánica = Saber Heredado de Amanda), Ghost copiloto (único rol donde no es resucitador — su arco: aprender a acompañar a Kyle a perder). **Arco de Kyle en 8 fases:** espectador con la Primera Escuadra (Age I) → no clasifica el año que mata a un rey (TTK) → Efrideet le da permiso de querer algo que no salva a nadie (RoI) → suspensión por la Guerra Roja, gradas llenas de fantasmas (Age V) → revivido con Amanda tras la muerte de Cayde ("traigan de vuelta el torneo que hace que todos vuelvan a vivir… sobre todo en el podio") como forma de duelo, no evasión (Forsaken) → clasifica y cae en 1ª ronda con Elsie recién ida; Amanda: "no lo trajimos de vuelta para ganar" (Shadowkeep) → madurez: mejores tiempos del sistema, Elsie de vuelta, Sai lo conoce como "el favorito" (Beyond Light/Año de la Bruja) → **campeón en la Aurora de Seraph, semanas antes de Lightfall** — su primer logro personal, auténtico y suyo. La Tinta: Amanda muere en Defiance; el trofeo se resignifica solo; el Torneo V nunca se corre — "el campeón que nunca defendió la corona". Semillas por confirmar: Marcus Ren como rival, nombre del colibrí, vuelta de honor post-Defiance, Torneo V post-saga.
+- `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` — hoja de ruta priorizada: P1 deudas directas (primera Aurora familiar/"¿comiste?", origen de "los jueves", Festival Sai↔Ghost/beat 4, Amanda post-Cayde, la final), P2 historia del torneo + colisiones (gradas Age I, Efrideet, 1ª ronda perdida, **Sai conoce a los Bray en Seraph**, atraco de Plunder, ronda de Haunted), P3 color y cobros (Juegos de los Guardianes, Solsticio, Aurora interrumpida, vuelta de honor). Decisiones abiertas y fichas obligadas listadas.
+
+**MODIFICADOS:** `INDEX.md` (entrada en Core Relationships + entrada en Major Concepts), `log.md`, `CLAUDE.md` (estado del vault).
+
+**Continuación — 3 decisiones resueltas:**
+
+- **CREADO** `02_Characters/Rook.md` — rival de Kyle en el torneo (ficha provisional). Humano, showman, campeón del Torneo III; lo elimina en su primera ronda (Shadowkeep) y pierde ante él la final del Torneo IV. Diseño: espejo torcido de Kyle — el mismo vacío de infancia inexistente ("nadie me enseñó nada"), resuelto como mito solitario en vez de familia elegida; no es villano, no necesita redención; la fricción es la misma herida respondida en direcciones opuestas. Beat de cierre: reconoce la maniobra de Amanda en el movimiento ganador de Kyle ("—Alguien te enseñó eso. —Sí.") y se queda sin réplica por primera vez en público.
+- **Nombre del colibrí confirmado:** "La Línea Alterna" — doble sentido (alternativa al Gorrión / línea temporal alterna, eco de Elsie). Bautizado retroactivamente en `Guardian_Elsie_PreShadowkeep.md` (anotación añadida al pie del archivo existente; prosa original intacta) — esa escena ya escrita es ahora el origen silencioso del skimmer campeón.
+- **"La vuelta que nunca corrió" aclarada:** NO es la ceremonia oficial de campeón (esa se cancela — la guerra final se traga el Torneo V, segundo eco de la Guerra Roja); es la vuelta privada que Kyle se da solo, sin cámaras, en La Línea Alterna, como duelo físico por Amanda. Distinguida explícitamente del Torneo V *post-saga* (ese sigue abierto y especulativo, sin nada escrito).
+
+**MODIFICADOS (continuación):** `04_Concepts/Torneo_De_Los_Velocistas.md` (secciones de Rook, La Línea Alterna, La vuelta que nunca corrió; tabla y arco de 8 fases actualizados con Rook nombrado), `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PreShadowkeep.md` (anotación de pie), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (decisiones resueltas vs. abiertas), `INDEX.md` (Rook en Main Characters; entrada del Torneo actualizada).
+
+**Continuación 2 — ficha de Amanda + estructura del bracket + Torneo V cerrado como hilo implícito:**
+
+- **CREADO** `02_Characters/Amanda_Holliday.md` — ficha completa. Mecánica jefe de la Ciudad, fuente del primer Saber Heredado de Kyle ("no se aprende mirando, Guardián, se aprende ensuciándose"), co-fundadora del torneo revivido tras Cayde, pareja de Crow ("la puerta que no vuelve a abrirse" — cruza su muerte con el arco de Sai vía `Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta`). Muere Age XIII (Defiance); su muerte resignifica el trofeo de Kyle retroactivamente.
+- **DISEÑADA la estructura del bracket** en `04_Concepts/Torneo_De_Los_Velocistas.md` (nueva sección "La estructura — cómo funciona el bracket"): Año 1 (Tabla de Marcas) usa el formato de heats multitudinarios de la SRL de siempre, 4 paradas mapeadas a las 4 temporadas de Age IX (Hunt/Chosen/Splicer/Lost), puntos acumulados, cierre con Los Dieciséis sembrados 1-16. Año 2 (el Cuadro) cambia a duelos 1-contra-1 — el giro de formato que hace que se sienta mundial y no liga —, siembra estándar de torneo (1v16, 2v15…, los dos mejores sembrados aislados en polos opuestos para solo cruzarse en la final), mejor de 3 por ronda (final mejor de 5), 4 rondas con nomenclatura de mundial de fútbol (Octavos/Cuartos/Semifinal/Final) mapeadas a Risen/Haunted/(Plunder queda libre, sin ronda)/Seraph. La regla de siembra explica sola, sin forzar nada, por qué Kyle y Rook se cruzan en primera ronda del Torneo III (Kyle sembrado bajo vs. Rook sembrado alto) y solo en la final del Torneo IV (ambos sembrados altos, polos opuestos).
+- **Torneo post-saga cerrado como hilo implícito, no como decisión pendiente:** a petición explícita del autor, no se desarrolla por ahora — queda mencionado como algo que "sigue pasando, en algún lado" sin necesidad de narrarlo; se retoma si algún día se decide montarlo.
+
+**MODIFICADOS (continuación 2):** `04_Concepts/Torneo_De_Los_Velocistas.md` (sección de estructura + ajuste de la sección final de hilo abierto), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (fichas resueltas, estructura del bracket anotada, Torneo V movido a "cerrado/implícito"), `INDEX.md` (entrada de Amanda Holliday).
+
+**Continuación 3 — fase de grupos + participación abierta:**
+
+- **Fase de grupos añadida** al torneo, a petición del autor (más cercano al Mundial real que un bracket puro): el corte de la Tabla de Marcas pasa de 16 a **32 clasificados** ("Los Treinta y Dos"), que se reparten en **8 grupos de 4** (sorteo público, primeros 8 sembrados repartidos uno por grupo); todos contra todos dentro del grupo (3 carreras por piloto); avanzan los 2 primeros de cada grupo, re-sembrados 1-16 para entrar al Cuadro (que conserva el diseño ya hecho: Octavos/Cuartos/Semifinal/Final). Para el Torneo IV, los grupos corren durante la campaña de Witch Queen (Age X); el Cuadro, durante Age XI. El arco de Kyle se ajustó en consecuencia (Torneo III: sobrevive su grupo raspando, cae en Octavos ante Rook; Torneo IV: gana su grupo con comodidad antes de la racha hasta la final).
+- **Participación abierta:** civiles + Guardianes desde el Torneo I (refuerza la regla "sin Luz" — la prueba en vivo de que sin paracausalidad todos compiten igual); Eliksni (Casa de la Luz) y Cabal (Imperio de Caiatl) desde el Torneo IV — el título de Kyle se vuelve también, sin que nadie lo declare con solemnidad, **el primer campeonato multiespecie de la Ciudad**. Decisión de diseño: Rook se mantiene Guardián (no se retoca su ficha ya escrita); la puerta a civiles queda para un personaje nuevo (escena 18 del plan, pendiente).
+
+**MODIFICADOS (continuación 3):** `04_Concepts/Torneo_De_Los_Velocistas.md` (nueva sección "Quién puede competir"; estructura reescrita en 3 fases; tabla histórica y arco de 8 fases actualizados), `02_Characters/Rook.md` (aclarado como Guardián), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (2 escenas nuevas: el sorteo, el civil que llegó lejos; estructura actualizada), `INDEX.md` (entrada del Torneo actualizada).
+
+**Continuación 4 — el torneo crece para las nuevas especies + consulta de Escuadras de Tres (sin implementar):**
+
+- **Formato expandido a partir del Torneo IV:** a petición del autor, el ingreso de eliksni y cabal no se resuelve con cupos aparte — el torneo entero crece. Tabla de Marcas pasa de 32 a **64** clasificados; grupos de 8 a **16** (de 4 pilotos cada uno); el Cuadro de 16 a **32**, ganando una ronda extra al frente: **Dieciseisavos de Final** (32→16), antes de Octavos→Cuartos→Semifinal→Final (5 rondas en vez de 4). Filosofía explícita, ligada directamente a Kyle: "se agranda el molde, no se encoge a nadie para que quepa" — la misma regla de la familia elegida, ahora institucional. Torneos I–III conservan el formato clásico de 32/8-grupos/Cuadro-de-16 sin cambios. Mapeo temporal del Torneo IV ajustado: Dieciseisavos cierra la fase de grupos al final de Witch Queen (Age X); Octavos y Cuartos caen en Risen; Semifinal en Haunted; Plunder libre; Final en Seraph/Aurora, sin tocar ninguno de esos beats ya fijados.
+- **Consulta respondida, sin implementar:** el autor preguntó si el Cuadro debería pasar de duelos 1-contra-1 a **3v3**, para sumar más diversidad. Se dio opinión (no se escribió en el vault): un 3v3 puro con título compartido diluye el logro personal de Kyle ("nadie fue salvado, nadie se lo debía") y el duelo directo con Rook. Se propuso un híbrido — **Escuadras de Tres** al estilo ciclismo de ruta (un líder cuyo resultado decide el duelo y el título + 2 compañeros tipo domestique que bloquean/abren estela/sacrifican posición) —, apoyado en un detalle físico que ya existía en el lore (la línea de energía cinética del skimmer en `Guardian_Elsie_PreShadowkeep` funciona como estela/drafting). **Pendiente de confirmación del autor antes de escribirlo en el documento.**
+
+**MODIFICADOS (continuación 4):** `04_Concepts/Torneo_De_Los_Velocistas.md` (secciones "Qué es", "Quién puede competir", "La estructura" reescritas con los dos tamaños; tabla histórica y arco de Kyle fase 8 actualizados), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (estructura + consulta de Escuadras de Tres anotada como pendiente), `INDEX.md` (entrada del Torneo actualizada).
+
+**Continuación 5 — decisión final: el torneo se corre por equipos de tres, no 1-contra-1 ni domestique:**
+
+- **El autor decidió** (más allá de la propuesta híbrida de "Escuadras de Tres" tipo domestique) que el torneo entero pasa a ser de **equipos de tres, triunfo colectivo genuino** desde el Torneo III — la SRL diaria se queda individual, el Torneo mundial se vuelve de equipos, y esa diferencia de formato ES la razón por la que el Torneo se siente distinto de la liga de siempre. Razón explícita del autor: el triunfo *individual* de Kyle ya está resuelto (su cabaña con Elsie); el torneo es mejor como triunfo *colectivo* — más Kyle, porque compartir la victoria la vuelve mejor que ganarla solo. Bono: esto ablanda la derrota temprana de Shadowkeep (un año ya denso por la partida de Elsie) al no dejar a Kyle solo también en el fracaso.
+- **El equipo de Kyle:** él + **[[02_Characters/Jaden]]** + **[[02_Characters/Carina]]** — su núcleo permanente desde después de la Guerra Roja, no fichajes nuevos. Kyle simplemente les pregunta si quieren correr con él (Age VI, Forsaken) y la respuesta nunca estuvo en duda. El mismo trío pierde en Shadowkeep (Torneo III) y gana en la Aurora de Seraph (Torneo IV) — la continuidad es el punto: ganan porque siguieron siendo los mismos tres, no porque cambiaron de compañeros tras perder.
+- **Título renombrado:** "El Velocista de Sol" (singular) → **"Los Velocistas de Sol"** (plural) — el trofeo pertenece a los tres.
+- **Origen del formato, ligado explícitamente a Kyle:** el formato de equipos nace con la revivificación (Torneo III) como decisión conjunta de Amanda y Kyle, eco directo de **"Nadie vuelve solo"** — el lema de la Primera Escuadra que la Guerra Roja le arrebató (ver [[08_Core_Relationships/Primera_Escuadra]]). Cierra un círculo entre el documento de relaciones más viejo del vault y el más nuevo.
+- **Contraste con Rook:** su equipo es talento contratado, nunca la misma alineación dos torneos seguidos — el reflejo exacto de su filosofía de "nadie me enseñó nada, no le debo nada a nadie" aplicada a cómo trata a su propia gente. La final del Torneo IV es, literalmente, familia elegida contra nómina.
+- **Ghost, Sky y Hornet** ahora comparten canal de carrera como copilotos del equipo completo, no solo Ghost para Kyle.
+
+**MODIFICADOS (continuación 5):** `04_Concepts/Torneo_De_Los_Velocistas.md` (reescritura completa — nuevo, no parche: intro, "Qué es", nueva sección "Por qué es un torneo de equipos", nueva sección "El equipo de Kyle", estructura en lenguaje de equipos, tabla histórica, arco de 8 fases, Amanda, Rook, "La familia en el torneo", "Por qué importa", decisiones resueltas), `02_Characters/Rook.md` (nueva sección "Su equipo" — talento contratado, contraste), `02_Characters/Amanda_Holliday.md` (entrena a los tres), `02_Characters/Jaden.md` y `02_Characters/Carina.md` (nueva sección "El Torneo de los Velocistas" en cada una), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escenas 4/5/8 actualizadas, decisión resuelta), `INDEX.md` (entrada del Torneo reescrita).
+
+**Continuación 6 — el bracket del Torneo IV, poblado con nombres:**
+
+- **CREADO** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` — mapa de personajes del torneo que gana Escuadra Cero (nombre propio del equipo de Kyle, elegido en Age VI, chiste privado sobre "empezar de cero" que anticipa sin saberlo la frase de Sai en `El Lobo Más Joven`). Alcance acotado a propósito: no se nombran los 64 equipos, solo el camino real de Kyle — 3 rivales de grupo (Manada Gris, veteranos deportivos; Doble Filo, rivalidad cómica; Casa Nueva, el primer trío mixto eliksni-humano-cabal, comidilla de la Ciudad) y 5 rivales de eliminatoria (Los Graneros en Dieciseisavos — tres hermanos civiles de granja que casi eliminan a Escuadra Cero, la prueba en vivo de "sin Luz" dentro del propio camino de Kyle; Los Chacales en Octavos, tácticas sucias; Legado en Cuartos, capitaneado por Rendel, que lleva el emblema no oficial de la Primera Escuadra por los memoriales que visitó de novato — sorpresa emocional de bajo costo; Punta de Lanza en Semifinal, deliberadamente sin personalidad porque el drama de esa ronda es interno; Torre en la Final, el equipo de Rook con dos pilotos contratados casi intercambiables, Vray y Vess). Más color sin cruce con Kyle (Grupo de la Muerte, Guardia de Acero — primer equipo enteramente cabal). Solo Toma Aldrei (Los Graneros) y Rendel (Legado) marcados como candidatos a ficha ligera si sus escenas se escriben; el resto son pasajeros deliberados.
+
+**MODIFICADO (continuación 6):** `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 17 ligada a Casa Nueva; escena 18 reescrita como "Dieciseisavos — Los Graneros" con nombres concretos; nueva escena 19 "Cuartos — Legado"; nueva sección enlazando el bracket).
+
+**Continuación 7 — la tensión del bracket ("vivir al filo del sillón"), a petición del autor:**
+
+- **Diseñado el mecanismo de tensión** que evita que el Torneo IV se sienta como una racha cómoda de victorias. Kyle nunca está seguro: carga el miedo real de repetir Shadowkeep, y repite un mantra frágil, no una certeza — *"tal vez no es imposible, si estamos en sincronía esta vez."*
+- **Nuevo equipo: Sincronía** — trío Awoken criado junto desde niños en el Arrecife, terroríficamente sincronizado, en el mismo cuadrante del bracket que Escuadra Cero. No es rival de ego como Rook: es la prueba viva de la propia duda de Kyle (¿de verdad estamos en sincronía, o no todavía?). Cae en Octavos ante **Legado** (Rendel), un vuelco que nadie esperaba — y esa es la escena de "mirar el marcador ajeno" por excelencia: Escuadra Cero sigue el resultado por transmisión desde su garaje, sin poder hacer nada, sabiendo que ese resultado decide a quién enfrentan en Cuartos.
+- **Tensión invertida en Semifinal — el susto de Rook:** mientras Escuadra Cero cierra su propia semifinal, el equipo de Rook (Torre) casi cae ante **Guardia de Acero** (la guardia de honor de Caiatl, resignificada de simple color a rival real), forzando una tercera carrera decisiva. Escuadra Cero lo sigue temiendo, invertido, que Rook PIERDA — necesitan que el reencuentro sea real, no un título ganado contra un desconocido. Rook sobrevive por muy poco.
+- Ambos equipos llegan a la Final habiendo sobrevivido su propio susto — el resultado se siente ganado, no regalado, para los dos lados.
+
+**MODIFICADOS (continuación 7):** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (nueva sección "La tensión del cuadro — vivir al filo"; Sincronía añadida; Cuartos/Semifinal/Final reescritos con el nuevo hilo; Guardia de Acero resignificada; nuevo resumen de "dónde vive la tensión"), `04_Concepts/Torneo_De_Los_Velocistas.md` (fase 8 del arco de Kyle reescrita para quitar "con comodidad"; nueva regla de tono "Kyle nunca está seguro" en *Por qué importa*), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (2 escenas nuevas: 20 "Mirando el marcador — Sincronía cae", 21 "El susto de Rook").
+
+**Continuación 8 — dos escenas escritas: el origen del arco del torneo:**
+
+- **CREADA** `05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TorneoI_TodoMenosEso.md` — Age I, no estaba en el plan original; surgió por pedido explícito del autor como la escena que siembra todo lo demás. Kyle, recién resucitado, ve la final del Torneo I desde las gradas con la Primera Escuadra y se escabulle a hablar con Cayde a solas; le pregunta qué se sentiría ganar la copa. Cayde: *"todo es posible... menos burlar la muerte de verdad — la que no vuelve"* (referencia velada a [[04_Concepts/The_Gardener_and_Winnower]], contada como leyenda de bar, no como lore confirmado) — y la enseñanza que Kyle guarda ocho años: un sueño sin gloria sí se puede perseguir hasta volverlo real, si de verdad se persigue. Ironía dramática deliberada: Cayde no sabe que describe su propia muerte futura.
+- **CREADA** `05_Dialogues/Dialogue_Guardian/Guardian_Amanda_Forsaken_TraiganDeVueltaElTorneo.md` — escena 4 del plan, Age VI post-Cayde. Kyle llega al hangar de Amanda; ella ordena equipo de la SRL sin tocar desde la Guerra Roja; él le cuenta, por primera vez en voz alta, la vieja conversación con Cayde en el Torneo I — el estandarte descolorido con un sol se la trae de vuelta. Amanda pronuncia la frase de Cayde ("traigan de vuelta el torneo... sobre todo en el podio"); Kyle propone el formato de equipos citando **"Nadie vuelve solo"** (Primera Escuadra); nace **Escuadra Cero** al final, nombre que sale de un chiste de Kyle sobre no tener linaje ("empezamos de cero") — sin que ninguno de los tres sepa cuánto va a pesar ese nombre después. Cierra el círculo con la escena de Torneo I: la pregunta de un niño-Guardián por fin encuentra qué perseguir.
+
+**MODIFICADOS (continuación 8):** `INDEX.md` (nueva sección "Torneo I — la copa que aún no existe" en Dialogue_Guardian; entrada nueva en "Forsaken"), `02_Characters/Amanda_Holliday.md` (Aparece en actualizado), `02_Characters/Jaden.md` y `02_Characters/Carina.md` (enlace a la escena en su sección del Torneo), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 4 marcada como escrita).
+
+**Continuación 9 — el Lumen, moneda de la vida ordinaria:**
+
+- **CREADO** `04_Concepts/Lumen.md` — a partir del detalle de la apuesta de Resner y Joe en `Guardian_Cayde_TorneoI_TodoMenosEso`. Glimmer es la moneda de la guerra (residuo paracausal, economía formal de la Vanguardia); Lumen es la de la vida ordinaria — comida callejera, propinas, apuestas amistosas, entradas del Torneo — inventada por gente corriente sin tocar la Luz. Ironía de nombre deliberada: se llama como la unidad de luz y es la única moneda del sistema que no tiene nada que ver con ella. El Torneo de los Velocistas corre casi enteramente en Lumen — "sin Luz" en la pista, "sin Glimmer" en su economía, dos formas de decir lo mismo.
+- **MODIFICADA** `Guardian_Cayde_TorneoI_TodoMenosEso.md` — apuesta de Resner/Joe nombrada en Lumen; nueva línea de Cayde haciendo sonar un puñado de Lumen y comentando "ni un gramo de Glimmer en toda la tarde. Nadie aquí le debe nada a la Luz" — refuerza el tema sin alargar la escena.
+
+**MODIFICADOS (continuación 9):** `04_Concepts/Torneo_De_Los_Velocistas.md` (nueva línea "La economía" en *Qué es*; footer actualizado), `INDEX.md` (entrada nueva en Major Concepts).
+
+**Continuación 10 — el trofeo, diseñado:**
+
+- **Nueva sección "El trofeo — el disco de tres piezas"** en `04_Concepts/Torneo_De_Los_Velocistas.md`. Diseño acordado con el autor: un disco-sol del tamaño de un plato, construido por Amanda (no un orfebre) con piezas recicladas de motor —aros de propulsor, placas de blindaje cortadas en cuñas—, sin pulir del todo. **Se desarma en tres piezas**, una por integrante del equipo, y solo forma el sol completo cuando los tres las juntan — literaliza "nadie gana solo" en el objeto mismo. Cada ciclo, el equipo campeón graba sus nombres en un rayo nuevo (el disco acumula historia física, como anillos de árbol); Kyle, al sostenerlo por primera vez, lee "Rook · Vray · Vess — Torre" del ciclo anterior. Por eso termina en la cocina y no en una vitrina: es un objeto para armar sobre la mesa cuando los tres cenan juntos, no para exhibir.
+
+**MODIFICADOS (continuación 10):** `04_Concepts/Torneo_De_Los_Velocistas.md` (nueva sección; línea de "El premio" actualizada), `INDEX.md` (entrada del Torneo con el detalle del trofeo).
+
+**Continuación 11 — Andal Brask entra a la cadena de herencia:**
+
+- **MODIFICADA** `Guardian_Cayde_TorneoI_TodoMenosEso.md` — la línea de Cayde sobre las "historias de antes de todo esto" ahora se atribuye explícitamente a **Andal Brask**, su predecesor como Vanguardia Cazador, muerto a manos de Taniks — Cayde raramente habla de él, y aquí lo hace en el mismo registro serio que reserva para lo que no convierte en broma. Construye una **cadena de herencia de tres eslabones**: Andal le cuenta la historia a Cayde; Cayde se la cuenta a Kyle; ninguno de los dos, al contarla, sabe que está describiendo su propia muerte futura.
+- **AÑADIDA** sección "Andal Brask" en `02_Characters/Cayde-6.md` — nota breve sobre quién fue, cómo murió, y el origen de la historia del jardín/el que poda.
+
+**MODIFICADOS (continuación 11):** `05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TorneoI_TodoMenosEso.md` (diálogo + pie de página), `02_Characters/Cayde-6.md` (nueva sección), `INDEX.md` (entrada actualizada).
+
+**Continuación 12 — escena 1 escrita: la primera Aurora familiar:**
+
+- **CREADA** `05_Dialogues/Dialogue_Sai/Sai_Familia_Seraph_LaPrimeraAurora.md` — escena 1 del plan. Resuelta primero una duda de cronología planteada por el autor: ¿no ocurre la Aurora antes de Sai? Se verificó `Guardian_Elsie_Splicer_LaAurora` (la Aurora de Splicer, donde Kyle le da a Elsie la Estrella Polar) — esa es la Aurora ANTERIOR, en Splicer, antes de que Sai exista en la historia (se rescata hasta Lost). La nueva escena es la Aurora SIGUIENTE, dentro de Season of the Lost. Se ubicó con precisión entre `Las Manos Recuerdan` (primer encuentro Kyle-Sai) y `Una Noche Cualquiera` (donde Elsie bebe por primera vez de la taza) para que la pregunta de Sai sobre por qué Elsie no bebe siga siendo válida sin contradecir esa escena posterior.
+  - Contenido: la cabaña decorada con luces doradas; el poncho de Elsie y la chamarra de piel de borrego de Kyle en el mismo perchero; la tercera taza en la alacena, comprada por Elsie sin anunciarlo; Ghost con un gorro navideño imposible que ninguna vuelta logra tirar, contando historias de antes de encontrar a Kyle — incluida la vez que se preguntó si sería de los Espectros que nunca encuentran Guardián; Elsie sobre las celebraciones de la Edad de Oro; Kyle sobre el Torneo de los Velocistas, con la clasificación de Escuadra Cero dependiendo en parte del resultado de otro equipo (siembra temprana del mecanismo "vivir al filo" incluso en el Año 1); Sai pregunta si esto pasa cada Aurora — los tres coinciden en que no, que antes tenían un lugar que llenar y ahora un sitio al que llegar; cierra con Elsie y Sai a solas explicando por qué la taza de Kyle sigue sin beberse ("sostenerla ya es la parte que quiero").
+
+**MODIFICADOS (continuación 12):** `INDEX.md` (nueva sección "Season of the Lost — la primera Aurora" en Dialogue_Sai), `02_Characters/Sai.md` (Aparece en actualizado), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 1 marcada como escrita).
+
+**Continuación 13 — precursora del origen de "los jueves":**
+
+- **CREADA** `05_Dialogues/Dialogue_Sai/Sai_Escuadra_WitchQueen_ElDiaQueComparten.md` — no estaba en el plan original, surgió a partir de una idea del autor (cumpleaños de Kyle, coincidiendo con el de Carina). Ubicada entre `Las Manos Recuerdan` y `La Primera Aurora`. Contenido: Kyle, Jaden y Carina practican puntería con habilidades cuerpo a cuerpo contra latas en un arroyo (Elsie está en Europa ayudando a Ana); Sai llega con un encargo oficial de Mara, pero se distrae al preguntar genuinamente "¿qué es un cumpleaños?" — su primer encuentro real con Jaden y Carina. Descubre que Kyle y Carina renacieron el mismo día (**nuevo detalle de canon**, sin conflicto con nada existente — verificado contra `Kyle_ElDespatar` y la ficha de Carina, ninguno fija una fecha previa). Se queda a escuchar ambos renacimientos, y descubre que los miércoles de ramen ya son ritual fijo de la escuadra desde años atrás. **Función estructural:** siembra el precedente para la escena 2 del plan ("El origen de los jueves", todavía sin escribir) — establece que los miércoles pertenecen a la escuadra completa, dejando el jueves libre para nacer después como día propio de Kyle y Sai específicamente.
+
+**MODIFICADOS (continuación 13):** `INDEX.md` (nueva sección "Season of the Lost — el día que comparten"), `02_Characters/Sai.md`, `02_Characters/Carina.md` (nueva sección "El mismo día que Kyle"), `02_Characters/Jaden.md` (nueva sección "Sai — el primer encuentro"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 1b añadida; escena 2 actualizada con la nueva información).
+
+**Continuación 14 — escena 2 escrita: el origen de "los jueves":**
+
+- **CREADA** `05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_LosJueves.md` — escena 2 del plan, ya informada por la 1b (los miércoles son de la escuadra completa; los jueves debían ser otra cosa). Tres viñetas cortas: (1) Sai llega sin avisar un jueves cualquiera con una pregunta que podía esperar, encuentra a Kyle cocinando para uno (Elsie está en el Arrecife) y se queda; (2) vuelve el jueves siguiente sin excusa preparada, y Kyle ya tiene dos platos servidos sin comentarlo; (3) semanas después, con Witch Queen acercándose y Kyle con la cabeza en tres cosas a la vez, se le olvida casi del todo — Sai, a punto de irse por su vieja costumbre de no imponer, dice "es jueves" en voz baja, y Kyle enrolla el mapa del Mundo Trono y se sienta. **Decisión de diseño:** quien defiende el ritual es Sai, no Kyle — su arco "de víctima a recurso por elección" hecho costumbre doméstica, en vez del gesto más obvio de que el padre sea quien insiste. El apodo "lobito" (que nace después, en Risen, ver *El Lobo Más Joven*) se pega encima de un día que ya era sagrado sin nombre — explica por qué el callback final ("Los jueves, lobito") funde dos cosas nacidas por separado.
+
+**MODIFICADOS (continuación 14):** `INDEX.md` (nueva sección "Season of the Lost — los jueves"), `02_Characters/Sai.md` (Aparece en actualizado), `08_Core_Relationships/La_Familia_Elegida.md` (tabla de rituales: "¿comiste?" y "Los jueves" marcados ✅ Escrito), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 2 marcada como escrita).
+
+**Continuación 15 — corrección de continuidad: mismo día, mismo año:**
+
+- El autor precisó que Kyle y Carina no solo comparten el día de renacimiento, sino el **mismo año** — Kyle de día en el Cosmódromo, Carina esa misma noche en un rascacielos del Viejo Chicago. Al verificar, `05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar.md` (escena ya establecida) decía "esa misma noche... un Guardian despertaba en el Cosmódromo" — contradecía la nueva precisión (implicaba que Kyle también despertó de noche). **Corregido**: se ajustó esa línea a "ese mismo día, horas antes... había despertado a plena luz", y la línea de resumen a "el mismo día, el mismo año, con horas de diferencia entre la luz y la noche". Se propagó el ajuste a `Sai_Escuadra_WitchQueen_ElDiaQueComparten.md` (diálogo de Carina/Kyle actualizado: "mismo día, mismo año... a mí de día, ella de noche") y a la sección "El mismo día que Kyle" en `02_Characters/Carina.md`.
+
+**MODIFICADOS (continuación 15):** `05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar.md`, `05_Dialogues/Dialogue_Sai/Sai_Escuadra_WitchQueen_ElDiaQueComparten.md`, `02_Characters/Carina.md`.
+
+**Continuación 16 — reestructuración cronológica: el calendario anual fechado, mes a mes:**
+
+El autor pidió mover las tres escenas de Sai en la cabaña (El Día Que Comparten, Los Jueves, La Primera Aurora) de "Season of the Lost" a un calendario anual completo dentro del año de Witch Queen, con fechas concretas: cumpleaños en **febrero**, Juegos de los Guardianes en **marzo**, Solsticio en **junio**, Almas Perdidas en **octubre**, Aurora en **diciembre**. Esto encajó perfecto con el mapeo de temporadas ya existente para Age XI (Risen≈marzo, Haunted≈junio, Plunder≈octubre, Seraph≈diciembre) — pero generó un conflicto real: diciembre/Seraph ya estaba ocupado por la final del Torneo IV, ya escrita. Se resolvió con el autor vía pregunta directa: **La Primera Aurora es ahora la víspera de la final** (no una celebración genérica), con dos beats nuevos del autor — Elsie toma la mano de Kyle sin palabras; Sai lo lee sin necesitar el don y promete sostenerlo desde las gradas pase lo que pase, note importe el resultado.
+
+Esto disparó una cascada de correcciones de continuidad, todas resueltas:
+- **Los tres archivos renombrados** (de `SeasonLost` a `WitchQueen`/`Seraph`): `Sai_Escuadra_WitchQueen_ElDiaQueComparten.md`, `Sai_Guardian_WitchQueen_LosJueves.md`, `Sai_Familia_Seraph_LaPrimeraAurora.md`.
+- **"La Primera Aurora" reescrita completa:** ya no es la primera fiesta de Sai con la familia (eso sigue siendo cierto de *El Día Que Comparten*, febrero) — es su primera **Aurora** específicamente, al cierre de un año entero de rituals ya vividos (cumpleaños, jueves, Juegos, Solsticio, Almas Perdidas). Se corrigieron en cascada: la "tercera taza recién comprada esa semana" → ya asentada desde hace casi un año; "apenas encontrando su dinámica como familia" → familia ya establecida; el diálogo de Kyle sobre el torneo (antes lenguaje de clasificación, Año 1) → ahora es la víspera de la final; el final de la escena (Elsie explicando por qué no bebe de la taza) → **contradecía "Una Noche Cualquiera"** (donde ya bebe, fechada meses antes) — se reemplazó por un beat de callback: Sai ve a Elsie beber con normalidad y pregunta "¿qué cambió?", cobrando esa escena en vez de repetirla.
+- **"Los Jueves" ajustada:** de "antes de que empiece la campaña" a "durante la campaña, semanas después del cumpleaños"; el lenguaje del torneo (antes "última parada de clasificación", Año 1) corregido a "sorteo de grupos" (Año 2, que corre durante la campaña de Witch Queen según ya establecía el propio documento del Torneo).
+- **`La_Familia_Elegida.md`:** tabla del calendario reescrita con meses y temporadas exactos, cada evento enlazado a su escena (escrita o pendiente).
+- **`Torneo_De_Los_Velocistas.md`:** nuevo enlace cruzado a la víspera de la final.
+- Propagado a `INDEX.md` (tres secciones reubicadas cronológicamente: "Witch Queen — el calendario de la familia" en febrero-marzo, "Season Seraph — la víspera de la final" en diciembre), `Sai.md`, `Carina.md`, `Jaden.md`, `Plan_Escenas_Familia_Elegida.md`.
+
+**MODIFICADOS (continuación 16):** los tres archivos de escena (renombrados + reescritos parcial o totalmente), `08_Core_Relationships/La_Familia_Elegida.md`, `04_Concepts/Torneo_De_Los_Velocistas.md`, `INDEX.md`, `02_Characters/Sai.md`, `02_Characters/Carina.md`, `02_Characters/Jaden.md`, `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md`.
+
+---
+
+## Sesión 2026-07-05 — Los Juegos de los Guardianes (segundo evento del calendario escrito)
+
+**CREADA:** `05_Dialogues/Dialogue_Sai/Sai_Familia_Risen_LosJuegosDeLosGuardianes.md` — marzo, Season of the Risen, tercer evento del calendario anual de la familia. Diseñado en colaboración con el autor a través de varias iteraciones antes de escribir:
+
+- **Corrección de formato:** el autor aclaró que los Juegos de los Guardianes no son la SRL — son Asaltos, Operaciones y, el más salvaje, el Crisol (estilo "olimpiadas" institucionales).
+- **Ajuste clave del autor:** las escuadras son del **mismo tipo de clase** (no mixtas) — un trío de Hechiceros (Kyle), uno de Cazadores (Carina), uno de Titanes (Jaden) — y esto, retroactivamente, les enseña a los Guardianes por qué la variedad de clase importa en operaciones reales: tres Pozos de Radiancia es redundancia de curación sin cierre; tres Pistolas de Oro es un camión arrollador sin cobertura; solo mezclados (como en la Operación conjunta de Kyle y Carina esa misma tarde) son de verdad imparables.
+- **El foco de la escena**, propuesto y confirmado con el autor: no es quién gana, es qué hace segura la intensidad. Kyle y Carina —dupla perfecta en Operaciones reales, dos huracanes colisionando en el Crisol— desconciertan a Sai, que no entiende cómo ambas cosas pueden ser ciertas. Elsie se lo reencuadra: nacieron el mismo día (Kyle de día en el Cosmódromo, Carina esa noche en Chicago), y soltarse del todo solo es posible contra alguien de quien sabes que no se rompe — la intensidad no es a pesar de la confianza, es la prueba de que aguanta.
+- **Resultado:** el trío de Carina gana el Crisol por el margen mínimo, en el partido más cerrado del día; el trío de Jaden gana el estandarte de clase del año entero por acumulación silenciosa, sin un solo momento memorable — coherente con quien es. **Sai encuentra su propio lugar:** no puede competir (no tiene clase), así que pasa el día leyendo a los competidores y dando pronósticos — no es su don paracausal, es la misma atención de siempre, ahora con público. Germen de un oficio, todavía sin nombre.
+
+**MODIFICADOS:** `08_Core_Relationships/La_Familia_Elegida.md` (tabla del calendario — Juegos de los Guardianes marcado ✅), `INDEX.md` (nueva sección "Season of the Risen — los Juegos de los Guardianes"), `02_Characters/Sai.md`, `02_Characters/Carina.md` (nueva sección "Huracán, no rivalidad"), `02_Characters/Jaden.md` (mención del estandarte ganado en silencio), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 12 marcada como escrita).
+
+---
+
+## Sesión 2026-07-05 (continuación) — El Solsticio: dos registros de memoria
+
+**Corrección de nombres antes de escribir:** el autor propuso "Operación Lightfall" para el asalto de Ghaul que hizo caer la Torre — se detectó el choque (Lightfall ya está firmemente fijado como la Age XII completa: 7 capítulos, Neomuna, Calus, Nezarec). Resuelto con el autor vía pregunta directa: **"Operación Ocaso"** para el evento de la Guerra Roja.
+
+**CREADA:** `05_Dialogues/Dialogue_Sai/Sai_Familia_Haunted_ElSolsticio.md` — junio, Season of the Haunted, cuarto evento del calendario anual.
+
+**Corrección posterior del autor, mientras se propagaba:** la Batalla de los Seis Frentes **no** es parte de la Guerra Roja — es leyenda mucho más vieja, anterior a Kyle, una batalla legendaria de Guardianes al estilo del canon (un asedio simultáneo a la Ciudad joven que no debió sobrevivirse). Se había conflacionado por error con la Operación Ocaso en el primer borrador. **Corregido:** la escena ahora separa los dos registros — seis hogueras antiguas para los Seis Frentes (se celebran cantando, el duelo ya se les gastó a la leyenda) y una séptima llama, pequeña y sin canción, para la Operación Ocaso (reciente, donde vive el duelo real de Kyle). Los Guardianes tienen su propio rito aparte: templan armadura en fuego (rito real del Solsticio de Destiny, reutilizado) — el metal no cambia, quien lo sostiene sí. Kyle se queda junto a la séptima llama más tiempo que en ninguna de las seis grandes; dice cinco nombres en voz baja al final — casi con certeza, la Primera Escuadra (Kevin, Angie, Resner, Tiago, Joe).
+
+**MODIFICADOS:** `01_Timeline/Age_V_The_Red_War.md` (nombre fijado en Notas Narrativas + aclaración de que los Seis Frentes son un evento distinto y más viejo), `08_Core_Relationships/Primera_Escuadra.md` (referencia corregida — solo Operación Ocaso, sin los Seis Frentes), `08_Core_Relationships/La_Familia_Elegida.md` (tabla del calendario), `INDEX.md` (sección "Season of the Haunted — el Solsticio" corregida), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 13 corregida).
+
+**Ajuste adicional del autor — Elsie le nombra la Primera Escuadra a Sai:** mientras Kyle se queda junto a la séptima llama con Jaden y Carina, Elsie usa el momento para explicarle a Sai quiénes fueron los cimientos que nunca llegó a conocer — Kevin, Angie, Resner, Tiago, Joe —, a diferencia de la segunda escuadra que Sai sí conoce (Jaden, Carina, Amir, Jin, Gabriel). Le explica los memoriales junto al árbol del claro (ya establecidos en `00_Biblia/Memoriales_EcoPrismatic.md` y la serie `Elsie_Guardian_Memorial_01-05`). El eje añadido: el duelo de Kyle no es tristeza, es nostalgia — "la tristeza quiere que algo vuelva, la nostalgia solo quiere haberlo tenido"; forjó una familia entera (la segunda) pagando la primera, y ninguna de las dos verdades cancela la otra — la Tinta hecha explícita en una sola línea.
+
+**MODIFICADO adicional:** `05_Dialogues/Dialogue_Sai/Sai_Familia_Haunted_ElSolsticio.md` (pasaje nuevo insertado + pie de página actualizado), `INDEX.md` (descripción ampliada).
+
+---
+
+## Continuación — Vault of Glass: el beat de "primero a ella" (retroactivo, Age I)
+
+A petición del autor, se añadió un beat a las escenas del Vault of Glass (Age I): **la primera gran hazaña de la vida de Kyle como Guardian —Atheon, la Bóveda de Cristal— se la cuenta primero a Elsie**, no a la Vanguardia, no a Cayde, no solo a su Espectro. Esto ya existía parcialmente en `Guardian_Elsie_VaultOfGlass_ElArmaImposible` (semanas después, con el Mythoclast) pero faltaba en su origen — `Elsie_VaultOfGlass_PrimeraVisita`, donde el encuentro estaba enmarcado solo como intercambio táctico de inteligencia iniciado por protocolo de Elsie.
+
+**MODIFICADOS:**
+- `05_Dialogues/Dialogue_Elsie/Elsie_VaultOfGlass_PrimeraVisita.md` — nuevo pasaje en la sección de Atheon: Elsie nota que el relato de Kyle no tiene cadencia de reporte, sino de alguien contando lo más grande que ha hecho en su vida a la persona que eligió para escucharlo — "no a la Vanguardia... no a Cayde... ni siquiera solo a su Espectro. Se lo estaba contando a ella. Primero a ella." Pie de página actualizado con el enlace hacia adelante a "El Arma Imposible".
+- `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_ElArmaImposible.md` — línea añadida reconociendo que no es la primera vez ("la primera fue Atheon, semanas antes"), convirtiendo el gesto en patrón confirmado, no coincidencia aislada.
+- `INDEX.md` — entrada de `Elsie_VaultOfGlass_PrimeraVisita` actualizada con el nuevo beat.
+
+`Guardian_Equipo_VaultOfGlass_LaEntrada.md` (la entrada a la Bóveda con el equipo ad hoc) se revisó pero no requirió cambios — Elsie no aparece en esa escena, el beat pertenece a lo que ocurre después de Atheon.
+
+**Enlace retroactivo pedido por el autor:** se añadió el mismo beat a `Sai_Familia_Haunted_ElSolsticio.md` — Sai le pregunta a Elsie cómo sabe tanto de la Primera Escuadra sin haberlos conocido, y Elsie responde trazando el patrón hasta Age I: Atheon, la primera gran hazaña de Kyle, se la contó primero a ella, no a la Vanguardia ni a Cayde — "nunca dejó de ser así... él decidió, hace años, que yo era la persona a la que le cuentas las cosas que de verdad importan." Cierra el círculo: el mismo lugar que Elsie ocupó para Kyle en Age I es el que ahora ocupa para Sai en Age XI. Pie de página y conexiones actualizados con enlaces a `Elsie_VaultOfGlass_PrimeraVisita` y `Guardian_Elsie_VaultOfGlass_ElArmaImposible`.
+
+**Refinamiento adicional pedido por el autor:** entre esa línea de Elsie y la siguiente pregunta de Sai, se insertó el reconocimiento retrospectivo de Elsie — al contar el patrón de Age I en voz alta, se da cuenta, mirándolo desde este lado de los años, de que lo que había entre ella y Kyle entonces no era "calidez entre compañeros de armas": ya era amor, actuando antes de que ninguno de los dos tuviera la palabra para nombrarlo. Coherente con el motivo ya establecido en `Elsie_VaultOfGlass_PrimeraVisita` ("el nombre no es la respuesta, es el primer síntoma").
+
+---
+
+## Continuación — El Festival de las Almas Perdidas: "La Máscara Que No Lee"
+
+**CREADA:** `05_Dialogues/Dialogue_Sai/Sai_Ghost_Plunder_LaMascaraQueNoLee.md` — octubre, Season of Plunder, quinto evento del calendario anual. Paga el beat pendiente del arco de Sai ("casi lee el secreto de Ghost") que llevaba desde el inicio de esta expansión marcado como pendiente en su ficha.
+
+Detalles del autor incorporados: (1) la carcasa de Ghost para la temporada tiene forma de **gato negro**; (2) la frase de Cayde honrada riendo — **"esta es mi cara seria, no se nota"**, dicha por Jaden con perfecta seriedad (el chiste funciona precisamente porque él ya es así de plano); (3-4) el disparador del beat de percepción de Sai no es una confrontación directa con Ghost, sino un **acto paterno pequeño de Kyle**: el cordón de la máscara de Sai se rompe, él se lo arregla con el mismo gesto torpe-cariñoso de siempre, y es *ver eso* lo que hace temblar, por un instante, la compostura de Ghost — quien sabe exactamente de dónde viene ese gesto (el eco paterno, la niña bajo el árbol). En esa grieta de un segundo, Sai roza el secreto (impresión: un árbol, una mano pequeña, una pregunta sin responder) y elige, activamente, no terminar de leerlo.
+
+**Corrección de continuidad:** la ficha de Sai listaba "casi lee el secreto de Ghost" como beat 3 dentro de la secuencia estricta de Age X (Año de la Bruja), antes de cruzar a Haunted. Como el calendario ya fechado sitúa esta escena en Plunder (después de Haunted), se **renumeró la secuencia** en `02_Characters/Sai.md`: el beat de Ghost se sacó de la lista de Age X y se describe aparte, correctamente fechado en Plunder.
+
+**MODIFICADOS:** `02_Characters/Sai.md` (arco renumerado + sección "El triángulo" actualizada), `08_Core_Relationships/La_Familia_Elegida.md` (tabla del calendario), `INDEX.md` (nueva sección "Season of Plunder — el Festival de las Almas Perdidas"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 3 marcada como escrita).
+
+**Con esta escena, quedan cuatro de los cinco eventos del calendario anual escritos.** Solo falta **La Final — Los Velocistas de Sol** (diciembre, mismo día que la Aurora) para completarlo.
+
+---
+
+## Continuación — Se decide escribir el Torneo IV completo en cronología (no solo la final)
+
+El autor pidió detenerse antes de escribir directamente "La Final": quiere el Torneo IV completo, en orden — clasificación, fase de grupos, eliminatorias, semifinal, final — tomándose el tiempo necesario. Se propuso y acordó una secuencia de 8-10 escenas basada en lo ya diseñado en `Torneo_IV_Bracket.md`: madurez con Amanda (clasificación) → Gran Inauguración + sorteo → fase de grupos → Dieciseisavos (Los Graneros) → Octavos (breve) → Sincronía cae → Cuartos (Legado) → Semifinal/crisis de Kyle → susto de Rook → Final.
+
+**Primera escena de la secuencia — la Gran Inauguración, con costumbres de las cuatro especies:**
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Familia_WitchQueen_LaGranInauguracion.md` — inicio de la campaña de Witch Queen, la apertura formal del Año 2 del Torneo IV (primer campeonato multiespecie). Absorbió y reemplazó la escena 17 original ("El sorteo"), que ahora ocurre como clímax de esta ceremonia más grande. Una costumbre por especie:
+- **Humana:** llama ceremonial que arde todo el ciclo del torneo.
+- **Awoken:** bendición de Petra Venj, deliberadamente vacía de predicción real (acordado por todo el aquelarre de antemano).
+- **Cabal — "Los Bracus de Hierro":** Lord Saladin presenta a **Hierro Joven** — Torin, Mireya y **Ravask**, el primer Cabal en tomar el manto de Señor de Hierro tras la paz con Caiatl. Semilla temprana y coherente de la "Final Evolution" ya establecida en la ficha de Saladin (de soldado a mentor/guardián de memoria) y de su ya establecido respeto por los Cabal bajo Caiatl. Efrideet observa entre el público con la misma expresión con que vio entrenar a Kyle años atrás — beat personal sin necesitar diálogo.
+- **Eliksni:** la Casa de la Luz (Mithrax, Eido) depone armas visiblemente y enciende linternas — "esta noche, el nombre significa lo que dice."
+
+**El sorteo** cierra la ceremonia: Escuadra Cero cae con Manada Gris, Doble Filo y Casa Nueva; **Hierro Joven** (nuevo equipo de color, clasificó sin favores entre las Sesenta y Cuatro) cae en grupo aparte — su recorrido queda deliberadamente abierto, un hilo que Kyle se promete seguir sin decírselo a nadie.
+
+**MODIFICADOS:** `02_Characters/Lord_Saladin.md` (nueva sección "Los Bracus de Hierro"), `02_Characters/Lady_Efrideet.md` (nueva sección "El Torneo de los Velocistas"), `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (Hierro Joven añadido a color adicional + Ravask a fichas sugeridas), `INDEX.md` (nueva sección "Witch Queen — la Gran Inauguración del Torneo IV"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 17 marcada como escrita, con alcance ampliado).
+
+**Siguiente en la secuencia:** la madurez con Amanda (clasificación, Ages VIII-IX) — aunque cronológicamente precede a la Gran Inauguración; se escribió esta primero porque el autor la propuso primero. Falta decidir si se retoma ese orden estrictamente o se sigue por la fase de grupos.
+
+---
+
+## Continuación — Registro del elenco de personajes conocidos en el Torneo IV
+
+El autor preguntó si ya habíamos decidido qué personajes conocidos corren en el torneo — no estaba registrado en ningún documento central. Se resolvió con tres preguntas al autor y se registró todo.
+
+**Decisiones del autor:**
+- **Comentaristas confirmados:** [[02_Characters/Lord_Shaxx]], **Fynch** (sin ficha propia, voz técnica), [[02_Characters/The_Drifter]].
+- **Shayura, Reed-7, Aisha:** confirmado que son los mismos personajes de *Ni La Luz Ni La Oscuridad* ([[07_Unsorted_Ideas/IdeasDesarrollo_1]], Dark Future no-canon), en su versión presente y sin corromper. Se crearon fichas nuevas: [[02_Characters/Shayura]], [[02_Characters/Reed-7]], [[02_Characters/Aisha]] — compiten juntos como equipo. Nota añadida al documento del Dark Future conectando ambas versiones.
+- **Aunor Mahal:** NO compite. Se conoce oficialmente con Kyle en el Torneo, pero su vínculo es de espada, no de pista — origen del "duelo empatado" ya mencionado hacia adelante en [[05_Dialogues/Dialogue_Guardian/Guardian_Eris_PostFinalShape_LoQueHacePosiblElRetorno]] ("una espada práxica no perdona la deuda"). Se cruzan al margen del torneo.
+- **Ikora Rey:** compite de incógnito, bajo el nombre de equipo **Turno de Tarde**, con dos civiles (Randy, Liu Feng) que no saben con quién corren. Nueva sección añadida a `02_Characters/Ikora.md`.
+- **Crow:** compite en el equipo **Segunda Oportunidad**, con Nadiya (civil). Nueva sección añadida a `02_Characters/Crow.md` — corre por algo que no tiene que ver con Uldren ni culpa heredada.
+- **Un trío de Psions:** nuevo equipo Cabal de color, sin nombres individuales.
+
+**Conflicto detectado y sin resolver:** el tercer puesto de Segunda Oportunidad se pensó como Micah-10, pero su ficha la fija como humana sin Luz que Kyle y Elsie conocen por primera vez en el Final Shape (Age XVIII) — usarla en el Torneo IV (Age X-XI) contradice esa cronología salvo que se decida que ya se conocían de antes. Queda pendiente de resolver con el autor; el tercer puesto del equipo sigue abierto.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (nueva sección "El elenco conocido"), `04_Concepts/Torneo_De_Los_Velocistas.md` (nueva sección "Los comentaristas"), `02_Characters/Crow.md` y `02_Characters/Ikora.md` (secciones del Torneo), `07_Unsorted_Ideas/IdeasDesarrollo_1` (nota de conexión).
+**CREADOS:** `02_Characters/Shayura.md`, `02_Characters/Reed-7.md`, `02_Characters/Aisha.md`.
+
+---
+
+## Continuación — Resuelto el conflicto de Micah-10; pseudónimo de Ikora
+
+El autor resolvió el conflicto pendiente: **Micah-10 queda fuera del Torneo** — su encuentro con Kyle y Elsie en el Final Shape no se adelanta. En su lugar, el tercer puesto de **Segunda Oportunidad** lo ocupa **Redrix** (eco del Redrix del canon — el Guardián legendario cuyo nombre terminó en un arma). Además, se añadió un detalle a Ikora de incógnito: compite con el casco puesto todo el torneo, bajo el alias **"Voidhunger"**.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (Redrix reemplaza a Micah-10, conflicto marcado como resuelto), `02_Characters/Ikora.md` (pseudónimo y casco añadidos).
+
+---
+
+## Continuación — Las pistas del Torneo IV, planetas rehabilitados
+
+El autor pidió diseñar dónde se corren las carreras: planetas y nombres de pista, rehabilitados para el torneo. Filosofía elegida: cada pista fue antes otra cosa (frente de guerra, ruina) — rehabilitarla para correr es la misma lógica de paz-por-encima-de-la-herida que ya sostiene el Torneo IV.
+
+**Pistas asignadas por ronda:**
+- **Fase de Grupos:** Tierra — **El Circuito de Origen** (periferia de la Ciudad, la pista original desde el Torneo I).
+- **Dieciseisavos (Los Graneros):** EDZ — **Los Surcos** (caminos de guerra reconvertidos en tierra de cultivo).
+- **Octavos (Los Chacales):** Nessus — **El Laberinto Verde** (terreno Vex sinuoso).
+- **Cuartos (Legado):** Venus, Ishtar Sink — **El Umbral Dorado** (a la sombra de la Bóveda de Cristal — el mismo sector de la primera gran hazaña de Kyle).
+- **Semifinal:** la Luna — **El Sendero de los Ecos** (despejada de Pesadillas solo para el torneo — resonancia directa con Season of the Haunted).
+- **Final:** el Cosmódromo — **El Primer Aliento** (nevado, donde Kyle despertó en Age I — el cierre vuelve al principio).
+- **Paradas menores de la Tabla de Marcas (clasificación):** el Arrecife (**La Deriva**) y Marte (**Las Arenas Rojas**), mención de color sin desarrollo propio.
+
+**MODIFICADOS:** `04_Concepts/Torneo_De_Los_Velocistas.md` (nueva sección "Las pistas — planetas y circuitos rehabilitados"), `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (cada ronda ahora referencia su pista).
+
+---
+
+## Continuación — La madurez con Amanda (clasificación, Ages VIII-IX)
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Amanda_BeyondLight_LaMadurez.md` — fase 7 del arco de Kyle en el torneo (ya descrita en `Torneo_De_Los_Velocistas.md`, ahora escrita en prosa). Tras la derrota de Age VII (Shadowkeep, entrenar con rabia), Elsie ha vuelto y el equipo entrena con método por primera vez — los tres colibríes de la revancha, construidos pieza por pieza junto a Amanda, Jaden y Carina. Dos paradas de color mencionadas (La Deriva en el Arrecife, segundos; Las Arenas Rojas en Marte, primeros). Cierran la Tabla de Marcas como mejor tiempo combinado del sistema — cabeza de serie N.º 1 rumbo a la Gran Inauguración ya escrita. Cierre emocional: Kyle y Amanda, sin nombrar a Cayde en voz alta, reconocen que se deben mutuamente la resurrección de una alegría.
+
+**MODIFICADOS:** `INDEX.md` (nueva sección "Beyond Light → Season of the Lost — la Tabla de Marcas del Torneo IV"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 14 marcada como escrita).
+
+**Con esto, la secuencia del Torneo IV lleva escritas 2 de sus ~9-10 piezas planeadas** (la Gran Inauguración + esta clasificación). Quedan: fase de grupos en prosa, Dieciseisavos (Los Graneros), Octavos (Los Chacales, breve), Sincronía cae, Cuartos (Legado), Semifinal/crisis de Kyle, susto de Rook, y la Final.
+
+---
+
+## Cierre de sesión (2026-07-05)
+
+Sesión extensa centrada en la expansión de la familia elegida (Kyle/Elsie/Sai/Ghost) y el Torneo de los Velocistas. Resumen de lo hecho, de más reciente a más antiguo:
+
+1. Beat "primero a ella" añadido retroactivamente en el Vault of Glass (Age I) — Kyle le cuenta Atheon a Elsie antes que a nadie; confirmado como patrón con el Mythoclast; enlazado hacia adelante en el Solsticio, donde Elsie además reconoce retrospectivamente que aquello, en Age I, ya era amor sin nombre.
+2. Calendario anual de la familia completado en 4 de 5 eventos: Los Juegos de los Guardianes (marzo), el Solsticio (junio, con corrección Seis Frentes/Operación Ocaso), el Festival de las Almas Perdidas (octubre, paga el beat Sai↔Ghost). Falta solo La Final (diciembre).
+3. Decisión de alcance: el Torneo IV se escribe completo, en cronología, no solo la final. Secuencia de 8-10 escenas acordada.
+4. La Gran Inauguración del Torneo IV escrita — costumbres de las cuatro especies (humana, Awoken, Cabal con los Bracus de Hierro y Ravask, Eliksni), sorteo de grupos.
+5. Elenco completo de personajes conocidos en el Torneo registrado: comentaristas (Shaxx, Fynch, Drifter), Shayura/Reed-7/Aisha (fichas nuevas, mismos personajes del Dark Future no-canon en su versión sin corromper), Aunor Mahal (rival de espada, no corredora), Ikora de incógnito ("Voidhunger"), Crow y Redrix en Segunda Oportunidad.
+6. Pistas del torneo diseñadas — seis circuitos rehabilitados de antiguos frentes de guerra, uno por ronda de eliminatoria, cerrando en el Cosmódromo donde Kyle despertó.
+7. La madurez con Amanda escrita — clasificación completa, Ages VIII-IX.
+
+**Pendiente para la próxima sesión:** continuar la secuencia del Torneo IV (fase de grupos, Dieciseisavos, Octavos, Sincronía cae, Cuartos, Semifinal, susto de Rook, Final); La Final de la familia (calendario anual, diciembre); ficha de Eva Levante (abierta); documento de relación Jaden+Carina+Kyle (abierta); heredados sin cambio (3 inconsistencias de imágenes; Salvation's Edge formato raid).
+
+---
+
+## Continuación — La Fase de Grupos en prosa
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Familia_WitchQueen_FaseDeGrupos.md` — las tres carreras de grupo del Torneo IV, semanas después de la Gran Inauguración, en El Circuito de Origen. Manada Gris (veteranos, Bram Ossory le devuelve a Kyle el nombre de Efrideet sin que nadie lo busque: "díselo, si la ves"), Doble Filo (puro espectáculo Awoken, terminan pidiéndole una foto a Sai en vez de a Kyle) y Casa Nueva (Skorn, Denna Vail, Thann Voss — la carrera más reñida de las tres, la paz de Mithrax y Caiatl hecha resultado deportivo). Sai estrena en esta escena su oficio de leer rivales desde las gradas — el mismo que ya tenía en Los Juegos de los Guardianes, ahora aplicado al torneo real de la familia. Escuadra Cero cierra 3-0, cabeza de serie alta rumbo a Dieciseisavos.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena en la sección de grupos), `INDEX.md` (nueva sección "Witch Queen — la Fase de Grupos del Torneo IV"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (nueva entrada 17b, escrita).
+
+**Con esto, 3 de las ~9-10 escenas planeadas del Torneo IV completo ya están escritas** (Gran Inauguración + clasificación + fase de grupos). Siguiente en la secuencia: Dieciseisavos contra Los Graneros.
+
+---
+
+## Continuación — Dieciseisavos: Los Graneros
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Equipo_WitchQueen_LosGraneros.md` — el rival que casi elimina a la cabeza de serie más alta del torneo. Los Surcos, EDZ, cierre de Age X. Mejor-de-tres completo en prosa: Carrera 1 la pierden (Toma Aldrei toma una línea imposible en la primera curva, un segundo entero de ventaja); Carrera 2 la ganan, ajustada; Carrera 3, la decisiva, se gana por el margen más pequeño del torneo hasta ese punto — Kyle no iguala la línea de Toma, entiende la lógica detrás de ella (un civil sin Luz de sobra no puede permitirse el margen de error como idea, es literal) y usa la suya propia. Cierre: Kyle busca a Toma no para consolarlo sino para preguntarle cómo tomó esa línea — la prueba en vivo de la regla "sin Luz". Primer "filo del sillón" sentido desde dentro (el miedo propio, no el ajeno).
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena), `INDEX.md` (nueva sección), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 18 marcada como escrita).
+
+**Con esto, 4 de las ~9-10 escenas del Torneo IV completo ya están escritas.** Siguiente: Octavos contra Los Chacales (breve), luego Sincronía cae, Cuartos (Legado), Semifinal, susto de Rook, y la Final.
+
+---
+
+## Continuación — Octavos: Los Chacales
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Risen_LosChacales.md` — ronda deliberadamente ligera, escrita corta a propósito (el autor pidió avanzar una escena a la vez). El Laberinto Verde, Nessus, inicio de Season of the Risen. Los Chacales corren sucio, al límite del reglamento sin caer en descalificación — el contramodelo exacto de Rook. Carina les lee el patrón de bloqueo repetitivo (siempre el mismo instante, antes de cada curva ciega) y los desarma cediéndole el interior a Kyle. Ganan con ventaja clara, sin necesitar la tercera carrera — alivio silencioso tras el susto de Los Graneros.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena), `INDEX.md` (nueva sección), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (nueva entrada 18b, escrita).
+
+**Con esto, 5 de las ~9-10 escenas del Torneo IV completo ya están escritas.** Siguiente: Sincronía cae (entre Octavos y Cuartos).
+
+---
+
+## Continuación — Sincronía cae
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Risen_SincroniaCae.md` — el "filo del sillón" en su forma más pura. Mismo día que la victoria contra Los Chacales, en el garaje de Amanda: Escuadra Cero ve por transmisión cómo Legado (capitán Rendel) elimina a Sincronía, el trío Awoken que se movía "como una sola persona" y que Kyle temía enfrentar en Cuartos porque encarnaba, sin adornos, su propia duda sobre si su equipo tiene esa misma sincronía. Legado gana la decisiva 2-1; Rendel solo dice "corríamos por algo que ellos no tenían." El alivio de Kyle no es limpio — se mezcla con un miedo nuevo hacia quien acaba de hacer lo impensable. El mantra reaparece, más temblando que nunca: "tal vez no es imposible, si estamos en sincronía esta vez."
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena), `INDEX.md` (nueva sección), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 20 marcada como escrita).
+
+**Con esto, 6 de las ~9-10 escenas del Torneo IV completo ya están escritas.** Siguiente: Cuartos contra Legado (Rendel, el eco de la Primera Escuadra).
+
+---
+
+## Continuación — Regla fijada: "Nadie cruza solo"
+
+El autor preguntó cómo se decide una carrera por equipos (¿como Fall Guys, todos deben cruzar?). Se confirmó y se nombró la regla ya existente (regla 4 de "Las reglas de la pista" en `Torneo_De_Los_Velocistas.md`): el equipo puntúa por la **suma de las posiciones de llegada de sus tres integrantes** (1.º+2.º+3.º, gana la suma más baja) — no por el más rápido de los tres. Bautizada **"Nadie cruza solo"**, eco directo de "nadie vuelve solo" (Primera Escuadra) vuelto reglamento de carrera. Explica retroactivamente por qué las tácticas de bloqueo/cesión ya escritas (Carina cediendo el interior a Kyle en Los Graneros y Los Chacales) son la única forma real de ganar, no cortesía.
+
+**MODIFICADO:** `04_Concepts/Torneo_De_Los_Velocistas.md` (regla 4 renombrada y explicada).
+
+---
+
+## Continuación — Cuartos: Legado
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Rendel_Risen_Legado.md` — la mejor sorpresa emocional del bracket, tal como se había previsto en el plan. El Umbral Dorado, Venus/Ishtar Sink, cierre de Season of the Risen. Rendel, capitán de Legado (que acaba de eliminar a Sincronía), revela el emblema no oficial de la Primera Escuadra grabado en su hombro — visitó los memoriales de Kevin, Angie, Resner, Tiago y Joe cuando era novato, sin saber quién era Kyle: "corro con esto puesto por ellos. No esperaba conocerte así." Escuadra Cero gana con margen claro; Legado ya gastó su milagro contra Sincronía. La pista (Venus, a la sombra de la Bóveda de Cristal) es un eco silencioso más: el mismo sector de la primera gran hazaña de Kyle, la que le contó primero a Elsie.
+
+**CREADA:** `02_Characters/Rendel.md` — ficha ligera, ya que la escena lo desarrolló más allá de dos líneas.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena, ficha de Rendel confirmada), `INDEX.md` (nueva sección), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 19 marcada como escrita).
+
+**Con esto, 7 de las ~9-10 escenas del Torneo IV completo ya están escritas.** Siguiente: Semifinal / la crisis interna de Kyle (Punta de Lanza, drama interno por el duelo de Haunted).
+
+---
+
+## Continuación — Semifinal: la crisis interna de Kyle
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Haunted_LaSemifinal.md` — Season of the Haunted, días después del Solsticio, El Sendero de los Ecos (la Luna). El rival, Punta de Lanza, apenas importa esta ronda: el drama real es que Kyle casi no corre, sintiendo que perseguir alegría esa semana es una falta de respeto a la llama que sigue cargando. Elsie, en el porche, le devuelve su propia lección apenas días después de que él se la explicara a Sai sin saber que la necesitaría para sí mismo — "la tristeza quiere que algo vuelva, la nostalgia solo quiere haberlo tenido"; las dos cosas conviven, no se cancelan. Corre y gana con margen cómodo — el drama ya se había resuelto dos noches antes. Cierre silencioso: "Esto es para ustedes también."
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena), `INDEX.md` (nueva sección), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 11, ya existente en el plan, marcada como escrita).
+
+**Con esto, 8 de las ~9-10 escenas del Torneo IV completo ya están escritas.** Siguiente: el susto de Rook (Escuadra Cero sigue por transmisión la Semifinal de Rook contra Guardia de Acero).
+
+---
+
+## Continuación — El susto de Rook
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Equipo_Haunted_ElSustoDeRook.md` — el "filo del sillón" invertido, mismo día que la victoria contra Punta de Lanza, en el garaje de Amanda. Escuadra Cero ve por transmisión cómo Torre (el equipo de Rook, invicto dos años) casi cae en Semifinal ante **Guardia de Acero** —primer equipo íntegramente cabal del torneo, guardia de honor de Caiatl—, yendo 1-1 a la carrera decisiva. El miedo se invierte: no quieren que Rook pierda — dos años de espera y la humillación de Shadowkeep solo tienen sentido si el reencuentro en la final es real, no contra un desconocido. Rook remonta y gana por un margen mínimo. Cierre: "La final es Rook" ya no suena a miedo, sino a que por fin va a ser real.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (enlace a la escena), `INDEX.md` (nueva sección), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 21 marcada como escrita).
+
+**Con esto, 8 de las ~9 escenas planeadas del Torneo IV completo ya están escritas — solo falta la Final.** El cuadro entero queda resuelto: Escuadra Cero y Torre (Rook) se enfrentan en la Final, en la Aurora de Seraph.
+
+---
+
+## Continuación — Escena nueva antes de la Final: El Entrenamiento
+
+A petición del autor, se escribió una pieza no planeada originalmente: Elsie sube a un colibrí ella misma, días antes de la Final, para ayudar a Kyle a liberar la tensión acumulada. La excusa que ella da es táctica ("quiero entender el circuito antes de verlo en la final"); el motivo real, que ninguno de los dos nombra en voz alta, es darle a Kyle algo que cuidar —a ella misma, aprendiendo torpemente a mantenerse arriba— para sacarlo de su propia ansiedad. Funciona al revés de como ella lo planeó: no aprende el trazado, pero consigue que Kyle deje de pensar en Rook durante una hora entera.
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_Seraph_ElEntrenamiento.md` — Season Seraph, días antes de la Final, antes de La Primera Aurora.
+**MODIFICADOS:** `INDEX.md` (nueva sección "Season Seraph — El Entrenamiento"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (nueva entrada 21b, escrita).
+
+---
+
+## Continuación — LA FINAL. El Torneo IV queda completo, de punta a punta, en cronología.
+
+**CREADA:** `05_Dialogues/Dialogue_Guardian/Guardian_Familia_Seraph_LaFinal.md` — el cierre de ocho años de arco (desde las gradas de Age I hasta este día). El Primer Aliento, el Cosmódromo nevado donde Kyle despertó, Season Seraph, el día de la Aurora.
+
+Serie a mejor de cinco contra Torre (Rook, Vray, Vess): Torre gana la 1, Escuadra Cero la 2 (por suma de posiciones, no por cruzar primero — la regla "nadie cruza solo" en acción), empatan en la 3 y 4. En la decisiva, Vray bloquea a Jaden casi hasta el borde de la pista; Kyle decide cerrar el hueco él mismo en vez de que Carina rompa su propia posición para cubrirlo — la confianza construida desde Age VI (Forsaken) puesta a prueba en el peor momento posible para fallar. Cruzan la meta en un orden que no favorece claramente a nadie; la suma tarda en confirmarse: **Escuadra Cero 11, Torre 10** — el margen más pequeño en la historia del torneo, tal como estaba previsto desde que se diseñó el bracket.
+
+Beats cumplidos, todos ya sembrados en sesiones anteriores: Sai grita "¡LOBITO!" desde las gradas antes de que termine de proyectarse el resultado, cumpliendo la promesa de *La Primera Aurora* la noche anterior. Elsie nunca miró el marcador — miraba la cara de Kyle, y ya sabía. El mantra frágil de toda la temporada ("tal vez no es imposible, si estamos en sincronía esta vez") deja de sonar a plegaria. Rook y Kyle cierran el reencuentro de dos años con un apretón de manos y una sola línea cada uno — sin necesitar más, coherente con el "contramodelo" que Rook siempre fue. El trofeo de tres piezas (diseñado hace varias sesiones) se arma en el podio con el nombre del ciclo anterior de Rook, Vray y Vess todavía visible en su rayo, y termina en la cocina de Kyle, no en una vitrina, tal como se diseñó. Cierre explícito de la tesis completa del arco: el triunfo individual de Kyle ya era la cabaña con Elsie — la Final es otra cosa, igual de real, que no la reemplaza ni necesita justificarse contra ella.
+
+**MODIFICADOS:** `07_Unsorted_Ideas/Torneo_IV_Bracket.md` (Final marcada como escrita, "CIERRA EL TORNEO IV COMPLETO"), `INDEX.md` (nueva sección "Season Seraph — La Final del Torneo IV"), `07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida.md` (escena 5 marcada como escrita).
+
+**CON ESTO, EL TORNEO IV QUEDA COMPLETO: las 9 escenas de la secuencia acordada están escritas, en cronología, de la clasificación a la final.** Secuencia completa: madurez con Amanda (clasificación) → Gran Inauguración + sorteo → fase de grupos → Dieciseisavos (Los Graneros) → Octavos (Los Chacales) → Sincronía cae → Cuartos (Legado) → Semifinal/crisis de Kyle → El Entrenamiento (pieza añadida) → susto de Rook → Final. Once escenas en total contando las dos piezas que se sumaron sobre la marcha (el origen en Age I con Cayde/Andal, y El Entrenamiento).
+
+**Único evento pendiente del calendario anual completo de la familia:** ya no queda ninguno — La Final de la familia y la Final del Torneo resultaron ser la misma pieza, cerrando ambos arcos a la vez. **Pendientes reales para la próxima sesión:** ficha de Eva Levante (abierta); documento de relación Jaden+Carina+Kyle (abierta); heredados sin cambio (3 inconsistencias de imágenes de referencia; Salvation's Edge en formato de raid); posible hilo futuro del Torneo post-saga (deliberadamente no desarrollado, disponible si se retoma).
+
+**PENDIENTE (próximas sesiones):** Festival de las Almas Perdidas (octubre) y La Final (diciembre, mismo día que la Aurora) — quedan dos escenas para completar el calendario anual; ficha de Eva Levante (¿necesaria?); considerar un documento de relación dedicado a Jaden+Carina+Kyle; heredados previos sin cambio (3 inconsistencias de imágenes, Salvation's Edge formato raid, threading "norte"/"lobito", prosa caps 34–39).
+
+---
+
+## Sesión 2026-07-03 — La Huida de Salvation's Edge · Apariencias fijadas · Revisión de referencias visuales
+
+**CREADOS:**
+
+- `05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_LaHuida.md` — POV Kyle, escena nueva insertada entre Salvation's Edge (raid, pendiente de escribir en `01_Timeline/Raids/`) y `Guardian_FinalShape_AntesDelFinal`. Dos mitades: (1) el encuentro en la cima del monolito — el Testigo fusionado con la estructura, usando la máquina para terminar la Forma Final, con la Luz del Viajero (no un cuerpo, una presencia) contenida detrás de él; la mecánica real del raid final de Salvation's Edge traducida a prosa con equivalencia filosófica explícita en cada paso (los tres brazos de Resonancia, los brazaletes que piden siempre la resonancia contraria, Glyphbreaker, los seis glifos, la Prueba del patrón con los pilares, el núcleo expuesto, la fase de daño coreografiada, el Final Stand); Kyle es el único capaz de sostener dos resonancias a la vez para el sexto glifo — pago narrativo de ser Prismático. El Aegis todavía NO existe en este punto de la línea (aparece recién en `Guardian_Testigo_FinalShape_LaConfrontacion`). (2) La huida cuesta abajo por el monolito en colapso — corredor de las voces calladas, la plaza sin suelo, el puente colapsado, el muro final — con Carina, Jaden, Amir, Jin y Gabriel usando sus subclases de ficha; Kyle sale último, persiguiendo al Testigo herido, hasta que Elsie y Sai lo detienen por canal. El Testigo no muere: pierde el dominio sobre el Viajero, la estabilidad de la máquina y la capacidad inmediata de completar la Forma Final — gravemente herido, no derrotado.
+- `05_Dialogues/Dialogue_Elsie/Elsie_FinalShape_LaHuida.md` — POV Elsie, paralela a la anterior: el mismo tramo visto desde afuera. Elsie y Sai sosteniendo una brecha del perímetro contra Desdeñados y Poseídos mientras el raid team combate adentro — primera escena de acción escrita en conjunto para las dos, con Estasis y la anticipación acumulada de siglos de líneas temporales de un lado, magia Techeun cruda (hilos del Plano, blinks, una hoja de luz ascendente) y el radar paracausal pasivo de Sai del otro, con el costo real de leer de más como recordatorio de que sigue siendo vulnerable. Uso explícito de "norte"/"norte chiquito" en pleno combate. Elsie ve al Testigo huir desde la cima con su tic narrativo ya establecido ("archivó", "Evitado. No ganado. Todavía no"); toca la Estrella Polar buscando esperanza; Sai le sostiene el antebrazo y dice "ni los mismos Nueve podrían"; la explosión del muro y los seis saliendo uno a uno, Kyle último; termina en el mismo punto exacto que la versión de Kyle.
+
+**MODIFICADOS:**
+
+- `02_Characters/Elsie.md` — nueva sección `## Apariencia`, a pedido del autor: Elsie conserva rostro humano completo (no plating visible), la única Exo así porque se transformó antes de que el programa de Clovis Bray estandarizara el chasis limpio (Jaden como contraste explícito); cabello rizado rojo óxido, con eco directo a `EstaVezAlguienCruza` (Roja/Cosmódromo); los tells quedaron en dos capas — acumulativos (no envejece, una cicatriz que no se quedó, quietud entre expresiones, parpadeo demasiado regular) y táctiles/de cerca (iris con patrón demasiado geométrico, el borde firme bajo la mandíbula, la segmentación del cuello al girar la cabeza entera); el gesto de Kyle sosteniéndole la cara en `Guardian_Elsie_FinalShape_AntesDelFinal` ahora tiene una capa retroactiva — sintió el borde metálico ese día y no le importó.
+- `02_Characters/Guardian.md` — nueva sección `# Apariencia`: cabello oscuro y corto, cicatriz vieja en la mejilla izquierda al borde del mentón (Ghost pudo borrarla, nunca lo hizo), heterocromía (izquierdo verde con salpicaduras de marrón, derecho café oscuro) leída como eco temático de lo Prismático — "dos cosas verdaderas al mismo tiempo, sostenidas una junto a la otra."
+- `99_Reference/Faceclaims.md` — nueva entrada Kyle (Brandon Routh / Tyler Hoechlin), mismo formato que la entrada de Sai; ajustes explícitos anotados (heterocromía y cicatriz no están en ninguna referencia).
+- `INDEX.md` — 2 entradas nuevas en "Final Shape — perspectiva de Kyle" y "Final Shape — perspectiva de Elsie" para `LaHuida`.
+
+**REVISADO (sin cambios en archivo):** las 23 imágenes de referencia en `99_Reference/apariencias_personajes/` (generadas por el autor). Feedback entregado en conversación — no volcado a archivo. **Pendientes detectados, no corregidos:**
+1. `kyle_raid_team.png` — Kyle aparece con ojos brillando en azul (estilo Exo), contradice su heterocromía ya fijada en ficha y en su retrato solo.
+2. `the_last_shape.png` — la lápida dice "ELISIE" en vez de "ELSIE" (typo visible en la imagen).
+3. `sai_kyle_post_finalshape.png` — el nombre de archivo dice Sai pero la mujer del cuadro es pelirroja de piel humana (lee como Elsie, no Sai); confirmar con el autor cuál era la intención antes de usarla como referencia canon de una u otra.
+
+---
+
 ## Sesión 2026-06-29 — Arco Faris completo · Las hermanas · El arco del rechazo
 
 **CREADOS (sesión completa):**

@@ -6,7 +6,7 @@
 **Rol:** La más joven del aquelarre de las Techeun de Mara Sov — lectora del Plano Ascendente
 **Espectro:** Ninguno (no es Guardiana; su don es propio, no paracausal-Luz)
 **Estado:** Viva — en recuperación con las Techeun tras ser rescatada del Plano; entra en la órbita de la familia elegida de Kyle y Elsie
-**Aparece en:** [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_ElMapaNoLlegaAqui]], [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene]], [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola]], [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan]], [[05_Dialogues/Dialogue_Sai/Sai_Guardian_Risen_ElLoboMasJoven]], [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]], [[05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar]], [[05_Dialogues/Dialogue_Sai/Sai_Guardian_FinalShape_LaPuertaQueNoTiembla]] · (y la semana del duelo en `Dialogue_Sai/`)
+**Aparece en:** [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_ElMapaNoLlegaAqui]], [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene]], [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola]], [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan]], [[05_Dialogues/Dialogue_Sai/Sai_Escuadra_WitchQueen_ElDiaQueComparten]] (febrero, primer encuentro con Jaden y Carina), [[05_Dialogues/Dialogue_Sai/Sai_Guardian_WitchQueen_LosJueves]] (origen del ritual de los jueves), [[05_Dialogues/Dialogue_Sai/Sai_Familia_Risen_LosJuegosDeLosGuardianes]] (marzo, encuentra su lugar como pronosticadora), [[05_Dialogues/Dialogue_Sai/Sai_Familia_Seraph_LaPrimeraAurora]] (diciembre, su primera Aurora — víspera de la final del Torneo), [[05_Dialogues/Dialogue_Sai/Sai_Guardian_Risen_ElLoboMasJoven]], [[05_Dialogues/Dialogue_Sai/Sai_Elsie_WitchQueen_LoQueNoSeArranca]], [[05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar]], [[05_Dialogues/Dialogue_Sai/Sai_Guardian_FinalShape_LaPuertaQueNoTiembla]] · (y la semana del duelo en `Dialogue_Sai/`)
 
 ---
 
@@ -72,7 +72,7 @@ Eso la vuelve mirror de los dos polos de su nueva familia: el don que aísla (El
 
 **Kyle — el eco paterno.** Ver [[05_Dialogues/Dialogue_Guardian/Guardian_Sai_PreWitchQueen_LasManosRecuerdan|Las Manos Recuerdan]]. Kyle hace con ella, sin recordar haberlo aprendido, los gestos de un padre — un *modo* que sobrevivió a su muerte y al borrado total (afrenta a la Forma Final del Testigo; ver [[04_Concepts/Saberes_Heredados]] para la distinción: esto NO es un saber heredado, es pre-vida, sin fuente). Sai es quien lo nombra. Y es quien, sin saberlo, le hace a Kyle la misma pregunta que una niña le hizo bajo un árbol en el Colapso: *¿te volveré a ver?* — cerrando un círculo que solo Ghost ve.
 
-**Ghost — el que sabe.** Ghost conoce el origen del eco de Kyle (la niña bajo el árbol, [[05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar]]) y calla. Sai, que lee lo invisible, es **el único ser capaz de rozar lo que Ghost carga.** Esa es la tensión latente de la relación Sai↔Ghost: ella casi lo lee; él desvía. Es también donde Sai practica su defecto en corrección — aprender a no terminar de leer a alguien que no está listo.
+**Ghost — el que sabe.** Ghost conoce el origen del eco de Kyle (la niña bajo el árbol, [[05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar]]) y calla. Sai, que lee lo invisible, es **el único ser capaz de rozar lo que Ghost carga.** Esa tensión se paga en [[05_Dialogues/Dialogue_Sai/Sai_Ghost_Plunder_LaMascaraQueNoLee|La Máscara Que No Lee]] (Season of Plunder): ella lo roza de verdad, en el Festival de las Almas Perdidas, y es ahí —no antes— donde practica su defecto ya en corrección, aprendiendo a no terminar de leer a alguien que no está listo.
 
 ---
 
@@ -102,10 +102,11 @@ A lo largo del **Año de la Bruja (Age X)**, Sai pasa de rescatada-con-miedo a a
 
 1. Vuelve a abrir su don — con Elsie en la línea, no sola.
 2. Su vista se vuelve útil donde Elsie es ciega (el Mundo Trono, lo ascendente): de víctima a recurso por elección. El acto fundacional es [[05_Dialogues/Dialogue_Sai/Sai_Aquelarre_SeasonLost_LaQueNoVaSola|La Que No Va Sola]] — el consejo donde Sai acepta leer el Plano para el aquelarre pero impone su condición ("no iré sola, no mando a nadie solo"), redefiniendo qué es una Techeun lectora. Cuesta — ve algo que no debía, semilla de las Pesadillas que vendrán.
-3. Casi lee el secreto de Ghost; aprende a no hacerlo.
-4. Se afirma como ella misma, no como hija-sustituta: elige su sitio (Techeun redefinida — la lectora que se niega a ir sola).
+3. Se afirma como ella misma, no como hija-sustituta: elige su sitio (Techeun redefinida — la lectora que se niega a ir sola).
 
 De ahí cruza a **Season of the Haunted (Age XI)**, la temporada del duelo y las Pesadillas — su dominio de vista —, donde lo que Sai despertó en Kyle lo lleva por fin hasta Zavala, padre por elección que enfrenta la Pesadilla de su propia familia perdida. Sai arma ese camino sin proponérselo.
+
+Más adelante, en **Season of Plunder**, llega el beat que cerraba pendiente desde el principio: ✅ [[05_Dialogues/Dialogue_Sai/Sai_Ghost_Plunder_LaMascaraQueNoLee|La Máscara Que No Lee]] — en el Festival de las Almas Perdidas, casi lee el secreto de Ghost (roza el eco paterno de Kyle) y aprende, por fin, a no terminar de leerlo. El disparador no es una confrontación directa: es un gesto paterno pequeñísimo de Kyle —arreglarle el cordón roto de la máscara— que hace temblar, sin que él lo note, la compostura de Ghost.
 
 ---
 

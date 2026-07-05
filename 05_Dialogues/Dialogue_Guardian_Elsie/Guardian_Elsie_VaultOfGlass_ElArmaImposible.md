@@ -74,6 +74,8 @@ Era la de alguien contando algo que le había pasado a él.
 
 Había algo en eso que no entraba en ninguna clasificación que tuviera disponible para esta relación todavía. Él no fue a Ghost con esto. No fue a Cayde, aunque Cayde era el único que habría querido escucharlo. Fue a ella.
 
+No era la primera vez. Semanas atrás había sido Atheon —la primera gran hazaña de su vida entera como Guardian— contada primero a ella, antes que a nadie más (ver [[05_Dialogues/Dialogue_Elsie/Elsie_VaultOfGlass_PrimeraVisita|Primera Visita]]). Esto confirmaba lo que aquella vez todavía podía haber sido casualidad.
+
 Eso era información sobre algo que todavía no tenía nombre.
 
 La ternura que sintió fue pequeña e involuntaria y la archivó de forma expedita antes de que llegara a la cara.
@@ -152,4 +154,4 @@ La Vanguardia podía seguir administrando su versión de los hechos.
 
 *Pilares activos: [[04_Concepts/Identity|Identidad]], [[04_Concepts/Hope|Esperanza]], [[04_Concepts/Memory|Memoria]]*  
 *Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Guardian]], [[02_Characters/Elsie]], [[02_Characters/Ghost]]*  
-*Semilla narrativa: el Guardian fue a Elsie con esto. No a Ghost, no a Cayde, no a la Vanguardia. La elección de a quién llevas algo que te importa es información sobre cómo ya la ubicas en tu vida — antes de tener palabras para eso. Elsie lo archiva. El Guardian no lo analiza. El Mythoclast existe entre categorías, igual que la relación entre los dos: todavía sin nombre, completamente real.*
+*Semilla narrativa: el Guardian fue a Elsie con esto. No a Ghost, no a Cayde, no a la Vanguardia. La elección de a quién llevas algo que te importa es información sobre cómo ya la ubicas en tu vida — antes de tener palabras para eso. Elsie lo archiva. El Guardian no lo analiza. El Mythoclast existe entre categorías, igual que la relación entre los dos: todavía sin nombre, completamente real. Segunda vez que ocurre —la primera fue Atheon, semanas antes— y la que confirma que no fue casualidad.*

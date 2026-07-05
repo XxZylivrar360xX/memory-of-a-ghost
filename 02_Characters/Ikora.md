@@ -597,6 +597,10 @@ Eso representa uno de los cambios más importantes de toda su evolución emocion
 
 ---
 
+# El Torneo de los Velocistas — de incógnito
+
+Nadie en la Ciudad esperaría que Ikora Rey compitiera en el Torneo IV. Por eso lo hace de incógnito, bajo un nombre de equipo deliberadamente anodino —**Turno de Tarde**—, junto a dos civiles (Randy y Liu Feng) que no tienen la menor idea de con quién corren. Corre con el casco puesto todo el torneo, bajo el alias **"Voidhunger"** — nadie le pregunta por qué una civil de turno de tarde elige un nombre así, y ella no se lo explica a nadie. Es, quizás, la única hora de la semana en que Ikora no necesita ser la que entiende todo primero: solo necesita ganar. Nadie la reconoce hasta que gana. Ver [[04_Concepts/Torneo_De_Los_Velocistas]] y [[07_Unsorted_Ideas/Torneo_IV_Bracket]].
+
 # Final Evolution
 
 Al final de la saga, Ikora aprende algo que pasó siglos resistiendo:

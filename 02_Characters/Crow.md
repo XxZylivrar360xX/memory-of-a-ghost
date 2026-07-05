@@ -519,6 +519,10 @@ Eso transforma completamente la forma en que Crow entiende:
 
 ---
 
+# El Torneo de los Velocistas
+
+Crow compite en el Torneo IV, y ese detalle importa más de lo que parece: es una de las pocas cosas que hace que no tiene nada que ver con Uldren, con Mara, ni con culpa heredada. Corre porque es rápido y porque le gusta, sin necesitar redimir nada al hacerlo — el tipo de alegría simple que el resto de su vida rara vez le permite. Ver [[04_Concepts/Torneo_De_Los_Velocistas]] y [[07_Unsorted_Ideas/Torneo_IV_Bracket]].
+
 # Final Evolution
 
 Al final de la saga, Crow finalmente acepta algo fundamental:

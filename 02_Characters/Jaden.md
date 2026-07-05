@@ -76,6 +76,20 @@ Jaden no sabe que enseñó eso. Probablemente no le importaría saberlo.
 
 ---
 
+## Sai — el primer encuentro
+
+En [[05_Dialogues/Dialogue_Sai/Sai_Escuadra_WitchQueen_ElDiaQueComparten]], Sai conoce a Jaden por primera vez en el arroyo, a media apuesta de puntería con Carina. Su reacción a la pregunta genuina de Sai —"¿qué es un cumpleaños?"— es la misma economía de siempre: nada de burla, solo la certeza tranquila de invitarla a quedarse sin hacer un evento de ello ("entonces definitivamente vienes").
+
+---
+
+## El Torneo de los Velocistas
+
+En los [[05_Dialogues/Dialogue_Sai/Sai_Familia_Risen_LosJuegosDeLosGuardianes|Juegos de los Guardianes]], su trío de Titanes gana el estandarte del año sin un solo momento memorable que nadie pueda contar después — acumulación silenciosa, la misma economía de siempre aplicada a un evento entero. Acepta el anuncio con un asentimiento breve. Nada más.
+
+Cuando Kyle arma su equipo para el [[04_Concepts/Torneo_De_Los_Velocistas|Torneo]] revivido (Age VI, Forsaken — ver [[05_Dialogues/Dialogue_Guardian/Guardian_Amanda_Forsaken_TraiganDeVueltaElTorneo]]), no lo recluta con un discurso — se lo pregunta, y Jaden dice que sí de la misma forma en que aceptó el 1v1 en Crisol: sin preguntar por qué, porque la pregunta ya trae su propia respuesta. Corre sin ceremonia, con la misma economía de siempre; en la pista, la cobertura que da en combate se vuelve bloqueo de rivales y estela abierta para un compañero. Pierde con Kyle en Shadowkeep (Torneo III, Octavos de Final) y no lo dice en voz alta, pero se queda. Dos años después, en la Aurora de Seraph, es de los tres.
+
+---
+
 ## Maestría de Luz — Titán
 
 *Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]] y Carina en [[02_Characters/Carina|la suya]].*

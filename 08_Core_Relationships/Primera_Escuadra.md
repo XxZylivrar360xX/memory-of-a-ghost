@@ -168,7 +168,7 @@ Esa idea define todo lo que fueron.
 
 ## La fractura
 
-Y cuando llegó la Guerra Roja —
+Y cuando llegó la Guerra Roja —la Operación Ocaso que hizo caer la Torre—
 
 la filosofía se rompió.
 

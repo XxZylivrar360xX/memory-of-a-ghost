@@ -174,13 +174,13 @@ Y archivó ese momento con la atención de alguien que acaba de recibir la prime
 
 ## Nota
 
-Esa misma noche, muy lejos hacia el este, un Guardian despertaba en el Cosmódromo.
+Ese mismo día, horas antes y muy lejos hacia el este, un Guardian había despertado a plena luz en el Cosmódromo.
 
 Hornet no lo sabía.
 
 Carina tampoco.
 
-Los dos renacimientos ocurrieron con horas de diferencia, en los dos extremos de lo que quedaba del mundo humano — uno en el lugar desde donde la humanidad había intentado alcanzar las estrellas, otro en una ciudad que la humanidad había dejado de intentar reclamar.
+Los dos renacimientos ocurrieron el mismo día, el mismo año, con horas de diferencia entre la luz y la noche, en los dos extremos de lo que quedaba del mundo humano — uno en el lugar desde donde la humanidad había intentado alcanzar las estrellas, bajo el sol; otro en una ciudad que la humanidad había dejado de intentar reclamar, bajo las primeras estrellas.
 
 No se conocerían durante años.
 

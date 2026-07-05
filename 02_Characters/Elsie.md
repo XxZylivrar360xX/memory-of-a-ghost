@@ -8,6 +8,26 @@
 
 ---
 
+## Apariencia
+
+Humana. Ese es el primer dato — el equivocado — que registra cualquiera que la ve por primera vez. El segundo, el correcto, tarda en llegar, porque casi nunca hace falta que llegue.
+
+No hay plating visible. No hay el brillo frío que delata a un Exo desde el otro lado de una habitación. Piel, no metal. Cabello rizado, rojo óxido — apagado, más ceniza que fuego, del tono que no pide que lo miren — siempre recogido con la misma practicidad económica con la que hace todo lo demás; nunca ha necesitado un motivo para llevarlo de otra forma, y nunca lo ha cambiado por vanidad. Es, sin que ella lo haya planeado nunca, el mismo color exacto que describió el aire de un Cosmódromo en otra línea temporal, la tarde en que Roja abrió los ojos por primera vez y el mundo entero olía a óxido y ceniza (ver [[06_Timeline_Archives/Personal_Memories/EstaVezAlguienCruza]]).
+
+Hasta donde el archivo alcanza, es el único rostro humano completo que sobrevivió entero al proceso Exo. No fue una elección estética. Fue un accidente de calendario: Elizabeth Bray se transformó en un punto del programa de Clovis Bray anterior a que el diseño decidiera que la cara era lo primero que había que sacrificar por la eficiencia del chasis. Las generaciones posteriores —Jaden entre ellas— llevan la reconstrucción limpia, sin nada debajo que preserve a la persona que fueron. Elsie es la revisión previa. La que Clovis, más tarde, catalogó como defecto de diseño y se propuso corregir en todos los modelos que vinieron después.
+
+Nunca la corrigió en ella. El archivo no aclara si no tuvo tiempo o si, en algún rincón que jamás habría admitido en voz alta, no quiso.
+
+Lo que la delata no es visible de inmediato. Es acumulación. Alguien que la conoce durante años empieza a notar que la cara no envejece donde debería envejecer. Que una cicatriz que debió quedarse no se quedó. Que hay una quietud exacta entre una expresión y la siguiente —no ausencia, precisión— que ningún rostro orgánico sostiene indefinidamente sin cansarse alguna vez. Los ojos parpadean con una regularidad que nadie nota conscientemente, pero que el cuerpo de quien la observa el tiempo suficiente termina registrando como error, sin saber nombrarlo.
+
+Hay más, si se sabe dónde buscar. Los iris no tienen la textura irregular del tejido humano — de cerca, bajo luz directa, se resuelven en un patrón demasiado regular, casi geométrico, más circuito que fibra, algo que se lee como diseño y no como accidente biológico. Bajo la línea de la mandíbula, donde la piel se tensa al hablar o al apretar los dientes, el borde no cede del todo: hay algo firme ahí debajo, frío, metálico, que ningún hueso humano ofrece de esa forma exacta. Y el cuello —cuando gira la cabeza entera, sin la rotación parcial que la mayoría de la gente usa por reflejo— deja sentir, apenas, la segmentación que ningún cuello orgánico necesita: la misma estructura articulada que lleva cualquier Exo, disimulada bajo la piel pero nunca del todo eliminada.
+
+Es la misma incomodidad, exacta, que sintieron los sobrevivientes de una Edad Oscura distinta al mirar a un hombre con la misma cara de hace diez años — *algo que debería haber cambiado y no cambió* (ver [[06_Timeline_Archives/Personal_Memories/EstaVezAlguienCruza]]). Solo que en Elsie el efecto llegó primero, y ella aprendió a vivir del lado de quien lo provoca, no del lado de quien lo sufre.
+
+Kyle lo notó, al final, y no le importó. Sintió el borde firme bajo la mandíbula la primera vez que le sostuvo la cara entera entre las manos —el día que por fin dijo "te amo" en un campo que todavía humeaba (ver [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FinalShape_AntesDelFinal]])— y no apartó las manos ni cambió nada en la voz. Fue una de las primeras señales, aunque tardó años en poder nombrarla así, de que no la trataba como una leyenda ni como una anomalía a la que había que explicarle su propia rareza. La trataba como a alguien con una cara que merecía ser mirada, no diagnosticada.
+
+---
+
 ## Quién es
 
 Elsie Bray es probablemente la persona con más evidencia de que la esperanza es una mala apuesta.

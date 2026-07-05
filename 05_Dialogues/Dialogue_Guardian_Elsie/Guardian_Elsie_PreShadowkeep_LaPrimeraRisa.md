@@ -143,5 +143,6 @@ Sobre todo por eso.
 ---
 
 *Pilares activos: [[04_Concepts/Love|Amor]], [[04_Concepts/Hope|Esperanza]], [[04_Concepts/Identity|Identidad]]*  
-*Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Guardian]], [[02_Characters/Elsie]]*  
-*Semilla narrativa: el último momento de ligereza antes de la larga ausencia de Elsie. Ninguno de los dos lo sabe todavía — pero el atardecer lo guarda.*
+*Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Guardian]], [[02_Characters/Elsie]], [[04_Concepts/Torneo_De_Los_Velocistas]]*  
+*Semilla narrativa: el último momento de ligereza antes de la larga ausencia de Elsie. Ninguno de los dos lo sabe todavía — pero el atardecer lo guarda.*  
+*Nombre retroactivo: este es el skimmer sin nombre. Kyle y Amanda lo bautizarán después **"La Línea Alterna"** — alternativa al Gorrión tradicional, y línea temporal alterna en segundo plano — cuando decida competir en serio por el [[04_Concepts/Torneo_De_Los_Velocistas|Torneo de los Velocistas]]. Es la misma máquina con la que gana el título años después.*

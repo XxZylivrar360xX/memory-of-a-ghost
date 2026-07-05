@@ -74,6 +74,22 @@ Eso no se enseña. Se demuestra, incursión por incursión, hasta que el otro lo
 
 ---
 
+## El mismo día que Kyle
+
+Carina y Kyle renacieron el mismo día, el mismo año — Kyle de día en el Cosmódromo, Carina esa misma noche en un rascacielos del Viejo Chicago (ver [[05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar]]). Coincidencia que ninguno de los dos se explica y que Jaden resume sin más ceremonia que "el universo tiene su sentido del humor". En [[05_Dialogues/Dialogue_Sai/Sai_Escuadra_WitchQueen_ElDiaQueComparten]], Sai lo descubre por accidente, preguntando primero qué es un cumpleaños — Carina es quien se lo explica, con la misma paciencia con la que explica todo lo que ama.
+
+## Huracán, no rivalidad
+
+Kyle y Carina son la mejor dupla del sistema resolviendo una Operación real —él lee su mapa de fuego antes de que ella termine de moverse, ella le abre cada puerta un segundo antes de que la necesite— y dos tormentas colisionando en cualquier cosa que se llame juego (ver [[05_Dialogues/Dialogue_Sai/Sai_Familia_Risen_LosJuegosDeLosGuardianes]], los Juegos de los Guardianes). Elsie se lo explica a Sai así: no es contradictorio, es la misma confianza expresada de dos formas — solo se suelta del todo contra alguien de quien sabe que no se rompe.
+
+---
+
+## El Torneo de los Velocistas
+
+Carina es la primera en decir que sí cuando Kyle arma el equipo para el [[04_Concepts/Torneo_De_Los_Velocistas|Torneo]] revivido (Age VI, Forsaken — ver [[05_Dialogues/Dialogue_Guardian/Guardian_Amanda_Forsaken_TraiganDeVueltaElTorneo]]) — no por el podio, sino porque es exactamente el tipo de cosa absurda y luminosa que ella cree que merecen tener después de perder a Cayde. En pista, lee a los rivales igual que lee cualquier sala: sabe cuándo bloquear, cuándo abrir espacio, cuándo el resultado ya está decidido y solo queda correrlo con estilo. Pierde con Kyle en Shadowkeep (Torneo III, Octavos de Final) y es la primera en reírse del ridículo que fue el intento, antes de que duela menos. Dos años después, en la Aurora de Seraph, sube al podio con él y con Jaden — la misma gente, la misma promesa.
+
+---
+
 ## Maestría de Luz — Cazadora
 
 *Nota de desarrollo: exploración en curso, sujeta a ajuste, en la misma línea que la de Kyle en [[02_Characters/Guardian|su ficha]].*

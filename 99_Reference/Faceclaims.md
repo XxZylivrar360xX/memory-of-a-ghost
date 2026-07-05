@@ -15,3 +15,16 @@
 - **Pelo:** oscuro con **mechones blanco-ceniza decolorados a parches** (secuela del casi-borrado en el Plano).
 
 *Conecta con: [[02_Characters/Sai]]*
+
+---
+
+## Kyle (el Guardián) — Brandon Routh / Tyler Hoechlin
+
+**Esencia, no captura literal.** Se toma la combinación por el registro compartido: mandíbula marcada, rasgos clásicos de "héroe de al lado" sin caer en frialdad ni en pretensión — una cara que lee protectora antes que imponente, coherente con "la mirada intensa — nunca fría" de la [[02_Characters/Guardian|ficha de Kyle]]. Ninguno de los dos como calco exacto: tomar a Routh por la calidez contenida y la solidez tranquila; a Hoechlin por el peso y la presencia física sin perder cercanía.
+
+**Ajustes respecto a la referencia (manda la [[02_Characters/Guardian|ficha de Kyle]]):**
+- **Ojos:** ninguno de los dos actores tiene heterocromía. Kyle: **izquierdo verde con salpicaduras de marrón, derecho café oscuro** — ajuste obligatorio en cualquier generación de imagen.
+- **Cicatriz:** ninguna referencia la tiene. Añadir en mejilla izquierda, justo en el borde del mentón — delgada, vieja, discreta.
+- **Cabello:** oscuro, corto — consistente con ambas referencias, sin necesidad de ajuste.
+
+*Conecta con: [[02_Characters/Guardian]]*

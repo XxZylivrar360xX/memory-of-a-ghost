@@ -528,6 +528,10 @@ Porque eso demuestra algo fundamental:
 
 ---
 
+# El Torneo de los Velocistas
+
+Fue Efrideet quien, en Rise of Iron, le enseñó a Kyle que la velocidad podía ser alegría en vez de validación — la primera persona que le dio permiso de querer algo que no salva a nadie (ver [[04_Concepts/Torneo_De_Los_Velocistas]]). Años después, en la Gran Inauguración del Torneo IV (ver [[05_Dialogues/Dialogue_Guardian/Guardian_Familia_WitchQueen_LaGranInauguracion]]), lo ve entre el público mirando a los nuevos Señores de Hierro de Saladin —Hierro Joven, incluido el primer Bracus Cabal en tomar el manto— con la misma expresión exacta con que lo vio entrenar entonces. Ninguno de los dos necesita decir nada. No hace falta.
+
 # Final Evolution
 
 Al final de la saga, Efrideet comprende que el universo probablemente jamás estará completamente libre de conflicto.

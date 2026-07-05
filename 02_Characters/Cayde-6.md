@@ -71,6 +71,14 @@ Eso provoca que incluso como Exo:
 
 ---
 
+# Andal Brask
+
+Antes de Cayde hubo un Vanguardia Cazador que no era él: **Andal Brask**, muerto a manos de Taniks años antes de que Cayde heredara el puesto. Cayde no habla de él seguido — cuando lo hace, es en voz baja, casi de contrabando, en el registro que reserva para las pocas cosas que no convierte en broma.
+
+Andal le dejó, entre otras cosas, historias viejas de antes de los Guardianes — un jardín, alguien que poda lo que no aguanta el clima — contadas en noches largas sin pretensión de ser verdad, solo de ser respetadas. Cayde nunca supo si eran ciertas. Le tuvo a esas historias el mismo respeto que Andal, y se las pasa, a su vez, a Kyle en las gradas del primer Torneo de los Velocistas (ver [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TorneoI_TodoMenosEso]]) — sin saber que está describiendo, sin saberlo, su propia muerte futura. Una cadena de tres: Andal enseña, Cayde hereda, Cayde enseña, Kyle hereda.
+
+---
+
 # The Exo Identity
 
 Cayde constantemente usa humor para ocultar una verdad incómoda:

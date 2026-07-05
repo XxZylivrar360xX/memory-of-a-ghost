@@ -2,6 +2,24 @@
 
 ---
 
+# Apariencia
+
+Cabello oscuro, corto — nada que lo distinga de cualquier otro Guardian a primera vista.
+
+Hasta que alguien lo mira más de un segundo.
+
+Ahí está la cicatriz. Mejilla izquierda, justo en el borde del mentón. Delgada, vieja, del tipo que ya no cuenta una historia concreta porque sobrevivió a demasiadas resurrecciones para que nadie recuerde en cuál se la ganó. Ghost pudo haberla borrado hace siglos. Nunca lo hizo. Kyle nunca se lo pidió.
+
+Los ojos son lo que la gente recuerda después de hablar con él.
+
+Heterocromía. El izquierdo, verde, con salpicaduras de marrón. El derecho, café oscuro, casi sin luz. Nadie en la Vanguardia lo comenta dos veces delante de él, aunque todos lo notan la primera. Hay quien lee ahí, sin poder evitarlo, una simetría incómoda con lo que Kyle terminaría siendo: dos cosas verdaderas al mismo tiempo, sostenidas una junto a la otra, sin que ninguna borre a la otra.
+
+Prismático, antes de que la palabra existiera para él.
+
+La mirada es intensa — nunca fría — pero cuesta sostenerla mucho tiempo sin sentir que está calculando cuánto hace falta para protegerte de algo que todavía no ha ocurrido. Es la mirada de alguien que aprendió, resurrección tras resurrección, que cuidar a la gente correcta importa más que ganar la guerra correcta.
+
+---
+
 # Identidad Central
 
 El Guardián es la anomalía central del universo.

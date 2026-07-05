@@ -52,6 +52,7 @@ Y luego las consecuencias: Osiris, Rasputin, las primeras señales de que algo m
 
 ## Notas Narrativas
 
+- **Nombre fijado (2026-07-05):** el asalto de Ghaul a la Torre se recuerda en la Ciudad como la **Operación Ocaso** — el momento exacto en que Ghaul apaga la Luz sobre la Torre. Deliberadamente distinto de "Lightfall" (Age XII), para no chocar con ese nombre ya fijado. Se conmemora cada año en el Solsticio, con una llama propia, separada — ver [[05_Dialogues/Dialogue_Sai/Sai_Familia_Haunted_ElSolsticio]]. **No confundir con la Batalla de los Seis Frentes:** leyenda muchísimo más vieja, anterior a Kyle, sin relación con la Guerra Roja — un asedio simultáneo a la Ciudad joven que no debió sobrevivirse, celebrado como gesta de generaciones anteriores, sin fecha ni archivo propio todavía (ver mención en [[05_Dialogues/Dialogue_Sai/Sai_Familia_Haunted_ElSolsticio]]).
 - El despertar del Viajero es el evento que el Testigo estaba esperando. Todo lo posterior es respuesta al pulso que emite en este momento.
 - Rasputin en Warmind anticipa su papel en Seraph y su sacrificio eventual.
 - Las cicatrices de la Red War son las que la Pirámide Lunar encontrará en Shadowkeep.

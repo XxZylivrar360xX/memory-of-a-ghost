@@ -151,6 +151,18 @@ Fue más cuidadosa aquí. Eligió el nivel de profundidad: suficiente para compr
 
 Eso también era protocolo.
 
+Notó algo más, debajo del contenido.
+
+La forma en que él hablaba de Atheon no tenía la cadencia de un reporte. Los reportes describen un evento desde afuera — secuencia, resultado, variables controladas. Esto era distinto: la voz de alguien contando, por primera vez, la cosa más grande que había hecho en toda su vida, a la persona que había elegido para escucharla.
+
+No a la Vanguardia — eso vendría después, si es que llegaba a venir, filtrado y resumido y despojado de lo que de verdad importaba. No a Cayde, que sin duda habría querido ser el primero en saberlo, y que se habría reído de la forma correcta con la noticia. Ni siquiera exclusivamente a su Espectro, que ya lo había vivido con él y no necesitaba que se lo contaran.
+
+Se lo estaba contando a ella.
+
+Primero a ella.
+
+Elsie no tenía una categoría para eso. Lo archivó de todas formas, con la misma precisión metódica con que archivaba todo lo que todavía no podía clasificar.
+
 Siguieron con el informe.
 
 ---
@@ -324,3 +336,5 @@ Pero lo cargó.
 *Conecta con: [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_PrimeraVisita]], [[05_Dialogues/Dialogue_Elsie/Elsie_UltimoGuardian_ElNombre]], [[06_Timeline_Archives/Bray_Legacies/Elizabeth_Antes]], [[02_Characters/Elsie]], [[02_Characters/Guardian]], [[00_Biblia/Elsie_ElMapaYLaPregunta]]*
 
 *Nota narrativa: La versión conjunta (Guardian_Elsie_VaultOfGlass_PrimeraVisita) muestra el encuentro desde afuera. Esta versión muestra el sistema de clasificación de Elsie funcionando y fallando en tiempo real. La cabaña no es el punto de giro emocional — es el punto donde el sistema encuentra algo que no puede procesar. El nombre al final no es la respuesta a ese problema. Es el primer síntoma de que algo ha cambiado antes de que ella pueda examinar qué. El bucle se cierra en El_Ultimo_Guardian_ElNombre: décadas después, Kyle da su nombre de la misma forma en que ella dio el suyo — antes de decidirlo, porque el momento lo merece.*
+
+*Primera instancia de un patrón: la primera hazaña de la vida de Kyle como Guardian —Atheon, la Bóveda de Cristal— y elige contársela a ella antes que a la Vanguardia, antes que a Cayde, antes de que sea solo entre él y su Espectro. Semanas después repite exactamente el mismo gesto con el Mythoclast (ver [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_VaultOfGlass_ElArmaImposible|El Arma Imposible]]) — la segunda vez que Elsie lo nota no es coincidencia, es confirmación de que ya es así como funciona.*

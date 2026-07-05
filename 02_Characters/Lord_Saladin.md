@@ -632,6 +632,10 @@ Y eso lentamente devuelve esperanza a una parte de Saladin que creía perdida ha
 
 ---
 
+# Los Bracus de Hierro
+
+Semilla temprana de la Final Evolution, sembrada años antes de que termine de florecer: en la Gran Inauguración del Torneo IV (Age X, ver [[04_Concepts/Torneo_De_Los_Velocistas]] y [[05_Dialogues/Dialogue_Guardian/Guardian_Familia_WitchQueen_LaGranInauguracion]]), Saladin presenta a tres nuevos Señores de Hierro — **Hierro Joven**: dos humanos, Torin y Mireya, y **Ravask**, el primer Cabal en pedir el manto. No es casualidad ni concesión: es la consecuencia directa de lo que ya sentía por los Cabal bajo Caiatl ("la supervivencia del sistema ya no pertenece únicamente a la humanidad"). El primer paso, silencioso y sin anunciarse como tal, de dejar de verse únicamente como soldado y empezar a verse como lo que se vuelve al final de la saga: mentor, guardián de memoria.
+
 # Final Evolution
 
 Al final de la saga, Saladin finalmente comprende algo importante:
