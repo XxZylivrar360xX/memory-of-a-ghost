@@ -60,6 +60,7 @@ El Toque de Maldad no se destruye — destruirlo sería responder a la Lógica d
 - La trilogía Raze Lighter (Alak-Hul, Ecthar, Eris) justifica por qué esa espada específica en ese momento específico.
 - El Toque de Maldad es la primera pieza del Gambito que Kyle carga sin saber que la está cargando.
 - Oryx en el Mar de Metano es una semilla para Heresy. Ver [[00_Biblia/KingsFall_HerenciaOculta]].
+- **Parte 1 completa (2026-07-19):** las 23 escenas listadas arriba cubren el tramo entre la primera lectura de Eris/Osiris y el regicidio físico de Oryx, con un pase de identidad de terror aplicado a las cuatro clusters completas (tesis: "Oryx te está mirando"). Guerra de los Poseídos (Parte 2) y el retratamiento de King's Fall (Parte 3) siguen sin escribirse — ver `09_Roadmaps/Plan_TakenKing_Parte1.md`, sección "Horizonte tonal del arco completo".
 
 ---
 
@@ -88,3 +89,38 @@ El Toque de Maldad no se destruye — destruirlo sería responder a la Lógica d
 
 **Elsie**
 - [[05_Dialogues/Dialogue_Elsie/Elsie_PostKingsFall]]
+
+### Parte 1 — La Llegada de Oryx y el Origen de Kyle+Carina
+
+*23 escenas en 4 clusters, previas cronológicamente a los capítulos 4-6 de arriba — cubren desde la primera lectura de Eris/Osiris hasta el regicidio físico de Oryx. Ver `09_Roadmaps/Plan_TakenKing_Parte1.md` para la estructura completa. La reestructuración de capítulos que incorpore formalmente esta Parte 1 sigue pospuesta a propósito hasta que haya prosa de Partes 2/3 suficiente para redactar en formato de libro.*
+
+**Cluster 1 — El Atraco y la Batalla de Saturno**
+- [[05_Dialogues/Dialogue_Eris/Eris_Osiris_TakenKing_ElPadreDebajoDelRey]]
+- [[05_Dialogues/Dialogue_Mara/Eris_Mara_TakenKing_LaTesoreria]]
+- [[05_Dialogues/Dialogue_Mara/Petra_Mara_TakenKing_LaBatallaDeSaturno]]
+- [[05_Dialogues/Dialogue_Mara/Mara_Eris_TakenKing_LoQueNingunoModelo]]
+
+**Cluster 2 — Invasión y la Mano del Rey**
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos]]
+- [[05_Dialogues/Dialogue_Oryx/Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion]]
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Petra_TakenKing_LaManoSeCierra]]
+- [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]]
+- [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]]
+
+**Cluster 3 — La Llave del Acorazado**
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TakenKing_ElProblemaDeAcceso]]
+- [[05_Dialogues/Dialogue_Eris/Eris_Cayde_TakenKing_LosLimitesDeLaSombra]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_TakenKing_LaCaceriaYLaHerida]]
+- [[05_Dialogues/Dialogue_Carina/Carina_Cayde_TakenKing_LaPresionCivil]]
+- [[05_Dialogues/Dialogue_Eris/Eris_Guardian_TakenKing_LaCondicion]]
+
+**Cluster 4 — Hellmouth y el Regicidio Físico**
+- [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_DosDescensos]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_LaCredencial]]
+- [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_LaInterseccion]]
+- [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_LaVerdadParcial]]
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir]]
+- [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_ElRegicidioFisico]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_LaPuertaAParte2]]
+- [[05_Dialogues/Dialogue_Elsie/Elsie_Carina_TakenKing_ElFlancoQueNoPudoAcompanar]]

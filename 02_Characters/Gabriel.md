@@ -47,6 +47,8 @@ Lo que diferencia a Gab de esos antecedentes — lo que él mismo diría — es 
 
 El equipo lo observa. El debate continúa.
 
+*Nota de continuidad (2026-07-16):* Espinas no es la única arma de su clase en el vault — el Dredgen que mata a Elenna "Lena" Lekareva en el Refugio del Muelle (Age II, ver [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]]) porta una Espina distinta, forjada por su propio camino Dredgen, dentro de la misma familia de las Armas del Dolor. No hay linaje de posesión entre las dos — son objetos separados que comparten diseño y maldición, no la misma arma pasando de mano en mano.
+
 ---
 
 ## Pre-Forsaken — cómo llega al equipo

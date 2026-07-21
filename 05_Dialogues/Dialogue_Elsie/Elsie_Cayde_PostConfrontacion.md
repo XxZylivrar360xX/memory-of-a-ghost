@@ -124,7 +124,7 @@ No dijo nada.
 
 Elsie miró hacia donde estaba el Guardian.
 
-La estrella polar descansaba sobre su pecho. Agrietada desde el umbral. La veta rosada atravesando la fractura, sin luz todavía, sin respuesta todavía — solo el peso de algo que había pagado algo y seguía presente de todas formas.
+La estrella polar descansaba sobre su propio pecho — la de ella, la que nunca se había quitado. Agrietada desde el umbral. La veta rosada atravesando la fractura, sin luz todavía, sin respuesta todavía — solo el peso de algo que había pagado algo y seguía presente de todas formas.
 
 —Hay cosas que todavía no le he dicho —dijo Elsie. En voz baja. No como confesión — como inventario.
 
@@ -180,4 +180,6 @@ Tampoco ella.
 
 *Pilares activos: [[04_Concepts/Love|Amor]], [[04_Concepts/Memory|Memoria]], [[04_Concepts/Hope|Esperanza]], [[04_Concepts/Identity|Identidad]]*
 *Conecta con: [[05_Dialogues/Dialogue_Guardian/Guardian_Testigo_FinalShape_LaConfrontacion]], [[05_Dialogues/Dialogue_Elsie/Elsie_Savathun_FinalShape_LaClaveDelPortal]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Elsie]], [[02_Characters/Cayde-6]], [[02_Characters/Guardian]]*
-*Semilla narrativa: Cayde funciona aquí como el único personaje que puede decirle a Elsie lo que necesita escuchar — porque vino del otro lado de la muerte y sabe exactamente qué se ve desde ahí. Su observación sobre Kyle ("él también te mira así cuando tú no estás mirando") es la confirmación que Elsie no se había permitido buscar. La escena cierra con el Guardian levantando la vista sin razón aparente y encontrándola — ese cruce de miradas es el umbral directo hacia la escena donde él dice "te amo" antes de entrar a la sala de las estatuas.*
+*Semilla narrativa: Cayde funciona aquí como el único personaje que puede decirle a Elsie lo que necesita escuchar — porque vino del otro lado de la muerte y sabe exactamente qué se ve desde ahí. Su observación sobre Kyle ("él también te mira así cuando tú no estás mirando") es la confirmación que Elsie no se había permitido buscar. La escena cierra con el Guardian levantando la vista sin razón aparente y encontrándola — ese cruce de miradas ya no necesita llevar a una declaración (el "te amo" ocurrió antes, en [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal]]): es la calma antes de que Sai abra la puerta hacia la Sala de las Estatuas.*
+
+*Nota narrativa: REENCUADRE (2026-07-09). Escena posterior a [[05_Dialogues/Dialogue_Guardian/Guardian_Testigo_FinalShape_LaConfrontacion]], que a su vez ocurre DESPUÉS de Salvation's Edge, no antes. Se retiró la referencia vieja al "te amo antes de entrar a la sala de las estatuas" — ya ocurrió en `AntesDelFinal`, previo a esta escena. La pregunta de Cayde ("¿Cuándo entra a la sala de las estatuas? / Pronto.") sigue vigente sin cambios: sigue apuntando hacia [[05_Dialogues/Dialogue_Sai/Sai_Guardian_FinalShape_LaPuertaQueNoTiembla]].*

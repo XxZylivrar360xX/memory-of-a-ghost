@@ -4,7 +4,7 @@
 **Clase:** Cazadora  
 **Rol en el equipo:** El pegamento emocional. Observaba lo que iba a ceder antes de que cediera y lo sostenía sin anunciarlo.  
 **Estado:** Fallecida — evacuación de la Ciudad, Guerra Roja  
-**Aparece en:** [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDeAtheon]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_02_Angie]]
+**Aparece en:** [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDeAtheon]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_02_Angie]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Haunted_LaMiradaYLaRisa]] (Season of the Haunted — no como Pesadilla; la Bóveda de Cristal devolviéndole a Kyle el bar de la decimocuarta en el lugar real, antes de Atheon)
 
 ---
 

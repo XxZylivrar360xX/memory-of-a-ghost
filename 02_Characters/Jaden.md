@@ -18,6 +18,10 @@ Los ojos — los puntos de luz que en los Exo funcionan como ojos — son blanco
 
 En Crisol lleva el mismo set que en cualquier otra actividad. Cuando los Titanes de su equipo hablan de escudos de barricada como declaración de poder, Jaden los usa como cobertura táctica. La diferencia no es semántica.
 
+Hay una excepción a la ausencia de personalización: en ocasiones ceremoniales, el chasis gana placas doradas sobre el gris habitual y esquirlas de cristal azul-violeta incrustadas en hombros y antebrazos — el mismo idioma visual del Estasis que domina sin que nadie se lo enseñe (ver Maestría de Luz, más abajo). A la espalda lleva, siempre envainada, la vaina vacía de la katana de [[02_Characters/Suetake]] — nunca la hoja, que se quedó con su maestro (ver [[05_Dialogues/Dialogue_Guardian/Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista]]) — con una cinta roja atada a la guarda, marcada con el kanji 武士道, Bushido. No es ropa de guerra. Es la única declaración que Jaden se permite: que el linaje que heredó sin ser sangre sigue existiendo en él, sin desenvainarse.
+
+Del lado opuesto del cinturón, en simetría deliberada con la cinta roja, lleva un medallón del tamaño de su palma, circular, grabado con un martillo de sol: el escudo de [[08_Core_Relationships/La_Familia_Elegida|Escuadra Cero]], *Domus Ex Nihilo* (ver [[04_Concepts/Domus_Ex_Nihilo]]), diseñado por [[02_Characters/Amanda_Holliday|Amanda]]. Dos linajes en el mismo cuerpo, uno a cada lado — el que heredó sin ser sangre, y el que construyó sin haber tenido ninguno antes.
+
 ---
 
 ## Quién es

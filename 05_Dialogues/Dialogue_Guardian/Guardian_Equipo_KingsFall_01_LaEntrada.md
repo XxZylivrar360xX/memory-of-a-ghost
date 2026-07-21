@@ -48,10 +48,13 @@ Iban a enfrentar una idea que llevaba milenios siendo cierta para alguien.
 
 Kyle no sabía todavía qué responderle a esa idea.
 
-Pero iban a entrar de todas formas.
+Pero por primera vez no entraban a sobrevivir un argumento ajeno. Entraban a discutirlo — con la intención que Joe acababa de nombrar, ganada en semanas de pelear separados y aprender, sin verse, que el otro iba a estar exactamente donde tenía que estar. No era todavía una respuesta. Era, por fin, la disposición a presentarse a la pregunta en vez de esperar a que la pregunta los encontrara.
+
+Entraron.
 
 ---
 
 *Pilares activos: [[04_Concepts/Hope|Esperanza]], [[04_Concepts/Identity|Identidad]]*  
 *Conecta con: [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_02_LosTotems]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_CrotasEnd_03_Crota]], [[00_Biblia/KingsFall_HerenciaOculta]]*  
 *Nota de viñeta: la distinción entre "los problemas nos encontraban" y "esta vez nosotros" es la diferencia entre responder y elegir. Joe la nombra porque importa. Kyle la registra porque todavía no entiende completamente por qué.*
+*Retratamiento de cierre de arco (2026-07-19):* párrafo final reforzado para nombrar explícitamente la tesis de Parte 3 ("entrás voluntariamente en su verdad para discutirla") y anclar la intención de Joe a su origen real — el desgaste fragmentado de Guerra de los Poseídos (`09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`, cierre del Frente 2), donde el equipo aprendió a confiar a distancia sin necesitar confirmarlo. Sin cambios estructurales — la escena ya cumplía la tesis, solo faltaba decirla.

@@ -49,7 +49,9 @@ Nunca dijo lo que vio. Pero hay notas en su diario — que Carina encontró desp
 
 ## La Guerra Roja
 
-Atheena murió durante la evacuación de la Ciudad. No en combate heroico — en el caos de los primeros días, cuando los Cabal cayeron desde el cielo y el perímetro se rompió antes de que nadie pudiera reorganizarlo.
+Atheena murió durante la evacuación de la Ciudad. No en combate heroico — en el caos de los primeros días, cuando los Cabal cayeron desde el cielo y el perímetro se rompió antes de que nadie pudiera reorganizarlo. Ni Jaden ni Carina estaban cerca; para ellos, y para el registro de la Ciudad, es una baja más entre docenas sin nombre todavía.
+
+Hay, sin embargo, un solo testigo: el General [[02_Characters/Nemo|Nemo]] (ver `09_Roadmaps/Plan_RiseOfIron_Nemo.md`), a quien Atheena protegió de una granada cabal en el segundo exacto del colapso — reflejo dentro del caos, no un último combate solitario, así que no contradice "sin combate heroico". Nemo es el único que sabe la forma exacta en que murió. No lo ha dicho todavía a Jaden ni a Carina.
 
 Jaden no habló de ello. Carina tampoco.
 

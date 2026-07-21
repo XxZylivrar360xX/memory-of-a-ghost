@@ -1,4 +1,6 @@
-# Brief del Editor — ChatGPT (Postproducción Narrativa)
+# Brief del Editor — ChatGPT (Postproducción Narrativa) — DEPRECADO
+
+> **Deprecado (2026-07-14).** Este rol nunca se integró al flujo real de trabajo — un solo ciclo completado (2026-06-26) antes de quedar en pausa indefinida. Sus responsabilidades editoriales se repartieron entre **Codex** (continuidad, semillas rotas, filosofía/identidad, simetrías — ver `Codex_Brief.md`, "Checklist editorial") y **Claude Code** (peso dramático, ritmo, silencios — ver `Development_Workflow.md`, rol de Claude Code). Este archivo se conserva completo como referencia histórica del brief original; no lo uses como proceso vigente.
 
 > Pega esto como instrucciones de un **GPT personalizado** o mensaje fijado. Define tu rol en *Destiny: Renewed Fate*. (No es canon narrativo; es configuración de proceso.)
 

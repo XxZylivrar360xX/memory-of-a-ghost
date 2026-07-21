@@ -54,9 +54,9 @@ Escenas cuya ausencia deja huérfano algo ya escrito.
 - **Nombre del colibrí:** "La Línea Alterna" — bautizado retroactivamente en [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PreShadowkeep]] (ya escrita; anotación añadida, prosa intacta).
 - **La vuelta post-Defiance:** aclarada en [[04_Concepts/Torneo_De_Los_Velocistas]] — NO es la ceremonia oficial (esa se cancela, la guerra final se traga el Torneo V, eco de la Guerra Roja); es la vuelta privada y silenciosa que Kyle se da solo, sin cámaras, en La Línea Alterna, como forma de duelo por Amanda. **Sigue pendiente de escribirse** (escena 16 de este plan).
 
-## Decisiones todavía abiertas (confirmar con Víctor)
+## Cerrado (2026-07-05)
 
-- Ficha de **Eva Levante** (¿necesaria o basta su presencia ambiental en Aurora/Festival?).
+- Ficha de **Eva Levante** — creada, ambiental pura: vendedora de comida en el Torneo desde el Torneo I, sin arco propio, sin ancla a ninguna escena ya escrita (decisión explícita del autor: no anclarla retroactivamente al vendedor sin nombre de `Guardian_Cayde_TorneoI_TodoMenosEso`).
 
 ## Cerrado (2026-07-04) — dejado deliberadamente implícito
 
@@ -66,6 +66,7 @@ Escenas cuya ausencia deja huérfano algo ya escrito.
 
 - **[[02_Characters/Amanda_Holliday]]** — ✅ creada (2026-07-04).
 - **[[02_Characters/Rook]]** — ✅ creada (2026-07-04), provisional; puede expandirse si gana más escenas.
+- **[[02_Characters/Eva_Levante]]** — ✅ creada (2026-07-05), ambiental pura, sin ancla a escena existente.
 - **Lady_Efrideet** — existe; añadir sección del arco SRL al escribir la escena 7.
 - **Guardian.md / Elsie.md / Sai.md / Ghost.md** — añadir el torneo y los rituales familiares cuando las escenas cementen.
 - **[[02_Characters/Jaden]] / [[02_Characters/Carina]]** — ✅ actualizadas (2026-07-04) con sección "El Torneo de los Velocistas" — su lugar en el equipo de Kyle, del Torneo III al IV.
@@ -77,6 +78,8 @@ Ver [[04_Concepts/Torneo_De_Los_Velocistas]], sección "La estructura — cómo 
 **Participación abierta (2026-07-04):** civiles + Guardianes desde el Torneo I; Eliksni (Casa de la Luz) y Cabal (Imperio de Caiatl) desde el Torneo IV — primer campeonato multiespecie. **Filosofía explícita del crecimiento:** el torneo se agranda completo para recibirlos (mismos cupos para todos desde el día uno) en vez de reservarles cupos aparte — "se agranda el molde, no se encoge a nadie para que quepa", la misma regla de la familia elegida de Kyle aplicada a una institución. Nota de diseño: Rook queda como Guardián (no se retoca su ficha); un civil destacado es personaje nuevo y pendiente (escena 18).
 
 **RESUELTO (2026-07-04):** el Cuadro (y toda la estructura del torneo) pasa de duelos/pilotos individuales a **equipos de tres**, desde el Torneo III — decisión final del autor, más allá de la propuesta híbrida de domestique. El equipo de Kyle es él + **[[02_Characters/Jaden]]** + **[[02_Characters/Carina]]**, sin cambios del Torneo III al IV. El título se renombra **"Los Velocistas de Sol"** (plural). Razón explícita del autor: el triunfo individual de Kyle ya es su cabaña con Elsie; el torneo es mejor como triunfo colectivo, y de paso ablanda la derrota de Shadowkeep (ya no está solo perdiendo en un año ya denso) y expande la relación Jaden-Carina-Kyle. El equipo de Rook, por contraste, es talento contratado y reemplazable — nunca la misma alineación dos torneos seguidos. Todo esto ya está escrito en [[04_Concepts/Torneo_De_Los_Velocistas]] (reescrito completo) y en las fichas de Rook, Amanda, Jaden y Carina.
+
+**RESUELTO (2026-07-05):** documento de relación dedicado creado — [[08_Core_Relationships/Jaden_Carina_Kyle]]. El núcleo permanente del raid team desde Wrath of the Machine; las tres firmas de clase que decodifican el Monitor Motor SIVA como eco literal de "Nadie Cruza Solo"; los tres ejes internos (Kyle↔Carina, Kyle↔Jaden, Jaden↔Carina); Escuadra Cero y el umbral de Lightfall.
 
 ## Bracket del Torneo IV poblado (2026-07-04)
 

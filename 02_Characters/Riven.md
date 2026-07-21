@@ -405,6 +405,14 @@ La maldición de la ciudad funciona casi como extensión de la naturaleza misma 
 
 ---
 
+# Relationship with Oryx
+
+Durante la Guerra de los Poseídos (Taken King, Age II), Oryx llega en persona a la Ciudad Ensoñada — la única vez en toda esa campaña que abandona la sombra prestada para presentarse físicamente ante alguien. No busca conquistarla como territorio ni consumirla como tributo. Busca medirla: ¿merece existir algo que gana su lugar concediendo deseos ajenos, fuera por completo de la Lógica de la Espada?
+
+Riven intenta leerlo — es lo único que sabe hacer frente a cualquiera — y no encuentra vacío que llenar. Oryx no tiene un deseo formado; tiene una pregunta, y las preguntas, según él mismo dice, no se conceden, se responden. La confrontación termina en herida, no en sometimiento — él elige no terminar de someterla, reconociendo que algo tan raro como ella, dañado pero intacto, sigue siendo una pregunta interesante. Ver `05_Dialogues/Dialogue_Oryx/Oryx_Riven_GuerraDeLosPoseidos_LoQueNoTerminoDeSometer`.
+
+Esa herida —pequeña, casi imperceptible el mismo día— es la semilla de la corrupción lenta que Forsaken (Age VI) termina de cobrar años después. Riven no se lo cuenta a Mara esa noche. No sabe todavía cómo explicar algo que ni ella misma termina de entender.
+
 # Relationship with Savathûn
 
 Savathûn comprende profundamente a Riven.

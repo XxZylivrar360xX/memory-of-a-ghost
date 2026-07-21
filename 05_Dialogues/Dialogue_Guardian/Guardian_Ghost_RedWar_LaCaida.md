@@ -122,5 +122,6 @@ El Guardian no se movió durante un tiempo que no midió.
 
 ---
 
-*Conecta con: [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Ghost_RedWar_MasAllaDelPico]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FestivalOfTheLost_LasPerdidas]], [[02_Characters/Guardian]], [[02_Characters/Elsie]]*  
+*Conecta con: [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Ghost_RedWar_MasAllaDelPico]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_FestivalOfTheLost_LasPerdidas]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Haunted_LaMiradaYLaRisa]], [[02_Characters/Guardian]], [[02_Characters/Elsie]]*  
 *Nota narrativa: la mirada de Joe no tiene resolución disponible. Permanece como peso activo — no un trauma que se cierra sino uno que se carga. El Festival de las Almas Perdidas es donde ese peso encuentra su primer recipiente externo.*
+*Eco posterior (2026-07-05): en Season of the Haunted (Age XI), Kyle vuelve a esta escena de memoria antes de entrar a la Bóveda de Cristal — le pide a Ghost que se quede en la nave, reclamando por elección el mismo silencio que aquí le fue impuesto por falta de Luz. Ver [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Haunted_LaMiradaYLaRisa]]. La mirada de Joe sigue sin resolución explícita — Joe solo confirma que girar la cabeza fue una elección, no un accidente — pero Kyle aprende a cargarla sin que lo consuma.*

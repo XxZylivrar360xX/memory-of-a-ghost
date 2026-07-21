@@ -80,7 +80,7 @@ Lo que Kyle dice en ese momento. Lo que Elsie ve desde afuera. El primer silenci
 ## Diálogos relacionados
 
 **Preámbulo**
-- [[05_Dialogues/LaVanguardia_HELM_LaHeridaSeAbre]]
+- [[05_Dialogues/Dialogue_Guardian/Guardian_Familia_FinalShape_LasManzanasQueNoCayeron]]
 
 **Kyle**
 - [[05_Dialogues/Dialogue_Guardian/Guardian_FinalShape_AntesDelFinal]]

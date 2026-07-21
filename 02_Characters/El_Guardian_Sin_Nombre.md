@@ -124,12 +124,15 @@ Lo que se pierda en la traición de Vale no se recupera. Esa es la diferencia en
 
 ---
 
+## Cuándo y cómo entra (fijado 2026-07-15)
+
+Entra en Vanilla, no post-Crota — durante las semanas entre el Jardín Negro y el Vault of Glass (`Cap_01_A_New_Shape`, sección "Semanas Entre"). Es el desconocido que Kyle se niega a abandonar en una operación pese a que el protocolo dice dejarlo atrás. Ese gesto —el mismo que crea la condición de la futura traición— es también el beat ancla de la transición Fase 1→2 de `08_Core_Relationships/Guardian_Ghost.md` ("Ghost se da cuenta: no eligió un arma, eligió una persona"). Escena pendiente de redactar, ver `09_Roadmaps/Plan_AgeI_TresCaras.md`.
+
 ## Lo que queda por definir
 
 - [ ] Nombre final
 - [ ] Género / tipo de Guardian (clase)
-- [ ] Cuándo entra en el círculo de Kyle (¿post-Crota? ¿durante House of Wolves?)
-- [ ] A través de qué canal (¿operación en la Luna? ¿contacto académico sobre la Colmena?)
+- [ ] El resto de los detalles de la operación de entrada (redactar junto con la escena)
 - [ ] ¿Ya tiene contacto Dredgen cuando entra, o el contacto llega durante la amistad?
 - [ ] Qué perdió específicamente que aceleró la deriva
 - [ ] Qué pasa exactamente en la traición y a quién le cuesta qué

@@ -5,7 +5,7 @@
 **Raza:** Humano  
 **Rol en el equipo:** El veterano. No decía adónde ir — señalaba. Y asumía que ibas a seguir la dirección.  
 **Estado:** Fallecido — evacuación de la Ciudad, Guerra Roja. Su última mirada fue hacia Kyle.  
-**Aparece en:** [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDelLaberinto]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDeAtheon]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_05_Joe]]
+**Aparece en:** [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDelLaberinto]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_VaultOfGlass_AntesDeAtheon]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_05_Joe]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Haunted_LaMiradaYLaRisa]] (Season of the Haunted — no como Pesadilla; la Bóveda de Cristal devolviéndole a Kyle un segundo prestado, en la misma entrada donde se conocieron)
 
 ---
 

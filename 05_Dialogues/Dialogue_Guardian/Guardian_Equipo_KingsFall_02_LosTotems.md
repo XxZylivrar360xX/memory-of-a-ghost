@@ -57,3 +57,4 @@ Era suficiente.
 *Pilares activos: [[04_Concepts/Identity|Identidad]], [[04_Concepts/Acceptance|Aceptación]]*  
 *Conecta con: [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_03_ElSacerdote]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_03_Resner]]*  
 *Nota de viñeta: los Tótems son la filosofía de Resner hecha mecánica de juego — aguantar es la acción, no la ausencia de ella. Kyle lo comprende parado en la plataforma opuesta. La rotación de Angie sin palabra es "observar para sostener" en su forma más literal.*
+*Retratamiento de cierre de arco (2026-07-19):* revisada contra la tesis de Parte 3 ("entrás voluntariamente en su verdad para discutirla") — permanecer en la plataforma por elección, sin que nadie lo ordene dos veces, ya es esa tesis hecha mecánica. Sin cambios de prosa.

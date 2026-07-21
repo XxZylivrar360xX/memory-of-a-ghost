@@ -136,4 +136,4 @@ El mantra de Kyle —*"tal vez no es imposible, si estamos en sincronía esta ve
 
 ---
 
-*Conecta con: [[04_Concepts/Torneo_De_Los_Velocistas]], [[02_Characters/Rook]], [[02_Characters/Amanda_Holliday]], [[02_Characters/Jaden]], [[02_Characters/Carina]], [[07_Unsorted_Ideas/Plan_Escenas_Familia_Elegida]]*
+*Conecta con: [[04_Concepts/Torneo_De_Los_Velocistas]], [[02_Characters/Rook]], [[02_Characters/Amanda_Holliday]], [[02_Characters/Jaden]], [[02_Characters/Carina]], [[09_Roadmaps/Plan_Escenas_Familia_Elegida]]*

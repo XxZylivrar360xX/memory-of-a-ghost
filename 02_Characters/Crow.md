@@ -519,6 +519,10 @@ Eso transforma completamente la forma en que Crow entiende:
 
 ---
 
+# Vanguardia Cazador
+
+Para la mañana posterior a la victoria sobre el Testigo ([[05_Dialogues/Dialogue_Guardian/Guardian_Familia_PostFinalShape_LaMesaYaEstabaPuesta]]), Crow ya ocupa el puesto de Vanguardia Cazador — vacante desde la muerte de Cayde en Age VI (Forsaken). El nombramiento en sí, el proceso político y la ceremonia quedan sin desarrollar todavía; esta ficha solo fija que, para esa fecha, el cargo ya es suyo. No es una herencia automática de Cayde ni un símbolo que reemplace su identidad: sigue siendo Crow, con una responsabilidad nueva encima, no una máscara distinta. Para Sai, que lo conoce primero como persona en [[05_Dialogues/Dialogue_Sai/Sai_Crow_SeasonLost_LoQueNoTuveQuePerdonar]], el título es la función pública que él lleva mientras ella intenta entender lo privado.
+
 # El Torneo de los Velocistas
 
 Crow compite en el Torneo IV, y ese detalle importa más de lo que parece: es una de las pocas cosas que hace que no tiene nada que ver con Uldren, con Mara, ni con culpa heredada. Corre porque es rápido y porque le gusta, sin necesitar redimir nada al hacerlo — el tipo de alegría simple que el resto de su vida rara vez le permite. Ver [[04_Concepts/Torneo_De_Los_Velocistas]] y [[07_Unsorted_Ideas/Torneo_IV_Bracket]].

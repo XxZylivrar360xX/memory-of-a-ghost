@@ -45,7 +45,7 @@ La primera vez que el Guardian mira directamente hacia lo que está al otro lado
 
 ## Notas Narrativas
 
-- Las Pesadillas de Kyle — qué forma toman, a quién invocan — aún no está completamente escrito. Conecta con su historia pre-resurrección (no revelada completamente).
+- **Decisión de canon (2026-07-05):** las Pesadillas de Kyle NO convocan a Cayde — ese es el duelo de Ikora (no estuvo ahí para pelear junto a su amigo). El peso de Kyle es su propia escuadra: [[02_Characters/Joe|Joe]] (la última mirada antes de que los Cabal lo ejecutaran en una calle durante la evacuación de la Guerra Roja — mirada que Elsie interpretó después, pero que Kyle nunca alcanzó a responderle en el momento) y/o [[02_Characters/Angie|Angie]] (la copa que nunca compartieron en un bar, ya sembrada en su ficha — "quizá en otra vida"). Pequeñas acciones sin resolver que se volvieron carga. **Escrita (2026-07-05), reubicada en Season of the Haunted (Age XI):** ver [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Haunted_LaMiradaYLaRisa]] — Joe y Angie confrontados dentro de la Bóveda de Cristal, en Venus (no el Leviatán de Zavala): Kyle elige el lugar donde los conoció primero. La Bóveda dobla el tiempo en vez de invocar tecnología Pirámide — diferencia deliberada de las Pesadillas de Zavala esa misma temporada. Conecta con su historia pre-resurrección (no revelada completamente), que sigue aparte y sin tocar.
 - El Garden of Salvation es el primer vínculo directo entre los Vex y el Testigo como entidades relacionadas.
 - La señal de las Pirámides despertada en esta era es la que responde al pulso del Viajero en Red War.
 

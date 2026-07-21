@@ -67,3 +67,4 @@ Pero lo guardó.
 *Pilares activos: [[04_Concepts/Identity|Identidad]], [[04_Concepts/Love|Amor]]*  
 *Conecta con: [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_02_LosTotems]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_04_Golgoroth]], [[00_Biblia/KingsFall_HerenciaOculta]]*  
 *Nota de viñeta: la primera grieta. Kyle no la formula — la siente. El equipo funciona como unidad sin que nadie les conceda propósito desde afuera. Eso contradice silenciosamente todo lo que el Sacerdote representaba.*
+*Retratamiento de cierre de arco (2026-07-19):* revisada contra la tesis de Parte 3 — Tiago analizando la delegación de poder del Sacerdote *antes* del encuentro es, literalmente, entrar a discutir la verdad de Oryx en sus propios términos, no solo a combatirla. Sin cambios de prosa.

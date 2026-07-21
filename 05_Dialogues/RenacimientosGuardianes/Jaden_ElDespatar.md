@@ -1,7 +1,7 @@
 # Jaden — El Despertar
 *Destiny: Renewed Fate — Renacimientos · Guardián*
 
-**Era:** House of Wolves — Pruebas de Osiris, temporada activa
+**Era:** Age I, mucho antes de House of Wolves — Pruebas de Osiris, temporada activa
 **Lugar:** La Corte de las Viudas — arena interior, nivel dos
 **Espectro:** Sky
 **Clasificación:** Uno de los renacimientos más insólitos registrados en los archivos de las Pruebas
@@ -152,6 +152,8 @@ Esa respuesta era suficiente por ahora.
 
 ---
 
-*Conecta con: [[02_Characters/Jaden]], [[02_Characters/Sky]], [[01_Timeline/Age_II_House_of_Wolves]], [[05_Dialogues/RenacimientosGuardianes]]*
+*Conecta con: [[02_Characters/Jaden]], [[02_Characters/Sky]], [[01_Timeline/Age_I_The_First_Shape]], [[05_Dialogues/RenacimientosGuardianes]]*
 
 *Nota narrativa: El primer instinto de Jaden no fue existencial sino táctico. Sky lo archivó como la información más relevante que obtuvo ese día — más que el lugar, más que el momento, más que la rareza del renacimiento. Lo que alguien hace en su primer segundo dice más sobre quién es que cualquier historia anterior que pudiera recordar o no recordar.*
+
+*Nota narrativa (2026-07-16): era movida de House of Wolves a Age I, siguiendo el hallazgo de Codex en `Agent_Notes/codex/2026-07-16_mapa-integral-arco-jaden.md` — la formación de años con Suetake, su muerte, el rito, la carrera de Crisol, el vínculo con Atheena y el encuentro con Carina y Kyle no cabían en el margen entre House of Wolves y Rise of Iron. Ningún párrafo del cuerpo de esta escena mencionaba House of Wolves — solo el encabezado y el enlace de Age, ambos ya corregidos. La prosa no se tocó. Ver `09_Roadmaps/Plan_Jaden_Atheena_Origen.md` para el cimiento completo.*

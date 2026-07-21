@@ -18,6 +18,10 @@ Prismático, antes de que la palabra existiera para él.
 
 La mirada es intensa — nunca fría — pero cuesta sostenerla mucho tiempo sin sentir que está calculando cuánto hace falta para protegerte de algo que todavía no ha ocurrido. Es la mirada de alguien que aprendió, resurrección tras resurrección, que cuidar a la gente correcta importa más que ganar la guerra correcta.
 
+Fuera de la armadura estándar de Vanguardia, su atuendo de campo es oscuro y visiblemente usado — capas de tela y cuero grabado, costuras que ya se repararon más de una vez, una bufanda alta que le sube hasta la mandíbula. Hombreras metálicas de bordes dorados desportillados, un sello solar apenas visible bajo la tela sobre el pecho. Nada ahí busca imponer. Todo ahí ha estado en demasiados sitios y lo demuestra — el brillo apagado del metal que ya no se pule, el desgaste de quien no viste para que lo miren.
+
+En el brazalete del brazo derecho — el que empuña — lleva inscrito el escudo de [[08_Core_Relationships/La_Familia_Elegida|Escuadra Cero]], *Domus Ex Nihilo* (ver [[04_Concepts/Domus_Ex_Nihilo]]), diseñado por [[02_Characters/Amanda_Holliday|Amanda]]. No lo lleva como corona. Lo lleva en el brazo que decide y protege — quien encabeza no queda por encima, queda al frente.
+
 ---
 
 # Identidad Central

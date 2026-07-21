@@ -56,6 +56,7 @@ El Guardian se convierte en algo más que un arma de la Ciudad. Comienza a tomar
 
 ## Notas Narrativas
 
+- **Triage completo 2026-07-15:** las tres campañas de este año se fijan como tres caras de una sola pregunta — "nadie le pregunta quién quiere ser" (`Guardian.md`). Los tres capítulos (`Cap_01`, `Cap_02`, `Cap_03`) quedaron fijados como canon; plan completo y triage punto por punto en [[09_Roadmaps/Plan_AgeI_TresCaras]]. Única prosa nueva pendiente: el beat de origen de Vale/El Guardian Sin Nombre (Fase 1→2 de Ghost), en el hueco de "Semanas Entre" de Cap_01.
 - El Vault of Glass es el origen de la primera discrepancia en la memoria de Elsie. Ver [[00_Biblia/Elsie_ElMapaYLaPregunta]].
 - Eris Morn introduce la posibilidad de que alguien sobreviva a la Oscuridad sin convertirse en ella. Eso tendrá peso más adelante.
 - La relación Kyle-Ghost se establece aquí como el núcleo emocional que sobrevivirá todo lo que viene.

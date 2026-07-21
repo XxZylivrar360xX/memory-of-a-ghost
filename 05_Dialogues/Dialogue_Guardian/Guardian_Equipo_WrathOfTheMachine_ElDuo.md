@@ -72,7 +72,9 @@ El resto del equipo los miró.
 
 Ninguno preguntó nada.
 
-No hacía falta — la respuesta era evidente. Dos desconocidos que encontraron su idioma en el campo de batalla más asimétrico de las Tierras de la Plaga, en el peor momento posible, sin haberlo planeado.
+No hacía falta — la respuesta era evidente.
+
+> **Nota (2026-07-13):** la línea original describía a Kyle y Carina como "dos desconocidos" que encontraban su idioma aquí por primera vez — DECANONIZADO; su amistad ya nace en Taken King. El resto de la escena (el caos verbal, la lectura del resto del equipo) se conserva como válido: es solo la dinámica de una amistad ya formada bajo presión máxima, no su origen. Pendiente de reescritura ligera cuando se fije la nueva cronología.
 
 Eso no se construye. Aparece o no aparece.
 

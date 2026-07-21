@@ -18,6 +18,8 @@ Los ojos son café oscuro con algo en el ángulo exterior que hace que la mayor�
 
 Su equipo tiene más personalidad que el de Jaden: detalles cromados en los hombros, una insignia pequeña en el casco que nadie le preguntó qué significa y ella nunca explicó. Si alguien preguntara, probablemente inventaría tres respuestas diferentes y esperaría a ver cuál creían.
 
+Fuera de la armadura completa, su atuendo permanente es la chaqueta de cuero negro con paneles rojo vino que le dio Lena en House of Wolves, mucho antes de que nadie más conociera esa historia (ver [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueNadieMasLee]]) — cartuchos a la vista en el pecho, reparada más veces de las que ella cuenta, pero nunca reemplazada del todo. Una capa larga y oscura le cae del hombro. En años de incursiones y campañas, Carina nunca ha recibido un golpe limpio en el pecho; sus compañeros lo atribuyen a instinto de combate. No lo es. Es que protege esa prenda más que cualquier otra parte de sí misma, por Lena, y nunca se ha detenido a explicar por qué. Sobre ese mismo panel, a la altura del corazón, lleva cosido el escudo de [[08_Core_Relationships/La_Familia_Elegida|Escuadra Cero]], *Domus Ex Nihilo* (ver [[04_Concepts/Domus_Ex_Nihilo]]) — la familia que construyó después descansa exactamente sobre el recuerdo de la que perdió antes, y ninguna de las dos cosas le pertenece menos por compartir el mismo sitio. Cuando hay Vacío en la mano, lo sostiene con la misma seguridad despreocupada con la que decide todo lo demás.
+
 ---
 
 ## Quién es
@@ -32,13 +34,15 @@ La amistad con Kyle no nació en un momento. Nació en docenas de momentos peque
 
 ## Wrath of the Machine
 
-No llegó al WotM por Kyle — llegó por Jaden. Esa diferencia importa.
+> **DECANONIZADO (2026-07-13):** la sección original de este apartado narraba a WotM como el primer encuentro entre Carina y Kyle — "no había historia todavía". Se retira: el nuevo origen de la amistad se ubica en Taken King (dupla incómoda, remordimiento de Kyle vs. duelo de Carina por Lena, convergiendo en el asalto al Acorazado). WotM pasa a ser un punto posterior de la relación ya construida, no su origen. Prosa anterior conservada abajo como registro histórico hasta que se reescriba.
 
-Los primeros minutos en el Cosmodromo contaminado por SIVA, Carina y Kyle no se hablaron más de lo necesario. No había antipatía — simplemente no había historia todavía. La historia se construyó adentro, encuentro por encuentro, en la forma en que dos personas aprenden a leer el mismo espacio sin coordinarlo.
+~~No llegó al WotM por Kyle — llegó por Jaden. Esa diferencia importa.~~
 
-Al salir del Dreadnaught — después, en algún punto de la bajada — Kyle dijo algo que no tenía intención de decir en voz alta. Carina no lo repitió. No preguntó más. Solo lo registró.
+~~Los primeros minutos en el Cosmodromo contaminado por SIVA, Carina y Kyle no se hablaron más de lo necesario. No había antipatía — simplemente no había historia todavía. La historia se construyó adentro, encuentro por encuentro, en la forma en que dos personas aprenden a leer el mismo espacio sin coordinarlo.~~
 
-Eso fue el primer ladrillo.
+~~Al salir del Dreadnaught — después, en algún punto de la bajada — Kyle dijo algo que no tenía intención de decir en voz alta. Carina no lo repitió. No preguntó más. Solo lo registró.~~
+
+~~Eso fue el primer ladrillo.~~
 
 ---
 
@@ -96,7 +100,13 @@ Carina es la primera en decir que sí cuando Kyle arma el equipo para el [[04_Co
 
 Carina es Cazadora, y se nota desde el primer disparo: no pelea para sobrevivir, pelea con el mismo instinto con el que lee una habitación — encontrando lo que vale la pena en medio segundo y actuando antes de que el momento se cierre.
 
-**Gunslinger (Solar) — la subclase de casa.** Golden Gun es ella en su forma más pura: precisión, confianza, cero desperdicio de movimiento. No dispara para impresionar. Dispara porque ya decidió, y decidir rápido es lo suyo desde antes de tener un arma paracausal en la mano.
+**Gunslinger (Solar) — la subclase de casa.** Golden Gun es ella en su forma más pura: precisión, confianza, cero desperdicio de movimiento. No dispara para impresionar. Dispara porque ya decidió, y decidir rápido es lo suyo desde antes de tener un arma paracausal en la mano. Solo le falló una vez, en el Refugio del Muelle, el día que murió Lena — un disparo a través de la bruma que se perdió por demasiada distancia y demasiado poco tiempo, la primera y única vez que confiar en su propia certeza no bastó.
+
+**[[04_Concepts/La_Ultima_Palabra|La Última Palabra]].** Su arma insignia, un revólver de precisión que carga desde Age I — el original de [[02_Characters/Shin_Malphur|Shin Malphur]], entregado a las seis meses de renacer, en su primera Aurora, lejos de la Ciudad (ver [[05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan]]). No es un premio ni una señal de que sea especial: Shin reconoció una capacidad que ella ya demostraba. Premia el reflejo entrenado sobre el cálculo — disparada desde la cadera suelta tres tiros casi como uno, en abanico, siempre que quien dispara ya sepa dónde tiene que estar el blanco antes de mirarlo. Si Golden Gun es la decisión perfecta ya calculada, esta es la respuesta para cuando ya no hay tiempo de calcular nada. Carga con ella la enseñanza que viene atada al arma — que toda elección que vale la pena tiene un costo que alcanza a alguien más, y que fingir lo contrario no es responsabilidad, es soledad disfrazada.
+
+**El movimiento firma — el giro y las tres balas.** Su evasión de Cazadora dejó de ser solo defensa: uno de los dones más recientes de su Solar la convierte en gatillo, así que al salir del giro llega ya cargada de la misma certeza instantánea que Golden Gun necesita para no fallar — y si tiene La Última Palabra en la mano, las tres balas del abanico salen alineadas antes de que el blanco registre que se movió. Leer, decidir, actuar sin espacio entre los tres pasos, llevado al cuerpo entero y no solo a la mano. Es lo que la mayoría de la gente que la ve pelear por primera vez recuerda: el giro y las tres balas, en ese orden, tan rápido que casi nunca se ve el movimiento completo.
+
+Blade Barrage está en su repertorio desde siempre, pero casi nunca la elige — es la Súper que menos se parece a ella: muchas hojas en vez de un solo blanco, saturación en vez de control fino. La usó el día que murió Lena, en el Refugio del Muelle (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`), y desde entonces queda asociada, para ella, con llegar tarde con toda la fuerza en vez de a tiempo con precisión.
 
 **Nightstalker (Vacío) — leer el campo como lee a la gente.** Shadowshot no es solo control de área: es la misma habilidad que usa para encontrar qué conecta a las personas, aplicada al espacio de batalla. La usa, con nombre y lugar, en la batalla sobre la Tierra al final de Season of the Seraph — el mismo momento de "Síguelo" — tejiendo el flanco que ella y Jaden sostienen mientras Kyle se va solo hacia Neomuna.
 

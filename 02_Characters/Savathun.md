@@ -386,6 +386,8 @@ Eso genera:
 - y cierta comprensión incómoda.
     
 
+**Origen (Taken King, Age II):** esta fascinación no nace de la nada. Durante la Guerra de los Poseídos, Oryx extrae una Mente Vex del Plano Ascendente y la pone a rastrear, por inferencia estratégica —no por conocimiento ya poseído—, la firma temporal de Elsie: la deduce como aliada cercana del Guardián, un posible punto de presión. La caza nunca se resuelve en sus manos. Minutos antes de morir, se la entrega a Savathûn, junto con el secreto de la Ciudad Ensoñada, sin nombrar en voz alta lo que cualquiera de las dos cosas puede llegar a desatar. Savathûn hereda así, sin saberlo Elsie todavía, la herramienta exacta que la vuelve capaz de leer líneas temporales con la misma fluidez que ella. Ver `05_Dialogues/Dialogue_Oryx/Oryx_Savathun_GuerraDeLosPoseidos_SiempreEstoyEntusiasmadoPorMorir` y `05_Dialogues/Dialogue_Oryx/Oryx_Riven_GuerraDeLosPoseidos_LoQueNoTerminoDeSometer`.
+
 ---
 
 # Relationship with Mara Sov - "The Game of Truth and Lies"

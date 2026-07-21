@@ -4,8 +4,8 @@
 **Tipo:** Espectro
 **Guardian:** [[02_Characters/Carina]]
 **Personalidad:** Cauteloso, protector — voz de terciopelo sobre instinto de guardia
-**Estado:** Activo — Age III en adelante
-**Aparece en:** [[01_Timeline/Raids/WrathOfTheMachine]]
+**Estado:** Activo desde el renacimiento de Carina (Age I — ver [[05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar]]). Age III no es su origen: es cuando se incorpora al núcleo Ghost-Sky-Hornet y empieza su relación con Ghost (ver [[08_Core_Relationships/Ghosts_Core]]).
+**Aparece en:** [[05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar]], [[05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[01_Timeline/Raids/WrathOfTheMachine]]
 
 ---
 
@@ -24,6 +24,14 @@ Hornet no habla más de lo necesario. No porque sea reservado — sino porque ha
 Lo que Hornet hace constantemente, en silencio, es vigilar. No los objetivos tácticos obvios — esos Carina ya los tiene calculados. Hornet vigila los ángulos que Carina no vigila precisamente porque confía en que Carina tiene los otros cubiertos. La atención de Hornet va a los bordes, a los silencios, a los cambios sutiles en el ambiente que no encajan con el patrón esperado.
 
 No es desconfianza. Es complementariedad. Carina se mueve hacia el frente. Hornet cuida la espalda.
+
+---
+
+## Antes de Age III
+
+Hornet la encontró primero. La resucitó solo, en una terraza del Viejo Chicago, sin Ghost ni Sky ni ningún otro Espectro cerca — un renacimiento privado, sin testigos, el mismo día en que Kyle despertaba en el otro extremo del mundo (`Carina_ElDespatar`), que ya lo nombra libremente desde la primera línea. Su nombre no es un secreto en el vault en general — vuelve a nombrarse meses después, en su primera Aurora con Carina (`Carina_Shin_AgeI_DarSinQuePidan`). La única excepción deliberada es el hilo `Dialogue_Carina/Carina_Lena_*` (House of Wolves → Taken King): ahí el texto lo refiere como "su Espectro" hasta el Refugio del Muelle, el día que muere Lena (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`) — no porque el nombre fuera un misterio, sino como recurso narrativo propio de esa arco específico, que se resuelve ahí como una revelación nominal *para ese hilo*, no un nacimiento ni un silencio universal.
+
+Age III no es cuándo empieza a existir. Es cuándo se incorpora al núcleo de seis Espectros y empieza a construir algo con Ghost — la "vieja guardia" descrita en `Ghosts_Core.md`, que ya asume que cada Espectro llega con una historia previa, no a un vacío.
 
 ---
 

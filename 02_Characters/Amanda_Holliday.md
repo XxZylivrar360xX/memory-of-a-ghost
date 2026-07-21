@@ -40,6 +40,8 @@ Es la única persona, fuera de la familia elegida, que le exige a Kyle que separ
 
 Cuando Kyle gana el título en la Aurora de Seraph (Torneo IV), la maniobra que decide la final —contra [[02_Characters/Rook|Rook]], invicto dos años— es una de las suyas, transmitida mano a mano como todo lo que él sabe hacer con un motor. Ese es el momento en que el arco del torneo confiesa su verdadera tesis: Kyle no gana solo. Gana con Amanda dentro de cada curva.
 
+Antes del trofeo, hubo un escudo. Cuando el trío le dijo que no tenían emblema de casa, Amanda les hizo uno que no le perteneciera a nadie antes que a ellos — *Domus Ex Nihilo* (ver [[04_Concepts/Domus_Ex_Nihilo]]), el sello que Kyle lleva en el brazalete, Carina cose sobre el corazón de su chaqueta y Jaden cuelga del cinturón. Ella lo habría resumido sin ceremonia: *"El cero de ustedes."* Es el mismo instinto que después construye el trofeo de tres piezas — nada que signifique algo completo hasta que los tres estén presentes.
+
 ---
 
 ## Crow
@@ -64,4 +66,4 @@ Amanda no es la mecánica-utilería que existe solo para justificar el arco del 
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Crow]], [[02_Characters/Cayde-6]], [[02_Characters/Rook]], [[04_Concepts/Torneo_De_Los_Velocistas]], [[04_Concepts/Saberes_Heredados]], [[04_Concepts/Consequences]], [[08_Core_Relationships/La_Familia_Elegida]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Crow]], [[02_Characters/Cayde-6]], [[02_Characters/Rook]], [[04_Concepts/Torneo_De_Los_Velocistas]], [[04_Concepts/Domus_Ex_Nihilo]], [[04_Concepts/Saberes_Heredados]], [[04_Concepts/Consequences]], [[08_Core_Relationships/La_Familia_Elegida]]*
