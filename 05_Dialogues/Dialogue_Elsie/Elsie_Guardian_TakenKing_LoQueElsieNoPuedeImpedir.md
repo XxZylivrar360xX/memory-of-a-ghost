@@ -2,12 +2,14 @@
 *Destiny: Renewed Fate*
 
 **Era:** The Taken King, la noche antes de volver al Acorazado
-**Lugar:** La cabaña
+**Lugar:** El campamento improvisado de Elsie, a las afueras de la Torre
 **Contexto:** Kyle no vino a pedir permiso. Vino porque no sabía a quién más contarle una parte de lo que estaba a punto de hacer.
 
 ---
 
 ## I. Lo que Kyle trajo sin traerlo completo
+
+La tienda de Elsie todavía no tenía nada parecido a comodidad — cables tendidos entre postes improvisados, una mesa de trabajo hecha de lo que el complejo no reclamaba, el mismo fuego pequeño de siempre ardiendo cerca de la entrada, más por costumbre que por necesidad. No era un hogar. Era una base de operaciones que Elsie había dejado de tratar como temporal sin decidirlo del todo.
 
 Elsie lo escuchó antes de verlo — el paso distinto de siempre, algo más deliberado, como alguien que ha decidido una dirección y todavía está negociando con el cuerpo si seguirla.
 
@@ -124,3 +126,5 @@ Pero ya no era solo observación.
 *Pilares activos: [[04_Concepts/Trust|Confianza]], [[04_Concepts/Identity|Identidad]], [[04_Concepts/Sword_Logic|Lógica de la Espada]]*
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Elsie]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_TakenKing_LaCabana]], [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostKingsFall_ElToqueDelaMaldad]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
 *Nota narrativa: quinta escena del Cluster 4 — paga la transición 3→4 (Observación→Confianza) de la relación Kyle/Elsie, fijada textualmente en `08_Core_Relationships/Guardian_Elsie_Bray.md` desde hace tiempo ("Kyle pregunta a Elsie si se está convirtiendo en lo que era Oryx... marca el inicio de la confianza estructural") y nunca antes dramatizada — verificado por grep de vault completo al inicio de esta sesión. Se sitúa exactamente entre `Guardian_Elsie_TakenKing_LaCabana` (etapa 3, ya escrita, tres días después del bunker) y `Guardian_Elsie_PostKingsFall_ElToqueDelaMaldad` (etapa 4 ya consolidada, Post-King's Fall/Parte 2, ya escrita) — ninguna de las dos se toca. Todavía sin amistad íntima ni romance consciente, tal como pidió el autor: prolongan la conversación más de lo necesario (Sección V), pero Elsie se retrae explícitamente en cuanto nota que se ha vuelto personal ("no me las des todavía... pregúntame otra vez cuando todo esto termine"). Kyle no le cuenta todo — ni la mecánica de la credencial Ascendente, ni el nombre de Carina, ni el atraco — coherente con la regla dura y con el principio de que Elsie no participa del Hellmouth. Convención de nombre respetada: nadie lo llama "Kyle" en diálogo (Elsie todavía no ha cruzado a Beyond Light); la narración usa "Kyle" solo en tercera persona. **Retratamiento de terror (2026-07-19):** revisada contra el movimiento IV.6 de la incubadora ("Elsie acompaña sin mapa... el terror no es 'podría ser poseído', sino que algunas decisiones de protección ya pueden formularse en la gramática de la conquista"). La escena ya lo dramatiza con precisión total desde su título mismo — cumple el movimiento sin necesitar texto nuevo. Sin cambios de prosa en esta escena.*
+
+*Corrección de continuidad (2026-07-21):* mismo tipo de error que en `LaVerdadParcial` — el **Lugar** decía "La cabaña", pero en Taken King (Age II) esa cabaña doméstica todavía no existe; la mudanza de Elsie a la cabaña compartida con Kyle es un hueco de escritura confirmado, todavía pendiente, muy posterior en la línea de tiempo. Corregido al **campamento improvisado de Elsie**, ya establecido en la misma Era por `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos` (la tienda, la lona, el fuego pequeño cerca de la entrada). Se añadió una frase de ambientación al abrir la Sección I para fijar el lugar sin necesitar tocar el resto de la escena, que ya no nombraba "cabaña" en ningún otro punto del cuerpo del texto.

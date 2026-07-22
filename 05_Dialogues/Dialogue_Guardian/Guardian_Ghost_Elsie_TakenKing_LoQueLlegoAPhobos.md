@@ -2,7 +2,7 @@
 *Destiny: Renewed Fate*
 
 **Era:** The Taken King, antes de que nadie en el sistema tenga un nombre para lo que está pasando
-**Lugar:** Phobos — un puesto de avanzada Cabal, y después, la cabaña
+**Lugar:** Phobos — un puesto de avanzada Cabal, y después, el campamento improvisado de Elsie
 **Contexto:** La Vanguardia despacha a Kyle a callar una alarma que lleva tres días sonando. Nadie sabe todavía que es Oryx. Ni siquiera Eris.
 
 ---
@@ -17,19 +17,23 @@
 
 Eris estaba presente, al margen de la sala, con la clase de quietud que en ella nunca significaba desinterés.
 
-—Le pregunté sobre esto ayer —dijo, cuando Ikora terminó—. Phobos está cerca de territorio que la Colmena tocó una vez, hace mucho. Le dije que probablemente era residuo — ecos de Crota, sin fuerza real, el tipo de cosa que hace ruido sin significar nada.
+—Comandante. —Se dirigió a Ikora, no a él; Kyle no era todavía, para Eris Morn, alguien a quien se le hablara directamente sin un motivo concreto—. Le pregunté sobre esto ayer. Phobos está cerca de territorio que la Colmena tocó una vez, hace mucho. Le dije que probablemente era residuo — ecos de Crota, sin fuerza real, el tipo de cosa que hace ruido sin significar nada.
 
-—¿Y si no lo es?
+—¿Y si no lo es? —preguntó Ikora.
 
 —Entonces me equivoqué —dijo Eris, y algo en su voz, una nota que Kyle no supo nombrar todavía, sugería que la posibilidad la inquietaba más de lo que su tono admitía—. Pero no tengo razones concretas para pensar que me equivoqué. Solo una sensación que no he podido convertir en dato.
 
-Caminaron juntos hasta el hangar. Ghost flotó entre los dos, callado, registrando la tensión en el silencio de Eris con la misma atención con que registraba todo lo demás.
+Kyle esperó, sin saber del todo si el protocolo esperaba que dijera algo. Llevaba poco más de un año desde su primera resurrección — el tiempo suficiente para reconocer los nombres y los rangos que importaban en esa sala, no el suficiente para saber si a alguien como Eris Morn se le hacían preguntas o se esperaba, en silencio, a que ella decidiera compartir algo por su cuenta.
 
-—Si es algo más de lo que crees —dijo Kyle—, ¿qué debería buscar?
+Ikora lo despachó hacia la puerta con un gesto. Eris no lo acompañó. Se quedó donde estaba, y solo cuando Ikora volvió la vista a su informe — como si la parte de la conversación que tocaba a Kyle fuera un trámite aparte que ya no necesitaba testigos — le habló a él directamente por primera y única vez, no como alguien compartiendo una duda entre colegas, sino como quien entrega una instrucción a un desconocido con una tarea asignada.
 
-—No lo sé. —Eris se detuvo antes de la rampa de la nave, y por un momento pareció que iba a decir algo más, algo que llevaba días cargando y todavía no encontraba la forma de entregar sin sonar a advertencia sin fundamento—. Si encuentras algo que no puedas explicar, no te quedes a explicarlo. Sal. Después lo averiguamos juntos.
+—Guardian. —Ni su nombre, ni ningún gesto de familiaridad—. Si encuentras algo en Phobos que no puedas explicar, no te quedes a explicarlo. Sal. Repórtalo a la Vanguardia.
 
-Kyle asintió. No preguntó más, porque algo en la forma en que Eris lo dijo — la certeza a medias, el peso detrás de cada palabra que elegía no decir — le indicó que preguntar más no iba a darle una respuesta distinta.
+—¿Qué debería buscar? —preguntó él, sin saber si esa era la pregunta correcta o una que delataba lo poco que sabía todavía.
+
+—No lo sé. —Fue toda la respuesta, sin nada que la suavizara, y la brevedad misma — la ausencia total de cualquier cosa parecida a tranquilizarlo — le confirmó a Kyle algo que nadie necesitaba decir en voz alta: que para Eris Morn él seguía siendo, por ahora, un nombre nuevo en una lista de Guardianes disponibles, no alguien por quien se preocupara en particular.
+
+Kyle asintió y caminó solo hasta el hangar, Ghost flotando a su lado en silencio, registrando con la misma atención de siempre una tensión que ninguno de los dos sabía todavía cómo nombrar.
 
 ---
 
@@ -113,9 +117,21 @@ La comunicación murió en estática.
 
 Y entonces Phobos dejó de estar vacío.
 
+La pared del fondo de la cámara — metal Cabal reforzado, sin ninguna abertura por la que la luz pudiera pasar — se oscureció de todos modos, como si algo del otro lado proyectara una sombra sin necesitar ninguna fuente que la produjera. Creció hasta ocupar casi toda la habitación: una silueta colosal, fantasmal, de bordes que Kyle no habría podido dibujar después aunque se lo hubieran pedido, algo demasiado grande para el espacio que ocupaba y que sin embargo cabía en él sin esfuerzo.
+
+—¡Portaluz! —La voz no venía de la sombra ni de ningún punto que un sensor pudiera señalar. Venía de todas partes al mismo tiempo, grave, con una seguridad que Kyle nunca había escuchado en nada vivo—. ¡Entrégame tu voluntad!
+
+No hubo tiempo de responder, ni de decidir si una respuesta era siquiera lo que se esperaba de él. La sombra se retiró tan de golpe como había llegado — no una derrota, no una elección de dejarlo ir, sino la sensación clara de que ya había dicho lo único que había venido a decir — y en el espacio que dejó atrás, Phobos terminó de dejar de estar vacío.
+
 No llegaron en oleada. Llegó, primero, uno solo — una figura que no era del todo Cabal ni del todo Colmena, algo intermedio, algo *tomado*, de pie en la postura exacta de un centinela Legionario, salvo por un detalle que tardó un segundo de más en registrarse: el ángulo estaba mal. Un centinela real jamás se paraba así. Este imitaba la forma sin conocer la razón que la sostenía.
 
-Después, en el extremo opuesto de la cámara, otro giró la cabeza en el mismo instante exacto, como si compartiera el mismo tendón con el primero.
+Después llegó todo lo demás, y llegó junto, sin ningún orden aparente. Falanges avanzando con el mismo paso mecánico que los cuerpos vacíos de las cámaras anteriores ya nunca volverían a dar. Lacayos de la Colmena, docenas, moviéndose con un hambre que ya no distinguía un blanco de otro. Caballeros, altos, lentos, con la calma de algo que sabe que el tiempo está de su lado. Vándalos ocupando cada repisa elevada antes de que nadie pudiera cubrirlas todas. Y entre ellos, formas que no debían estar ahí — más pequeñas, angulares, de una geometría equivocada para cualquier cosa Cabal o Colmena. Goblins, máquina y no carne, absorbidos en la misma marea de todos modos, como si a lo que fuera que los reunía no le importara de dónde venía cada pieza, solo que sirviera.
+
+En cinco puntos distintos de la cámara, cinco siluetas se alzaron por encima del resto, cada una durante apenas el tiempo que le tomó a Kyle registrarla antes de que la masa volviera a cerrarse sobre ellas. Una se movía con el peso acorazado de algo que debería haber sido imposible de mover. Otra flotaba con una geometría que no pertenecía a este sistema. Una tercera permanecía inmóvil, cornuda, con la paciencia de una estatua que solo espera el momento correcto. Una cuarta tenía más miembros de los que Kyle pudo contar en el segundo que le dieron. La quinta se movía con una arrogancia que no supo de dónde reconocía — solo que la reconocía.
+
+No tuvo tiempo de confirmar ninguna. El reconocimiento llegó y se fue en el mismo instante, una sospecha sin forma de verificarse ahí mismo — algo que solo podría nombrar después, en voz alta, frente a alguien que pudiera decirle si estaba imaginándolo o si acababa de ver, sin saberlo todavía, nombres que en unas semanas conocería todo el sistema.
+
+Y entre toda la masa, al mismo tiempo, en un movimiento que ningún ejército real ejecutaría sin orden previa, cada cabeza giró la misma fracción exacta de grado — como si algo, en algún otro lugar, compartiera el mismo tendón con cada una de ellas.
 
 Y entonces todos, a la vez, miraron a Kyle.
 
@@ -185,31 +201,65 @@ No añadió nada más. No hacía falta, y por primera vez en toda la misión, Gh
 
 ## V. Lo que Elsie vio
 
-Kyle no fue directo a la Torre a reportar. Fue a la cabaña, porque el cuerpo, antes de escuchar a la razón, ya sabía adónde necesitaba ir.
+Kyle no fue directo a la Torre a reportar. Tampoco fue a la cabaña — la cabaña ya estaba en pie, con techo y paredes y una puerta que cerraba bien, pero todavía no era un lugar de Elsie, y él lo sabía sin que nadie se lo hubiera dicho nunca en voz alta. Fue a donde ella vivía de verdad por ahora: un campamento improvisado a poca distancia, poco más que una tienda, una mesa plegable cubierta de briefs y mapas, archivos apilados sin ningún orden que no fuera el suyo, y una cama modesta — un catre y una bolsa de dormir — que hablaba más de trabajo sin pausa que de descanso.
 
-Elsie lo esperaba en el porche — no porque supiera lo de Phobos, sino porque llevaba una hora sintiendo, sin poder nombrarlo, que algo en el patrón general del sistema se había desviado de una forma que ningún informe todavía reflejaba.
+Elsie no lo esperaba. Llevaba una hora sintiendo, sin poder nombrarlo todavía, que algo en el patrón general del sistema se había desviado de una forma que ningún informe reflejaba, y estaba intentando convertir esa sensación en algo que pudiera escribir cuando lo vio entrar.
 
-Lo vio bajar del colibrí.
+Kyle no dijo nada al cruzar la lona. Fue directo al centro de la tienda y se dejó caer al suelo — no de rodillas, no con ningún cuidado por la postura, simplemente se tumbó boca arriba, como si el cuerpo hubiera decidido por su cuenta que ya no podía sostenerse en pie ni un segundo más.
 
-Físicamente estaba intacto. Eso lo confirmó de inmediato, con el barrido rápido y automático que hacía cada vez que él volvía de algo — nada roto, nada sangrando, la armadura sin daño estructural visible.
+Elsie se quedó quieta un instante, con el barrido rápido y automático que hacía cada vez que él volvía de algo — nada roto, nada sangrando, la armadura sin daño estructural visible.
 
 Y sin embargo.
 
-—¿Qué pasó? —preguntó, sin levantarse todavía.
+Se acercó. No corrió hacia él, no se arrodilló con las dos manos como quizás habría hecho, quisiera o no, otra versión de sí misma con menos años de práctica en no acercarse demasiado a nada. Se sentó cerca, a una distancia calculada que todavía dejaba espacio entre los dos — la clase de distancia que no era frialdad, sino el único idioma que sabía hablar con seguridad en esta etapa de lo que fuera que eran.
+
+—¿Qué pasó? —preguntó, sin tocarlo.
 
 —Phobos no era lo que parecía.
 
 —Eso no responde mi pregunta.
 
-Kyle se sentó en el escalón, un peldaño por debajo de ella, y por un momento no dijo nada — el mismo silencio que Elsie había aprendido a no llenar por él, porque llenarlo era quitarle la oportunidad de encontrar sus propias palabras.
+Kyle no contestó de inmediato. Se quedó mirando el techo de lona, y por un momento el silencio se sintió como el mismo silencio que Elsie ya sabía, aunque nunca lo hubiera dicho así, que no debía llenar por él.
 
-Adentro, algo en la cocina emitió un pitido bajo — la tetera, el mismo sonido de siempre, el mismo tono exacto que Kyle había escuchado cientos de veces sin pensarlo.
+En algún punto de ese silencio, algo emitió un pitido bajo desde la pequeña estufa de campaña en la esquina — la tetera, el lujo mínimo que Elsie se permitía incluso ahí, el mismo tono agudo y corto que Kyle acababa de escuchar horas antes, en un contexto completamente distinto.
 
-Se puso de pie antes de decidir hacerlo.
+Se incorporó a medias antes de decidir hacerlo.
 
-Elsie no dijo nada. Solo lo observó volver a sentarse, un segundo después, con la clase de vergüenza silenciosa de alguien que acaba de reaccionar a algo que ya no está ahí.
+Elsie no dijo nada. Solo lo observó volver a tenderse, un segundo después, con la clase de vergüenza silenciosa de alguien que acaba de reaccionar a algo que ya no está ahí.
 
-—Vi algo —dijo finalmente—. No sé cómo explicarlo todavía. No fue el enemigo lo que me afectó. Fue... la sensación de que algo mucho más grande que el enemigo estaba mirando a través de él. Como si yo fuera la cosa pequeña en la habitación, por primera vez en mucho tiempo.
+—Vi algo —dijo finalmente—. No sé cómo explicarlo todavía. No fue el enemigo lo que me afectó. Fue... la sensación de que algo mucho más grande que el enemigo estaba mirando a través de él. Como si yo fuera la cosa pequeña en la habitación, por primera vez en mucho tiempo. —Se detuvo, buscando la forma de decir el resto—. Y había algo más. Formas, entre los que atacaron, que por un segundo me parecieron... conocidas. No sé de dónde. No estoy seguro de que fuera real.
+
+Un carraspeo desde la entrada de la tienda cortó lo que fuera que Elsie iba a decir.
+
+Eris estaba ahí, de pie, con la clase de quietud tensa de alguien que ha estado corriendo por dentro incluso mientras el cuerpo se queda inmóvil. Había perdido la comunicación con Kyle en mitad de una frase que nunca terminó de decir, y nadie le confirmó nada hasta que su Espectro localizó la señal del transpondedor de Ghost, ya lejos de Phobos, ya en tierra.
+
+—Estás vivo —dijo, y no sonó a alivio. Sonó a algo más cerca de la culpa, contenida con el mismo esfuerzo con que contenía todo lo demás—. Le dije a Ikora que era residuo. Le dije que probablemente no era nada. Y te mandé a comprobarlo con un año de existencia y ninguna razón para esperar lo que encontraste.
+
+—Sobreviví —dijo Kyle, todavía en el suelo.
+
+—Esta vez. —Eris no se disculpó. No era, todavía, ese tipo de relación, y los dos lo sabían sin necesidad de decirlo—. Pero necesitas saber qué era eso, y yo necesito que lo sepas antes de volver a mandarte a algo parecido sin decírtelo.
+
+Se sentó, no cerca de ninguno de los dos, sino en el borde del catre, con la clase de distancia profesional que era, para ella, la única forma disponible de estar presente sin fingir más de lo que en realidad había entre ellos.
+
+—Lo que viste en Phobos se llama Poseído. No es Cabal, no es Colmena, no es nada que tenga nombre propio todavía, y ese es exactamente el punto. Oryx no invade con un ejército — toma lo que ya existe y lo vacía, lo rellena con algo suyo, y lo devuelve como arma. No importa a qué especie pertenecía antes. Ahora le pertenece a él.
+
+—¿Y esas formas que reconocí?
+
+—No lo sé —dijo Eris, y por primera vez algo en su voz se acercó, sin llegar del todo, a la inquietud genuina—. Pero si ya está reutilizando enemigos que el sistema conoce, no es una posibilidad que podamos descartar solo porque suena mal.
+
+Elsie, que había escuchado todo sin interrumpir, habló entonces — no con el registro de Eris, cargado de nombres y de historia que ella no había vivido, sino con el suyo propio.
+
+—Yo lo sentí antes de que Ghost transmitiera nada. —No apartó la mirada de Kyle al decirlo—. El patrón de todo el sistema se movió al mismo tiempo, en Phobos y en ninguna otra parte a la vez, como si algo hubiera tocado el borde de un mapa mucho más grande del que estábamos mirando. No sé leerlo del todo todavía. Pero sé que no fue local. Nunca fue solo Phobos.
+
+—Entonces esto no termina aquí —dijo Kyle, no como pregunta.
+
+—No —dijo Eris—. Y quiero que entiendas algo antes de volver a salir a pelear contra esto: lo que sea que liquides ahí afuera, Oryx lo reemplazará. No estás reduciendo un ejército. Estás golpeando algo que no pierde nada cuando pierde piezas.
+
+Se puso de pie. No dijo que lo sentía. No dijo que se alegraba de que siguiera con vida, aunque algo en la rigidez con la que se movió hacia la salida sugería que las dos cosas estaban ahí, sin espacio todavía para decirlas en voz alta a un Guardián que apenas conocía.
+
+—Descansa —dijo, ya desde la entrada—. Reporto a la Torre que estás localizado. Volveremos a hablar cuando sepa más.
+
+Y se fue, dejando a los dos solos con la tetera todavía tibia y la lona moviéndose despacio detrás de ella.
 
 Elsie lo observó con la atención específica que reservaba solo para él — no la lectura táctica que aplicaba a informes y anomalías, sino la otra, la que había empezado a ejercitar sin pedirle permiso a nadie, ni siquiera a sí misma.
 
@@ -217,7 +267,7 @@ No dijo que iba a estar bien.
 
 No dijo que lo entendía del todo, porque no era cierto todavía.
 
-Solo se sentó a su lado, en el mismo escalón, lo suficientemente cerca para que el silencio compartido significara algo, y esperó a que él decidiera si había más que decir esa noche o si bastaba, por ahora, con no estar solo con lo que había visto.
+Solo se quedó ahí, en el mismo espacio, lo suficientemente cerca para que el silencio compartido significara algo, y esperó a que él decidiera si había más que decir esa noche o si bastaba, por ahora, con no estar solo con lo que había visto.
 
 Kyle no dijo más.
 
@@ -232,3 +282,5 @@ Y para Elsie, que llevaba semanas aprendiendo a leer las cosas que él no decía
 *Nota narrativa: primera escena del Cluster 2 (Invasión y la Mano del Rey) — primera aparición de Kyle en la Parte 1. **Ajuste del autor (2026-07-13):** nadie sabe que es Oryx hasta estar ya dentro del complejo — la misión nace de una alarma Cabal sin explicar, sonando hace tres días, no de una advertencia directa sobre Oryx. Eris consultó sobre la posibilidad de residuo Colmena y lo evaluó como ecos débiles de Crota, sin fuerza real — esa es su "estimación equivocada", no una advertencia que decidió no dar del todo. El descubrimiento de que es Oryx ocurre en tiempo real, dentro del puesto, primero por indicios físicos y después por la propia Eris rompiéndose en la radio ("Él está aquí") — ni ella ni Kyle lo sabían antes de entrar. Regla dura respetada: ni Kyle ni Ghost nombran el reclamo — solo la sensación de "ser lo pequeño en la habitación", sin vocabulario de herencia. **Ajuste del autor (2026-07-13, segunda ronda):** la alerta de Ghost tras la extracción es la transmisión general a todo el sistema ("Vanguardia, a todos los canales... Algo enorme acaba de entrar al Sistema Solar"), deliberadamente la misma línea que ya recibe Carina en el Refugio del Muelle (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`) — el Ghost de Kyle es la fuente de esa alerta global, cerrando causalmente el vínculo entre Phobos y el resto de la Parte 1 sin que Kyle y Carina lleguen a saberlo. **Retratamiento de terror (2026-07-14):** reescrita bajo el cimiento de `Agent_Notes/codex/2026-07-14_incubadora-terror-en-phobos.md`, con el encuadre de Cluster 2 de `2026-07-14_incubadora-taken-king-parte1-terror-de-oryx.md` ("terror de invasión e identidad"). Eje fijado con el autor: terror de reconocimiento, no terror corporal ni misión de acción. Cambios: (1) la alarma deja de ser solo premisa dialogada y se vuelve columna vertebral sensorial — suena en la aproximación y calla por primera vez en tres días exactamente cuando Kyle cruza el umbral de la cámara central (la "respuesta dirigida" del cimiento); (2) el puesto gana una gramática de anomalías repetidas en vez de una imagen aislada — rutina sin habitantes (luces, puertas y consolas cumpliendo protocolo para nadie) y ausencia imposible (tres armaduras vacías, no una); (3) Ghost funciona como barómetro del terror — sus hipótesis se cortan a media frase y dan paso a demoras de respuesta en vez de explicaciones completas, sin perder agencia en la extracción; (4) los Poseídos se revelan como una sola mirada distribuida en muchos cuerpos (postura Cabal mal imitada, giro sincronizado, todos mirando a la vez) en vez de una oleada de enemigos; (5) la huida queda deliberadamente ambigua — ¿escaparon o los dejaron escapar? — sin confirmarlo aquí; `Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion` (ya escrita) confirma después, solo para el lector, que Oryx observó todo por una sombra prestada y dejó ir a Kyle a propósito; (6) el cierre de Ghost ("Era el padre") perdió la coda aforística original sobre padres y peligro, para no resolver el horror más rápido de lo que pedía el cimiento; (7) la cabaña gana un único residuo conductual — Kyle confunde por un instante el pitido de la tetera con la alarma — en vez de acumular varios tells. Líneas protegidas preservadas verbatim: "Siento las puntas de dedos en la superficie de mi mente...", "Él está aquí", "Esto no es lo que vinimos a investigar... esto es lo que vino a encontrarnos", "una salida, no una victoria", la alerta global de Ghost, y el cierre en la cabaña con Elsie no llenando el silencio.*
 
 *Nota narrativa (2026-07-16): añadido un beat nuevo en la sección IV, siguiendo el cimiento de `Agent_Notes/codex/2026-07-16_incubadora-carina-estatica-bruma-ultima-palabra.md` (consolidado en `09_Roadmaps/Plan_Carina_UltimaPalabra_EstaticaBruma.md`): durante la huida, antes del transmat, Ghost intenta un canal de auxilio y solo recibe ruido de vuelta — cree, razonablemente, que no llegó a nadie. Es el origen causal de la estática que Hornet recibe en el Refugio del Muelle (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`), sin tocar la alerta clara ya escrita que Ghost transmite después, en calma — esa línea protegida sigue intacta y ahora llega a Carina más tarde en su escena, como confirmación tardía.*
+
+*Nota narrativa (2026-07-20, ajustes del autor):* **(1) Sección I recalibrada:** Eris y Kyle todavía no son amigos — esa amistad se paga recién en Final Shape, después de Shadowkeep, Season of the Haunted y Season of the Witch. Se retiró la calidez de "caminaron juntos hasta el hangar" y el tono de duda compartida; Eris ahora le habla a Ikora, no a Kyle, y solo le dirige a él una instrucción breve, profesional, sin nombre ni familiaridad. Se añadió un beat explícito de que Kyle lleva poco más de un año desde su primera resurrección — todavía no sabe leer el protocolo social de la sala, y para Eris sigue siendo, por ahora, un Guardián más en una lista. **(2) Sección III ampliada:** antes de que aparezcan los Poseídos, Oryx tiene su único diálogo directo de la escena — una sombra colosal y fantasmal que llena casi toda la cámara y dice "¡Portaluz! ¡Entrégame tu voluntad!" antes de retirarse. La horda que sigue ya no es una sola figura creciendo, sino una mezcla deliberada de falanges, lacayos, caballeros, vándalos y goblins — el primer indicio en prosa de que lo Poseído no respeta especie. Se sembraron, además, cinco siluetas más grandes vistas solo un instante, que Kyle no logra confirmar — el primer atisbo (sin nombrarlos) de Omnigul, el Templario, Ta'aurc, Zydron y Skolas, los cinco tenientes de la Mano del Rey ya fijados en `Plan_TakenKing_Parte1.md`; la incertidumbre queda sembrada a propósito para pagarse después con Elsie. **(3) Sección V reubicada:** la cabaña ya está en pie pero todavía no es un espacio de Elsie — no puede recibirlo ahí. La reunión pasa a su campamento improvisado (briefs, archivos, mapas, un catre con bolsa de dormir); Kyle entra y se tumba en el suelo, y Elsie se acerca pero con los límites que esta etapa de la relación (Observación, ver `Guardian_Elsie_Bray.md`) todavía le exige — distancia calculada, sin abrazo. Eris llega también, habiendo perdido contacto con Kyle en la radio, angustiada — a su manera contenida, no cálida — por haber mandado a comprobar "residuo" a un Guardián de un año sin advertirle de nada peor. Eris explica lo Poseído como registro (qué es, históricamente, sin haberlo vivido); Elsie lo explica como testigo (lo que sintió moverse en el patrón del sistema entero, en tiempo real, sin haber estado en Phobos). Eris cierra con la línea nueva "lo que sea que liquides ahí afuera, Oryx lo reemplazará" — primera siembra en prosa de la lógica de reemplazo que después define el Frente 2 de la Guerra de los Poseídos — y se retira antes del cierre íntimo entre Kyle y Elsie, que se conserva intacto.*

@@ -4,7 +4,7 @@
 **Raza:** Humana
 **Rol:** Mecánica jefe de la Última Ciudad; maestra de Kyle en todo lo que sabe hacer con un motor; co-fundadora del renacimiento del [[04_Concepts/Torneo_De_Los_Velocistas|Torneo de los Velocistas]]
 **Estado:** † Fallecida — Age XIII (Defiance), en la defensa de la Ciudad
-**Aparece en:** [[05_Dialogues/Dialogue_Guardian/Guardian_Amanda_Forsaken_TraiganDeVueltaElTorneo]] (escena central — el origen del torneo revivido y de Escuadra Cero); [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Ciudad_LaBicicleta]] (mecánica citada, no en escena); referenciada en [[05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta]] y en la ficha de [[02_Characters/Crow]]
+**Aparece en:** [[05_Dialogues/Dialogue_Eris/Eris_Cayde_TakenKing_LosLimitesDeLaSombra]] (Age II, Taken King — su aparición más temprana por cronología interna: ya trabaja con Cayde, integrando el módulo de cobertura de firma en la nave de Eris, mucho antes de convertirse en su co-arquitecta del Torneo); [[05_Dialogues/Dialogue_Guardian/Guardian_Amanda_Forsaken_TraiganDeVueltaElTorneo]] (escena central — el origen del torneo revivido y de Escuadra Cero); [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Ciudad_LaBicicleta]] (mecánica citada, no en escena); referenciada en [[05_Dialogues/Dialogue_Sai/Sai_Crow_PostFinalShape_LaPuertaQueSigueAbierta]] y en la ficha de [[02_Characters/Crow]]
 
 ---
 

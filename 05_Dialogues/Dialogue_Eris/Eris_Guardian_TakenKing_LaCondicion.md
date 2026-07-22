@@ -81,9 +81,9 @@ Cayde no dejó de trabajar, pero algo en su expresión se tensó.
 
 ## IV. Lo que quedó sin decir
 
-Eris observó el trabajo en silencio, hasta que Kyle se acercó a ella, apartado del ruido de las herramientas.
+Eris observó el trabajo en silencio. Solo cuando Cayde y Ghost quedaron absortos en un ajuste que no admitía interrupciones, se acercó a Kyle — no por necesidad de decirle algo en privado, sino porque el resto de esa conversación no le correspondía todavía a nadie más.
 
-—¿Vienes conmigo? —preguntó.
+—¿Vas a acompañarme? —preguntó Kyle. No era una pregunta personal. Era la misma que le haría a cualquier operativo asignado antes de una misión de dos.
 
 —No puedo. —Eris no ofreció una excusa fácil—. Mi presencia en el Hellmouth atrae atención que tú no puedes permitirte mientras estés ahí robando algo tan específico. Las hermanas me conocen. Te van a estar buscando a ti; van a estar cazándome a mí. No puedo ser la razón por la que te encuentren.
 
@@ -91,16 +91,22 @@ Eris observó el trabajo en silencio, hasta que Kyle se acercó a ella, apartado
 
 —Vas solo —confirmó Eris—, con un emisor que puede fallar sin aviso, en un lugar diseñado para reconfigurar a cualquiera que no sepa exactamente quién es antes de entrar.
 
-Kyle no le pidió que lo hiciera sonar mejor.
+Kyle no le pidió que lo hiciera sonar mejor. No esperaba que lo hiciera — no era esa clase de conversación entre ellos todavía, ni falta que hacía.
 
-Ella no lo intentó.
+Eris tampoco lo intentó.
 
-—Ten cuidado —dijo, al fin, con una simpleza que no le era habitual—. No con el enemigo. Con la posibilidad de que el lugar te convenza de algo antes de que te des cuenta de que te lo está pidiendo.
+Se quedó un momento más de lo estrictamente necesario, como si algo en la lista de datos que acababa de entregarle no estuviera del todo completo.
 
-Kyle asintió, sin saber todavía cuánto de esa advertencia iba a necesitar.
+—Ten cuidado —dijo, al fin, y la frase le salió más rígida de lo que probablemente pretendía, la clase de cosa que se dice porque el protocolo, en algún cálculo silencioso, dejó de alcanzar para cubrir lo que quedaba sin decir sobre haberlo mandado antes a Phobos sin advertirle lo suficiente—. No con el enemigo. Con la posibilidad de que el lugar te convenza de algo antes de que te des cuenta de que te lo está pidiendo.
+
+No esperó a que Kyle respondiera. Se dio la vuelta hacia el resto del taller antes de que la frase terminara de asentarse entre los dos, como si decir una cosa así en voz alta ya hubiera sido, para ella, toda la concesión que pensaba hacer por un día.
+
+Kyle asintió a su espalda, sin saber todavía cuánto de esa advertencia iba a necesitar.
 
 ---
 
 *Pilares activos: [[04_Concepts/Sword_Logic|Lógica de la Espada]], [[04_Concepts/Identity|Identidad]], [[04_Concepts/Fear|Miedo]]*
 *Conecta con: [[02_Characters/Eris_Morn]], [[02_Characters/Guardian]], [[02_Characters/Cayde-6]], [[02_Characters/Ghost]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Throne_Worlds]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_CrotasEnd_03_Crota]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
-*Nota narrativa: sexta y última escena del Cluster 3 — cierra el cluster completo. Explicación de Eris construida directamente sobre `04_Concepts/Ascendant_Plane.md` ("no es un lugar, es una extensión de la voluntad de quien lo habita"; "lo que protege no es poder, es saber quién es" — ecoado en la advertencia final de Eris). Fija la esencia de Crota como **credencial, no poder** — cumple el cimiento del Cluster 4 antes de que ese cluster empiece. El emisor portátil se construye reconociendo explícitamente sus propias limitaciones (Ghost: "no sabremos [cuánto tiempo es suficiente] hasta que se acabe") — siembra la falla que ocurre en el Hellmouth sin que sea una sorpresa narrativa no anunciada. Eris explica por qué no acompaña a Kyle (las hermanas la reconocerían) — deja explícitamente a Kyle entrando solo, coherente con que Carina lo encuentra por su cuenta en el Cluster 4, no como parte de un equipo ya coordinado. **Cluster 3 (La Llave del Acorazado) completo — 6 de 6 escenas.** **Retratamiento de terror (2026-07-19):** revisada contra el movimiento III.5 de la incubadora ("el rechazo no comunica debilidad de poder, sino falta de condición"). La Sección I ya lo dramatiza con precisión ("no te negó el paso, te negó la existencia, en los términos que ese espacio reconoce") — cumple el movimiento sin necesitar texto nuevo. Sin cambios de prosa en esta escena.**
+*Nota narrativa: sexta y última escena del Cluster 3 — cierra el cluster completo. Explicación de Eris construida directamente sobre `04_Concepts/Ascendant_Plane.md` ("no es un lugar, es una extensión de la voluntad de quien lo habita"; "lo que protege no es poder, es saber quién es" — ecoado en la advertencia final de Eris). Fija la esencia de Crota como **credencial, no poder** — cumple el cimiento del Cluster 4 antes de que ese cluster empiece. El emisor portátil se construye reconociendo explícitamente sus propias limitaciones (Ghost: "no sabremos [cuánto tiempo es suficiente] hasta que se acabe") — siembra la falla que ocurre en el Hellmouth sin que sea una sorpresa narrativa no anunciada. Eris explica por qué no acompaña a Kyle (las hermanas la reconocerían) — deja explícitamente a Kyle entrando solo, coherente con que Carina lo encuentra por su cuenta en el Cluster 4, no como parte de un equipo ya coordinado. **Cluster 3 (La Llave del Acorazado) completo — 6 de 6 escenas.** **Retratamiento de terror (2026-07-19):** revisada contra el movimiento III.5 de la incubadora ("el rechazo no comunica debilidad de poder, sino falta de condición"). La Sección I ya lo dramatiza con precisión ("no te negó el paso, te negó la existencia, en los términos que ese espacio reconoce") — cumple el movimiento sin necesitar texto nuevo. Sin cambios de prosa en esta escena.*
+
+*Nota narrativa (2026-07-21): recalibrada la Sección IV con el mismo ajuste aplicado en `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos` — Eris y Kyle todavía no son amigos. "¿Vienes conmigo?" se reformuló como pregunta operativa ("¿Vas a acompañarme?"), no personal. El "ten cuidado" final se conserva (Eris ya mostraba una rareza deliberada en el tono desde el borrador original), pero ahora se explica en el texto como algo que nace del protocolo agotándose, no de afecto — un eco directo de la culpa que ya cargaba en Phobos por haberlo mandado a comprobar "residuo" sin advertirle lo suficiente. Se le quitó la calidez de "Kyle se acercó a ella" y "ella no lo intentó" como cercanía mutua; ahora Eris se retira de inmediato después de hablar, sin esperar respuesta, protegiendo la distancia profesional en vez de dejar que el momento se asiente entre los dos.*

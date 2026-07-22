@@ -9,15 +9,17 @@
 
 ## I. El patrón
 
-Elsie no estaba en ningún frente. Estaba en todos.
+Elsie no estaba en ningún frente. Estaba en todos, a su manera — la única disponible para alguien sin insignia, sin acceso a la red segura de la Torre, sin ningún lugar oficial en la cadena que decidía qué información llegaba a dónde. No iba a entrar a la Ciudad por una guerra que no era suya. Eso todavía faltaban años para cambiarlo, y solo Kyle, cuando volviera a buscarla, iba a ser la razón.
 
-La sala de análisis de la Torre no había sido diseñada para lo que Elsie estaba haciendo con ella — seis proyecciones simultáneas, cada una un teatro de guerra distinto, cada una exigiendo una atención que ningún ser humano debería poder repartir sin perder algo en el proceso. Elsie las sostenía de todas formas, no porque fuera fácil sino porque llevaba entrenada toda una vida para encontrar la forma en el caos que a otros solo les parecía ruido.
+Trabajaba desde su campamento, con lo que tenía: la alerta que el Espectro de Kyle había lanzado a todos los canales activos del sistema, sin distinguir entre Guardianes con rango y Guardianes sin él, y fragmentos de tráfico de radio que cualquiera con el equipo correcto podía interceptar si sabía dónde escuchar. Para uno de los cinco frentes tenía, además, algo que no debería haber tenido — pero de eso se ocuparía después.
 
-No estaba ahí para pelear. Estaba ahí para leer.
+Seis proyecciones improvisadas, ninguna oficial, cada una un teatro de guerra distinto, cada una exigiendo una atención que ningún ser humano debería poder repartir sin perder algo en el proceso. Elsie las sostenía de todas formas, no porque fuera fácil sino porque llevaba entrenada toda una vida para encontrar la forma en el caos que a otros solo les parecía ruido.
 
-Y lo que empezaba a leer, cinco minutos dentro del primer reporte, la inquietaba más de lo que ninguna proyección individual podía justificar por sí sola.
+No estaba ahí para pelear. Estaba ahí para leer — con o sin permiso de nadie para hacerlo.
 
-—No son cinco ataques —dijo, para nadie en particular, para el registro, para sí misma—. Son una sola frase, dicha cinco veces, en cinco idiomas distintos.
+Y lo que empezaba a leer, cinco minutos dentro del primer fragmento reconstruido, la inquietaba más de lo que ninguna proyección individual podía justificar por sí sola.
+
+—No son cinco ataques —dijo, para nadie en particular, para su propio archivo, para sí misma—. Son una sola frase, dicha cinco veces, en cinco idiomas distintos.
 
 ---
 
@@ -85,6 +87,10 @@ De los cinco, el Arrecife era el único que no enfrentaba a un eco solo.
 
 Enfrentaba a un eco y a un vacío.
 
+Y era, también, el único de los cinco al que Elsie no llegaba a ciegas.
+
+Eris se lo había abierto sin pedirle permiso a nadie que pudiera negárselo — un canal informal, del tipo que solo alguien que ya vivía fuera de la cadena de mando podía ofrecer sin que nadie por encima de ella tuviera que aprobarlo antes. Petra, que respondía ante una Reina ausente y no ante ningún Vanguardia, nunca preguntó de dónde venía la persona que escuchaba del otro lado; le bastaba con que Eris respondiera por ella. Las tres operaban fuera de la Ciudad — Eris por elección propia desde el Hellmouth, Petra por lealtad a un trono vacío, Elsie porque la Ciudad todavía no tenía ningún lugar para ella —, y esa misma distancia compartida era, sin que ninguna lo hubiera llamado así todavía, la única grieta útil en un sistema que de otro modo la habría dejado completamente afuera.
+
 Skolas — el Kell de Nada, la sombra vaciada del Kell que Kyle había capturado en vez de matar, hacía apenas una temporada— cayó sobre las defensas exteriores del Arrecife con la furia calculada de alguien que recordaba, en algún nivel que ya no le pertenecía del todo, exactamente qué se sentía perder ese mismo territorio una vez.
 
 Petra Venj comandaba la defensa sin Reina, sin explicación, sin nada más que la última orden que Mara le había dado antes de desaparecer: *prepara la defensa, eso es lo que necesito de ti ahora mismo.*
@@ -109,12 +115,14 @@ Pero lo archivó, junto con todo lo demás que llevaba semanas sin poder clasifi
 
 El Arrecife resistió. Petra no perdió el frente.
 
-Pero cuando el eco de Skolas por fin se retiró, herido, no destruido, Elsie escribió en su informe una sola línea que no le mostró a nadie esa noche:
+Pero cuando el eco de Skolas por fin se retiró, herido, no destruido, Elsie escribió en su propio archivo una sola línea que no le mostró a nadie esa noche:
 
 *Algo en este sistema está esperando a que alguien termine de entender la pregunta correcta.*
 
 ---
 
 *Pilares activos: [[04_Concepts/Identity|Identidad]], [[04_Concepts/Consequences|Consecuencias]], [[04_Concepts/Fear|Miedo]]*
-*Conecta con: [[02_Characters/Elsie]], [[02_Characters/Petra_Venj]], [[02_Characters/Lord_Shaxx]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos]], [[05_Dialogues/Dialogue_Mara/Petra_Mara_TakenKing_LaBatallaDeSaturno]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
+*Conecta con: [[02_Characters/Elsie]], [[02_Characters/Petra_Venj]], [[02_Characters/Lord_Shaxx]], [[02_Characters/Eris_Morn]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos]], [[05_Dialogues/Dialogue_Mara/Petra_Mara_TakenKing_LaBatallaDeSaturno]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
 *Nota narrativa: segunda escena del Cluster 2 — montaje de los cinco asedios simultáneos de la Mano del Rey. **Emparejamiento de frentes fijado (pendiente cerrado):** Tierra/Omnigul-La Voz Sangrante, Venus/Templario-El Ejecutor Temporal, Marte/Valus Ta'aurc-El Comandante Olvidado, Luna/Zydron-El Custodio Ciego, Arrecife/Skolas-El Kell de Nada. Cada eco escrito como silueta/función táctica vaciada de identidad (cimiento de la nota de incubación) — ninguno tiene memoria, voz propia ni relación con quienes fue. Shaxx recibe una línea breve en el frente de la Tierra, resolviendo el pendiente menor del plan, sin escena dedicada. **Elsie:** cumple su beat de analista móvil — lee el patrón general sin combatir a ningún miembro de la Mano en persona; su atención se detiene más en el Arrecife que en los otros cuatro frentes, sembrando (sin que ella lo verbalice todavía) que el patrón general apunta hacia algo que ella no puede nombrar. El Arrecife/Petra paga directamente la Batalla de Saturno (Cluster 1): Petra defiende sin saber por qué desapareció Mara, con solo la última orden que le dio. La victoria del Arrecife es táctica (explota que el eco de Skolas repite patrones viejos) pero incompleta — el eco se retira herido, no destruido, coherente con que Oryx sigue vivo en Parte 1.*
+
+*Nota narrativa (2026-07-20, ajuste del autor):* Corregido un error de acceso — Elsie no tiene ninguna relación con la Vanguardia en este punto de la línea temporal y no entra a la Ciudad hasta la Guerra Roja, por Kyle (ver `Guardian_Elsie_Bray.md`, transición Fase 3); hasta entonces, Kyle es su único puente indirecto. Se retiró "la sala de análisis de la Torre" — ahora lee los cinco frentes desde su campamento, reconstruyendo el patrón a partir de la alerta general que el Espectro de Kyle lanzó a todo el sistema (`Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos`) y de tráfico de radio interceptado sin autorización de nadie. La excepción es el Arrecife: como Eris y Petra ya operan como agentes independientes fuera de la cadena de mando de la Vanguardia (vínculo tejido en Cluster 1, `Petra_Mara_TakenKing_LaBatallaDeSaturno`), tienen la libertad de la que la Torre carece para dejar entrar a Elsie — Eris le abre un canal informal al frente de Petra, la única de las cinco batallas a la que Elsie no llega a ciegas. Sin esto no se implica ninguna amistad todavía entre ninguna de las tres, solo la coincidencia práctica de que las tres viven, por razones distintas, fuera de la Ciudad.*

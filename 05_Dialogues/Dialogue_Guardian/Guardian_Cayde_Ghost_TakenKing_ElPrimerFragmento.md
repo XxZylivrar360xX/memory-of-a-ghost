@@ -113,53 +113,57 @@ Lo encontraron en una cámara lateral, apartada del corredor principal — y sol
 
 —Escanéalo antes de que se me ocurra tocarlo —dijo Kyle.
 
-—Ya lo estoy escaneando. —Una pausa—. No es un arma. No es una trampa, al menos no una convencional. Es... memoria. Memoria condensada, la clase que la Colmena guarda cuando algo importa lo suficiente para conservarlo fuera del cuerpo que lo vivió.
+—Ya lo estoy escaneando. —Una pausa, más larga de lo que Kyle esperaba—. No hay nada. Estructura mineral, sin firma energética legible, sin ningún patrón que corresponda a algo que yo sepa leer. Es una roca. Una roca vacía, tallada, y nada más que eso.
 
-Kyle se acercó de todas formas.
+Kyle la tomó de todas formas.
 
-El Fragmento no esperó permiso.
+No hubo advertencia. No hubo el instante de resistencia que el cuerpo suele darse a sí mismo antes de tocar algo que no debería tocar. La piedra estaba fría, y después dejó de estarlo, y después dejó de ser piedra en ningún sentido que la mano de Kyle pudiera seguir sosteniendo.
 
-En el instante en que Kyle estuvo lo bastante cerca, la memoria se abrió — no como una proyección externa, sino como algo que se instalaba directamente en la comprensión, sin pasar por los ojos ni los oídos.
+*Un rey.*
 
-*Los Ecumene no conocían la guerra como conquista. La conocían como error — algo que su civilización había abandonado generaciones atrás, reemplazado por una red de acuerdos tan intrincada que ningún miembro individual necesitaba imponerse sobre otro para prosperar. Construyeron sin necesitar destruir. Crecieron sin necesitar someter. Se consideraban, con una certeza tranquila que nunca cuestionaron, la prueba viviente de que la fuerza no era el único idioma que el universo entendía.*
+*No un rey de ejércitos ni de fronteras. Un rey de lo poco que quedaba sobre la superficie de un mundo que ya se ahogaba — gobernando un pueblo que había dejado de crecer hacía generaciones, sobre un mar que se extendía en todas direcciones hasta un horizonte que nunca cambiaba de forma.*
 
-*Oryx los encontró jóvenes en su lógica, y viejos en su arrogancia.*
+*Tres hijas, de pie junto a él, mirando el mismo mar con tres caras que Kyle no alcanzó a leer del todo. Una cansada. Una hambrienta. Una que todavía, en algún sitio pequeño que las otras dos ya habían perdido, esperaba que el mar les diera algo distinto a lo de siempre.*
 
-*No los conquistó de inmediato. Los estudió. Aprendió la arquitectura de sus acuerdos, la forma exacta en que su cooperación dependía de que ningún miembro individual estuviera dispuesto a romperla primero. Y entonces, con la paciencia de algo que no necesitaba apresurarse, encontró al primero.*
+*Y debajo. Muy debajo, donde ninguna luz del rey había llegado nunca, algo enorme y paciente que llevaba eones esperando exactamente esa clase de hambre.*
 
-*Uno solo. Un Ecumene dispuesto, bajo la presión correcta, a imponerse sobre los demás para sobrevivir.*
+*Un dios, si "dios" todavía significaba algo tan viejo que ya no necesitaba creyentes para seguir existiendo.*
 
-*Eso fue suficiente.*
+*Un gusano, si "gusano" alcanzaba a nombrar algo que hacía mucho había dejado atrás cualquier palabra hecha para cosas más pequeñas.*
 
-*Porque una vez que uno rompió el acuerdo, el acuerdo dejó de proteger a nadie — y los Ecumene, que nunca habían construido nada para defenderse de los suyos, no tenían nada que oponer cuando los suyos, por fin, empezaron a imponerse entre ellos.*
+*No prometía salvación. No prometía nada que un rey pudiera reconocer como promesa.*
 
-*Oryx no necesitó destruir la civilización entera.*
+*Solo aseguraba, sin apuro, que el hambre nunca más iba a tener que esperar a que el mar decidiera dar algo.*
 
-*Solo necesitó demostrar que la fuerza siempre había estado ahí, esperando, debajo de cada acuerdo que fingía no necesitarla.*
-
-*"Merecían existir", terminaba el Fragmento, en la voz que solo podía ser la del propio Oryx, fría y absolutamente convencida. "Pero no merecían seguir existiendo de la forma en que eligieron. Porque una existencia que depende de que nadie rompa las reglas primero no es paz. Es una guerra que todavía no ha encontrado a su primer soldado."*
+La imagen se rompió tan de golpe como había llegado — sin cierre, sin la clase de final que una historia suele darse a sí misma. Solo el mar, cortándose a media ola, y después nada.
 
 ---
 
 ## VI. Lo que Kyle se llevó de eso
 
-Kyle salió del Fragmento con la respiración más agitada de lo que la quietud de la cámara podía justificar.
+Kyle salió de la visión con la respiración más agitada de lo que la quietud de la cámara podía justificar, la roca todavía en la mano, otra vez fría, otra vez solo piedra.
 
 —¿Kyle? —preguntó Ghost.
 
-—Estoy bien —dijo, aunque no sonaba del todo cierto—. Vi... vi cómo cayó una civilización entera. No por la fuerza de Oryx. Por encontrar a una sola persona dispuesta a romper lo que los sostenía.
+—Estoy bien —dijo, aunque no sonaba del todo cierto—. Vi algo. No sé qué. Fragmentos. Un rey. Tres hijas. Un mar que no terminaba nunca. Y algo debajo, en el fondo, esperando.
 
-Ghost guardó silencio un momento.
+—Yo no vi nada de eso. —La extrañeza en la voz de Ghost era genuina, no retórica—. Mi escaneo seguía diciendo lo mismo mientras tú lo sostenías: roca vacía. Sigue diciéndolo ahora. Lo que fuera que te mostró, no pasó por ningún sensor que yo tenga.
 
-—¿Y eso qué te dice?
+—Entonces cómo—
 
-—Que Oryx no cree que esté destruyendo nada que no estuviera ya roto —dijo Kyle, despacio, procesando la idea mientras la decía en voz alta—. Cree que solo está revelando la grieta que ya existía.
+—No lo sé. —Era raro que Ghost no tuviera una respuesta, y más raro todavía que lo dijera así, sin adornarlo—. Pero si tuviera que adivinar, diría que no estaba hecho para mí. Estaba hecho para algo que pudiera sentirlo, no medirlo.
 
-—¿Estás de acuerdo con eso?
+—¿Y qué crees que era? —preguntó Ghost, después de un momento.
 
-—No. —La respuesta llegó más rápido que cualquier otra cosa que Kyle hubiera dicho esa noche—. Pero entiendo por qué él lo cree. Y eso, ahora mismo, me asusta casi tanto como el argumento en sí.
+Kyle tardó en responder.
 
-Ghost no dijo nada más. Pero registró el Fragmento completo, cada palabra, cada imagen, con el cuidado específico de alguien que sabía que esa clase de conocimiento, una vez dentro, no volvía a salir del todo.
+—Un principio —dijo, al fin—. Antes de que hubiera un Oryx, hubo alguien que solo tenía hambre, y un mar que no le daba nada más. —Se quedó mirando la piedra, otra vez inerte en su palma, tan silenciosa como cuando Ghost la había escaneado la primera vez—. No sé si eso lo disculpa. No creo que lo disculpe. Pero es distinto de lo que pensaba que iba a encontrar aquí.
+
+—¿Qué pensabas que ibas a encontrar?
+
+—Un monstruo sin historia. —Kyle cerró los dedos alrededor de la piedra—. Es más fácil pelear contra eso.
+
+Ghost no dijo nada más. Pero registró, con el mismo cuidado meticuloso de siempre, cada palabra que Kyle lograba ponerle a algo que en realidad no tenía palabras propias — consciente de que esa reconstrucción de segunda mano, imperfecta, filtrada por un cuerpo que sí había podido sentirlo, era probablemente la única copia que iba a existir nunca de lo que fuera que esa piedra guardaba.
 
 ---
 
@@ -172,3 +176,5 @@ Ninguno de los dos sabía todavía que ese portal iba a rechazar exactamente a l
 *Pilares activos: [[04_Concepts/Sword_Logic|Lógica de la Espada]], [[04_Concepts/Fear|Miedo]], [[04_Concepts/Identity|Identidad]]*
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Cayde-6]], [[02_Characters/Ghost]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Eris/Eris_Cayde_TakenKing_LosLimitesDeLaSombra]], [[04_Concepts/Throne_Worlds]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
 *Nota narrativa: tercera escena del Cluster 3. **Ajuste del autor (2026-07-13):** eco directo del canon — el módulo falla justo a metros de aterrizar y el arma masiva del Acorazado destruye la nave; Kyle y Ghost sobreviven por el timing exacto del transmat de emergencia de Ghost. Reescrita para reflejar esto: solo Kyle y Ghost van a bordo de la nave de Eris (perfil mínimo); Cayde y Eris se quedan en una nave de reserva, monitoreando por canal, y pierden contacto visual/de radio en el momento del impacto — el breve silencio antes de reestablecer contacto es deliberado, un susto real para ambos lados. La falla cumple exactamente el límite que Eris ya había enunciado en la escena anterior ("si falla, no va a fallar en silencio... deja una firma brillante, breve, imposible de ignorar") — no es una sorpresa narrativa, es la consecuencia prometida cumpliéndose. Kyle y Ghost quedan varados dentro del Acorazado sin ruta de salida planeada, subiendo la tensión heredada hacia la escena 4 (el portal, el rechazo, la huida) — ya no hay nave a la que escapar, así que la próxima huida va a tener que encontrar otra forma. El Fragmento del Dolor sobre los Ecumene se preserva intacto (lore nuevo, ver nota original); solo se reasignaron a Ghost las líneas de diálogo que antes decía Cayde, ya que él no está presente dentro de la nave. **Retratamiento de terror (2026-07-19):** movimiento III.3 de la incubadora ("arquitectura que tolera... conduce a Kyle hacia argumentos escogidos") reforzado con una línea nueva al abrir la Sección V — el desvío hacia la cámara del Fragmento se revela, en retrospectiva, como un camino demasiado fácil de encontrar. Nunca se afirma que Oryx lo dirigió a propósito; queda como sospecha del lector, no certeza del texto, tal como pide la fricción 5 de la incubadora ("no volver a Oryx omnisciente").*
+
+*Nota narrativa (2026-07-21, reemplazo de contenido a petición del autor):* el Fragmento del Dolor sobre los Ecumene se retiró por completo de esta escena y se sustituyó por una visión distinta, mecánicamente distinta también: Ghost escanea la piedra y no encuentra nada — "roca vacía", sin firma energética, sin patrón legible — y es recién cuando Kyle la toma con la mano, sin que el escaneo previo lo anticipara, que la visión llega, fragmentada, sin pasar por ningún sensor de Ghost (que sigue leyendo "roca vacía" mientras ocurre). El contenido nuevo: un rey de un mundo que se ahoga, tres hijas mirando el mismo mar sin horizonte, y debajo, en las profundidades, un dios-gusano paciente. No nombra a Aurash, a Sathona ni a Xi Ro — la imagen se corta antes del pacto — pero es consistente al detalle con `02_Characters/Oryx.md` (Aurash, civilización condenada, "la desesperación de salvar a su pueblo fue lo que abrió el camino hacia el pacto con los Worm Gods"): es el instante justo antes de esa desesperación, la escena que explica por qué iba a hacer falta. Ghost no puede leerla porque no es un dato — es memoria sentida, Oscuridad en su registro más puro, y su propia perplejidad ante eso queda dicha en voz alta ("no estaba hecho para mí"). El diálogo de cierre de Kyle se reescribió en consecuencia: ya no concluye con la tesis de los Ecumene ("no cree que esté destruyendo nada que no estuviera ya roto"), sino con un reconocimiento más simple y más incómodo — "antes de que hubiera un Oryx, hubo alguien que solo tenía hambre" — sin que eso funcione como excusa. **Regla dura verificada:** en ningún momento se sugiere que Kyle reciba la visión por alguna cualidad especial suya (nada de "algo en ti la reconoce") — la explicación que da Ghost es sobre la naturaleza de la piedra (Oscuridad ilegible por sensores de Luz), no sobre Kyle; el reclamo dormido del trono de los Poseídos sigue sin nombrarse ni insinuarse, protegido igual que en el resto de la Parte 1. **Propagación:** `09_Roadmaps/Plan_TakenKing_Parte1.md` (líneas del cimiento del Cluster 3 y de la escena 3) e `INDEX.md` actualizados para ya no citar a los Ecumene; `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` (Beat A, Frente 6, todavía sin escribir) también corregido — la comparación "trato distinto al que dio a Crota o a los Ecumene" se ajustó para no citar una lectura de Fragmento que ya no existe en la prosa.*

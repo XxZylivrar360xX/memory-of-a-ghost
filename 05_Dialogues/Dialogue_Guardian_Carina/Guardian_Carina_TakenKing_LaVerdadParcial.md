@@ -53,7 +53,7 @@ Carina lo miró con algo más agudo que sorpresa.
 
 Carina se quedó callada un momento largo.
 
-—No voy a hablar de eso —dijo, finalmente, sin negar lo que él había leído—. No contigo. No todavía. Quizás no nunca.
+—No voy a hablar de eso —dijo, finalmente, sin negar lo que él había leído—. No contigo. No te conozco.
 
 —No te lo estoy pidiendo.
 
@@ -67,7 +67,7 @@ Lo que Carina no dijo —ni a él, ni a nadie, todavía— era la forma exacta e
 
 ## III. Lo que el Guardian tradujo
 
-—Crota mató a mi Primera Escuadra —dijo el Guardian, después de un momento, ofreciendo lo que tenía a cambio de lo que ella no había ofrecido—. No a todos. Pero perdí gente ahí, y cuando lo vencí, pensé que eso cerraba algo. —Miró hacia el Hellmouth a la distancia—. Después Oryx llegó, y entendí que no cerré nada. Solo abrí una puerta más grande.
+—Maté a Crota —dijo el Guardian, después de un momento, ofreciendo lo que tenía a cambio de lo que ella no había ofrecido—. Toda la Ciudad empezó a llamarme Matadioses después de eso, como si un solo golpe pudiera resumir lo que soy. Pensé que había cerrado algo. —Miró hacia el Hellmouth a la distancia—. Después Oryx llegó, y entendí que no cerré nada. Solo abrí una puerta más grande.
 
 —¿Y eso es lo que te trajo aquí? ¿Culpa?
 
@@ -116,9 +116,11 @@ Carina la tomó, un apretón breve, firme, el primer gesto físico entre ambos q
 ---
 
 *Pilares activos: [[04_Concepts/Trust|Confianza]], [[04_Concepts/Consequences|Consecuencias]], [[04_Concepts/Identity|Identidad]]*
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Carina]], [[02_Characters/Shin_Malphur]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_LaInterseccion]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_ElRegicidioFisico]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[09_Roadmaps/Plan_Carina_UltimaPalabra_EstaticaBruma]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Carina]], [[02_Characters/Shin_Malphur]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_LaInterseccion]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_ElRegicidioFisico]], [[05_Dialogues/Dialogue_Guardian_Carina/Espectros_TakenKing_LoQueTampocoSeDice]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[09_Roadmaps/Plan_Carina_UltimaPalabra_EstaticaBruma]]*
 *Nota narrativa: cuarta escena del Cluster 4. Cimiento respetado al pie de la letra: Carina solo nombra "plaga" e "inocentes", nunca a Lena directamente — el Guardian lee la textura emocional detrás de sus palabras sin que ella confirme nada, y él respeta el límite cuando ella lo marca ("no voy a hablar de eso"). Progresión del vínculo cumplida: disputa de métodos → lectura parcial del dolor → objetivo compartido, cerrando en el "dúo incómodo" explícito ("no esperes que esto sea cómodo"). El Guardian traduce la reticencia de ella desde su propia culpa por Crota, exactamente como fijó el cimiento original. Ninguno de los dos usa el nombre "Kyle" — Carina todavía no lo conoce; el trato se sella sin necesidad de presentaciones formales, coherente con la "amistad que tardó en nombrarse" ya establecida en la ficha de Carina para etapas posteriores de la relación.*
 
 *Nota narrativa (2026-07-16): propagado el legado de Shin Malphur, Movimiento VI punto 3 de `Agent_Notes/codex/2026-07-16_incubadora-carina-estatica-bruma-ultima-palabra.md` — esta es, literalmente, la escena que le da nombre a ese movimiento ("La Verdad Parcial: Kyle carga culpa por Crota; Carina carga culpa por haberse quedado y no haber salvado a Lena"). Un solo beat interior añadido en la Sección II, en el silencio que sigue a "no voy a hablar de eso": la lógica exacta de la herida, nunca dicha en voz alta ni a Kyle ni a nadie — que eligió un momento, una pasada, una grúa, y que alguien pagó exactamente ese margen; una cuenta que solo a ella le corresponde seguir pagando, sola. Esta escena deja la herida intacta, sin refutarla todavía — la refutación práctica ya vive en `LaInterseccion` (un ángulo cubierto sin pedirlo) y su pago explícito en `ElRegicidioFisico` (dejar de cargar el costo sola). Con esto, las tres escenas de `Dialogue_Guardian_Carina/` que propagaban el legado de Shin quedan completas; solo falta el eco de la estática en Guerra Roja.*
 
 *Nota narrativa (retratamiento de terror, 2026-07-19):* revisada contra el movimiento IV.5 de la incubadora ("verdades parciales... se ofrecen información incompleta, pero no usan la herida del otro como palanca"). La escena completa ya cumple esto con precisión — ninguno fuerza la confesión del otro, ambos respetan el límite marcado. Sin cambios de prosa en esta escena.
+
+*Corrección de continuidad (2026-07-21):* la Sección III decía "Crota mató a mi Primera Escuadra... perdí gente ahí", contradiciendo el canon ya fijado en sesión 2026-07-15 (`Plan_AgeI_TresCaras.md`): la Primera Escuadra completa sale con vida de Crota's End ("Salieron los seis", `Cap_02_Bane_of_Hope`) y muere junta mucho después, en Red War (Age V-VI), no en Taken King. Corregido — el costo que el Guardian ofrece ahora es el nacimiento del mito **Matadioses** (pérdida de anonimato, no de vidas), consistente con la pérdida real ya fijada para Dark Below/Crota's End. La distinción culpa/responsabilidad que sigue en el diálogo no dependía de la muerte de nadie y queda intacta.

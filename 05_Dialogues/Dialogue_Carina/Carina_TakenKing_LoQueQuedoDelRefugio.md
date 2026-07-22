@@ -209,7 +209,35 @@ No supo cuánto tiempo pasó así. Cuando pudo volver a respirar del todo, cerr�
 
 ---
 
-## VIII. La partida
+## VIII. El nombre
+
+Hornet estaba cerca de la ventana, la carcasa inclinada hacia el suelo, con un temblor pequeño, apenas visible, que Carina tardó un segundo en reconocer como algo más que el zumbido normal de sus fragmentos — un movimiento repetido, cerrado, que en cualquier otra criatura habría leído como negar con la cabeza.
+
+Guardó la caja donde nadie fuera a preguntar por ella antes de acercarse.
+
+—¿Estás bien?
+
+Hornet tardó en contestar. Nunca tardaba.
+
+—El canal interno de Espectros —dijo, al fin, sin levantar la mirada del suelo—. Lleva días saturado. Retiradas forzadas. Reportes de bajas. Uno detrás de otro, sin espacio entre ellos para que nadie termine de procesar el anterior antes de que llegue el siguiente.
+
+—¿Estás diciendo que esto pasó también en otros lados de la Tierra? ¿Qué tanto ha sido afectado?
+
+—Carina... —Su voz, siempre precisa, siempre medida, cargaba ahora una preocupación que ella casi nunca le escuchaba con tanta claridad—. Es en todo Sol. Esto no es un ataque aislado. Es una invasión. Y todos repiten una palabra, un nombre.
+
+—¿Cuál?
+
+—Oryx.
+
+El nombre no le dijo nada a Carina. Ninguna historia, ningún rostro, ninguna campaña a la que pudiera anclarlo. Le dijo, sin embargo, una sola cosa, con la misma claridad instantánea con la que leía cualquier otro blanco antes de disparar: alguien, en algún punto del sistema, acababa de ponerle nombre a lo que le había quitado a Lena.
+
+La cazadora acababa de bautizar a su presa.
+
+—Vamos a buscar a Cayde —dijo, y no era una pregunta.
+
+---
+
+## IX. La partida
 
 —¿Vas a volver? —preguntó Teodor, en la puerta.
 
@@ -225,7 +253,7 @@ El Titán asintió, como si eso fuera suficiente respuesta, porque probablemente
 
 ---
 
-## IX. Lo que llevó consigo, sin saberlo
+## X. Lo que llevó consigo, sin saberlo
 
 Carina subió al colibrí y no miró hacia atrás mientras se alejaba del Refugio del Muelle.
 
@@ -233,12 +261,14 @@ No fue la última vez por decisión consciente — solo fue la primera de muchas
 
 No sabía, todavía, hacia dónde exactamente la iba a llevar ese movimiento, ni con quiénes. Solo sabía que moverse era la única forma que había encontrado, esa tarde, de seguir funcionando, y que dejar de moverse se sentía, por ahora, como el peligro más grande de todos.
 
+Pero movimiento no era lo mismo que deriva. Hornet ya había empezado, sin que ella se lo pidiera, a ordenar lo poco que el canal saturado de Espectros todavía dejaba ordenar — qué frentes coincidían con actividad Colmena ya documentada, qué patrones de retirada repetían la forma de invasiones cartografiadas siglos atrás en la Luna. No era impaciencia. Era la misma cautela de siempre, la que construía márgenes antes de que Carina los necesitara, aplicada ahora a una guerra entera en vez de a una sola habitación. Si Cayde no tenía una respuesta útil que darle, ella ya iba a tener la suya propia.
+
 Ninguno de los que la esperaban más adelante, en lugares que ella todavía no podía nombrar, sabría nunca, a menos que ella decidiera contarlo, que la persona que hacía habitable cualquier sala, que nunca dejaba un silencio pesado durar más de lo necesario, que siempre tenía la broma correcta en el momento correcto, había aprendido a hacer todo eso en un refugio pequeño junto a un lago, cuidando el recuerdo de alguien que la vio de verdad una sola vez, y a quien no le alcanzó el tiempo para volver a hacerlo.
 
 ---
 
 *Pilares activos: [[04_Concepts/Memory|Memoria]], [[04_Concepts/Love|Amor]], [[04_Concepts/Identity|Identidad]], [[04_Concepts/Hope|Esperanza]]*
-*Conecta con: [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueNadieMasLee]], [[05_Dialogues/Dialogue_Guardian/Guardian_Carina_PostFinalShape_ElSaltoDeFe]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta]], [[02_Characters/Carina]], [[01_Timeline/Raids/WrathOfTheMachine]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
+*Conecta con: [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueNadieMasLee]], [[05_Dialogues/Dialogue_Guardian/Guardian_Carina_PostFinalShape_ElSaltoDeFe]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TakenKing_ElProblemaDeAcceso]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[01_Timeline/Raids/WrathOfTheMachine]], [[09_Roadmaps/Plan_TakenKing_Parte1]]*
 *Nota de enlace (2026-07-13): cierra el Cluster 2 de `Plan_TakenKing_Parte1.md` ("Invasión y la Mano del Rey") — los "lugares que ella todavía no podía nombrar" son ahora concretos: Carina se dirige hacia el frente de Taken King, donde el Cluster 4 la lleva al Hellmouth y al primer encuentro con el Guardian. WotM sigue siendo un destino real más adelante en su historia, solo ya no el inmediato. No se modificó el texto de la escena.*
 
 *Nota narrativa: expandida (2026-07-13) de 103 a 191 líneas (objetivo de la nota de incubación: 250-400; quedó corta por la misma razón que las escenas anteriores del arco — se priorizó densidad sobre relleno una vez que los ocho movimientos se sintieron completos), siguiendo la sección 5 de la nota de incubación de Codex (`Agent_Notes/codex/2026-07-12_incubadora-mapa-arco-carina-lena.md`) — "expandir el duelo material". Se añadió el cuaderno de cuentas de Lena con su última entrada sin terminar (una revisión médica prometida que nunca va a ocurrir), suministros pendientes de pedir y decisiones comunitarias a medio tomar — objetos deliberadamente no-simbólicos, una vida interrumpida a mitad de frase, no un altar. Nuevo movimiento V: la mujer del niño (ya presentada en la decisión discutible de `LoQueSeConstruyeDespacio`) le pregunta a Carina si va a quedarse a ocupar el lugar de Lena, y Carina articula en voz alta la pregunta central de la nota — si quedarse ayudaría al Refugio o solo lo congelaría alrededor de su duelo — y elige irse con la bendición de la comunidad, no con su reproche. Nuevo movimiento VI: decisiones concretas de qué llevarse (el cuaderno de cuentas), qué dejar (los instrumentos finos, que pertenecen al oficio de Lena, no al suyo) y qué no puede tocar todavía (la taza del té, dejada exactamente donde estaba). El funeral permanece fuera de cuadro, sin escena sustituta. El flashback de la tormenta se preservó sin alterar ningún hecho ya establecido —incluida la línea protegida "prefiero el fin del mundo, si el fin del mundo es lo que te trajo hasta mi puerta"—, solo con más textura sensorial (el olor a tierra mojada, el ritmo de la lluvia). **Corrección de continuidad:** el cierre original nombraba explícitamente a Jaden y Kyle como los próximos encuentros de Carina; siguiendo la instrucción de la nota de no cerrar el azar del destino con demasiada explicitud narrativa, se reemplazó por una referencia oblicua ("lugares que ella todavía no podía nombrar") — la información sigue siendo canon y verificable en `LoQueOryxSeLlevoDePaso`, `LoQueElRefugioTodaviaGuarda` y la ficha de Carina, solo ya no la narra la voz de esta escena en particular. Se protege la instrucción de no mirar atrás y de que el patrón nazca sin decisión consciente ("no fue la última vez por decisión consciente").*
@@ -246,3 +276,7 @@ Ninguno de los que la esperaban más adelante, en lugares que ella todavía no p
 *Nota narrativa (2026-07-15): añadida la cicatriz solar de Blade Barrage en la pared de la clínica (movimiento I), pago visual pendiente desde la reescritura de `LoQueOryxSeLlevoDePaso` — la marca que Carina causó al salvar a Teodor y a la niña queda en el mismo espacio que ella recorre semanas después, sin que nadie se la mencione ni ella la explique.*
 
 *Nota de pago (2026-07-18): la cajita del Movimiento VII, que Carina se prometió "no volver a abrir hasta estar lista para contestar" (sin saber "cuántos años iba a tardar eso, ni con quién"), se resuelve en `Carina_Lena_PostFinalShape_LaRespuesta` — años después, sola, sin presencia ni señal externa, la reabre y responde.*
+
+*Nota narrativa (2026-07-20): insertado un movimiento nuevo, VIII ("El nombre"), entre la cajita y la partida, a petición del autor — renumerando los antiguos VIII-IX a IX-X. Hornet, que lleva días absorbiendo el canal interno de Espectros saturado de retiradas forzadas y reportes de bajas, le da a Carina la primera imagen completa de la escala del ataque: no es local, es todo Sol, y cada reporte repite el mismo nombre — Oryx. Es la primera vez que Carina escucha ese nombre; no le dice nada de historia, pero le da algo más útil todavía, un blanco al que ponerle cara a la pérdida de Lena. Cierra con "Vamos a buscar a Cayde", la decisión que la conecta hacia adelante con `Guardian_Cayde_TakenKing_ElProblemaDeAcceso` (Cluster 3, donde confronta a Cayde) sin nombrar todavía a Kyle ni a Jaden — protegiendo la instrucción de 2026-07-13 de no cerrar el azar del destino con demasiada explicitud narrativa; buscar a Cayde es una decisión activa de Carina, no un adelanto de a quién va a encontrar en el camino. El temblor de Hornet mirando al suelo es la primera vez en su arco que se le ve visiblemente desbordado — consistente con su ficha (`Hornet.md`): habla poco porque las palabras son moneda, así que la demora antes de responder pesa tanto como lo que dice.*
+
+*Nota de resolución (2026-07-21): responde a `99_Reference/Agent_Notes/codex/2026-07-21_auditoria-origen-kyle-carina-hellmouth.md` (severidad baja-media, sin bloquear canon). El hallazgo: el origen Kyle-Carina en el Hellmouth (Cluster 4) se sostiene bien, pero el puente entre "Carina confronta a Cayde y no queda convencida" (`Carina_Cayde_TakenKing_LaPresionCivil`) y "ya está bajando a la Tumba del Mundo por su propia inteligencia" (`Guardian_TakenKing_DosDescensos`) quedaba comprimido — riesgo de leerse como que el destino la puso donde estaba Kyle, no como consecuencia de su propia investigación. Resuelto con la opción 2 de Codex: se añadió un párrafo al cierre del Movimiento X — mientras Carina se aleja del Refugio sin saber todavía hacia dónde la va a llevar el movimiento a largo plazo, Hornet ya empieza, sin que ella se lo pida, a cruzar el tráfico saturado de Espectros contra actividad Colmena documentada y patrones de invasión ya cartografiados en la Luna. Establece, antes de que Carina siquiera hable con Cayde, que su llegada a la Tumba del Mundo va a ser trabajo propio de ella y Hornet — la misma cautela de "construir márgenes" ya fijada en `Hornet.md`, aplicada a inteligencia en vez de a combate — y no una casualidad narrativa. No se tocó nada del resto de la auditoría (rescate mutuo, disputa sin confesiones, King's Fall reservado a la Primera Escuadra, cierre de Elsie, decanonización de WotM), tal como Codex recomendó proteger.*
