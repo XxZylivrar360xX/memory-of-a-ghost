@@ -33,7 +33,7 @@ No hizo falta que Carina le agradeciera. Los dos sabían exactamente qué estaba
 
 El vuelo hacia el Viejo Chicago fue más largo de lo que Carina recordaba, o quizás solo se sintió más largo porque esta vez no tenía prisa por llegar a ningún lado, ni siquiera prisa por terminar de una vez con lo que fuera a encontrar.
 
-Había construido, sin darse cuenta, una versión del Refugio del Muelle que existía solo en su cabeza — el embarcadero todavía firme bajo los pies, el olor específico a pescado y humo de leña, la clínica con la puerta siempre entornada, el sonido de la niña de la fiebre riéndose de algo en algún lugar cercano. Ocho años de no volver le habían dejado esa versión intacta, congelada, más real en la memoria que cualquier fotografía.
+Había construido, sin darse cuenta, una versión del Refugio del Muelle que existía solo en su cabeza — el embarcadero todavía firme bajo los pies, el olor específico a pescado y humo de leña, la clínica con la puerta siempre entornada, el sonido de Nastia riéndose de algo en algún lugar cercano. Ocho años de no volver le habían dejado esa versión intacta, congelada, más real en la memoria que cualquier fotografía.
 
 La geografía real no coincidía con ninguna parte de eso.
 

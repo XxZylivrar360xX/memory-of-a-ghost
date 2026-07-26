@@ -588,3 +588,9 @@ parte de él continúa viviendo en:
 Porque Cayde entendió algo que muchos dioses jamás comprendieron:
 
 > seguir riendo también es una forma de desafiar la oscuridad.
+
+---
+
+# Hilo pendiente — Blade Barrage (fijado 2026-07-26, sin escena propia)
+
+Carina le enseña Blade Barrage en el Crisol, en Age I, durante su año solitario (ver `11_Books/Book_02_The_King_Of_Shapes/Prologue/02_What_She_Chose_Alone.md`, Sección IX) — no es su estilo natural ("nada es mi estilo hasta que decido que lo es"), y nunca vuelve a usarla en el Crisol después de aprenderla. **Canon fijado, sin escena escrita todavía:** la única vez que Cayde la usa en combate real es en su enfrentamiento final contra los Desdeñados, poco antes de morir (Forsaken, Age VI) — la lluvia de cuchillas que Carina le enseñó como último recurso, no como espectáculo. Pendiente para cuando se redacte esa escena; no contradice nada ya escrito sobre su muerte (`Guardian_Elsie_Forsaken_PostCayde` cubre el después, no el combate en sí).

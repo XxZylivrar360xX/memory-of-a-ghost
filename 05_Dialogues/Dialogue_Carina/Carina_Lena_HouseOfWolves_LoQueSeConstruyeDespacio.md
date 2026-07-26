@@ -31,17 +31,17 @@ No fue la única vez. Durante las semanas siguientes, cada visita trajo algo —
 
 ## II. La niña con fiebre
 
-La encontró, semanas después, sentada en el suelo de la clínica con una niña de unos seis años en el regazo, la cabeza de la niña apoyada contra su pecho, ambas cantando algo en un idioma que Carina no reconoció del todo — ruso, quizás, o algo más viejo que Lena llevaba consigo desde antes del Colapso.
+La encontró, semanas después, sentada en el suelo de la clínica con una niña de unos seis años en el regazo, la cabeza de Nastia apoyada contra su pecho, ambas cantando algo en un idioma que Carina no reconoció del todo — ruso, quizás, o algo más viejo que Lena llevaba consigo desde antes del Colapso.
 
-La niña tenía fiebre. No una fiebre peligrosa — Lena ya lo había confirmado, con la calma específica de alguien que ha aprendido a distinguir el miedo justificado del miedo automático — pero suficiente para que la niña llorara sin consuelo hasta que Lena la sentó así, cantando, sin prisa por que se durmiera.
+Nastia tenía fiebre. No una fiebre peligrosa — Lena ya lo había confirmado, con la calma específica de alguien que ha aprendido a distinguir el miedo justificado del miedo automático — pero suficiente para que llorara sin consuelo hasta que Lena la sentó así, cantando, sin prisa por que se durmiera.
 
 Carina se quedó en la puerta, sin anunciarse.
 
 Lena la vio de todas formas. No se detuvo. Solo movió la cabeza, un gesto pequeño invitándola a entrar sin interrumpir la canción.
 
-Carina se sentó en el suelo, al otro lado de la niña, y esperó. No entendía la letra, pero entendía la forma — la misma frase repetida tres veces, más baja cada vez, hasta que apenas era un susurro con melodía.
+Carina se sentó en el suelo, al otro lado de Nastia, y esperó. No entendía la letra, pero entendía la forma — la misma frase repetida tres veces, más baja cada vez, hasta que apenas era un susurro con melodía.
 
-Cuando la niña por fin se durmió, Lena la levantó con el mismo cuidado con el que la había sostenido despierta, y la llevó a una cama en el cuarto de al lado. Volvió unos minutos después, secándose las manos, con la clase de cansancio que no se ve en la cara sino en cómo alguien se deja caer al sentarse.
+Cuando por fin se durmió, Lena la levantó con el mismo cuidado con el que la había sostenido despierta, y la llevó a una cama en el cuarto de al lado. Volvió unos minutos después, secándose las manos, con la clase de cansancio que no se ve en la cara sino en cómo alguien se deja caer al sentarse.
 
 —No tenías que cantar —dijo Carina—. Podrías haberla dejado llorar hasta que el cansancio la venciera.
 
@@ -55,7 +55,7 @@ Carina no insistió. Guardó la pregunta, del mismo modo en que Lena guardaba la
 
 No hacía falta nombrar nada esa noche. Ya estaba cayendo, y las dos lo sabían.
 
-La niña, ya sin fiebre, volvió a la clínica tres días después por su propia cuenta, sin que nadie la mandara, y se plantó frente a Carina con la seriedad absoluta de alguien de seis años que ha decidido algo importante.
+Nastia, ya sin fiebre, volvió a la clínica tres días después por su propia cuenta, sin que nadie la mandara, y se plantó frente a Carina con la seriedad absoluta de alguien de seis años que ha decidido algo importante.
 
 —Lena dice que tú también curas —dijo—. ¿Puedes curar a mi conejo? Se rasguñó con la jaula.
 
@@ -73,7 +73,7 @@ No pudo discutirle la lógica. Se arrodilló, examinó al conejo —una criatura
 
 —Listo —dijo—. Curado.
 
-La niña examinó al conejo con la desconfianza profesional de alguien que ha visto a Lena trabajar de cerca, lo aprobó, y se fue corriendo sin dar las gracias, porque a esa edad las gracias todavía no se piensan, solo se sienten y se olvidan de decir.
+Nastia examinó al conejo con la desconfianza profesional de alguien que ha visto a Lena trabajar de cerca, lo aprobó, y se fue corriendo sin dar las gracias, porque a esa edad las gracias todavía no se piensan, solo se sienten y se olvidan de decir.
 
 —Le vas a arruinar la reputación a mi clínica —dijo Lena, sin dejar de sonreír—. Ahora todo el pueblo va a querer que la Guardiana les cure las mascotas.
 
@@ -289,7 +289,7 @@ Lena se recostó contra ella, la cabeza en su hombro, y por un rato ninguna de l
 
 —No es tan simple. Si cierro los ojos ahora mismo, alguien va a tocar la puerta de la clínica antes de que pasen diez minutos, y va a ser algo que de verdad importa, y yo voy a tener que levantarme de todas formas.
 
-—No estoy diciendo que te vayas a dormir del todo. —Carina se acomodó, dejando que Lena se recostara más cómoda contra ella—. Estoy diciendo que yo hago guardia en la puerta durante media hora exacta, y tú cierras los ojos, y si alguien toca, decido yo si es lo bastante grave como para despertarte. Si no lo es, se lo digo a la niña de la fiebre para que se lo lleve mañana.
+—No estoy diciendo que te vayas a dormir del todo. —Carina se acomodó, dejando que Lena se recostara más cómoda contra ella—. Estoy diciendo que yo hago guardia en la puerta durante media hora exacta, y tú cierras los ojos, y si alguien toca, decido yo si es lo bastante grave como para despertarte. Si no lo es, se lo digo a Nastia para que se lo lleve mañana.
 
 Lena abrió los ojos, sorprendida por la oferta concreta en vez de la compasión abstracta que esperaba.
 
@@ -301,7 +301,7 @@ Lena abrió los ojos, sorprendida por la oferta concreta en vez de la compasión
 
 —Es descanso para ti. Es lo único que puedo darte esta noche, así que lo vas a aceptar sin discutirlo, por una vez.
 
-Lena no discutió. Cerró los ojos, y por primera vez desde que Carina la conocía, se durmió sin terminar de resolver algo primero — a mitad de una frase sobre la niña de la fiebre, en el hombro de Carina, con el sonido del lago de fondo.
+Lena no discutió. Cerró los ojos, y por primera vez desde que Carina la conocía, se durmió sin terminar de resolver algo primero — a mitad de una frase sobre Nastia, en el hombro de Carina, con el sonido del lago de fondo.
 
 Carina se quedó despierta el resto de la media hora, contando el tiempo sin reloj, mirando la puerta de la clínica y el embarcadero y el agua oscura por turnos, sintiendo el peso completo de alguien que confiaba lo suficiente en ella como para dejar de vigilar, aunque fuera solo por treinta minutos.
 
@@ -321,3 +321,5 @@ Cuando Lena despertó, desorientada un segundo antes de recordar dónde estaba, 
 *Conecta con: [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueNadieMasLee]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta]], [[02_Characters/Carina]], [[01_Timeline/Age_I_The_First_Shape]]*
 
 *Nota narrativa: segunda escena del arco de Lena — expandida (2026-07-13) de cuatro vislumbres (105 líneas) a evento-montaje de siete movimientos (~300 líneas), siguiendo la sección 2 de la nota de incubación de Codex (`Agent_Notes/codex/2026-07-12_incubadora-mapa-arco-carina-lena.md`). La acumulación, no el instante, es lo que vuelve real el vínculo (eco deliberado de cómo se describe la amistad de Carina con Kyle en su propia ficha: "no nació en un momento... nació en docenas de momentos pequeños acumulados"). Los cuatro vislumbres originales (el regalo disfrazado de logística, la niña con fiebre, la cautela post-Dredgen, el embarcadero) se conservan y profundizan; se añaden tres movimientos nuevos: **la decisión discutible** (Lena como líder que absorbe un costo social real por hacer lo correcto, no solo la médica tierna de la escena anterior), **la ausencia que duró once días en vez de tres** (el costo concreto de amar a una Guardiana, pagado en soledad y espera, no solo declarado en el embarcadero como hipótesis), y **media hora sin que nadie la necesite** — Carina hace guardia en la puerta de la clínica para que Lena duerma, cuidado en acto en vez de en fantasía. **Corrección de continuidad hecha en el proceso (auditoría 2026-07-13):** el borrador original de este movimiento inventaba aquí el origen de "el mundo aburrido" — pero ese origen ya existe, ya escrito, en el flashback de la noche de tormenta de `Carina_TakenKing_LoQueQuedoDelRefugio` (citado verbatim en `Carina_FinalShape_ElCampoQueNuncaExistio`: "el que me contaste esa noche de tormenta"), con detalles específicos incompatibles con los que se habían inventado aquí (resfriado común / decidir qué cenar, no un gato llamado Boris ni un jardín de tomates). Se reemplazó el movimiento completo antes de cerrar la escena, para no dejar dos orígenes contradictorios del mismo símbolo en el arco. Se protege la instrucción de no gastar todavía la lectura completa que Lena hace del humor de Carina como defensa — eso pertenece a `LoQueNadieMasLee`. La frase "nadie me había tratado como persona antes de tratarme como arma" se preserva verbatim, ahora reforzada por haber sido puesta a prueba primero por la decisión discutible y la ausencia.*
+
+*Nota narrativa (2026-07-26): la niña con fiebre y el conejo recibe nombre — **Nastia** — propagado desde `Carina_Lena_HouseOfWolves_ElEncuentro` al adaptarse como Capítulo 3 de Book 02. Aplicado en la Sección II y en el callback de la Sección VII ("media hora sin que nadie la necesite"). No se tocó la niña herida de la familia de seis recién llegados en la Sección III ("la decisión discutible") — es un personaje distinto, sin nombre todavía.*

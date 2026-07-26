@@ -11,7 +11,11 @@
 
 ## Apariencia
 
-Casco de geometría más cerrada que la mayoría de los Espectros — los fragmentos están menos separados, con un ángulo que da la impresión de algo listo para contraerse en cualquier momento. El color es gris oscuro con detalles en ámbar profundo, casi dorado sucio. No es un diseño que llame la atención. Es un diseño que observa sin ser observado.
+*Referencia visual: `99_Reference/apariencias_personajes/hornet.jpg`.*
+
+Carcasa en forma de estrella de cuatro puntas, los fragmentos exteriores prolongados en aletas afiladas, casi como cuchillas — geometría más agresiva que la del Espectro promedio, algo que parece listo para cortar el aire en cualquier dirección sin necesitar aviso. Los paneles principales son de un lavanda pálido con una textura tejida, casi de tela entrecruzada, visible de cerca. En el centro, un rombo de color dorado ámbar enmarca el ojo — una lente azul cielo pálido, quieta, que no parpadea tanto como algunos Espectros más expresivos. Los bordes y las bisagras son de un gris metálico, plateado y sin brillo, la clase de acabado hecho para durar, no para llamar la atención.
+
+No es un diseño discreto — el lavanda y el dorado se notan en cualquier habitación — pero sí es un diseño que observa más de lo que se deja observar: la carcasa entera se mantiene casi inmóvil incluso cuando está alerta, todo el movimiento concentrado en el ojo.
 
 La voz es lo primero que la gente nota: suave, baja, precisa. El tipo de voz que, cuando dice *no hagas eso*, hace que uno lo piense dos veces sin entender exactamente por qué.
 
