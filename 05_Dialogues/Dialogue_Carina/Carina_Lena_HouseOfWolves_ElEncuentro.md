@@ -31,11 +31,11 @@ El hombre que la interceptó en lo que hacía las veces de entrada al asentamien
 
 —Guardiana —dijo, sin pregunta en la palabra, solo constatación.
 
-—Vengo por el reporte de actividad Eliksni cerca del muelle.
+—Vengo por el reporte de actividad de los Caídos cerca del muelle.
 
 —Ese reporte tiene tres días. —No lo dijo como acusación, solo como un hecho que dejaba flotando entre los dos—. Lo mandamos a la primera patrulla que pasó por el relevo de comunicaciones. No esperábamos que tardara tanto en llegar a alguien.
 
-—Los reportes tardan en llegar a donde yo estoy —dijo Carina, y no era mentira ni excusa: la Ciudad tenía prioridades, y un puñado de Eliksni dispersos cerca de un asentamiento pequeño no siempre encabezaba la lista.
+—Los reportes tardan en llegar a donde yo estoy —dijo Carina, y no era mentira ni excusa: la Ciudad tenía prioridades, y un puñado de Caídos dispersos cerca de un asentamiento pequeño no siempre encabezaba la lista.
 
 El hombre la midió un segundo más de lo cómodo. No había hostilidad en la mirada — Carina había visto hostilidad antes, y esto no era eso. Era algo más parecido a cansancio calculador: la mirada de alguien que ha aprendido a evaluar rápido si algo nuevo va a costarle más de lo que va a darle.
 
@@ -69,9 +69,9 @@ No esperaba, tampoco, quedarse mirando un segundo de más antes de recordar por 
 
 ## IV
 
-La mujer se limpió las manos en un trapo que había visto días mejores, y la midió de arriba abajo con una calma que no tenía nada de intimidada — la misma calma con la que acababa de vendar una rodilla, aplicada ahora a una armadura que podía partir Eliksni a la mitad.
+La mujer se limpió las manos en un trapo que había visto días mejores, y la midió de arriba abajo con una calma que no tenía nada de intimidada — la misma calma con la que acababa de vendar una rodilla, aplicada ahora a una armadura que podía partir Caídos a la mitad.
 
-—Así que tú eres la Guardiana —dijo—. Llegas tarde. El reporte del Eliksni fue hace tres días.
+—Así que tú eres la Guardiana —dijo—. Llegas tarde. El reporte de los Caídos fue hace tres días.
 
 —Los reportes tardan en llegar a donde yo estoy.
 
@@ -171,7 +171,7 @@ No dijo en voz alta que no se refería solo a la Luz.
 
 Cumplió con el reporte antes de irse — se lo debía al asentamiento, y a sí misma, no dejar cabos sueltos por haberse quedado más tiempo del planeado en una clínica.
 
-El rastro Eliksni resultó ser exactamente lo que el informe original sugería: una banda pequeña, dispersa, restos de una Casa que ya no existía como tal, moviéndose sin patrón claro por el borde del lago. No un ataque en preparación. Algo más triste que eso — sobrevivientes sin bandera, buscando qué comer, del mismo modo en que el propio Refugio del Muelle había tenido que aprender a buscar qué comer, una generación antes.
+El rastro de los Caídos resultó ser exactamente lo que el informe original sugería: una banda pequeña, dispersa, restos de una Casa que ya no existía como tal, moviéndose sin patrón claro por el borde del lago. No un ataque en preparación. Algo más triste que eso — sobrevivientes sin bandera, buscando qué comer, del mismo modo en que el propio Refugio del Muelle había tenido que aprender a buscar qué comer, una generación antes.
 
 Carina anotó las coordenadas, marcó el nivel de amenaza como bajo, y recomendó vigilancia en vez de intervención. No era la clase de reporte que ganaba medallas. Era la clase de reporte correcto.
 
@@ -183,7 +183,7 @@ Le pareció, sin poder explicar del todo por qué, la lección más importante q
 
 ## VIII
 
-Se quedó más tiempo del que el reporte del Eliksni justificaba.
+Se quedó más tiempo del que el reporte de los Caídos justificaba.
 
 Encontró el rastro, sí, y lo dejó anotado. Pero volvió a la clínica antes de irse del todo, con la excusa de revisar a Teodor una vez más.
 
@@ -199,7 +199,7 @@ Pero se rió, genuinamente, algo que no le pasaba tan seguido como debería.
 
 —¿Es un problema? —dijo.
 
-—Depende. —Lena la miró de arriba abajo otra vez, más lento esta vez, sin el filtro clínico de antes—. ¿Vas a seguir viniendo con excusas de reportes de Eliksni, o vas a admitir que solo quieres ver a la médica del pueblo?
+—Depende. —Lena la miró de arriba abajo otra vez, más lento esta vez, sin el filtro clínico de antes—. ¿Vas a seguir viniendo con excusas de reportes de los Caídos, o vas a admitir que solo quieres ver a la médica del pueblo?
 
 —¿Las dos cosas no pueden ser verdad?
 
@@ -213,7 +213,7 @@ Carina se quedó en la puerta un momento más de lo necesario.
 
 —¿Qué significa eso? —dijo—. Lo que me dijiste.
 
-—¿Malyshka? —Lena se encogió de hombros—. Pequeña. Bebé. —Una pausa, la sonrisa volviendo, más filosa esta vez—. Acabas de resucitar hace, ¿qué, un año? Dos. Para mí, que llevo treinta y cuatro años en este cuerpo aprendiendo a no morirme de las formas ordinarias, eso te hace una bebé. Aunque puedas partir Eliksni a la mitad.
+—¿Malyshka? —Lena se encogió de hombros—. Pequeña. Bebé. —Una pausa, la sonrisa volviendo, más filosa esta vez—. Acabas de resucitar hace, ¿qué, un año? Dos. Para mí, que llevo treinta y cuatro años en este cuerpo aprendiendo a no morirme de las formas ordinarias, eso te hace una bebé. Aunque puedas partir Caídos a la mitad.
 
 —Eso es insultante.
 
@@ -278,4 +278,4 @@ Solo necesitaba que volviera.
 
 *Nota narrativa (2026-07-16): corregida la aritmética de "un año, dos" que Lena usaba para la edad de Carina como Guardiana (línea IX, ya escrita) — contradecía la cronología fijada esa misma sesión (`Carina_Shin_AgeI_DarSinQuePidan`, seis meses desde su renacimiento). No se tocó la línea original de Lena; se añadió un callback al final de la Sección IX, antes del cierre de la escena — Carina corrige el número de pasada, sin drama, y Lena se queda con la broma de "Malyshka" reforzada en vez de disuelta. También corregidas dos afirmaciones desactualizadas en esta misma nota: la referencia a Wrath of the Machine como primer encuentro con Kyle (decanonizado el 2026-07-13, ahora Taken King) y la cronología de Hornet (activo desde Age I, no desde Age III — la ficha ya lo corrige desde antes de hoy).*
 
-*Nota narrativa (2026-07-26): la niña de la rodilla y el pez recibe nombre — **Nastia** — al adaptar esta escena como Capítulo 3 de Book 02 (`11_Books/Book_02_The_King_Of_Shapes/Prologue/03_The_Encounter.md`). Propagar también a sus apariciones posteriores: `Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio` (la niña de la fiebre y el conejo) y `Carina_Haunted_LoQueElRefugioTodaviaGuarda` (mención retrospectiva, Season of the Haunted) — pendiente de aplicar en esta sesión o la próxima.*
+*Nota narrativa (2026-07-26): la niña de la rodilla y el pez recibe nombre — **Nastia** — al adaptar esta escena como Capítulo 3 de Book 02 (`11_Books/Book_02_The_King_Of_Shapes/00_Prologue/03_The_Wound_That_Would_Not_Close.md`, antes "The Encounter"). Propagar también a sus apariciones posteriores: `Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio` (la niña de la fiebre y el conejo) y `Carina_Haunted_LoQueElRefugioTodaviaGuarda` (mención retrospectiva, Season of the Haunted) — pendiente de aplicar en esta sesión o la próxima.*

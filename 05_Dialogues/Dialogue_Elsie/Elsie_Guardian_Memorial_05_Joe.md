@@ -54,7 +54,7 @@ Inalcanzable desde donde él estaba.
 
 Igual que Joe.
 
-Pensó en Ghost. En Elsie, de pie a su derecha con el silencio que había aprendido a llevar en estos cinco viajes. En el Eliksni del cobertizo de la Granja — vivo porque él había elegido bajar el arma. En la Ciudad reconstruyéndose. En los cuatro objetos que ya esperaban en la cabaña, y la brújula en su mano que haría el quinto.
+Pensó en Ghost. En Elsie, de pie a su derecha con el silencio que había aprendido a llevar en estos cinco viajes. En el Caído del cobertizo de la Granja — vivo porque él había elegido bajar el arma. En la Ciudad reconstruyéndose. En los cuatro objetos que ya esperaban en la cabaña, y la brújula en su mano que haría el quinto.
 
 En todo lo que había crecido sin que él lo notara.
 

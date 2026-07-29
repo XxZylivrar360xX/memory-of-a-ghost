@@ -8,7 +8,7 @@ status: abierto
 
 # Auditoria editorial — Book 02 / Prologue / 02_What_She_Chose_Alone
 
-**Archivo auditado:** `11_Books/Book_02_The_King_Of_Shapes/Prologue/02_What_She_Chose_Alone.md`
+**Archivo auditado:** `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/02_What_She_Chose_Alone.md`
 
 ## Hallazgo 1 — La Seccion IX rebasa la ventana temporal declarada
 

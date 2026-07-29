@@ -41,9 +41,9 @@ Para la tercera parada, algo había cambiado en cómo se hablaba de Escuadra Cer
 
 —La Ciudad Ensoñada también —confirmó Drifter—. Los corredores del Arrecife los vieron de cerca en La Deriva y no dejan de hablar de ellos desde entonces. Eso, viniendo de gente que normalmente no le da crédito a nadie que no sea de los suyos, dice bastante.
 
-—Y hay algo más —dijo Fynch, con un tono que Shaxx reconoció como el de encontrar un dato que no esperaba encontrar—. Parte de la Casa de la Luz también los sigue. Algunos Eliksni están apostando por Escuadra Cero.
+—Y hay algo más —dijo Fynch, con un tono que Shaxx reconoció como el de encontrar un dato que no esperaba encontrar—. Parte de la Casa de la Luz también los sigue. Algunos Caídos están apostando por Escuadra Cero.
 
-—¿Eliksni? —Shaxx se detuvo—. ¿Apostando en un torneo humano?
+—¿Caídos? —Shaxx se detuvo—. ¿Apostando en un torneo humano?
 
 —No es solo el torneo —dijo Fynch—. Es Kyle. Fue él quien avaló que la Casa de la Luz entrara a la Última Ciudad cuando nadie más quería garantizarles nada. Mithrax no olvida esas cosas. Su gente tampoco.
 

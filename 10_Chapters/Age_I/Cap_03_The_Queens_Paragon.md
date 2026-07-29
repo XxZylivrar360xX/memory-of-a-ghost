@@ -44,7 +44,7 @@ Kyle consideró eso durante el tiempo que tardó en entender que la pregunta era
 
 El Arrecife era exactamente lo que los informes describían y completamente diferente de lo que los informes describían.
 
-Los informes cubrían la geometría — la estructura de los asteroides anclados, la arquitectura de lo que había sido una civilización Eliksni antes de que el Colapso la convirtiera en un campo de escombros habitado. Los informes no cubrían la cualidad de presencia de un lugar que había aprendido a existir en los márgenes del sistema solar con la pragmática específica de algo que sobrevivió no porque fuera fuerte sino porque había encontrado el ángulo exacto desde el que la supervivencia era posible.
+Los informes cubrían la geometría — la estructura de los asteroides anclados, la arquitectura de lo que había sido una civilización de los Caídos antes de que el Colapso la convirtiera en un campo de escombros habitado. Los informes no cubrían la cualidad de presencia de un lugar que había aprendido a existir en los márgenes del sistema solar con la pragmática específica de algo que sobrevivió no porque fuera fuerte sino porque había encontrado el ángulo exacto desde el que la supervivencia era posible.
 
 Uldren los esperaba en la entrada.
 
@@ -134,15 +134,15 @@ No de la misma forma en que la humanidad lo había visto marcharse.
 
 La humanidad había visto al Viajero quedarse. Herido, silente, inmóvil sobre lo que quedaba de la Ciudad — pero ahí. Presente. Una promesa de que algo continuaba.
 
-Los Eliksni habían visto al Viajero irse.
+Los Caídos habían visto al Viajero irse.
 
 Sin aviso. Sin explicación. Sin la sombra de una justificación que hiciera el abandono comprensible para una civilización que había construido su teología, su arquitectura y su futuro alrededor de una presencia que simplemente decidió que tenía que estar en otro lugar.
 
 El Colapso había llegado a la Tierra cuando el Viajero llegó a la Tierra.
 
-La Oscuridad había seguido al Viajero desde los Eliksni hasta la humanidad.
+La Oscuridad había seguido al Viajero desde los Caídos hasta la humanidad.
 
-Lo que quedó de los Eliksni después de eso no era una civilización enemiga. Era lo que queda de una civilización cuando le quitas todo lo que le había dado forma y le dices que encuentre la manera de sobrevivir de todas formas.
+Lo que quedó de los Caídos después de eso no era una civilización enemiga. Era lo que queda de una civilización cuando le quitas todo lo que le había dado forma y le dices que encuentre la manera de sobrevivir de todas formas.
 
 Kyle dejó los archivos.
 
@@ -150,7 +150,7 @@ Kyle dejó los archivos.
 
 — Sí.
 
-— Los Eliksni y los humanos. El Colapso.
+— Los Caídos y los humanos. El Colapso.
 
 — Lo sé — dijo Ghost, con la brevedad de alguien que lleva tiempo sabiendo algo y que ha estado esperando el momento en que el otro también lo supiera.
 
@@ -252,7 +252,7 @@ Fue otra cosa.
 
 La comprensión de que las acciones tienen consecuencias que alguien debe hacer cumplir, y que la justicia no es matar a lo que te amenaza — es decidir que la amenaza responda ante algo más permanente que la eficiencia de eliminarlo. Que Skolas había construido lo que había construido sobre la base de un abandono real, y que matarlo sin que eso se nombrara era perder algo que debía nombrarse.
 
-No podía darle a Skolas lo que los Eliksni habían perdido.
+No podía darle a Skolas lo que los Caídos habían perdido.
 
 Podía darle a la Reina del Arrecife la oportunidad de hacer con él lo que la justicia requería, en lugar de lo que la eficiencia permitía.
 

@@ -2,6 +2,8 @@
 
 # Kell of Light — Destiny: Renewed Fate Saga
 
+> **Regla de canon (fijada 2026-07-26):** "Eliksni" es el nombre real que su especie usa para sí misma, pero ningún humano ni Guardián lo conoce todavía antes de **Season of the Splicer** (Age VIII) — es Mithrax quien lo revela, y el peso de esa revelación depende de que nadie lo haya usado antes de tiempo. Toda escena ambientada en Age VII o antes (incluida la porción de Beyond Light previa a Splicer dentro de Age VIII) debe llamarlos exclusivamente **"Caídos"**, nunca "Eliksni" — ni en narración ni en diálogo, sin excepción de personaje (ni Ghost, ni Osiris, ni el propio Mithrax antes de su nombre). Desde Season of the Splicer en adelante, "Eliksni" es el término correcto y preferido. Auditoría retroactiva aplicada el 2026-07-26 a las escenas de Age I, Age II (Book 02) y Age III que usaban el término de forma anacrónica.
+
 ---
 
 # Core Identity

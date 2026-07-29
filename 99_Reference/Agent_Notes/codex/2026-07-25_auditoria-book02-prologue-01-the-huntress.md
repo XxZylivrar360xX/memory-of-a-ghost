@@ -8,7 +8,7 @@ status: resuelta — 7/7 hallazgos aplicados 2026-07-25
 
 # Auditoria editorial — Book 02 / Prologue / 01_The_Huntress
 
-**Archivo auditado:** `11_Books/Book_02_The_King_Of_Shapes/Prologue/01_The_Huntress.md`
+**Archivo auditado:** `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress.md`
 
 ## Hallazgo 1 — La coda del "mismo dia" queda cronologicamente ambigua
 

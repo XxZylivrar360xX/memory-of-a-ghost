@@ -1,4 +1,4 @@
-# Chapter 2 — What She Chose Alone
+# Chapter 2 — The Patrols No One Wanted
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Prologue*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## I. Una entre muchos
+## I. One Among Many
 
 La Torre, esa primera semana, resultó ser más grande y más pequeña de lo que había imaginado durante el vuelo.
 
@@ -54,11 +54,11 @@ Hornet lo observó formarse sin comentarlo. No era su lugar todavía decir que r
 
 ---
 
-## II. El Eyasluna
+## II. The Eyasluna
 
 Lo encontró en su séptima semana de patrullajes, en lo que quedaba de un puesto de peaje al borde de una autopista que ya no llevaba a ninguna parte con nombre.
 
-El Dredgen llevaba muerto el tiempo suficiente como para que la Luz corrompida que alguna vez lo animó se hubiera apagado del todo, dejando solo un cuerpo y una armadura que en algún momento, mucho antes de que decidiera dejar de ser Guardián, debió haber significado algo para alguien. No supo qué lo mató. No había marcas de batalla reciente, ni rastro de otro combatiente. A veces, sospechaba Hornet sin decirlo en voz alta, los Dredgen simplemente dejaban de encontrar razones para seguir, y la Luz corrompida no sabía qué hacer con un cuerpo que ya no quería nada.
+El Dredgen llevaba muerto el tiempo suficiente como para que lo que Hornet identificaba como Luz corrompida —la firma que alguna vez lo animó— se hubiera apagado del todo, dejando solo un cuerpo y una armadura que en algún momento, mucho antes de que decidiera dejar de ser Guardián, debió haber significado algo para alguien. No supo qué lo mató. No había marcas de batalla reciente, ni rastro de otro combatiente. A veces, sospechaba Hornet sin decirlo en voz alta, los Dredgen simplemente dejaban de encontrar razones para seguir, y la Luz corrompida no sabía qué hacer con un cuerpo que ya no quería nada.
 
 —¿Vamos a dejarlo así? —preguntó Carina, mirando el cadáver con más incomodidad de la que esperaba sentir.
 
@@ -98,7 +98,7 @@ Decidió, sin anunciárselo a nadie, que la historia de dónde había salido el 
 
 ---
 
-## III. El hombre que se escapó de una junta
+## III. The Man Who Escaped a Meeting
 
 Lo encontró —o, más exacto, él la encontró a ella— tres meses después, en un patrullaje de rutina cerca de los restos de una presa hidroeléctrica que ya no generaba nada salvo el sonido constante del agua cayendo sobre concreto agrietado.
 
@@ -164,7 +164,7 @@ Se fue antes de que ella pudiera prometerle ninguna de las dos cosas.
 
 ---
 
-## IV. La Aurora
+## IV. The Dawning
 
 Los meses siguientes se acumularon del mismo modo en que se habían acumulado los primeros — patrullajes, el giro practicado hasta que dejó de sentirse como un truco y empezó a sentirse como una extensión del brazo, el Eyasluna cambiado, sin ceremonia, por costumbres nuevas que ella misma no terminaba de nombrar. Para cuando la Ciudad entera empezó a colgar luces de balcón a balcón sin ningún patrón militar, Carina ya no era exactamente la misma persona que había entregado un transmisor en un mostrador sin saber bien qué esperar a cambio.
 
@@ -282,7 +282,7 @@ Pero por primera vez, cargaba algo que se lo recordaba sin que doliera.
 
 ---
 
-## V. Lo que se queda
+## V. What Stays
 
 El Eyasluna nunca dejó de ser suyo, aunque La Última Palabra se volviera, casi de inmediato, la que desenfundaba primero. Lo guardó, limpio, en el fondo de un cajón que nadie más abría, no porque lo hubiera dejado de querer sino porque algunas cosas se cargan mejor cuando no tienen que demostrar nada todos los días.
 
@@ -296,7 +296,7 @@ Solo lo guardó, del mismo modo en que Carina guardaba el Eyasluna: sin necesida
 
 ---
 
-## VI. Restauración
+## VI. Restoration
 
 Empezó sin que nadie se lo asignara: la primera vez que un colono se cortó la mano intentando reparar un cerco cerca de un puesto de patrulla, Carina se arrodilló junto a él antes de que nadie más reaccionara, sin pensarlo, del mismo modo en que no había pensado ayudar a la familia de la carreta.
 
@@ -324,9 +324,9 @@ Carina no entendió del todo lo que quiso decir. Lo archivó, como archivaba tod
 
 ---
 
-## VII. El giro y las tres balas
+## VII. The Spin and the Three Shots
 
-El primer combate real en que lo necesitó fue una emboscada Eliksni menor, cerca de un puesto de comunicaciones abandonado — tres Vandales, más rápidos de lo que el reporte había sugerido, cerrando distancia antes de que Carina terminara de decidir hacia dónde retroceder.
+El primer combate real en que lo necesitó fue una emboscada menor de los Caídos, cerca de un puesto de comunicaciones abandonado — tres Vandales, más rápidos de lo que el reporte había sugerido, cerrando distancia antes de que Carina terminara de decidir hacia dónde retroceder.
 
 Su cuerpo decidió por ella. El giro que llevaba meses practicando contra latas oxidadas y blancos de entrenamiento salió solo, la mano encontrando La Última Palabra a mitad del movimiento sin que el ojo terminara de registrar el arma, y las tres balas del abanico salieron ya alineadas — no perfectas, todavía no, pero suficientes. Dos Vandales cayeron antes de completar su propio avance. El tercero, Carina lo derribó con el segundo disparo, de pie, sin necesitar el giro esta vez.
 
@@ -344,7 +344,7 @@ Hornet empezó a confiar en el movimiento tanto como confiaba en cualquier otra 
 
 ---
 
-## VIII. La costumbre
+## VIII. The Habit
 
 Para cuando el invierno terminó de aflojar su peso sobre la Ciudad, Carina ya no recordaba con precisión cuántas veces se había detenido a ayudar a alguien sin que se lo pidieran. Dejó de ser una decisión cada vez. Se volvió, simplemente, lo que hacía — la carreta, la mano cortada, el techo que necesitaba un remiendo urgente antes de la siguiente tormenta, ninguna de esas cosas requería ya el mismo esfuerzo consciente de la primera Aurora.
 
@@ -364,7 +364,7 @@ No llegó a una conclusión esa noche. Pero durmió, por primera vez en mucho ti
 
 ---
 
-## IX. El Crisol
+## IX. The Crucible
 
 Empezó como cualquier otra cosa que hacía sola: sin que se lo pidieran, sin ambición particular, solo porque el Crisol tenía un cupo libre una noche y a Carina se le había acabado la paciencia para quedarse en su cuarto contando el techo.
 
@@ -394,11 +394,11 @@ Carina no supo qué hacer con ese comentario, así que no hizo nada, y siguió p
 
 Desarrolló, con el tiempo, un truco que terminó siendo tan suyo como el giro con La Última Palabra: un cuchillo arrojadizo lanzado con un ángulo específico contra una columna o un muro cercano, que rebotaba una vez, después otra, y terminaba, con una frecuencia que dejó de sentirse como suerte mucho antes de que ella misma lo admitiera, enterrado en la cabeza de quien menos lo esperaba. Cada vez que conectaba, Carina se mordía el labio inferior y se encogía de hombros para no reírse — no por burla exactamente, sino porque siempre, sin falta, alguien en el equipo contrario decía por el comunicador, con el pánico específico de quien ya perdió esta pelea antes, *"no, ella no, otra vez no"*, agachado detrás de una cobertura que no lo iba a salvar de un ángulo que nunca vio venir. Los rivales que lo sufrían una vez empezaban a vigilar las paredes en vez de vigilarla a ella, lo cual, sospechaba Carina, era exactamente la mitad del punto — y la otra mitad era, sin más, lo divertido que era verlo funcionar.
 
-La reputación se construyó sola, del mismo modo silencioso en que se había construido todo lo demás. Para cuando llevaba un año completo entrando al Crisol sin que nadie se lo pidiera, hasta Shaxx —que no repartía reconocimiento con generosidad, y mucho menos a Cazadores nuevos que todavía no tenían ni un año de Luz— empezó a nombrarla en los anuncios de ronda con algo parecido al respeto: *"cuidado con los rebotes"*, decía, sin más explicación, y todo el que llevaba más de un mes en el Crisol sabía exactamente a qué se refería.
+La reputación se construyó sola, del mismo modo silencioso en que se había construido todo lo demás. Para cuando llevaba varios meses entrando al Crisol sin que nadie se lo pidiera, hasta Shaxx —que no repartía reconocimiento con generosidad, y mucho menos a Cazadores nuevos que todavía no tenían ni un año de Luz— empezó a nombrarla en los anuncios de ronda con algo parecido al respeto: *"cuidado con los rebotes"*, decía, sin más explicación, y todo el que llevaba más de un mes en el Crisol sabía exactamente a qué se refería.
 
-Prefirió, casi desde el principio, las partidas de Eliminación — tres contra tres, sin reapariciones, cada error pesando el resto de la ronda. Los enfrentamientos de seis contra seis le parecían ruidosos y un poco vacíos: demasiada gente, demasiado margen para que un error personal se disolviera en el caos general sin que nadie, ni siquiera ella, tuviera que hacerse responsable de él. La Eliminación no perdonaba eso. Cada bala, cada cuchillo, cada decisión de quedarse o retroceder pesaba con el mismo tipo de peso real que ya conocía de los patrullajes solitarios — y eso, sospechaba, era exactamente lo que afilaba en ella algo que el resto del Crisol solo desgastaba. Sin alma, le parecían los 6 contra 6, en comparación — una opinión que iba a repetir, casi palabra por palabra, años después, a alguien que en ese momento no era para ella más que un nombre mencionado de pasada por un Cazador que huía de sus juntas.
+Prefirió, casi desde el principio, las partidas de Eliminación — tres contra tres, sin reapariciones, cada error pesando el resto de la ronda. Los enfrentamientos de seis contra seis le parecían ruidosos y un poco vacíos: demasiada gente, demasiado margen para que un error personal se disolviera en el caos general sin que nadie, ni siquiera ella, tuviera que hacerse responsable de él. La Eliminación no perdonaba eso. Cada bala, cada cuchillo, cada decisión de quedarse o retroceder pesaba con el mismo tipo de peso real que ya conocía de los patrullajes solitarios — y eso, sospechaba, era exactamente lo que afilaba en ella algo que el resto del Crisol solo desgastaba. Sin alma, le parecían los 6 contra 6, en comparación — una preferencia que, sin saberlo, iba a terminar compartiendo años después con alguien que en ese momento no era para ella más que un nombre mencionado de pasada por un Cazador que huía de sus juntas.
 
-Ese mismo Cazador, meses más tarde, le pidió que le enseñara algo que ella daba por sentado y que a él, por alguna razón, nunca había terminado de salirle bien: Blade Barrage, la lluvia de cuchillas que la mayoría de los Cazadores usaba como espectáculo y que Carina usaba, cuando la usaba, como una escoba — barrer un ángulo entero de una sola vez, sin necesitar precisión, solo saturación. Cayde no tenía paciencia para practicar solo, así que practicó con ella, entre rondas, hasta que le salió — no tan limpio como a Carina, pero suficiente.
+Ese mismo Cazador, mucho después —ya bien entrado el Año 2, cuando el reporte que cierra este capítulo ya la había llevado a un lugar que todavía no imaginaba—, le pidió que le enseñara algo que ella daba por sentado y que a él, por alguna razón, nunca había terminado de salirle bien: Blade Barrage, la lluvia de cuchillas que la mayoría de los Cazadores usaba como espectáculo y que Carina usaba, cuando la usaba, como una escoba — barrer un ángulo entero de una sola vez, sin necesitar precisión, solo saturación. Cayde no tenía paciencia para practicar solo, así que practicó con ella, entre rondas, hasta que le salió — no tan limpio como a Carina, pero suficiente.
 
 —No es tu estilo —le dijo ella, viéndolo fallar el ángulo por tercera vez.
 
@@ -408,23 +408,25 @@ Ninguno de los dos le dio a esa frase más peso del que parecía tener esa tarde
 
 ---
 
-## X. El reporte
+## X. The Report
 
-Cuando llegó el siguiente reporte —una nota corta sobre actividad Eliksni dispersa cerca de un asentamiento pesquero al borde de un lago, presentada tres días tarde, porque los reportes de los márgenes siempre tardaban en llegar a donde ella estaba—, Carina lo tomó sin dudarlo, con el mismo instinto que la había hecho pedir el turno que nadie más quería.
+Cuando llegó el siguiente reporte —una nota corta sobre actividad dispersa de los Caídos cerca de un asentamiento pesquero al borde de un lago, presentada tres días tarde, porque los reportes de los márgenes siempre tardaban en llegar a donde ella estaba—, Carina lo tomó sin dudarlo, con el mismo instinto que la había hecho pedir el turno que nadie más quería.
 
 No tenía forma de saber que era el último reporte rutinario que iba a leer en mucho tiempo.
 
 ---
 
-*Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Cayde-6]], [[02_Characters/Shin_Malphur]], [[04_Concepts/La_Ultima_Palabra]], [[05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan]], [[08_Core_Relationships/La_Familia_Elegida]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Reed-7]], [[02_Characters/Aisha]], [[02_Characters/Cayde-6]], [[02_Characters/Shin_Malphur]], [[02_Characters/Lord_Shaxx]], [[04_Concepts/La_Ultima_Palabra]], [[04_Concepts/Torneo_De_Los_Velocistas]], [[05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan]], [[08_Core_Relationships/La_Familia_Elegida]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 2 del Prólogo de Book 02, título de trabajo "What She Chose Alone". Material enteramente nuevo en las Secciones I-III (el año solitario, el hallazgo del Eyasluna, el encuentro con Cayde) — sin fuente previa en `05_Dialogues/`. La Sección IV adapta, condensada y sin alterar ninguna línea de enseñanza central, `Carina_Shin_AgeI_DarSinQuePidan.md` completa (la entrega de La Última Palabra). El Eyasluna y el encuentro con Cayde fueron decisiones del autor (2026-07-25): primera arma real de Carina, encontrada —no dada— en un Dredgen muerto, estableciendo el contraste con el arma "dada" de Shin; el origen de su dominio de Golden Gun se ancla a un encuentro casual con Cayde, escabullido de sus deberes administrativos de Vanguardia, coherente con su caracterización ya fijada (calidez disfrazada de humor). Incluye guiño de ironía dramática pedido por el autor: Cayde menciona a "un amigo... Kyle" de pasada, sin que ninguno de los dos sepa que el destino los va a unir — mismo registro que el guiño de Aisha sobre Shayura/Reed-7 en el Capítulo 1, cero presagio real, solo textura de universo compartido.
+*Nota narrativa: Capítulo 2 del Prólogo de Book 02, "The Patrols No One Wanted" (título anterior: "What She Chose Alone", ajustado por el autor el 2026-07-26). Material enteramente nuevo en las Secciones I-III (el año solitario, el hallazgo del Eyasluna, el encuentro con Cayde) — sin fuente previa en `05_Dialogues/`. La Sección IV adapta, condensada y sin alterar ninguna línea de enseñanza central, `Carina_Shin_AgeI_DarSinQuePidan.md` completa (la entrega de La Última Palabra). El Eyasluna y el encuentro con Cayde fueron decisiones del autor (2026-07-25): primera arma real de Carina, encontrada —no dada— en un Dredgen muerto, estableciendo el contraste con el arma "dada" de Shin; el origen de su dominio de Golden Gun se ancla a un encuentro casual con Cayde, escabullido de sus deberes administrativos de Vanguardia, coherente con su caracterización ya fijada (calidez disfrazada de humor). Incluye guiño de ironía dramática pedido por el autor: Cayde menciona a "un amigo... Kyle" de pasada, sin que ninguno de los dos sepa que el destino los va a unir — mismo registro que el guiño de Aisha sobre Shayura/Reed-7 en el Capítulo 1, cero presagio real, solo textura de universo compartido.
 
 **Ajuste de cronología (2026-07-25):** el encuentro con Shin, que en la escena original fuente se fechaba "~6 meses" post-renacimiento, se ubica aquí explícitamente **ocho meses después** del renacimiento (12 de abril), coincidiendo con diciembre — la Aurora, evento fijo del calendario de la Ciudad (`La_Familia_Elegida.md`). Esto resuelve una tensión con la línea verbatim protegida de `Carina_Lena_HouseOfWolves_ElEncuentro` ("seis meses desde que soy Guardiana"): esa línea se reinterpreta como aproximación coloquial de Carina, no conteo exacto, y el encuentro con Lena en el Refugio del Muelle queda reubicado, en la cronología del libro, para después de esta Aurora — ya entrado el Año 2 (Taken King, fijado por el autor en septiembre del Año 2, deja margen de sobra).
 
-**Expansión de los tres meses puente, diciembre-marzo (2026-07-25), a petición explícita del autor — "complejo, no comprimido":** el capítulo originalmente saltaba de la Aurora directo al reporte del Refugio en un solo párrafo de montaje. Se sumaron tres secciones nuevas para justificar, con peso real, a la Carina que llega a `ElEncuentro`: **VI. Restauración** — desarrolla su competencia técnica sanando con Luz (protocolo, no instinto natural), incluyendo dos casos donde una herida se resiste a cerrar sin razón médica visible — ella la fuerza sin entender por qué, sembrando sin resolver la misma pregunta que Lena va a contestarle en Teodor, sin adelantar la respuesta ("a menos que la razón no esté en la Luz"). **Reescrita el 2026-07-26** con el vocabulario real del kit Solar en vez de un "redirigir" genérico inventado: **Cura** (pulso corto y concentrado) y **Restauración** (resplandor sostenido) como términos propios, igual que el vault ya usa "Alborada" o "Bomba Nova"; se suma el contraste deliberado de que su Luz, hasta entonces, solo sabía arder (Golden Gun) — aprender a sostenerla a otra temperatura sin dejar de ser fuego es parte del arco de la sección. **VII. El giro y las tres balas** — primer combate real donde el movimiento firma (evasión + Última Palabra) sale solo, sin pensarlo, consolidándolo como su firma antes de llegar al Refugio. **VIII. La costumbre** — su generosidad sin que se lo pidan deja de ser decisión consciente y se vuelve reflejo automático, con Hornet notándolo en voz alta antes que ella misma. Regla dura respetada: en ningún momento se le da a Carina la comprensión psicológica de "leer a la persona detrás de la herida" — esa sigue siendo, intacta, la lección que solo Lena le entrega en `ElEncuentro`; aquí solo desarrolla la competencia técnica y dos casos sin explicar, para que la revelación de Lena aterrice como respuesta a algo que Carina ya se preguntaba, no como su primer contacto con la idea. El cierre (ahora Sección X, "El reporte") entrega el mismo gancho hacia el Capítulo 3 que ya existía.
+**Auditoría editorial de Codex aplicada (2026-07-26):** corregida la cronología interna de la Sección IX — "un año completo" de Crisol bajado a "varios meses" para caber dentro de la ventana de once meses del capítulo, y el aprendizaje de Blade Barrage de Cayde marcado explícitamente como salto posterior al reporte que cierra el capítulo (ya no ocurre "antes" del viaje al Refugio). Suavizado el guiño hacia Kyle sobre Eliminación (ya no "repite casi palabra por palabra", solo "comparte" la preferencia). Atribuida a la lectura de Hornet la "Luz corrompida" del Dredgen, en vez de tratarla como regla cosmológica cerrada. Ampliado `Conecta con` con Reed-7, Aisha, Lord Shaxx y el Torneo de los Velocistas. El Hallazgo 2 de la auditoría (edad/fecha de La Última Palabra bifurcada entre libro, ficha y fuente) se resolvió por propagación directa: `Carina.md` y `Carina_Shin_AgeI_DarSinQuePidan.md` actualizados de "seis" a "ocho" meses para coincidir con esta cronología.
 
-**Sección IX, "El Crisol" (2026-07-26), a petición del autor.** Nueva sección sobre el origen de su Arco: Carina descubre por accidente, en el Crisol, el instinto que en Destiny 1 se llamaba **Bladedancer** (rebautizado Arcstrider en Red War, con el resto de la clase Cazador — mismo precedente real de la franquicia que ya se usó para fijar cuándo aparece Nightstalker). Deliberadamente contenida a Age I, sin adelantar nada: ni Red War, ni la muerte de Lena, ni Spectral Blades se nombran o insinúan en la prosa — la escena solo establece la semilla física (el Arco como caos instintivo, contraste con la precisión decidida del Solar). El hilo completo (que el duelo por Lena vuelva esa misma danza de cuchillas algo que toca el Vacío como herramienta, manifestándose eventualmente como Spectral Blades una vez que Nightstalker se desbloquea en House of Wolves/Taken King) queda documentado como canon fijado pero sin escena propia en `02_Characters/Carina.md`, sección Arcstrider — pendiente para cuando se redacte esa ventana futura de la saga, probablemente en un libro posterior.
+**Expansión de los tres meses puente, diciembre-marzo (2026-07-25), a petición explícita del autor — "complejo, no comprimido":** el capítulo originalmente saltaba de la Aurora directo al reporte del Refugio en un solo párrafo de montaje. Se sumaron tres secciones nuevas para justificar, con peso real, a la Carina que llega a `ElEncuentro`: **VI. Restoration** — desarrolla su competencia técnica sanando con Luz (protocolo, no instinto natural), incluyendo dos casos donde una herida se resiste a cerrar sin razón médica visible — ella la fuerza sin entender por qué, sembrando sin resolver la misma pregunta que Lena va a contestarle en Teodor, sin adelantar la respuesta ("a menos que la razón no esté en la Luz"). **Reescrita el 2026-07-26** con el vocabulario real del kit Solar en vez de un "redirigir" genérico inventado: **Cura** (pulso corto y concentrado) y **Restauración** (resplandor sostenido) como términos propios, igual que el vault ya usa "Alborada" o "Bomba Nova"; se suma el contraste deliberado de que su Luz, hasta entonces, solo sabía arder (Golden Gun) — aprender a sostenerla a otra temperatura sin dejar de ser fuego es parte del arco de la sección. **VII. The Spin and the Three Shots** — primer combate real donde el movimiento firma (evasión + Última Palabra) sale solo, sin pensarlo, consolidándolo como su firma antes de llegar al Refugio. **VIII. The Habit** — su generosidad sin que se lo pidan deja de ser decisión consciente y se vuelve reflejo automático, con Hornet notándolo en voz alta antes que ella misma. Regla dura respetada: en ningún momento se le da a Carina la comprensión psicológica de "leer a la persona detrás de la herida" — esa sigue siendo, intacta, la lección que solo Lena le entrega en `ElEncuentro`; aquí solo desarrolla la competencia técnica y dos casos sin explicar, para que la revelación de Lena aterrice como respuesta a algo que Carina ya se preguntaba, no como su primer contacto con la idea. El cierre (ahora Sección X, "The Report") entrega el mismo gancho hacia el Capítulo 3 que ya existía.
+
+**Sección IX, "The Crucible" (2026-07-26), a petición del autor.** Nueva sección sobre el origen de su Arco: Carina descubre por accidente, en el Crisol, el instinto que en Destiny 1 se llamaba **Bladedancer** (rebautizado Arcstrider en Red War, con el resto de la clase Cazador — mismo precedente real de la franquicia que ya se usó para fijar cuándo aparece Nightstalker). Deliberadamente contenida a Age I, sin adelantar nada: ni Red War, ni la muerte de Lena, ni Spectral Blades se nombran o insinúan en la prosa — la escena solo establece la semilla física (el Arco como caos instintivo, contraste con la precisión decidida del Solar). El hilo completo (que el duelo por Lena vuelva esa misma danza de cuchillas algo que toca el Vacío como herramienta, manifestándose eventualmente como Spectral Blades una vez que Nightstalker se desbloquea en House of Wolves/Taken King) queda documentado como canon fijado pero sin escena propia en `02_Characters/Carina.md`, sección Arcstrider — pendiente para cuando se redacte esa ventana futura de la saga, probablemente en un libro posterior.
 
 **Añadido a la misma sección (2026-07-26):** el truco del cuchillo arrojadizo que rebota dos veces contra una pared antes de encontrar la cabeza de un rival — molesto para quien lo sufre, tan suyo como el giro con La Última Palabra — y su preferencia declarada por la Eliminación 3v3 sobre el 6v6 ("sin alma", demasiado margen para diluir el error propio), que afila el mismo tipo de responsabilidad individual que ya practica en los patrullajes solitarios. Cierra con un eco futuro de un solo trazo, no una escena — algún día le va a repetir esa misma opinión a Kyle casi palabra por palabra, sin que la frase se detenga a dramatizarlo: solo la mención, del mismo peso ligero que ya usan los guiños de Cayde y de Aisha, para no romper el presente narrativo de la escena.
 

@@ -190,4 +190,18 @@ La coleccion completa debe construir una pregunta, no una respuesta:
 
 ---
 
+## Semilla del autor (2026-07-26) — ajuste pendiente de triage
+
+El autor propuso que la exploracion de los Fragmentos Calcificados sea una **tarea conjunta y complementaria entre Kyle y Carina**, no un recorrido en solitario de Kyle. Motivo: sembrar en paralelo las dos relaciones de antagonista-espejo ya en curso — Kyle/Oryx (eje actual de este roadmap) y Carina/Savathun (hilo abierto desde Malok y la auditoria de doble protagonista de Witch Queen, `99_Reference/Agent_Notes/codex/2026-07-18_auditoria-witchqueen-carina-savathun.md`). Cada uno "conoce a su enemigo" al mismo tiempo, arman el rompecabezas juntos.
+
+**Sin resolver todavia, requiere triage antes de tocar la matriz de 50 fragmentos:**
+- Si Carina recibe visiones propias — y de que fuente, dado que los 50 fragmentos numerados son especificamente los Libros del Dolor de **Oryx**, no material de Savathun.
+- O si su rol es acompanar/leer la reaccion de Kyle (como Ghost, pero con lectura emocional en vez de escaneo), mientras un hilo paralelo sin fuente fijada le da a ella su propio material de Savathun.
+- Como afecta esto a las Reglas Duras #2 (Ghost no lee las visiones) y #7 (variar registros) si ahora hay una segunda persona presente en la escena.
+- Si esto cambia la carpeta de destino sugerida en el punto 5 de arriba (Dialogue_Guardian vs. Dialogue_Guardian_Carina).
+
+Detalle completo de la semilla en `07_Unsorted_Ideas/Semillas_2026-07-26.md`.
+
+---
+
 *Conecta con: `99_Reference/Agent_Notes/codex/2026-07-21_incubadora-fragmentos-calcificados-libros-del-dolor.md`, `07_Unsorted_Ideas/Borrador_LibrosDelDolor`, `07_Unsorted_Ideas/Borrador_LibrosDelDolorUbicaciones`, `05_Dialogues/Dialogue_Guardian/Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento.md`, `09_Roadmaps/Plan_TakenKing_Parte1.md`, `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`, `01_Timeline/Raids/KingsFall.md`, `00_Biblia/KingsFall_HerenciaOculta.md`, `02_Characters/Oryx.md`.*

@@ -1,7 +1,7 @@
 # Carina & Shin Malphur — Dar Sin Que Pidan
 *Destiny: Renewed Fate*
 
-**Era:** Age I, aproximadamente seis meses después de que Carina renaciera en el Viejo Chicago — la primera Aurora que la Ciudad celebra desde entonces
+**Era:** Age I, aproximadamente ocho meses después de que Carina renaciera en el Viejo Chicago (cronología fijada por Book 02; el "seis meses" original queda como aproximación de borrador) — la primera Aurora que la Ciudad celebra desde entonces
 **Lugar:** El perímetro exterior de la Ciudad, lejos de las luces del festival
 **Contexto:** Nadie le pidió a Carina que vigilara el borde durante la Aurora. Ella se ofreció antes de que nadie más lo hiciera, porque todavía no sabe dónde sentarse en una fiesta que lleva toda la vida sin ser suya. Alguien más también está ahí, por razones muy distintas.
 

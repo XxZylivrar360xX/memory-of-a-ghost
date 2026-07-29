@@ -8,7 +8,7 @@ status: abierto
 
 # Auditoria editorial — Book 02 / Prologue / 03_The_Encounter
 
-**Archivo auditado:** `11_Books/Book_02_The_King_Of_Shapes/Prologue/03_The_Encounter.md`
+**Archivo auditado:** `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/03_The_Encounter.md`
 
 ## Hallazgo 1 — Concordancia de genero de Carina + Hornet
 

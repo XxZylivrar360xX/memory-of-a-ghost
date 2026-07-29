@@ -22,6 +22,10 @@ Europa. El Exo Stranger — Elsie Bray visible por primera vez sin disfraces. La
 
 La respuesta es no — y que esa respuesta sea no es la demostración de que algo en esta línea temporal es fundamentalmente diferente a todo lo que Elsie ha visto antes.
 
+**Hilo pendiente para esta Age, sembrado en Book 02 (2026-07-26):** Carina prueba Estasis en algún punto de esta ventana y no vuelve a tocarla — ya fijado en `02_Characters/Carina.md` ("Lo que evita"). No es rechazo a la quietud en abstracto: la técnica está soldada a un recuerdo físico feliz (la noche en que Lena le enseñó a patinar sobre hielo) que ahora duele revivir. Origen dramatizado planeado en `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md` — revisar al redactar esta Age.
+
+**Segundo hilo pendiente para esta Age (2026-07-26):** arco de misterio completo, Carina investigando una serie de asesinatos de Portadores de Luz que resulta ser obra de Shayura, radicalizada por su trauma de Titán — eco contenido, en canon real, de "la sombra que no ha ocurrido" ya fijada en `02_Characters/Shayura.md`. Plan completo, con estructura de cuatro actos y diálogo borrador, en `09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`.
+
 ---
 
 ### 20. The Eye of Savathûn

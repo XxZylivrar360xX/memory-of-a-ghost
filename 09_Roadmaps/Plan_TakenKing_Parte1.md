@@ -6,9 +6,17 @@
 
 ---
 
+## Ajuste estructural mayor (2026-07-26, a petición del autor, para Book 02)
+
+**Reemplaza la primera decisión de la lista de abajo ("el lector sabe del atraco desde la Parte 1").** Al llevar esta Parte 1 a formato de libro (`11_Books/Book_02_The_King_Of_Shapes/`), el foco de la narración en tiempo real queda **enteramente en Kyle/Carina/Ghost/Oryx** (más el mini-arco ya fijado de Elsie). Consecuencias concretas:
+
+- **Las 4 escenas del Cluster 1** (`Eris_Osiris_TakenKing_ElPadreDebajoDelRey`, `Eris_Mara_TakenKing_LaTesoreria`, `Petra_Mara_TakenKing_LaBatallaDeSaturno`, `Mara_Eris_TakenKing_LoQueNingunoModelo`) **dejan de narrarse en tiempo real como capítulos propios de Part 01.** El texto de las cuatro escenas ya escritas no se borra ni se reescribe — se conserva como material fuente para un capítulo futuro, todavía sin ubicar con precisión, donde se presenta como **el recuerdo de Eris**, relatado después de que Oryx sea derrotado de verdad (King's Fall, Part 03, o el Aftermath posterior — a decidir cuando se llegue ahí). Hasta entonces, ni Kyle ni el lector saben nada del atraco, la apuesta de Mara, ni la Batalla de Saturno — se enteran al mismo tiempo que Eris decide contarlo.
+- **La ironía dramática cambia de forma:** ya no es "el lector sabe, los personajes no" — ahora nadie sabe, y el peso de la revelación tardía (contada por Eris, con la distancia de ya conocer el final) reemplaza la ironía dramática constante. El Cluster 1 se vuelve una pieza de memoria retrospectiva, no un POV paralelo en tiempo real.
+- **Part 01 gana una escena de apertura nueva, antes de cualquier evento de guerra:** Kyle y Ghost en la cabaña, terminando de montar el porche — el mismo porche que, a lo largo de toda la saga, va a ser testigo de la mayoría de los momentos domésticos más importantes de Kyle (`Guardian_Familia_FinalShape_LasManzanasQueNoCayeron`, `Guardian_Zavala_PostFinalShape_UnaCervezaDeViejos`, `Guardian_Sai_PostFinalShape_LaHijaQueElegimos`, `Elsie_FinalShape_VuelveACasa`, entre otras — ver grep de "porche" en `05_Dialogues/`, 28 escenas). La cabaña ya existe desde Age I; el porche es una construcción nueva que Kyle arma con sus propias manos durante esta ventana de paz, antes de que empiece la guerra. La escena termina con la llamada de Ikora — el primer contacto institucional que lo saca de la paz doméstica hacia la campaña. Sin fecha de escritura todavía — ver diseño de beats en curso.
+
 ## Decisiones estructurales fijadas (2026-07-13)
 
-- **El lector sabe del "atraco al banco" desde la Parte 1.** POV Mara/Eris/Osiris en la Batalla de Saturno. La ironía dramática es que Kyle y Carina nunca lo saben — no que el lector tampoco.
+- ~~**El lector sabe del "atraco al banco" desde la Parte 1.** POV Mara/Eris/Osiris en la Batalla de Saturno. La ironía dramática es que Kyle y Carina nunca lo saben — no que el lector tampoco.~~ **SUPERSEDIDO — ver "Ajuste estructural mayor" arriba.**
 - **Capítulos de `Age_II_The_Taken_King.md` deliberadamente sin resolver.** Se escriben escenas y eventos primero; la estructura de capítulos (actualmente solo 3: Price of Vengeance / Kingslayer / Rightful Pretender) se diseña mucho más adelante, cuando haya material suficiente para redactar en formato de libro.
 - **Regla dura, no negociable — el reclamo dormido de Kyle.** El mecanismo "el poder de Oryx orbita a Kyle sin que él lo reclame" es el origen literal, todavía no escrito, del hilo ya diseñado en `project-lord-of-every-nothing` (memoria de proyecto, 2026-06-21): en Final Shape "Oryx [queda] disuelto en Kyle" y "Kyle rechazó el trono". Verificado además contra `Guardian_Mara_SeasonLost_LoQueToma.md` (ya escrita): ahí, y solo ahí, Kyle "Cruzó" por primera vez y Oryx "se acomodó adentro" — es el primer roce consciente/activo. **En ningún beat de esta Parte 1 ni en King's Fall (ya escrito) Kyle puede sentir, nombrar, usar o verbalizar el reclamo.** Es semilla muda, no pago. Mara es la única que lo nota después de la muerte real de Oryx (Parte 2), y tampoco lo dice.
 - **El raid de King's Fall (`Guardian_Equipo_KingsFall_01-06`) y la trilogía Raze Lighter no se tocan.** Son la Parte 2/clímax — la Primera Escuadra completa matando a Oryx dentro de su Mundo Trono. El cierre de esta Parte 1 es una derrota física que lo hace huir, nunca su muerte real. Evitar en toda la Parte 1 lenguaje como "matar", "terminar" o "derrotar definitivamente" a Oryx.
@@ -67,6 +75,8 @@ Eris, Cayde, Carina, Elsie, Ghost, Kyle, Joe, Angie, Lena, Osiris (conspirador e
 ---
 
 ## Cluster 1 — El Atraco y la Batalla de Saturno (beat 1)
+
+**⚠️ DIFERIDO (2026-07-26).** Las 4 escenas de este cluster ya no se narran en tiempo real en Book 02, Part 01 — quedan reservadas como el recuerdo retrospectivo de Eris, contado después de la muerte real de Oryx (King's Fall o Aftermath, ubicación exacta pendiente). Ver "Ajuste estructural mayor" al inicio de este documento. El contenido de abajo se conserva intacto como fuente para ese capítulo futuro — no se toca ni se reescribe, solo cambia cuándo y cómo se cuenta.
 
 *Nota fuente: `2026-07-13_incubadora-takenking-parte1-atraco-saturno.md`. Escala: evento, ~3-4 escenas.*
 

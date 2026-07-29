@@ -40,7 +40,7 @@ No empujaron la puerta. Esperaron.
 
 La puerta se abrió.
 
-El Eliksni era grande — más grande de lo que el cobertizo sugería que podía contener, aunque evidentemente lo contenía, lo cual significaba que había aprendido a ocupar el espacio sin desbordarlo. Los ojos superiores evaluaron al Guardian con la velocidad de alguien entrenado en calcular amenaza en un segundo. Los inferiores se movieron hacia Elsie y se detuvieron ahí más tiempo del esperado.
+El Caído era grande — más grande de lo que el cobertizo sugería que podía contener, aunque evidentemente lo contenía, lo cual significaba que había aprendido a ocupar el espacio sin desbordarlo. Los ojos superiores evaluaron al Guardian con la velocidad de alguien entrenado en calcular amenaza en un segundo. Los inferiores se movieron hacia Elsie y se detuvieron ahí más tiempo del esperado.
 
 No había arma visible. No había postura de ataque.
 
@@ -60,7 +60,7 @@ Silencio.
 
 Después:
 
-—Recuerdo —dijo el Eliksni. No como gratitud ni como deuda — como verificación de un hecho compartido.
+—Recuerdo —dijo el Caído. No como gratitud ni como deuda — como verificación de un hecho compartido.
 
 —Sobreviviste.
 
@@ -68,13 +68,13 @@ Después:
 
 El Guardian no respondió de inmediato.
 
-Miró al Eliksni. Después miró a Elsie.
+Miró al Caído. Después miró a Elsie.
 
-—Eso fue Angie —dijo. No al Eliksni. A Elsie. Como si necesitara colocarlo en voz alta para que ocupara el peso correcto. —Ella me enseñó a ver a la persona antes de ver al enemigo. No con una lección. Con la forma en que operaba. Con lo que elegía sostener y cómo.
+—Eso fue Angie —dijo. No al Caído. A Elsie. Como si necesitara colocarlo en voz alta para que ocupara el peso correcto. —Ella me enseñó a ver a la persona antes de ver al enemigo. No con una lección. Con la forma en que operaba. Con lo que elegía sostener y cómo.
 
-Elsie no respondió. Pero su mirada al Eliksni cambió — no de evaluación a calidez, sino de evaluación a reconocimiento. Había una diferencia.
+Elsie no respondió. Pero su mirada al Caído cambió — no de evaluación a calidez, sino de evaluación a reconocimiento. Había una diferencia.
 
-El Eliksni los observó a los dos con los ojos inferiores.
+El Caído los observó a los dos con los ojos inferiores.
 
 —Entonces esa persona merece que la recuerdes —dijo. No preguntó quién era. No era el punto.
 
@@ -149,5 +149,5 @@ El Guardian no preguntó con quién. No era necesario.
 *Pilares activos: [[04_Concepts/Memory|Memoria]], [[04_Concepts/Love|Amor]], [[04_Concepts/Identity|Identidad]]*  
 *Conecta con: [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_01_Kevin]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_03_Resner]], [[02_Characters/Mithrax]]*  
 *Semilla 1: Elsie reconoce la distinción entre observar para anticipar y observar para sostener — y entiende que ella ha operado siempre de la primera forma. Pero la última línea admite algo: con el Guardian, a veces ha hecho las dos cosas.*  
-*Semilla 2: El Eliksni sin nombre (Mithrax, no revelado) en el cobertizo es la consecuencia viva de la enseñanza de Angie — el Guardian lo perdonó en Titan y él sigue aquí. "Eso fue Angie" es el momento donde el memorial deja de ser un objeto y se convierte en un acto que ya ocurrió. Elsie ve a Mithrax diferente a partir de eso: no evaluación, reconocimiento.*  
+*Semilla 2: El Caído sin nombre (Mithrax, no revelado) en el cobertizo es la consecuencia viva de la enseñanza de Angie — el Guardian lo perdonó en Titan y él sigue aquí. "Eso fue Angie" es el momento donde el memorial deja de ser un objeto y se convierte en un acto que ya ocurrió. Elsie ve a Mithrax diferente a partir de eso: no evaluación, reconocimiento.*  
 *Semilla 3: Mithrax dice "esa persona merece que la recuerdes" sin preguntar quién es. No necesita el nombre — ya tiene el peso.*

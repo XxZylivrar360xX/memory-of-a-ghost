@@ -8,7 +8,7 @@
 
 ---
 
-## I. La lista
+## I. The List
 
 Un Espectro que busca durante el tiempo suficiente aprende algo que ningún manual de la Ciudad se molesta en enseñar: que la esperanza, sostenida sin evidencia durante años, deja de sentirse como esperanza y empieza a sentirse como trabajo. Hornet llevaba haciendo ese trabajo desde antes de tener nombre para nombrarlo — desde antes, incluso, de saber con certeza que había alguien al otro extremo de la búsqueda, y no solo la búsqueda misma.
 
@@ -26,7 +26,7 @@ Hornet voló hacia el Viejo Chicago de todas formas.
 
 ---
 
-## II. Territorio rechazado
+## II. Rejected Territory
 
 El viejo errante que le dio la advertencia lo hizo con el tono específico de quien entrega información esperando que el oyente tenga el sentido común de no usarla.
 
@@ -42,7 +42,7 @@ Hornet agradeció la información y voló hacia allá de todas formas, tres día
 
 ---
 
-## III. La ciudad desde el aire
+## III. The City from Above
 
 Chicago olía diferente incluso antes de que hubiera nada que oler — Hornet lo notó en la composición del aire desde que entró al espacio aéreo de la ciudad, una densidad que no encajaba con ninguna otra ruina que hubiera atravesado. No era el vacío limpio del Cosmódromo, ni la humedad estancada de los pantanos. Era algo más espeso: la mezcla exacta de lo que crece cuando nadie corta nada durante siglos, y de lo que se descompone cuando nadie lo recoge. Una ciudad que había seguido respirando después de que los humanos dejaran de hacerlo, pero que respiraba de otra forma. Más llena de vida de la que debería tener algo que el mundo había abandonado.
 
@@ -56,7 +56,7 @@ Hornet registró eso también. Y siguió buscando más arriba, donde el aire era
 
 ---
 
-## IV. Lo que vio en el camino
+## IV. What He Saw on the Way
 
 No fue la firma de un Dredgen lo que lo hizo bajar la altura de vuelo, sino algo más difícil de ignorar: un pulso de Luz, débil y arrítmico, atravesando dos pisos de concreto como si viniera de algo que todavía intentaba funcionar sin terminar de lograrlo. No era la lectura caliente y errática de un Dredgen. Era más parecida a la suya propia — la firma de un Espectro.
 
@@ -98,7 +98,7 @@ Subió más alto de lo que había planeado subir. No volvió a bajar hasta que e
 
 ---
 
-## V. La terraza
+## V. The Rooftop
 
 La encontró en el nivel cuarenta y tres — no en los niveles inferiores donde los Dredgen mantenían su territorio incierto, ni en los túneles donde algo antiguo esperaba con la paciencia de lo que no tiene prisa porque ya tiene todo el tiempo que hizo falta. En una terraza de acceso técnico, en el lado norte del rascacielos más alto del bloque, donde el viento llegaba limpio desde el lago porque el lago era uno de los pocos accidentes geográficos que el tiempo no había terminado de reclamar del todo.
 
@@ -132,7 +132,7 @@ Lo que quedó, ya terminado el proceso, no tenía nada de lo incierto de un cuer
 
 ---
 
-## VI. El primer respiro
+## VI. The First Breath
 
 El cielo.
 
@@ -192,7 +192,7 @@ Hornet hizo el cálculo en el tiempo que le tomó a ella terminar la frase. La e
 
 ---
 
-## VII. La caída
+## VII. The Fall
 
 Cuarenta y tres pisos son mucho tiempo para pensar y ningún tiempo en absoluto para decidir nada distinto de lo ya decidido.
 
@@ -266,7 +266,7 @@ Se puso de pie.
 
 ---
 
-## VIII. Lejos del suelo
+## VIII. Far from the Ground
 
 Encontraron una escalera de incendios medio derrumbada contra la fachada más cercana y subieron rápido, sin hablar, cada nivel poniendo más distancia entre ellos y el sonido que venía de la tierra. A medio camino, entre el quinto y el sexto piso, una firma de energía se encendió brevemente en la calle que acababan de dejar atrás — caliente, errática, ahí y luego no — y Hornet la sintió antes de verla, un instinto viejo de calcular distancias y tiempos de reacción sin que hiciera falta pensarlo. No dijo nada. Carina tampoco pareció notarlo, o lo notó y decidió que no era, todavía, su problema. La firma no volvió a aparecer, pero Hornet la siguió sintiendo un rato más de lo necesario — el mismo tipo de firma que había visto, horas antes, inclinada sobre algo que ya no podía protegerse solo. Esta vez no pensaba dejarla ir sin que alguien, en algún momento, tuviera que responder por ella.
 
@@ -298,7 +298,7 @@ No hizo falta decir nada más esa noche. Se quedaron ahí, lejos del suelo, mira
 
 ---
 
-## IX. El colibrí
+## IX. The Sparrow
 
 No hizo falta que Hornet lo dijera en voz alta: llegar a cualquier parte a pie, en una ciudad donde algo enorme dormía bajo tierra y algo peor caminaba encima de ella, no era un plan que fuera a sostenerse mucho tiempo.
 
@@ -332,7 +332,7 @@ Hornet consideró la pregunta con más cuidado del que parecía pedir.
 
 ---
 
-## X. El lago Michigan
+## X. Lake Michigan
 
 Llegaron a la orilla cuando el cielo empezaba a cambiar — no la oscuridad completa de horas antes, sino ese gris que precede a los colores, cuando la noche todavía no ha decidido soltar del todo su territorio. El lago se extendía hacia el horizonte con la clase de quietud que solo tienen las cosas demasiado grandes para que nada pequeño las perturbe.
 
@@ -360,7 +360,7 @@ Se quedaron ahí hasta que el sol terminó de subir del todo, sin prisa por lo q
 
 ---
 
-## XI. La nave
+## XI. The Ship
 
 El resto del plan, si podía llamarse plan, había esperado pacientemente detrás del amanecer: un colibrí rescatado de un concesionario no iba a llevarlas mucho más allá de esta ciudad muerta, y ninguno de los dos tenía todavía claro hacia dónde debía llevarlas lo que viniera después.
 
@@ -444,7 +444,7 @@ La nave despegó justo cuando el sol terminaba de aclarar el cielo entero, sin q
 
 ---
 
-## XII. El viaje a casa
+## XII. The Journey Home
 
 El vuelo tomó el resto del día.
 
@@ -480,7 +480,7 @@ La nave tocó tierra en la Torre con la última luz del día, y por primera vez 
 
 ---
 
-## XIII. Lo que Hornet no sabía
+## XIII. What Hornet Did Not Know
 
 Esa misma fecha —horas antes, muy lejos hacia el este, cruzando un océano entero— un Guardián había despertado a plena luz en el Cosmódromo.
 
@@ -498,9 +498,9 @@ Crecían igual.
 
 *Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Guardian]], [[02_Characters/Aisha]], [[02_Characters/Shayura]], [[02_Characters/Reed-7]], [[05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 1 del Prólogo de Book 02, expandido a partir de `05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar` (fuente original) y de la Sección I del primer borrador de Prólogo unificado (2026-07-25, ya reestructurado en capítulos independientes). Expansión real, no solo separación de archivo: nueva apertura sobre la filosofía de búsqueda de un Espectro ("La lista", I) que le da peso emocional a que Chicago sea el último lugar antes de que Hornet supiera si iba a encontrar algo; territorio de los Dredgen ampliado con más textura concreta (el puesto Caído abandonado sin explicación, la incursión Vex sin señal de vuelta); la ciudad descrita con más detalle sensorial (fachadas como costillas expuestas, el viento atravesando ventanas rotas); un pequeño beat de tensión añadido en la subida (una firma de energía Dredgen que se enciende y se apaga) para darle al capítulo su propio arco dramático menor, sin convertirlo en una escena de combate. El cierre ("Lo que Hornet no sabía") preserva verbatim el gesto de la nota original de `Carina_ElDespatar` — los dos renacimientos el mismo día, Hornet archivando sin nombrar.
+*Nota narrativa: Capítulo 1 del Prólogo de Book 02, expandido a partir de `05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar` (fuente original) y de la Sección I del primer borrador de Prólogo unificado (2026-07-25, ya reestructurado en capítulos independientes). Expansión real, no solo separación de archivo: nueva apertura sobre la filosofía de búsqueda de un Espectro ("The List", I) que le da peso emocional a que Chicago sea el último lugar antes de que Hornet supiera si iba a encontrar algo; territorio de los Dredgen ampliado con más textura concreta (el puesto Caído abandonado sin explicación, la incursión Vex sin señal de vuelta); la ciudad descrita con más detalle sensorial (fachadas como costillas expuestas, el viento atravesando ventanas rotas); un pequeño beat de tensión añadido en la subida (una firma de energía Dredgen que se enciende y se apaga) para darle al capítulo su propio arco dramático menor, sin convertirlo en una escena de combate. El cierre ("What Hornet Did Not Know") preserva verbatim el gesto de la nota original de `Carina_ElDespatar` — los dos renacimientos el mismo día, Hornet archivando sin nombrar.
 
-**Añadido a petición del autor (2026-07-25):** nueva sección IV, "Lo que vio en el camino" — Hornet, antes de llegar al rascacielos, desciende por una firma de Luz anómala y se topa con dos Dredgen sin nombre torturando/diseccionando a un Espectro vivo, sin Guardián visible en la escena (un hombre calvo, barba larga, cicatriz cruzando una cuenca vacía; una mujer delgada, pálida, cabello blanco, iris rojos). Hornet mantiene perfil bajo — no interviene, calcula que la búsqueda de Carina no puede arriesgarse todavía — y se aleja sin saber si el Espectro sobrevive: el destino queda deliberadamente ambiguo, a petición del autor. Los dos Dredgen son viñeta única, sin nombre, sin continuidad planeada más allá de este capítulo — establecen el peso real de "territorio rechazado" antes de la ternura de la terraza, y siembran, sin nombrarlo, por qué Hornet entiende que cualquier persona que encuentre en esta ciudad va a necesitar protección. Renumeración de secciones posteriores (antigua IV→V, V→VI, VI→VII, VII→VIII).
+**Añadido a petición del autor (2026-07-25):** nueva sección IV, "What He Saw on the Way" — Hornet, antes de llegar al rascacielos, desciende por una firma de Luz anómala y se topa con dos Dredgen sin nombre torturando/diseccionando a un Espectro vivo, sin Guardián visible en la escena (un hombre calvo, barba larga, cicatriz cruzando una cuenca vacía; una mujer delgada, pálida, cabello blanco, iris rojos). Hornet mantiene perfil bajo — no interviene, calcula que la búsqueda de Carina no puede arriesgarse todavía — y se aleja sin saber si el Espectro sobrevive: el destino queda deliberadamente ambiguo, a petición del autor. Los dos Dredgen son viñeta única, sin nombre, sin continuidad planeada más allá de este capítulo — establecen el peso real de "Rejected Territory" antes de la ternura de la terraza, y siembran, sin nombrarlo, por qué Hornet entiende que cualquier persona que encuentre en esta ciudad va a necesitar protección. Renumeración de secciones posteriores (antigua IV→V, V→VI, VI→VII, VII→VIII).
 
 **Ajuste de resurrección (2026-07-25), a petición del autor:** dos correcciones sobre cómo Hornet y Carina llegan al nombre. (1) Se añadió la mecánica visual característica de la resurrección — la Luz de Hornet descrita como motas doradas que convergen sobre el cuerpo, se derraman sobre el pecho y trazan su contorno en un fulgor pulsante hasta que el cuerpo "que esperaba" se convierte en un cuerpo "que responde" — entre el final de la Sección V y el arranque de la VI. (2) Se corrigió que Hornet supiera y dijera el nombre "Carina" *antes* de que ella despertara — contradice que un Espectro no conoce de antemano quién va a resucitar (mismo principio ya establecido en `Kyle_ElDespatar`, donde Ghost tampoco sabe el nombre de Kyle al encontrarlo). Ahora Hornet no nombra a nadie durante la resurrección ni el primer despertar; el nombre se descubre después, cuando Carina, ya de pie y con la ropa civil deshecha por el tiempo desmoronándose encima, revisa por instinto lo que queda de sus bolsillos y encuentra un trozo de carta ilegible salvo por un fragmento intacto: su propio nombre. Ella lo dice primero, probándolo; Hornet lo repite después. Este ajuste hace del Capítulo 1 el origen real de por qué ninguno de los dos sabe nada de su vida anterior, salvo ese nombre — coherente con lo que Carina misma revela después en `LoQueNadieMasLee` ("no recuerdo casi nada de antes... fragmentos, una casa que no sé si era mía").
 
@@ -512,7 +512,7 @@ Crecían igual.
 
 **Aisha añadida a la Sección XI (2026-07-25), a petición del autor.** Primera aparición en prosa de Aisha, Shayura y Reed-7 (hasta ahora solo fichas ligeras del Torneo IV) — Aisha aparece vigilando el mismo hangar Dredgen, dándole a Hornet la ruta segura de infiltración y a Carina el motivo concreto de por qué va a la Torre: un transmisor con coordenadas de la red Dredgen del sector, para entregar a su escuadra (Shayura y Reed-7), que Aisha no puede llevar ella misma porque sigue confirmando la magnitud de la amenaza. Su línea "este sector lleva semanas actuando raro... Guardianes que entran solos y no vuelven a registrarse" conecta, sin nombrarlo, con los dos Dredgen sin nombre de la Sección IV — ninguna de las dos escenas confirma que sea la misma célula, pero ambas comparten el mismo territorio y el mismo patrón de desaparición, cerrando ese hilo de forma indirecta sin resolver el destino ambiguo del Espectro torturado. El motivo de correo físico en vez de radio se apoya en la interferencia de la zona, coherente con el patrón ya establecido de comunicaciones poco confiables en esta era. **Añadido también:** Carina pregunta cómo reconocer a Shayura y Reed-7; la respuesta de Aisha ("Reed es el Titán más bonachón que te vas a encontrar hoy en día... Shayura tiene cara de pocos amigos, pero en el fondo es buena persona") es ironía dramática dirigida al lector que conoce sus fichas — ambas descripciones resuenan, sin nombrarlo, con el futuro no-canon de *Ni La Luz Ni La Oscuridad* (la lealtud de Reed hasta morir intentando salvar a Shayura; la dureza de Shayura que en esa línea se corrompe en tiranía) sin que ninguna de las dos líneas lo sepa ni lo insinúe conscientemente. El motivo original de viaje a la Torre ("es donde se supone que debemos ir") se conservó pero ahora es secundario al encargo real; ajustada la línea de apertura de la Sección XI (ya no asume la Torre como destino fijo antes de conocer a Aisha) y el diálogo de apertura de la Sección XII (Hornet reconoce que ahora tienen un motivo, no solo instinto).
 
-**Auditoría editorial de Codex aplicada (2026-07-25)** — `99_Reference/Agent_Notes/codex/2026-07-25_auditoria-book02-prologue-01-the-huntress.md`, 7 hallazgos, ninguno bloqueante, todos aplicados: (1) la coda ahora ancla explícitamente "esa misma fecha" en vez de "ese mismo día", evitando que se lea como referida al día de llegada a la Torre; (2) la línea de Aisha sobre la nave se corrigió a futuro ("van a poder sacar esa nave"), ya no asume que Carina la tiene antes de robarla; (3) antes del salto, Hornet gana un cálculo interno explícito (la escalera expone demasiado tiempo, sabe que puede resucitarla) que reencuadra la decisión como táctica, no como permisividad pasiva; (4) dos ecos breves del Espectro torturado de la Sección IV — al sentir la firma Dredgen en la calle (Sección VIII) y al escuchar a Aisha mencionar "Guardianes que entran solos y no vuelven a registrarse" (Sección XI), donde Hornet reconoce en silencio a qué se refiere; (5) el mecanismo de camuflaje/Luz corrompida se suavizó a hipótesis táctica de Hornet ("si estoy leyendo bien el sistema") en vez de ley de mundo cerrada; (6) corregida la concordancia de género en dos líneas ("no estaban solos", "ninguno de los dos") donde decía erróneamente femenino plural antes de que apareciera Aisha. El hallazgo sobre el encargo de Aisha subpagado (pieza 2 de la auditoría) se resolvió en `02_What_She_Chose_Alone.md`, no en este archivo — ver nota de ese capítulo.
+**Auditoría editorial de Codex aplicada (2026-07-25)** — `99_Reference/Agent_Notes/codex/2026-07-25_auditoria-book02-prologue-01-the-huntress.md`, 7 hallazgos, ninguno bloqueante, todos aplicados: (1) la coda ahora ancla explícitamente "esa misma fecha" en vez de "ese mismo día", evitando que se lea como referida al día de llegada a la Torre; (2) la línea de Aisha sobre la nave se corrigió a futuro ("van a poder sacar esa nave"), ya no asume que Carina la tiene antes de robarla; (3) antes del salto, Hornet gana un cálculo interno explícito (la escalera expone demasiado tiempo, sabe que puede resucitarla) que reencuadra la decisión como táctica, no como permisividad pasiva; (4) dos ecos breves del Espectro torturado de la Sección IV — al sentir la firma Dredgen en la calle (Sección VIII) y al escuchar a Aisha mencionar "Guardianes que entran solos y no vuelven a registrarse" (Sección XI), donde Hornet reconoce en silencio a qué se refiere; (5) el mecanismo de camuflaje/Luz corrompida se suavizó a hipótesis táctica de Hornet ("si estoy leyendo bien el sistema") en vez de ley de mundo cerrada; (6) corregida la concordancia de género en dos líneas ("no estaban solos", "ninguno de los dos") donde decía erróneamente femenino plural antes de que apareciera Aisha. El hallazgo sobre el encargo de Aisha subpagado (pieza 2 de la auditoría) se resolvió en `02_The_Patrols_No_One_Wanted.md` (antes "What She Chose Alone"), no en este archivo — ver nota de ese capítulo.
 
 **Apariencia física añadida (2026-07-26), a petición del autor — corregida el mismo día.** Primera vez que Carina y Hornet se describen físicamente en prosa dentro del libro. Carina: piel morena, cabello oscuro, estatura media, ojos café oscuro con el ángulo exterior que vuelve casi cualquier expresión suya ligeramente divertida — verbatim de `02_Characters/Carina.md`. **Corrección de continuidad, a petición del autor:** la descripción física se colocó primero en el momento en que Hornet encuentra el cuerpo, antes de la resurrección — pero no hay forma de saber en qué estado real estaba ese cuerpo mientras esperaba, posiblemente durante mucho tiempo. Movida a después de que la Luz termina su trabajo (cierre de la Sección V), con una línea explícita de que la Luz no dejó rastro visible de cuánto tiempo llevaba esperando — solo dejó el resultado. Los ojos (Sección VIII, ya con luz de día y tiempo para mirarla bien) se mantienen donde estaban, sin cambio. Hornet: carcasa de cuatro puntas con aletas afiladas, paneles lavanda de textura tejida, rombo dorado ámbar alrededor del ojo, bordes plateados — la ficha existente (`02_Characters/Hornet.md`) describía otra paleta ("gris oscuro, ámbar profundo") que no coincidía con la imagen de referencia que aportó el autor (`99_Reference/apariencias_personajes/hornet.jpg`); la ficha se corrigió para que coincida con la imagen, y el libro ya usa la versión corregida. Insertada en la Sección V, justo antes de la resurrección — el dorado de su propia carcasa dialoga visualmente con el dorado de la Luz que despliega un párrafo después.
 

@@ -30,6 +30,7 @@ Cada libro, al planear su lista de capítulos, debe buscar activamente espacio p
 - Esto puede significar capítulos que interrumpen momentáneamente el ritmo de la trama principal — es una decisión deliberada, no un descuido. El lector gana mundo a cambio de una pausa en el avance.
 - No todo libro va a tener la misma proporción. Algunos, por la densidad de su trama central (como Parte 03 de Book 02, King's Fall), tendrán menos margen. Otros, como el Prólogo de Book 02, pueden nacer casi enteramente como espacio complementario.
 - La regla no reemplaza el criterio narrativo ya fijado en `00_Biblia/Narrative_Principles.md` — sigue aplicando que cada escena importante debe responder alguna de las preguntas ancla de la saga. Un capítulo complementario también tiene que ganarse su lugar; simplemente no tiene que ganárselo *a través de* Kyle.
+- **Bautizo de título (fijado 2026-07-26):** al terminar de escribir un capítulo, antes de fijar su título final, se manda a Codex para que proponga o confirme el título en inglés (ver `99_Reference/Codex_Brief.md`, "Bautizo de capítulos"). Los títulos de trabajo se confirman o cambian ahí, no antes ni por defecto.
 
 ## Origen de este principio
 

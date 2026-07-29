@@ -45,7 +45,7 @@ La primera vez que lidera un equipo que no le dieron — que construyó, aunque 
 
 Vosik predica. No con palabras — con el cuerpo. Cada filamento de SIVA integrado en su anatomía es una declaración teológica: *esto es lo que podemos ser, esto es lo que merecemos ser, esto es la respuesta que el universo nos negó y que tomamos por nuestra cuenta.*
 
-Los Eliksni perdieron su Gran Máquina. Siglos de declive, de guerra civil, de sobrevivir con lo que quedaba de una civilización que alguna vez fue algo. SIVA llegó como promesa y los Splicers la tomaron con las dos manos. No es difícil entenderlo. Es difícil mirarlo.
+Los Caídos perdieron su Gran Máquina. Siglos de declive, de guerra civil, de sobrevivir con lo que quedaba de una civilización que alguna vez fue algo. SIVA llegó como promesa y los Splicers la tomaron con las dos manos. No es difícil entenderlo. Es difícil mirarlo.
 
 Kyle lo entiende en algún punto del encuentro — no el método, pero sí el origen del método. La desesperación que lleva a alguien a desmontarse pieza por pieza con tal de convertirse en algo que no pueda ser destruido de la misma forma en que fue destruido antes. Esa lógica no es extraña. Es humana en el peor sentido.
 
@@ -87,7 +87,7 @@ Es no haberlo tenido nunca.
 
 Aksis no se parece a nada que Kyle haya enfrentado antes.
 
-No porque sea más poderoso — lo ha sido, lo ha derrotado. Porque es la respuesta a una pregunta que Kyle lleva escuchando desde King's Fall en una forma diferente. Oryx preguntó *¿qué eres capaz de hacer?* Los Vex preguntaron *¿tienes derecho a existir?* Aksis no pregunta nada. Aksis es la respuesta que los Eliksni encontraron a su propia pregunta, y la respuesta tiene la forma de algo que ya no recuerda haber sido Caído.
+No porque sea más poderoso — lo ha sido, lo ha derrotado. Porque es la respuesta a una pregunta que Kyle lleva escuchando desde King's Fall en una forma diferente. Oryx preguntó *¿qué eres capaz de hacer?* Los Vex preguntaron *¿tienes derecho a existir?* Aksis no pregunta nada. Aksis es la respuesta que los Caídos encontraron a su propia pregunta, y la respuesta tiene la forma de algo que ya no recuerda haber sido Caído.
 
 Está bien que no recuerde. Lo que era no era suficiente.
 

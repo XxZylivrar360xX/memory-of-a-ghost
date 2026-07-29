@@ -14,10 +14,10 @@ En *Ni La Luz Ni La Oscuridad* (ver [[07_Unsorted_Ideas/IdeasDesarrollo_1]]), Re
 
 ## Primera aparición en prosa
 
-`11_Books/Book_02_The_King_Of_Shapes/Prologue/01_The_Huntress.md` (Age I): mencionado, no en escena — Aisha lo describe a Carina como "el Titán más bonachón que te vas a encontrar hoy en día", antes de enviarle un transmisor con coordenadas.
+`11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress.md` (Age I): mencionado, no en escena — Aisha lo describe a Carina como "el Titán más bonachón que te vas a encontrar hoy en día", antes de enviarle un transmisor con coordenadas.
 
-`11_Books/Book_02_The_King_Of_Shapes/Prologue/02_What_She_Chose_Alone.md` (Age I, poco después): primera aparición real en escena — Carina lo encuentra en el hangar de la Torre regalando su ración a un aprendiz que no se la pidió, exactamente como Aisha lo describió. Recibe el transmisor, su calidez se confirma en pantalla (le pregunta a Carina si ha comido), y su preocupación inmediata por Aisha, todavía sola en territorio Dredgen, es el primer indicio dramatizado de cuánto le importa su escuadra.
+`11_Books/Book_02_The_King_Of_Shapes/00_Prologue/02_The_Patrols_No_One_Wanted.md` (Age I, poco después): primera aparición real en escena — Carina lo encuentra en el hangar de la Torre regalando su ración a un aprendiz que no se la pidió, exactamente como Aisha lo describió. Recibe el transmisor, su calidez se confirma en pantalla (le pregunta a Carina si ha comido), y su preocupación inmediata por Aisha, todavía sola en territorio Dredgen, es el primer indicio dramatizado de cuánto le importa su escuadra.
 
 ---
 
-*Conecta con: [[02_Characters/Shayura]], [[02_Characters/Aisha]], [[02_Characters/Guardian]], [[07_Unsorted_Ideas/Torneo_IV_Bracket]], [[07_Unsorted_Ideas/IdeasDesarrollo_1]], [[11_Books/Book_02_The_King_Of_Shapes/Prologue/01_The_Huntress]]*
+*Conecta con: [[02_Characters/Shayura]], [[02_Characters/Aisha]], [[02_Characters/Guardian]], [[07_Unsorted_Ideas/Torneo_IV_Bracket]], [[07_Unsorted_Ideas/IdeasDesarrollo_1]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress]], [[09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias]]*

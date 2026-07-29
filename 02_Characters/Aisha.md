@@ -14,8 +14,8 @@ En *Ni La Luz Ni La Oscuridad* (ver [[07_Unsorted_Ideas/IdeasDesarrollo_1]]), Ai
 
 ## Primera aparición en prosa
 
-`11_Books/Book_02_The_King_Of_Shapes/Prologue/01_The_Huntress.md` (Age I, el día del renacimiento de Carina): Aisha, sola, vigilando un hangar Dredgen en el Viejo Chicago mientras confirma la magnitud de una red que lleva semanas haciendo desaparecer Guardianes solitarios. Le da a Carina el motivo real de su primer viaje a la Torre — un transmisor con coordenadas para Shayura y Reed-7, que ella no puede entregar en persona porque todavía está contando cuántos son.
+`11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress.md` (Age I, el día del renacimiento de Carina): Aisha, sola, vigilando un hangar Dredgen en el Viejo Chicago mientras confirma la magnitud de una red que lleva semanas haciendo desaparecer Guardianes solitarios. Le da a Carina el motivo real de su primer viaje a la Torre — un transmisor con coordenadas para Shayura y Reed-7, que ella no puede entregar en persona porque todavía está contando cuántos son.
 
 ---
 
-*Conecta con: [[02_Characters/Shayura]], [[02_Characters/Reed-7]], [[02_Characters/Guardian]], [[02_Characters/Carina]], [[07_Unsorted_Ideas/Torneo_IV_Bracket]], [[07_Unsorted_Ideas/IdeasDesarrollo_1]], [[11_Books/Book_02_The_King_Of_Shapes/Prologue/01_The_Huntress]]*
+*Conecta con: [[02_Characters/Shayura]], [[02_Characters/Reed-7]], [[02_Characters/Guardian]], [[02_Characters/Carina]], [[07_Unsorted_Ideas/Torneo_IV_Bracket]], [[07_Unsorted_Ideas/IdeasDesarrollo_1]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress]], [[09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias]]*

@@ -4,6 +4,10 @@
 
 ---
 
+## Nota de ubicación editorial (2026-07-26)
+
+La escena ya escrita `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista` (el origen propio de Jaden con su maestro, distinta del Movimiento III de abajo — ese es Atheena descubriendo la existencia de Suetake por conducta, no la escena del propio Suetake) va a novelizarse como capítulo 1 de **Part 05 — Aftermath** en `11_Books/Book_02_The_King_Of_Shapes/`, justo antes de "The Trail of Xur" (Movimiento V). Se consideró para el Prólogo de ese libro primero, pero se movió aquí por ritmo — ver `00_Book_Map.md` de ese libro.
+
 ## Por qué existe este plan
 
 Jaden tiene una filosofía completa y un destino sólido, pero gran parte de su vida está documentada como resultado, no como transformación. Suetake explica por qué protege; Wrath of the Machine demuestra que puede resolver; el resto lo usa como estándar y cobertura. Falta dramatizar cómo aprende a **pertenecer** fuera del dojo y del Crisol — y ahí es donde entra Atheena, la primera persona que lo elige como compañero (no como maestro ni como heredero) y que muere en Red War sin que ese vínculo se haya dramatizado nunca.

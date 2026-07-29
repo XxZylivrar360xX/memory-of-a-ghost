@@ -85,7 +85,7 @@ Nastia examinó al conejo con la desconfianza profesional de alguien que ha vist
 
 ## III. La decisión discutible
 
-Llegaron un martes: seis personas, dos de ellas niños, una con una herida en la pierna que llevaba días infectándose sin tratamiento — sobrevivientes de un asentamiento más al norte, arrasado por una banda Eliksni que nadie había reportado a tiempo. Pidieron refugio, aunque no usaron esa palabra. Nadie la usa cuando la está pidiendo de verdad.
+Llegaron un martes: seis personas, dos de ellas niños, una con una herida en la pierna que llevaba días infectándose sin tratamiento — sobrevivientes de un asentamiento más al norte, arrasado por una banda de Caídos que nadie había reportado a tiempo. Pidieron refugio, aunque no usaron esa palabra. Nadie la usa cuando la está pidiendo de verdad.
 
 El Refugio del Muelle no tenía mucho margen. Carina lo sabía porque Lena se lo había explicado, semanas atrás, sin quejarse: la pesca alcanzaba para lo que había, el huerto alcanzaba para lo que había, y "lo que había" era una cuenta que alguien llevaba todos los días sin decírselo a nadie más que a sí misma.
 
@@ -191,13 +191,13 @@ Carina la tomó, y no la soltó cuando el Titán las miró desde el porche sin d
 
 ## V. La ausencia que duró más de lo prometido
 
-—Tres días —dijo Carina, la mañana en que la Vanguardia la llamó de vuelta, un mensaje urgente sobre una Casa Eliksni reorganizándose cerca del Arrecife, más al este de lo que cualquiera de las dos había anticipado—. Cuatro, si el clima complica el vuelo. Vuelvo antes del sábado.
+—Tres días —dijo Carina, la mañana en que la Vanguardia la llamó de vuelta, un mensaje urgente sobre una Casa de Caídos reorganizándose cerca del Arrecife, más al este de lo que cualquiera de las dos había anticipado—. Cuatro, si el clima complica el vuelo. Vuelvo antes del sábado.
 
 —Te voy a tomar la palabra —dijo Lena, sin dramatismo, ayudándola a cerrar la última correa de la armadura como si fuera una rutina que ya llevaban haciendo años—. Ve. Aquí va a seguir todo en pie cuando vuelvas.
 
 No volvió el sábado.
 
-La reorganización Eliksni resultó ser más grande de lo que el reporte inicial sugería — no una banda dispersa, sino los restos de dos Casas fusionándose bajo un mando nuevo, lo bastante serio como para que la Vanguardia mantuviera a Carina en el terreno once días, con comunicaciones intermitentes en el mejor de los casos y ninguna en el peor.
+La reorganización de los Caídos resultó ser más grande de lo que el reporte inicial sugería — no una banda dispersa, sino los restos de dos Casas fusionándose bajo un mando nuevo, lo bastante serio como para que la Vanguardia mantuviera a Carina en el terreno once días, con comunicaciones intermitentes en el mejor de los casos y ninguna en el peor.
 
 Del lado de Carina, los once días fueron vigilancia, reconocimiento y espera — la clase de misión que no deja anécdotas para contar después, solo cansancio acumulado y una radio que se negaba a conectar con nada al oeste del Arrecife. En los ratos muertos entre patrullas, empezó dos veces una carta que no tenía a dónde mandar, y las dos veces la rompió antes de terminar la segunda línea, no porque las palabras estuvieran mal sino porque escribirlas sin poder enviarlas se sentía como hablarle a alguien que no podía escuchar. Se guardó, en cambio, la costumbre de mirar hacia el oeste cada atardecer, un minuto exacto, antes de volver al trabajo.
 

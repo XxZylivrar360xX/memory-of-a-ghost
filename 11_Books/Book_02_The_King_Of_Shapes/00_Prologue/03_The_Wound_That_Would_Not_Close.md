@@ -1,18 +1,18 @@
-# Chapter 3 — The Encounter
+# Chapter 3 — The Wound That Would Not Close
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Prologue*
 
 **Protagonistas:** Carina, Hornet, Lena, Teodor
-**Ventana temporal:** House of Wolves, Año 2 — aproximadamente seis meses (a su manera de contar) antes de la llegada de Oryx
+**Ventana temporal:** House of Wolves, Año 2 — primavera; meses antes de la llegada de Oryx, con Carina llevando la cuenta de su edad de forma imprecisa
 **Lugar:** El Refugio del Muelle, a orillas de un lago cerca del Viejo Chicago
 
 ---
 
-## I. El reporte
+## I. The Report
 
 Llegó como llegaban casi todos los reportes de los márgenes: tarde, incompleto, y dirigido a nadie en particular hasta que alguien lo tomaba.
 
-*Actividad Eliksni dispersa cerca de un asentamiento pesquero. Sin confirmar. Presentado hace tres días.*
+*Actividad dispersa de los Caídos cerca de un asentamiento pesquero. Sin confirmar. Presentado hace tres días.*
 
 Carina lo tomó del tablón antes de que nadie más lo viera, con el mismo instinto que la había hecho pedir, meses atrás, el turno que nadie más quería. No era un reporte que fuera a ganarle nada. Era, simplemente, el siguiente en la lista, y ella llevaba casi un año entero construyéndose alrededor de la idea de que la lista no debía importarle a nadie más que a ella.
 
@@ -24,11 +24,11 @@ Carina lo tomó del tablón antes de que nadie más lo viera, con el mismo insti
 
 —Por eso mismo —dijo Carina, ya despegando—. Todavía me quedan lugares en la lista.
 
-Ninguna de las dos supo, esa mañana, que era el último reporte rutinario que Carina iba a leer en mucho tiempo.
+Ninguno de los dos supo, esa mañana, que era el último reporte rutinario que Carina iba a leer en mucho tiempo.
 
 ---
 
-## II. El Refugio
+## II. The Refuge
 
 Desde el aire, el Refugio del Muelle no parecía gran cosa: un puñado de tejados reforzados con placas de metal salvado, una hilera de embarcaciones amarradas a un muelle que se hundía un poco más cada invierno, humo de cocina subiendo recto en el aire quieto de la tarde. Carina había sobrevolado docenas de asentamientos con esa misma geometría desesperada en el último año. Este era distinto, y tardó un momento en entender por qué: nada estaba a medio terminar. Los remiendos de los techos eran consistentes, la misma técnica repetida casa tras casa, como si alguien hubiera enseñado a todo el mundo a hacerlo igual. Alguien aquí sabía organizar a la gente.
 
@@ -38,7 +38,7 @@ El hombre que la interceptó en la entrada —dos postes con una cadena floja en
 
 —Guardiana —dijo, sin pregunta en la palabra.
 
-—Vengo por el reporte de actividad Eliksni cerca del muelle.
+—Vengo por el reporte de actividad de los Caídos cerca del muelle.
 
 —Ese reporte tiene tres días. —No como acusación, solo como un hecho dejado flotando entre los dos—. Pregunta por Lena si necesitas algo mientras estás aquí. Ella sabe más de lo que pasa en este pueblo que el resto de nosotros juntos. Y de paso, tenemos un herido que podría necesitar algo que nosotros no sabemos darle.
 
@@ -136,11 +136,11 @@ No dijo en voz alta que no se refería solo a la Luz. No dijo, tampoco, que llev
 
 ---
 
-## V. El reporte, otra vez
+## V. The Report, Again
 
 Cumplió con el reporte antes de irse — se lo debía al asentamiento, y a sí misma, no dejar cabos sueltos por haberse quedado más tiempo del planeado en una clínica.
 
-El rastro Eliksni resultó ser lo que el informe original sugería: una banda pequeña, dispersa, restos de una Casa que ya no existía como tal, moviéndose sin patrón claro por el borde del lago. No un ataque en preparación. Algo más triste que eso — sobrevivientes sin bandera, buscando qué comer, del mismo modo en que el propio Refugio había tenido que aprender a buscar qué comer una generación antes.
+El rastro de los Caídos resultó ser lo que el informe original sugería: una banda pequeña, dispersa, restos de una Casa que ya no existía como tal, moviéndose sin patrón claro por el borde del lago. No un ataque en preparación. Algo más triste que eso — sobrevivientes sin bandera, buscando qué comer, del mismo modo en que el propio Refugio había tenido que aprender a buscar qué comer una generación antes.
 
 Carina anotó las coordenadas, marcó el nivel de amenaza como bajo, y recomendó vigilancia. No era la clase de reporte que ganaba medallas. Era la clase de reporte correcto.
 
@@ -162,7 +162,7 @@ Carina no se sonrojó. No era su estilo. Pero se rió, genuinamente, algo que no
 
 —¿Es un problema?
 
-—Depende. —Lena la miró de arriba abajo otra vez, más lento, sin el filtro clínico de antes—. ¿Vas a seguir viniendo con excusas de reportes de Eliksni, o vas a admitir que solo quieres ver a la médica del pueblo?
+—Depende. —Lena la miró de arriba abajo otra vez, más lento, sin el filtro clínico de antes—. ¿Vas a seguir viniendo con excusas de reportes de los Caídos, o vas a admitir que solo quieres ver a la médica del pueblo?
 
 —¿Las dos cosas no pueden ser verdad?
 
@@ -170,7 +170,7 @@ Carina no se sonrojó. No era su estilo. Pero se rió, genuinamente, algo que no
 
 —¿Qué significa eso? Lo que me dijiste.
 
-—¿Malyshka? Pequeña. Bebé. —Una pausa, la sonrisa volviendo, más filosa—. Acabas de resucitar hace, ¿qué, un año? Dos. Para mí, que llevo treinta y cuatro años en este cuerpo aprendiendo a no morirme de las formas ordinarias, eso te hace una bebé. Aunque puedas partir Eliksni a la mitad.
+—¿Malyshka? Pequeña. Bebé. —Una pausa, la sonrisa volviendo, más filosa—. Acabas de resucitar hace, ¿qué, un año? Dos. Para mí, que llevo treinta y cuatro años en este cuerpo aprendiendo a no morirme de las formas ordinarias, eso te hace una bebé. Aunque puedas partir Caídos a la mitad.
 
 —Eso es insultante.
 
@@ -179,6 +179,10 @@ Carina no se sonrojó. No era su estilo. Pero se rió, genuinamente, algo que no
 —¿Voy a seguir viniendo?
 
 —Vas a seguir viniendo —dijo Lena, con la certeza tranquila de quien ya conocía la respuesta antes de que Carina terminara de decidirla—. Ya vi cómo miras la puerta cuando te vas.
+
+—¿Y si te equivocas? —preguntó Carina, más por probarla que por dudar.
+
+—Entonces me lo dices, y yo aprendo —dijo Lena, sin dejar de sonreír—. No leo a nadie perfecto, Malyshka. Solo observo con atención, y me equivoco menos que la mayoría.
 
 Carina ya había dado dos pasos hacia el colibrí cuando se detuvo y se giró.
 
@@ -204,24 +208,66 @@ Carina negó con la cabeza, sin poder evitar la sonrisa, y esta vez sí caminó 
 
 ---
 
-## VII. Lo que dejó atrás
+## VII. What She Left Behind
 
 Detrás de ella, el Refugio del Muelle seguía haciendo lo que llevaba años haciendo sin que nadie de la Ciudad viniera a verlo: sobrevivir bien, con método, con una mujer al centro que se había dedicado a que ningún hueso ni ninguna persona quedara sin ponerse de nuevo en su sitio.
 
-Carina no lo sabía todavía, pero acababa de encontrar el primer lugar, desde su resurrección, que no necesitaba que ella fuera una leyenda.
+Carina no lo sabía todavía, pero acababa de encontrar el primer lugar, desde su resurrección, que no necesitaba que ella fuera un arma.
 
 Solo necesitaba que volviera.
 
 Hornet, esperándola junto al colibrí, no dijo nada durante todo el vuelo de regreso — ni sobre el reporte, ni sobre cuánto tiempo se había quedado, ni sobre la forma en que ella seguía, minutos después de haber despegado, con una expresión que él no le había visto usar antes. Archivó eso también, del mismo modo en que archivaba todo lo que todavía no sabía nombrar.
 
-No tenía forma de saber que acababa de presenciar el principio de la única relación de Carina que no iba a necesitar meses ni años de acumulación para volverse real. Que ya era real, de hecho, desde la primera vez que Lena dijo su nombre en la puerta de la clínica.
+No tenía forma de saber que acababa de presenciar el principio de algo que no iba a parecerse a ninguna otra relación que Carina hubiera tenido. Que iba a necesitar, como todo lo demás en la vida que ella se había construido sola, meses para saber qué forma tenía — pero que ese primer nombre dicho en la puerta de la clínica ya era el primer lugar al que, sin saberlo todavía, Carina iba a aprender a volver.
 
 Solo sabía que iban a volver.
 
 ---
 
+## VIII. What the Tower Could Not Give Her
+
+Pasaron casi dos semanas antes de que Hornet dijera algo.
+
+La encontró en el mismo sitio donde la encontraba casi siempre que algo la rondaba sin que ella se lo permitiera nombrar: el balcón sobre el Patio de la Torre, viendo pasar Guardianes que iban y venían con la seguridad de quien tiene un lugar exacto a donde llegar.
+
+—Llevas días mirando ese patio como si fuera un mapa que no terminas de leer —dijo Hornet, sin preámbulo, flotando a su altura.
+
+—Solo estoy pensando.
+
+—Llevas días pensando lo mismo, entonces. —No era una acusación. Era, simplemente, un dato archivado en voz alta—. ¿Qué tiene el Patio que no tenía antes?
+
+Carina no respondió enseguida. Miró — de verdad miró, esta vez — a los Guardianes cruzando de un lado a otro: Titanes comparando escudos junto a la fragua, un Hechicero discutiendo con un vendedor de Fragmentos, dos Cazadores riéndose de algo que ella no alcanzaba a oír. Nadie la ignoraba. Varios la saludaron al pasar; alguno incluso se detuvo a preguntarle por la patrulla del lago. La Torre nunca le había negado un lugar. Tenía una litera, una reputación que empezaba a construirse, gente que confiaba en su puntería aunque todavía no en su nombre completo.
+
+—Nada —dijo, al final—. No tiene nada distinto. Ese es el problema.
+
+—Explica eso.
+
+—En el Refugio, alguien me miró cinco minutos y ya sabía cosas de mí que aquí nadie se ha molestado en preguntar en casi un año entero. —Se apoyó en la baranda—. Aquí me conocen por lo que hago. Allá, alguien empezó a conocerme por lo que soy, antes de que yo misma terminara de decidir qué era eso.
+
+—La Torre te dio un techo. Una misión. Un colibrí que no explotó la primera semana.
+
+—Lo sé. Y no es que no me sienta bienvenida aquí, Hornet. Es distinto. —Buscó la palabra un momento, sin encontrarla del todo—. Es como si aquí yo fuera útil, y allá... allá alguien me quisiera ver. No es lo mismo.
+
+Hornet no respondió enseguida. Cuando lo hizo, no fue con una de sus advertencias cortas y precisas, sino con algo más parecido a una pregunta que ya sabía la respuesta y solo quería confirmarla en voz alta.
+
+—¿Y qué vas a hacer con eso?
+
+—Todavía no lo sé.
+
+—Sí lo sabes —dijo Hornet—. Solo no has terminado de decírtelo a ti misma.
+
+No dijo nada más. No hacía falta — Carina ya se había dado cuenta ella sola, mirando el mismo patio de siempre con ojos distintos, de que la pregunta nunca había sido si iba a volver al Refugio.
+
+Era cuántas veces.
+
+---
+
 *Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Lena]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 3 del Prólogo de Book 02, adaptando completa `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro.md` (fuente original, primera escena del arco de House of Wolves). Novelizada, no transcrita: se añadió una Sección I nueva ("El reporte") que conecta directamente con el cierre del Capítulo 2, y una Sección VII nueva ("Lo que dejó atrás") que cierra el capítulo desde la perspectiva de Hornet, sembrando sin nombrarlo que esta relación no va a seguir el mismo ritmo lento de acumulación que el resto de los vínculos de Carina en este libro — coherente con `Carina_Lena.md` ("es la única relación romántica de Carina en toda la saga"). Todo el diálogo central de Lena y Teodor se preserva verbatim o casi verbatim, respetando el cimiento ya fijado en la fuente. Un ajuste deliberado en la Sección VI: la línea final de la escena original ("Seis meses. Dijiste un año, o dos... Son seis") se reescribió para que Carina ya **no sepa el número exacto** ("Meses... No estoy segura. Muchos. No suficientes para saber contarlos bien") — coherente con la resolución de cronología fijada en el Capítulo 2 (el "seis meses" de la fuente original queda reinterpretado como aproximación coloquial, no conteo exacto; en la cronología real del libro ya pasó más de un año desde el renacimiento). La Sección IV añade una línea nueva conectando el caso de Teodor con los dos casos sin explicar que Carina topó en el Capítulo 2 (Sección VI, "Restauración") — el protocolo de Lena resuelve, en cinco minutos, una pregunta que Carina llevaba meses cargando sin nombre.
+*Nota narrativa: Capítulo 3 del Prólogo de Book 02, "The Wound That Would Not Close" (título anterior: "The Encounter", ajustado por el autor el 2026-07-26), adaptando completa `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro.md` (fuente original, primera escena del arco de House of Wolves). Novelizada, no transcrita: se añadió una Sección I nueva ("The Report") que conecta directamente con el cierre del Capítulo 2, y una Sección VII nueva ("What She Left Behind") que cierra el capítulo desde la perspectiva de Hornet, sembrando sin nombrarlo que esta relación no va a seguir el mismo ritmo lento de acumulación que el resto de los vínculos de Carina en este libro — coherente con `Carina_Lena.md` ("es la única relación romántica de Carina en toda la saga"). Todo el diálogo central de Lena y Teodor se preserva verbatim o casi verbatim, respetando el cimiento ya fijado en la fuente. Un ajuste deliberado en la Sección VI: la línea final de la escena original ("Seis meses. Dijiste un año, o dos... Son seis") se reescribió para que Carina ya **no sepa el número exacto** ("Meses... No estoy segura. Muchos. No suficientes para saber contarlos bien") — coherente con la resolución de cronología fijada en el Capítulo 2 (el "seis meses" de la fuente original queda reinterpretado como aproximación coloquial, no conteo exacto; en la cronología real del libro ya pasó más de un año desde el renacimiento). La Sección IV añade una línea nueva conectando el caso de Teodor con los dos casos sin explicar que Carina topó en el Capítulo 2 (Sección VI, "Restoration") — el protocolo de Lena resuelve, en cinco minutos, una pregunta que Carina llevaba meses cargando sin nombre.
 
-**Añadido a petición del autor (2026-07-26):** la niña de la rodilla y el pez recibe nombre — **Nastia** — propagado también a `Carina_Lena_HouseOfWolves_ElEncuentro` (fuente) y `Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio` (la niña de la fiebre y el conejo, Capítulo 4 futuro), sin tocar a la niña herida distinta de la familia de refugiados en esa misma escena. Y en la Sección II, primera descripción física de Lena en toda su prosa (nunca antes escrita, solo fijada en `02_Characters/Lena.md`): rasgos de Asia del Norte/rusa, pómulos marcados, ojos grises ligeramente rasgados, cabello rubio con mechones negros, bata de lino gastada, el trapo al hombro — verbatim de la ficha, en el momento exacto en que Carina la ve por primera vez desde la puerta.*
+**Añadido a petición del autor (2026-07-26):** la niña de la rodilla y el pez recibe nombre — **Nastia** — propagado también a `Carina_Lena_HouseOfWolves_ElEncuentro` (fuente) y `Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio` (la niña de la fiebre y el conejo, Capítulo 4 futuro), sin tocar a la niña herida distinta de la familia de refugiados en esa misma escena. Y en la Sección II, primera descripción física de Lena en toda su prosa (nunca antes escrita, solo fijada en `02_Characters/Lena.md`): rasgos de Asia del Norte/rusa, pómulos marcados, ojos grises ligeramente rasgados, cabello rubio con mechones negros, bata de lino gastada, el trapo al hombro — verbatim de la ficha, en el momento exacto en que Carina la ve por primera vez desde la puerta.
+
+**Auditoría editorial de Codex aplicada (2026-07-26):** corregida la concordancia de género en el cierre de la Sección I. Reescrito el párrafo final de la Sección VII para que la intimidad de Carina/Lena no se afirme como "ya real desde el primer nombre" — se protege la regla de acumulación de `Carina_Lena.md` y la tesis del Capítulo 5 (*The Half-Hour Watch*, antes "What Builds Slowly"), conservando el magnetismo del encuentro sin adelantar su resolución. Encabezado de ventana temporal reescrito para no leerse como cronología dura tras el ajuste de "ocho meses" del Capítulo 2. "Una leyenda" cambiado a "un arma" en el cierre, más preciso para esta etapa del arco. Añadido un gesto mínimo de humildad de Lena en la Sección VI (admite que puede equivocarse) para que su lectura clínica de Teodor y de Carina no se sienta infalible.*
+
+*Sección VIII añadida a petición del autor (2026-07-26): "What the Tower Could Not Give Her" — la conversación entre Hornet y Carina en el Patio de la Torre, casi dos semanas después de la visita al Refugio, que paga por adelantado la línea de apertura del Capítulo 5 ("Hornet tenía razón, aunque tardó semanas en decírselo en voz alta: iban a volver"), hasta ahora sin origen dramatizado. Hornet no le dice a Carina lo que siente — la hace mirar el Patio con atención y nombrar la diferencia ella misma: la Torre la hace sentir útil (techo, misión, reputación), el Refugio la hizo sentir vista, alguien que empezó a conocerla por lo que es antes de que ella misma lo decidiera. Deliberadamente no se usa la palabra "arma" ni se adelanta la línea reservada para el Capítulo 5 ("nadie me había tratado como persona antes de tratarme como arma") — esta escena construye el mismo tema desde el ángulo de pertenencia (alguien que volvió sin nada quiere formar parte de algo), no desde el de instrumentalización, para no gastar la formulación completa antes de tiempo. Coherente con el rol ya fijado de Hornet en su ficha (economía de palabras; cuando habla, Carina escucha) y con el motivo de "archivar" ya establecido en la Sección VII de este mismo capítulo.*

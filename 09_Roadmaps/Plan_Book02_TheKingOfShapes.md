@@ -32,20 +32,24 @@ Ver `11_Books/README.md` — regla permanente de toda la colección, no solo de 
 
 ## Estructura del libro
 
-### Prólogo — 7 capítulos independientes *(reestructurado 2026-07-25, ya no es un capítulo único)*
+### Prólogo — 7 capítulos independientes *(reestructurado 2026-07-25, ampliado 2026-07-26; ya no es un capítulo único)*
 
-**Función:** House of Wolves visto desde varias vidas que todavía no se cruzan con Kyle — Carina y Lena, y ahora también Jaden. Termina antes de que Oryx llegue al sistema — no narra la muerte de Lena.
+**Función:** House of Wolves visto desde la vida de Carina, todavía sin cruzarse con Kyle. Termina antes de que Oryx llegue al sistema — no narra la muerte de Lena.
+
+**Estado detallado (fuentes, notas de sesión, cambios de título) vive en `11_Books/Book_02_The_King_Of_Shapes/00_Book_Map.md` y `01_Source_Index.md` — esta lista es solo un resumen de estado, actualizar ahí primero.**
+
+**Ajuste de estructura (2026-07-26, a petición del autor):** el capítulo del origen de Jaden con Suetake se retiró del Prólogo — con el ritmo real que tomaron los Capítulos 1-6 (novela corta continua, no antología de vidas paralelas), cortar a Jaden justo antes del cierre se sentía precipitado. Se movió a **Part 05 — Aftermath**, capítulo 1, justo antes de "The Trail of Xur" (ver esa sección abajo).
 
 **Capítulos:**
-1. **The Huntress** — el renacimiento de Carina en Chicago, Hornet. **Escrito** (`11_Books/Book_02_The_King_Of_Shapes/Prologue/01_The_Huntress.md`), pendiente de ajuste final del autor. Incluye escena nueva (dos Dredgen sin nombre torturando a un Espectro) añadida a petición del autor el 2026-07-25.
-2. *(título pendiente)* — el año solitario de Carina, material enteramente nuevo.
-3. **The Encounter** — Teodor, la clínica, Lena. Fuente: `Carina_Lena_HouseOfWolves_ElEncuentro`.
-4. **What Builds Slowly** — la acumulación, los once días, el embarcadero. Fuente: `Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio`.
-5. **What No One Else Reads** — la chaqueta, el primer beso. Fuente: `Carina_Lena_HouseOfWolves_LoQueNadieMasLee`.
-6. *(título pendiente)* — origen de Jaden con Suetake, misma ventana temporal, capítulo complementario puro (primera aplicación del principio de arquitectura). Fuente: `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`.
-7. **Before the Sky Changed** *(título de trabajo)* — cierre del Prólogo, corte duro antes de Oryx.
+1. **The Huntress** — el renacimiento de Carina en Chicago, Hornet. **Escrito.**
+2. **The Patrols No One Wanted** — el año solitario de Carina. **Escrito.**
+3. **The Wound That Would Not Close** — Teodor, la clínica, Lena. **Escrito.**
+4. **The Asclepeion** — Marte, el Freehold Asclepeion, los Desolladores, origen del maletín. **Escrito.**
+5. **The Half-Hour Watch** — la acumulación, incluida la Sección III nueva **"The Old Book"** (2026-07-26: Lena le lee a Carina *El asesinato de Roger Ackroyd* — siembra el método de investigación que paga en el arco de misterio de Beyond Light, ver `09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`) y la Sección VI **"The Rink"** (Lena le enseña a patinar sobre hielo a Carina en un domo en ruinas, territorio Dredgen, como cita deliberada — siembra el equilibrio físico que paga en Beyond Light, ver `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md`), los once días, el embarcadero. **Escrito.**
+6. **The Wine-Red Jacket** *(antes "What No One Else Reads")* — la chaqueta, el primer beso. **Escrito.**
+7. **Before the Sky Changed** — cierre del Prólogo, corte duro antes de Oryx: Gartok resuelto en el Arrecife (cameo de Petra Venj), Teodor y Nastia, y el disparo de Saturno visto desde la azotea de la clínica como una luz verde agonizante que ni Carina ni Lena entienden. **Escrito.**
 
-Detalle completo por capítulo (estado, fuentes, notas) en `11_Books/Book_02_The_King_Of_Shapes/00_Book_Map.md` y `01_Source_Index.md` — ambos ya actualizados a esta estructura.
+**Hilo abierto sembrado en el Capítulo 4 (The Asclepeion), sin escena propia todavía:** Gartok, el Desollador — un Barón Lobo cuyo nombre Carina escucha en un canal abierto; decide ir tras él antes de reclamar el contrato correspondiente en el Arrecife. Cruza con la cacería de los Wolf Barons ya sembrada del lado de Kyle (evento 12 de `09_Roadmaps/Plan_AgeI_Escenas.md`).
 
 **Lo forzado, heredado de la versión de capítulo único (sigue aplicando, repartido entre los capítulos 1, 3, 4 y 5):**
 - Contenido y orden de las escenas fuente, incluida la línea verbatim de `LoQueSeConstruyeDespacio` ("nadie me había tratado como persona antes de tratarme como arma") y el anillo del embarcadero mencionado sin confirmarse — nadie lo vuelve a nombrar.
@@ -54,7 +58,7 @@ Detalle completo por capítulo (estado, fuentes, notas) en `11_Books/Book_02_The
 - La chaqueta nunca gana placas; el humor de Carina nunca desaparece para "volverse sincera".
 - **Trampa a evitar:** la noche de tormenta donde nace "el mundo aburrido" ocurre cronológicamente dentro de esta ventana, pero su origen ya está dramatizado como flashback en `Carina_TakenKing_LoQueQuedoDelRefugio` (Part 01/04, fuera del Prólogo). **No volver a dramatizar esa noche aquí.**
 
-**Estado (2026-07-25):** Capítulo 1 escrito y expandido, pendiente de lectura/ajuste del autor. Capítulos 2-7 sin escribir — se redactan uno a la vez, con ciclo de lectura/ajuste antes de avanzar al siguiente, a pedido explícito del autor.
+**Estado (2026-07-26):** Capítulos 1-7 escritos — **Prólogo completo.** Pendiente de lectura/ajuste final del autor. Próximo paso: Part 01 — Price of Vengeance.
 
 ### Part 01 — Price of Vengeance
 
@@ -117,11 +121,12 @@ Capítulos:
 Material fuente: bloque Taken King — Aftermath de `Plan_Jaden_Atheena_Origen.md` (Movimientos V-VIII).
 
 Capítulos:
-1. **The Trail of Xur** — Jaden/Atheena salen de Sol; ausencia convertida en ruta (`Jaden_Atheena_TakenKing_LaPistaDeXur`).
-2. **What They Found in Exile** — Kepler; Carina encuentra una escuadra sin pedirla (`Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio`).
-3. **The False Pretender** — Malok interpreta la sucesión de forma literal (`Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok`).
-4. **Just in Time** — Carina salva a Kyle; no cierra su duelo, pero cambia su relación con llegar tarde (`Carina_Guardian_TakenKing_JustoATiempo`).
-5. **The Third Sword** — Dark Drinker y el puente hacia Rise of Iron (`Jaden_Eris_TakenKing_DarkDrinker`).
+1. *(título pendiente)* — el origen de Jaden con su maestro Suetake, House of Wolves; retrospectivo, movido desde el Prólogo el 2026-07-26 porque cortar a Jaden ahí se sentía precipitado en el ritmo real que tomó la novela corta de Carina/Lena. Aquí aterriza justo antes de que Jaden se vuelva protagonista real (`Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`).
+2. **The Trail of Xur** — Jaden/Atheena salen de Sol; ausencia convertida en ruta (`Jaden_Atheena_TakenKing_LaPistaDeXur`).
+3. **What They Found in Exile** — Kepler; Carina encuentra una escuadra sin pedirla (`Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio`).
+4. **The False Pretender** — Malok interpreta la sucesión de forma literal (`Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok`).
+5. **Just in Time** — Carina salva a Kyle; no cierra su duelo, pero cambia su relación con llegar tarde (`Carina_Guardian_TakenKing_JustoATiempo`).
+6. **The Third Sword** — Dark Drinker y el puente hacia Rise of Iron (`Jaden_Eris_TakenKing_DarkDrinker`).
 
 ## Lo que NO tocaría (heredado de Codex, sin cambios)
 
@@ -139,4 +144,4 @@ Redactar el Prólogo — es la única pieza del libro que exige prosa genuinamen
 
 ---
 
-*Conecta con: `99_Reference/Agent_Notes/codex/2026-07-23_incubadora-book-02-the-king-of-shapes.md`, `11_Books/Book_02_The_King_Of_Shapes/00_Book_Map.md`, `11_Books/Book_02_The_King_Of_Shapes/01_Source_Index.md`, `01_Timeline/Age_II_The_Taken_King.md`, `09_Roadmaps/Plan_TakenKing_Parte1.md`, `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`, `01_Timeline/Raids/KingsFall.md`, `09_Roadmaps/Plan_Jaden_Atheena_Origen.md`, `08_Core_Relationships/Carina_Lena.md`.*
+*Conecta con: `99_Reference/Agent_Notes/codex/2026-07-23_incubadora-book-02-the-king-of-shapes.md`, `11_Books/Book_02_The_King_Of_Shapes/00_Book_Map.md`, `11_Books/Book_02_The_King_Of_Shapes/01_Source_Index.md`, `01_Timeline/Age_II_The_Taken_King.md`, `09_Roadmaps/Plan_TakenKing_Parte1.md`, `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`, `01_Timeline/Raids/KingsFall.md`, `09_Roadmaps/Plan_Jaden_Atheena_Origen.md`, `08_Core_Relationships/Carina_Lena.md`, `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md`.*

@@ -2,36 +2,38 @@
 
 *Cruce entre cada capítulo futuro y sus escenas fuente en `05_Dialogues/`, roadmaps y conceptos. Ver `00_Book_Map.md` para el orden literario aprobado y `09_Roadmaps/Plan_Book02_TheKingOfShapes.md` para la triage completa.*
 
+**Numeración de capítulos:** los números de esta lista son locales a cada Part (reinician en 1). El número de capítulo real, continuo para todo el libro (el que aparece en el encabezado "Chapter N" de cada archivo), vive en la tabla de `00_Book_Map.md`, sección "Numeración de capítulos — regla fija". Prólogo = capítulos 1-7; Part 01 = 8-15 (8 capítulos, ver ajuste 2026-07-26); Part 02 = 16-22; Part 03 = 23-29 (provisional); Part 04 = 30-31; Part 05 = 32-37.
+
 ---
 
 ## Prólogo — 7 capítulos independientes
 
-Reestructurado el 2026-07-25: el Prólogo dejó de ser un capítulo único y pasó a ser una colección de 7 capítulos cortos, cada uno con su propio título en inglés, siguiendo el principio de arquitectura de `11_Books/README.md` (espacio para vidas complementarias, no solo la columna Carina/Lena).
+Reestructurado el 2026-07-25 y ampliado el 2026-07-26: el Prólogo dejó de ser un capítulo único y pasó a ser una colección de capítulos cortos, cada uno con su propio título en inglés. **Ajuste del 2026-07-26 (tarde):** el capítulo del origen de Jaden con Suetake, que iba a ser la primera aplicación del principio de arquitectura de `11_Books/README.md` dentro del Prólogo, se retiró de aquí — con el ritmo real que tomaron los Capítulos 1-6 (novela corta continua de Carina/Lena), cortar a Jaden justo antes del cierre se sentía precipitado. Se movió a **Part 05 — Aftermath**, capítulo 1, justo antes de "The Trail of Xur" (ver esa sección abajo). El Prólogo queda enteramente Carina/Lena, 7 capítulos.
 
-1. **The Huntress** — el renacimiento de Carina en el Viejo Chicago, Hornet, el mismo día que Kyle despierta en el Cosmódromo. Fuente: `05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar`. **Escrito** (`Prologue/01_The_Huntress.md`), incluye escena nueva (Sección IV, dos Dredgen sin nombre torturando a un Espectro) añadida a petición del autor.
-2. **What She Chose Alone** *(título de trabajo)* — once meses de Carina: la Torre, el Eyasluna encontrado en un Dredgen muerto, Cayde-6 y el origen de Golden Gun, la primera Aurora con Shin Malphur, y los tres meses puente (Restauración/Cura como kit sanador del Solar, el giro y las tres balas consolidado, la generosidad vuelta reflejo) hasta el reporte que abre el Capítulo 3. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan` (adaptada, Sección IV); resto material nuevo. **Escrito** (`Prologue/02_What_She_Chose_Alone.md`), pendiente de ajuste del autor.
-3. **The Encounter** — etapa 1 de `Carina_Lena.md`: el reporte que la lleva al Refugio, el caso de Teodor, el primer encuentro con Lena. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro` (adaptada completa, con puente nuevo al Capítulo 2 y cierre nuevo desde Hornet). **Escrito** (`Prologue/03_The_Encounter.md`), pendiente de ajuste del autor.
-4. **What Builds Slowly** — etapa 2: volver sin misión, el embarcadero, la semilla del anillo, los once días. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio`. **Sin escribir.**
-5. **What No One Else Reads** — etapa 3: la chaqueta, el primer beso. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueNadieMasLee`. **Sin escribir.**
-6. *(título pendiente)* — el origen de Jaden con su maestro Suetake, misma ventana temporal, sin tocar a Kyle ni a Carina. Fuente: `05_Dialogues/Dialogue_Guardian/Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`. Primera aplicación concreta del principio de arquitectura. **Sin escribir.**
-7. **Before the Sky Changed** *(título de trabajo)* — cierre del Prólogo, corte duro antes de que Oryx llegue al sistema. Material nuevo. **Sin escribir.**
+1. **The Huntress** — el renacimiento de Carina en el Viejo Chicago, Hornet, el mismo día que Kyle despierta en el Cosmódromo. Fuente: `05_Dialogues/RenacimientosGuardianes/Carina_ElDespatar`. **Escrito** (`00_Prologue/01_The_Huntress.md`), incluye escena nueva (Sección IV, dos Dredgen sin nombre torturando a un Espectro) añadida a petición del autor.
+2. **The Patrols No One Wanted** *(antes "What She Chose Alone")* — once meses de Carina: la Torre, el Eyasluna encontrado en un Dredgen muerto, Cayde-6 y el origen de Golden Gun, la primera Aurora con Shin Malphur, y los tres meses puente (Restauración/Cura como kit sanador del Solar, el giro y las tres balas consolidado, la generosidad vuelta reflejo) hasta el reporte que abre el Capítulo 3. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan` (adaptada, Sección IV); resto material nuevo. **Escrito** (`00_Prologue/02_The_Patrols_No_One_Wanted.md`), auditoría editorial de Codex aplicada (2026-07-26).
+3. **The Wound That Would Not Close** *(antes "The Encounter")* — etapa 1 de `Carina_Lena.md`: el reporte que la lleva al Refugio, el caso de Teodor, el primer encuentro con Lena. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro` (adaptada completa, con puente nuevo al Capítulo 2 y cierre nuevo desde Hornet). **Escrito** (`00_Prologue/03_The_Wound_That_Would_Not_Close.md`), auditoría editorial de Codex aplicada (2026-07-26).
+4. **The Asclepeion** — el Chicago Medical Continuity Annex — Sector Zero, saqueado por Dredgen; el mural del Freehold Asclepeion (Marte); mini-asalto contra los Desolladores (Psion de extracción); origen dramatizado del maletín de suministros. Sin escena fuente en `05_Dialogues/` — prosa enteramente nueva. **Escrito** (`00_Prologue/04_The_Asclepeion.md`), pendiente de ajuste del autor. Insertado el 2026-07-26, renumerando los capítulos 4-7 previos a 5-8.
+5. **The Half-Hour Watch** *(antes "What Builds Slowly")* — etapa 2: volver sin misión, el Crisol contado en voz alta, la séptima partida, la decisión discutible, la cautela post-Dredgen, el embarcadero, la semilla del anillo, los once días. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio` (adaptada completa, con dos secciones nuevas). **Escrito** (`00_Prologue/05_The_Half_Hour_Watch.md`, renumerado desde `04_`), bautizado por Codex/Víctor el 2026-07-26; pendiente de ajuste final del autor.
+6. **The Wine-Red Jacket** *(antes "What No One Else Reads")* — etapa 3: la chaqueta, el primer beso. Fuente: `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueNadieMasLee`. **Escrito** (`00_Prologue/06_The_Wine_Red_Jacket.md`), pendiente de ajuste del autor.
+7. **Before the Sky Changed** — cierre del Prólogo, corte duro antes de que Oryx llegue al sistema. Material nuevo, sin escena fuente. **Escrito** (`00_Prologue/07_Before_The_Sky_Changed.md`), pendiente de ajuste del autor.
 
-**Corte del Prólogo:** termina en el capítulo 7, antes de que Oryx llegue al sistema. Etapa 4 de `Carina_Lena.md` (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`, la muerte de Lena) queda para Part 01, capítulo 4 ("The King's Hand") — no se duplica ni se adelanta.
+**Corte del Prólogo:** termina en el capítulo 7, antes de que Oryx llegue al sistema. Etapa 4 de `Carina_Lena.md` (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`, la muerte de Lena) queda para Part 01, capítulo local 3 / Cap. 10 global ("The King's Hand") — no se duplica ni se adelanta.
 
-**Apoyo:** `08_Core_Relationships/Carina_Lena.md` — mapa de etapas y símbolos, columna vertebral de los capítulos 1, 3, 4 y 5. `02_Characters/Lena.md`, `02_Characters/Carina.md`, `02_Characters/Hornet.md`, `02_Characters/Jaden.md`, `02_Characters/Suetake.md` (si existe ficha propia).
+**Apoyo:** `08_Core_Relationships/Carina_Lena.md` — mapa de etapas y símbolos, columna vertebral de los capítulos 1, 3, 5 y 6. `02_Characters/Lena.md`, `02_Characters/Carina.md`, `02_Characters/Hornet.md`, `02_Characters/Jaden.md`, `02_Characters/Suetake.md` (si existe ficha propia).
 
 ## Part 01 — Price of Vengeance
 
-Fuente general: `09_Roadmaps/Plan_TakenKing_Parte1.md` (23 escenas, 4 clusters).
+Fuente general: `09_Roadmaps/Plan_TakenKing_Parte1.md` (23 escenas, 4 clusters). **Ajuste 2026-07-26:** las 4 escenas del Cluster 1 (`Eris_Osiris_TakenKing_ElPadreDebajoDelRey`, `Eris_Mara_TakenKing_LaTesoreria`, `Petra_Mara_TakenKing_LaBatallaDeSaturno`, `Mara_Eris_TakenKing_LoQueNingunoModelo`) salen de esta lista de capítulos en tiempo real — quedan como fuente para un capítulo futuro de memoria retrospectiva de Eris, ubicación pendiente (King's Fall o Aftermath). Ver `00_Book_Map.md` y `Plan_TakenKing_Parte1.md`.
 
-1. **The Father Beneath the King** — `Eris_Osiris_TakenKing_ElPadreDebajoDelRey`, escenas de arranque de Mara/el atraco (Cluster 1).
-2. **The Battle of Saturn** — `Petra_Mara_TakenKing_LaBatallaDeSaturno`, `Elsie_Petra_TakenKing_LaManoSeCierra`.
-3. **Phobos** — `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos`, `Eris_Mara_TakenKing_LaTesoreria`.
-4. **The King's Hand** — escenas de los cinco asedios (Cluster 2), muerte de Lena en paralelo.
-5. **The Dreadnaught Key** — Cluster 3: Cayde, módulo del Acorazado, herida de Ghost, presión civil.
-6. **The Hellmouth Descent** — Cluster 4, primeras escenas Kyle/Carina orbitando sin cruzarse.
-7. **The Physical Regicide** — duelo físico con Oryx, cierre de Cluster 4.
-8. **The Flank She Could Not Hold** — cierre Elsie/Carina, incluye `Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir`.
+1. **The Last Board** *(antes "The Porch")* — Kyle y Ghost en la cabaña, terminando de montar el porche; termina con la llamada de Ikora. Material nuevo, sin escena fuente. **Escrito** (`Part_01_Price_of_Vengeance/01_The_Last_Board.md`), pendiente de ajuste del autor.
+2. **Phobos** — `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos`, `Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion`. **Escrito** (`Part_01_Price_of_Vengeance/02_Phobos.md`), pendiente de ajuste del autor.
+3. **The King's Hand** — `Elsie_Petra_TakenKing_LaManoSeCierra` (los cinco asedios), `Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso` (muerte de Lena). **Escrito** (`Part_01_Price_of_Vengeance/03_The_Kings_Hand.md`), pendiente de ajuste del autor.
+4. **The Little Box** *(antes "What the Refuge Kept", capítulo nuevo insertado 2026-07-26)* — `Carina_TakenKing_LoQueQuedoDelRefugio`, separado de "The King's Hand" por longitud y por el salto de tiempo real de la fuente ("días después del asalto"). **Escrito** (`Part_01_Price_of_Vengeance/04_The_Little_Box.md`), pendiente de ajuste del autor.
+5. **The Dreadnaught Key** — Cluster 3 completo: `Guardian_Cayde_TakenKing_ElProblemaDeAcceso`, `Eris_Cayde_TakenKing_LosLimitesDeLaSombra`, `Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento`, `Guardian_Ghost_TakenKing_LaCaceriaYLaHerida`, `Carina_Cayde_TakenKing_LaPresionCivil`, `Eris_Guardian_TakenKing_LaCondicion`.
+6. **The Hellmouth Descent** — `Guardian_TakenKing_DosDescensos`, `Guardian_TakenKing_LaCredencial`, `Guardian_Carina_TakenKing_LaInterseccion`, `Guardian_Carina_TakenKing_LaVerdadParcial`, `Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir`.
+7. **The Physical Regicide** — `Guardian_Carina_TakenKing_ElRegicidioFisico`, `Guardian_TakenKing_LaPuertaAParte2`.
+8. **The Flank She Could Not Hold** — `Elsie_Carina_TakenKing_ElFlancoQueNoPudoAcompanar`.
 
 ## Part 02 — The Taken War
 
@@ -65,11 +67,12 @@ Fuente general: `01_Timeline/Raids/KingsFall.md`.
 
 Fuente general: bloque Taken King — Aftermath de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md` (Movimientos V-VIII).
 
-1. **The Trail of Xur** — `Jaden_Atheena_TakenKing_LaPistaDeXur`.
-2. **What They Found in Exile** — `Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio`.
-3. **The False Pretender** — `Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok`.
-4. **Just in Time** — `Carina_Guardian_TakenKing_JustoATiempo`.
-5. **The Third Sword** — `Jaden_Eris_TakenKing_DarkDrinker`.
+1. *(título pendiente)* — el origen de Jaden con su maestro Suetake, House of Wolves; retrospectivo, movido desde el Prólogo el 2026-07-26. Fuente: `05_Dialogues/Dialogue_Guardian/Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`. **Sin escribir.**
+2. **The Trail of Xur** — `Jaden_Atheena_TakenKing_LaPistaDeXur`.
+3. **What They Found in Exile** — `Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio`.
+4. **The False Pretender** — `Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok`.
+5. **Just in Time** — `Carina_Guardian_TakenKing_JustoATiempo`.
+6. **The Third Sword** — `Jaden_Eris_TakenKing_DarkDrinker`.
 
 ---
 

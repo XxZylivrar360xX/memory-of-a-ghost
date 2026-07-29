@@ -1,4 +1,4 @@
-﻿# Petra Venj
+# Petra Venj
 
 # Blade of Duty and Awoken Resolve — Destiny: Renewed Fate Saga
 
@@ -598,3 +598,9 @@ Porque Petra jamás dejó de creer que:
 > mientras alguien siga protegiendo el Reef…
 > 
 > todavía existe algo valioso que salvar.
+
+---
+
+# Primera aparición en prosa
+
+`11_Books/Book_02_The_King_Of_Shapes/00_Prologue/07_Before_The_Sky_Changed.md` (House of Wolves, Año 2): cameo breve procesando el contrato de Carina por Gartok, el Desollador — apurada, coordinando algo que no nombra (el Arrecife ya había detectado, semanas antes, algo entrando a Sol desde la órbita lejana de Neptuno). Primera vez que se la ve en el vault gestionando la logística cotidiana de las cacerías de Barones Lobo contra Skolas, antes de la Batalla de Saturno (`Petra_Mara_TakenKing_LaBatallaDeSaturno`), donde vuelve a aparecer semanas después ya al mando de la flota.
