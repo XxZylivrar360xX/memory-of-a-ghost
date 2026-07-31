@@ -9,6 +9,8 @@ Ecthar es más cercano a un caballero que a una bestia.
 
 Escudo enorme. Arma pesada. Presencia defensiva. Incluso visualmente parece menos agresivo que Alak-Hul — más disciplinado, más militar. No hay monstruosidad en su silueta sino la geometría de algo construido para sostener, no para devorar. Es el guardián, no el cazador.
 
+Armadura de hueso pulido y piedra veteada, gris casi plateada — nada de rojo, nada de Cabal en ella. Dos cuernos curvos, anchos como un torso, barren hacia atrás desde el yelmo como el recuerdo de unas alas que hace tiempo dejaron de necesitar serlo. El rostro apenas se insinúa debajo, marcado de pozos oscuros como cuencas que ya no ven nada, y donde debería estar la mirada arde, fijo y sin parpadeo, un racimo de cinco luces blancas (ref. `99_Reference/personajes_canon/echtar_takenking.jpg`).
+
 ---
 
 ## Filosofía

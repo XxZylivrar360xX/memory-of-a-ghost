@@ -4,6 +4,12 @@
 
 ---
 
+## Apariencia
+
+Capucha baja sobre la frente, vendas cruzándole el rostro por donde antes tuvo ojos humanos. Los perdió, junto con su Espectro, en las profundidades del Foso Infernal — y para sobrevivir recurrió a la magia de la Colmena que la había dejado ciega, obteniendo los tres ojos de una Acólita en su lugar. No son humanos ni pretenden parecerlo: pequeños, ardiendo en un verde enfermizo que nunca parpadea, con un hilo negro y viscoso escurriendo constante de cada uno, como lágrimas que nunca terminan de caer. El canon no describe el procedimiento con precisión; Eris misma reconoce solo que usó las herramientas oscuras de sus enemigos cuando no tuvo otra alternativa. Gracias a esos ojos percibe los rituales de la Colmena, reconoce su magia y se orienta en una oscuridad que mataría a cualquier otro Guardian — pero son, antes que nada, el precio visible de haber sobrevivido adoptando una parte de lo que estuvo a punto de destruirla.
+
+---
+
 # Core Identity
 
 Eris Morn es la prueba viviente de que sobrevivir no siempre significa salir intacto.

@@ -19,6 +19,8 @@ Awoken. Piel de tono lavanda pálido con la luminiscencia fría característica 
 
 Su armadura tiene más personalización que la de cualquier otro miembro del equipo: grabados en los hombros, acabados pulidos donde los demás dejan matte, el casco que lleva con la visera levantada más a menudo de lo tácticamente recomendable. *Para que me reconozcan*, dijo una vez, cuando Jaden lo señaló. Jaden no volvió a señalarlo.
 
+Su nave, **Black Peregrine**, negra, delgada como una aguja, sin un solo adorno visible — la única pieza de su equipo que no busca que lo reconozcan. Lleva grabada, en un panel interno que casi nadie llega a ver, una sola línea: *soy la aguja que atraviesa la tela del tiempo.* Nadie sabe si la escribió él o si ya estaba ahí cuando la consiguió, y él nunca lo aclara.
+
 Espinas — *Thorn* — siempre en la cadera derecha. No como advertencia. Como presentación.
 
 ---

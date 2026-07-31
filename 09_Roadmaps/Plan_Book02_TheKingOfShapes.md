@@ -45,9 +45,9 @@ Ver `11_Books/README.md` — regla permanente de toda la colección, no solo de 
 2. **The Patrols No One Wanted** — el año solitario de Carina. **Escrito.**
 3. **The Wound That Would Not Close** — Teodor, la clínica, Lena. **Escrito.**
 4. **The Asclepeion** — Marte, el Freehold Asclepeion, los Desolladores, origen del maletín. **Escrito.**
-5. **The Half-Hour Watch** — la acumulación, incluida la Sección III nueva **"The Old Book"** (2026-07-26: Lena le lee a Carina *El asesinato de Roger Ackroyd* — siembra el método de investigación que paga en el arco de misterio de Beyond Light, ver `09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`) y la Sección VI **"The Rink"** (Lena le enseña a patinar sobre hielo a Carina en un domo en ruinas, territorio Dredgen, como cita deliberada — siembra el equilibrio físico que paga en Beyond Light, ver `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md`), los once días, el embarcadero. **Escrito.**
-6. **The Wine-Red Jacket** *(antes "What No One Else Reads")* — la chaqueta, el primer beso. **Escrito.**
-7. **Before the Sky Changed** — cierre del Prólogo, corte duro antes de Oryx: Gartok resuelto en el Arrecife (cameo de Petra Venj), Teodor y Nastia, y el disparo de Saturno visto desde la azotea de la clínica como una luz verde agonizante que ni Carina ni Lena entienden. **Escrito.**
+5. **The Arithmetic of Staying** *(antes "The Half-Hour Watch")* — la acumulación, incluida la Sección III nueva **"The Old Book"** (2026-07-26: Lena le lee a Carina *El asesinato de Roger Ackroyd* — siembra el método de investigación que paga en el arco de misterio de Beyond Light, ver `09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`) y la Sección VI **"The Rink"** (Lena le enseña a patinar sobre hielo a Carina en un domo en ruinas, territorio Dredgen, como cita deliberada — siembra el equilibrio físico que paga en Beyond Light, ver `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md`), los once días, el embarcadero. **Escrito.**
+6. **The Thread That Brings You Back** *(antes "What No One Else Reads", "The Wine-Red Jacket")* — la chaqueta, la armadura rota, el primer beso. **Escrito.**
+7. **The Last Line in the Ledger** *(antes "Before the Sky Changed")* — cierre del Prólogo, corte duro antes de Oryx: Gartok resuelto en el Arrecife (cameo de Petra Venj), Teodor y Nastia, y el disparo de Saturno visto desde la azotea de la clínica como una luz verde agonizante que ni Carina ni Lena entienden. **Escrito.**
 
 **Hilo abierto sembrado en el Capítulo 4 (The Asclepeion), sin escena propia todavía:** Gartok, el Desollador — un Barón Lobo cuyo nombre Carina escucha en un canal abierto; decide ir tras él antes de reclamar el contrato correspondiente en el Arrecife. Cruza con la cacería de los Wolf Barons ya sembrada del lado de Kyle (evento 12 de `09_Roadmaps/Plan_AgeI_Escenas.md`).
 
@@ -68,7 +68,7 @@ Material fuente: Clusters 1-4 de `Plan_TakenKing_Parte1.md`.
 
 Capítulos:
 1. **The Father Beneath the King** — Eris/Osiris/Mara; el duelo de Crota convertido en cálculo.
-2. **The Battle of Saturn** — Petra y Mara; el sacrificio visible contra el atraco invisible.
+2. **The Queen Who Would Not Kneel** — Petra y Mara; el sacrificio visible contra el atraco invisible.
 3. **Phobos** — Kyle, Ghost, Eris, Elsie; la primera vez que Oryx mira de vuelta.
 4. **The King's Hand** — los asedios y la identidad reutilizada; Carina pierde a Lena en paralelo. *(El Prólogo ya sembró quién era Lena — este capítulo es donde muere, sin duplicar esa historia.)*
 5. **The Dreadnaught Key** — Cayde/Ghost/Kyle; entrar al Acorazado, sobrevivir, Ghost herido.

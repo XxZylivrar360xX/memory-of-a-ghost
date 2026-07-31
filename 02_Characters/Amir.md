@@ -16,6 +16,8 @@ Humano. Tez morena cálida, rasgos amplios, la cara específica de alguien que p
 
 Su armadura tiene una placa desgastada en el hombro izquierdo que nunca reparó. No porque no pueda — porque le recuerda algo que elige no explicar. Nadie preguntó dos veces.
 
+Su nave, **Edge of Blade**, negra con filos rojos, dos alas largas y afiladas como una hoja doble — el mismo instinto que lo hace citar a Sun Tzu en medio de una misión eligió, sin pensarlo mucho, algo que pareciera un arma incluso quieta en el hangar.
+
 ---
 
 ## Quién es

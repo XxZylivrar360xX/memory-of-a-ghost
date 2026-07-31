@@ -1,12 +1,12 @@
 # Plan — El eco de Estasis: la pista de hielo y el rechazo de Carina en Beyond Light
 
-*Documento de siembra/cobro. No es un roadmap de redacción inmediata — es una nota de continuidad para que, cuando se llegue a escribir Beyond Light (Age VIII, ver `01_Timeline/Age_VIII_The_Last_Timeline.md`), no se pierda el hilo sembrado el 2026-07-26 en `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Half_Hour_Watch.md`, Sección V ("The Rink").*
+*Documento de siembra/cobro. No es un roadmap de redacción inmediata — es una nota de continuidad para que, cuando se llegue a escribir Beyond Light (Age VIII, ver `01_Timeline/Age_VIII_The_Last_Timeline.md`), no se pierda el hilo sembrado el 2026-07-26 en `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Arithmetic_Of_Staying.md`, Sección VI ("The Rink").*
 
 ---
 
 ## La semilla, tal como quedó plantada
 
-En el Capítulo 5 de Book 02 ("The Half-Hour Watch"), Lena lleva a Carina a un domo de patinaje sobre hielo en ruinas — territorio Dredgen marginal, cerca de Chicago — para enseñarle a patinar, como una cita elegida a propósito por el riesgo, no a pesar de él. La lección central que Lena le da, en sus propias palabras:
+En el Capítulo 5 de Book 02 ("The Arithmetic of Staying"), Lena lleva a Carina a un domo de patinaje sobre hielo en ruinas — territorio Dredgen marginal, cerca de Chicago — para enseñarle a patinar, como una cita elegida a propósito por el riesgo, no a pesar de él. La lección central que Lena le da, en sus propias palabras:
 
 > "Deja de pelear. No se gana empujando más fuerte. Se gana encontrando el punto exacto donde puedes dejar que se deslice sin perder el control del todo."
 
@@ -43,8 +43,8 @@ Cuando se redacte la ventana de Beyond Light (Capítulo 19, "The Deep Stone Cryp
 
 ## Estado
 
-**Sin escena escrita.** Este documento es solo la nota de continuidad — el gancho ya vive en la prosa (`05_The_Half_Hour_Watch.md`, Sección V), la resolución ya vive en la ficha (`Carina.md`), y este archivo conecta ambos para que quien redacte Age VIII no tenga que redescubrir la lógica desde cero. Revisar este documento cuando llegue el momento de planear los capítulos de Beyond Light — probablemente como parte de la incubadora/roadmap que se abra para esa Age cuando se llegue ahí en el orden de redacción del vault.
+**Sin escena escrita.** Este documento es solo la nota de continuidad — el gancho ya vive en la prosa (`05_The_Arithmetic_Of_Staying.md`, Sección VI), la resolución ya vive en la ficha (`Carina.md`), y este archivo conecta ambos para que quien redacte Age VIII no tenga que redescubrir la lógica desde cero. Revisar este documento cuando llegue el momento de planear los capítulos de Beyond Light — probablemente como parte de la incubadora/roadmap que se abra para esa Age cuando se llegue ahí en el orden de redacción del vault.
 
 ---
 
-*Conecta con: [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Half_Hour_Watch]], [[02_Characters/Carina]], [[02_Characters/Lena]], [[08_Core_Relationships/Carina_Lena]], [[01_Timeline/Age_VIII_The_Last_Timeline]], [[00_Biblia/Cosmic_Rules]]*
+*Conecta con: [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Arithmetic_Of_Staying]], [[02_Characters/Carina]], [[02_Characters/Lena]], [[08_Core_Relationships/Carina_Lena]], [[01_Timeline/Age_VIII_The_Last_Timeline]], [[00_Biblia/Cosmic_Rules]]*

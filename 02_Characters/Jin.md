@@ -18,6 +18,8 @@ Lleva marcas en los brazos que no explica — no cicatrices de combate, trazos e
 
 Su equipo de Hechicero tiene componentes que nadie en la Ciudad debería tener: fragmentos de tecnología Colmena integrados en el sistema de escaneo del túnica. Funcionales. Autorizados por Ikora, después de tres semanas de conversaciones que Jin describe como "productivas" y que Ikora describe como "agotadoras".
 
+Su nave, **Scream Eyed**, azul oscuro casi negro con bordes dorados y una proa que parece, según quién la mire, un rostro congelado a mitad de un grito — se la consiguió en una negociación que nunca explicó del todo, del mismo modo en que nunca explica la mayoría de las cosas que trae de vuelta.
+
 ---
 
 ## Quién es

@@ -22,6 +22,8 @@ Fuera de la armadura estándar de Vanguardia, su atuendo de campo es oscuro y vi
 
 En el brazalete del brazo derecho — el que empuña — lleva inscrito el escudo de [[08_Core_Relationships/La_Familia_Elegida|Escuadra Cero]], *Domus Ex Nihilo* (ver [[04_Concepts/Domus_Ex_Nihilo]]), diseñado por [[02_Characters/Amanda_Holliday|Amanda]]. No lo lleva como corona. Lo lleva en el brazo que decide y protege — quien encabeza no queda por encima, queda al frente.
 
+Su nave, **Duality** — blanca y gris, acentos rojo-naranja en las alas, líneas limpias de caza militar — cambió de forma justo después del final de Taken King: el casco se reconstruyó solo, hueso pálido veteado de rosa y rojo brillante, algo más orgánico que fabricado, la misma paleta que Kyle ya conocía de haber estado demasiado cerca de la muerte de un Rey. Ironía que nadie más pareció notar del todo — el Rey de las Formas cae, y lo último que deja atrás es una forma nueva, no elegida, en el casco de quien lo venció. Kyle decidió conservarla. Ya no se llama Duality. Se llama **Agonarch Karve**, y es, sin que a nadie le sorprenda demasiado, la nave más rápida entre los Guardianes.
+
 ---
 
 # Identidad Central

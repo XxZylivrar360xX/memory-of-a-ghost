@@ -56,7 +56,7 @@ Carina detecta algo que nadie más ve: las escenas no fueron creadas por Savath�
 
 **Este hilo ya tiene origen dramatizado en Book 02, escrito el 2026-07-26:**
 
-- `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Half_Hour_Watch.md`, Sección III, **"The Old Book"** — Lena le lee a Carina, durante varias noches de esa primavera en el Refugio del Muelle, una vieja edición de *El asesinato de Roger Ackroyd*, mientras Carina limpia o repara equipo con las manos. Carina falla repetidamente (siempre sospecha de quien esconde más), hasta que Lena le da la clave real: *"No a quien escondió más. A quien decidió en qué orden ibas a conocerlas. A quien te contó la historia."* Carina termina de resolverlo sola, leyendo por su cuenta.
+- `11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Arithmetic_Of_Staying.md`, Sección III, **"The Old Book"** — Lena le lee a Carina, durante varias noches de esa primavera en el Refugio del Muelle, una vieja edición de *El asesinato de Roger Ackroyd*, mientras Carina limpia o repara equipo con las manos. Carina falla repetidamente (siempre sospecha de quien esconde más), hasta que Lena le da la clave real: *"No a quien escondió más. A quien decidió en qué orden ibas a conocerlas. A quien te contó la historia."* Carina termina de resolverlo sola, leyendo por su cuenta.
 - `05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio.md`, Movimiento VI — Carina se lleva el libro al dejar el Refugio tras la muerte de Lena, sin abrirlo.
 - `08_Core_Relationships/Carina_Lena.md`, sección "Los símbolos" — el libro queda documentado como símbolo activo, con nota explícita de que la dedicatoria sigue sin revelarse en ninguna escena.
 
@@ -233,6 +233,7 @@ Alternativas: El Monstruo Evidente · La Mano que Señaló · El Último Capítu
 13. ¿Qué consecuencias tiene este caso para la relación de Carina con Los Ocultos?
 14. ¿Este arco sucede antes o después de que la Casa de la Luz llegue a la Ciudad?
 15. *(nueva, de la corrección de continuidad)* ¿Se nombra explícitamente, en algún punto, la resonancia con "la sombra que no ha ocurrido" de `Shayura.md`, o se deja completamente muda?
+16. *(sembrada 2026-07-29, sesión Book 02 Cap. 6)* **Apodo de Savathûn para Carina: "Detective"** — se lo dice por razones obvias, dado el rol investigador de este arco. Todavía sin ubicar en qué escena/momento ocurre ese intercambio (¿directo, en una visión, a través de un vector?), ni si es un encuentro único o un apodo que Savathûn repite después.
 
 ## Núcleo temático
 
@@ -242,4 +243,4 @@ Alternativas: El Monstruo Evidente · La Mano que Señaló · El Último Capítu
 
 ---
 
-*Conecta con: [[02_Characters/Carina]], [[02_Characters/Lena]], [[02_Characters/Shayura]], [[02_Characters/Reed-7]], [[02_Characters/Aisha]], [[08_Core_Relationships/Carina_Lena]], [[01_Timeline/Age_VIII_The_Last_Timeline]], [[09_Roadmaps/Plan_Carina_Estasis_BeyondLight]], [[07_Unsorted_Ideas/IdeasDesarrollo_1]], [[07_Unsorted_Ideas/Semillas_2026-07-26]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Half_Hour_Watch]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]]*
+*Conecta con: [[02_Characters/Carina]], [[02_Characters/Lena]], [[02_Characters/Shayura]], [[02_Characters/Reed-7]], [[02_Characters/Aisha]], [[08_Core_Relationships/Carina_Lena]], [[01_Timeline/Age_VIII_The_Last_Timeline]], [[09_Roadmaps/Plan_Carina_Estasis_BeyondLight]], [[07_Unsorted_Ideas/IdeasDesarrollo_1]], [[07_Unsorted_Ideas/Semillas_2026-07-26]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Arithmetic_Of_Staying]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]]*

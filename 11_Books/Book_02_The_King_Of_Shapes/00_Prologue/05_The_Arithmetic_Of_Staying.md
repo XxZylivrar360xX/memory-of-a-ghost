@@ -1,10 +1,10 @@
-# Chapter 5 — The Half-Hour Watch
+# Chapter 5 — The Arithmetic of Staying
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Prologue*
 
 **Protagonistas:** Carina, Lena, Hornet, Nastia, Teodor
 **Ventana temporal:** House of Wolves, Año 2 — los meses entre el Capítulo 4 (el Asclepeion, origen del maletín) y la llegada de Oryx en septiembre
-**Lugar:** El Refugio del Muelle; un domo de patinaje sobre hielo en ruinas, territorio Dredgen marginal cerca de Chicago (Sección V)
+**Lugar:** El Refugio del Muelle; un domo de patinaje sobre hielo en ruinas, territorio Dredgen marginal cerca de Chicago (Sección VI)
 
 ---
 
@@ -284,7 +284,7 @@ Adentro, el hielo seguía intacto en el centro de la pista — protegido, sospec
 
 —Sé matar cosas sobre casi cualquier superficie. Nunca até eso a "patinar".
 
-—Entonces hoy aprendes. —Lena le tendió un par de patines que había sacado del mostrador, sacudiéndoles la escarcha—. Antes del Colapso, esto era gratis los domingos. Mi padre me traía. No he vuelto a hacer esto en... —se detuvo, contando algo que no dijo en voz alta— mucho tiempo.
+—Entonces hoy aprendes. —Lena le tendió un par de patines que había sacado del mostrador, sacudiéndoles la escarcha—. Cuando era niña, mi padre me traía aquí los domingos. No sé quién mantenía el hielo limpio en esa época, ni cómo. Alguien lo hacía. No he vuelto a hacer esto en... —se detuvo, contando algo que no dijo en voz alta— mucho tiempo.
 
 Carina, que se movía por cualquier campo de batalla con una gracia que parecía nacida y no aprendida, descubrió en los primeros diez minutos sobre el hielo una categoría de desastre completamente nueva. Se cayó cuatro veces antes de que Lena dejara de reírse lo suficiente como para ayudarla a levantarse.
 
@@ -324,7 +324,7 @@ Ya en el aire, con el domo encogiéndose atrás de ellas contra el horizonte, Le
 
 ---
 
-## VII. The Questionable Decision
+## VII. The Cost of Everyone
 
 Llegaron un martes: seis personas, dos de ellas niños, una con una herida en la pierna que llevaba días infectándose sin tratamiento — sobrevivientes de un asentamiento más al norte, arrasado por una banda de Caídos que nadie había reportado a tiempo. Pidieron refugio, aunque no usaron esa palabra. Nadie la usa cuando la está pidiendo de verdad.
 
@@ -374,7 +374,53 @@ Carina no volvió a preguntar.
 
 ---
 
-## VIII. The Post-Dredgen Caution
+## VIII. What Wasn't Fair
+
+Esa misma noche, mucho después de que la plaza terminara de vaciarse y los seis recién llegados encontraran un rincón donde dormir, Lena seguía despierta — no curando a nadie, solo sentada frente al cuaderno de cuentas, la pluma quieta sobre una columna de números que se negaban a estirarse lo suficiente.
+
+Carina la encontró así.
+
+—Todavía no te acostaste.
+
+—La aritmética no se acuesta sola. —Lena no levantó la vista—. Harina para diecinueve personas más, no veinticinco. Vendas para lo que ya teníamos, no para dos niños más con el doble de probabilidad de enfermarse. La decisión correcta no le pidió permiso a los números antes de tomarse.
+
+Carina se sentó frente a ella, del otro lado del mostrador, con la misma energía de siempre — la que ya la había hecho ofrecerse a cazar esa misma tarde.
+
+—Puedo salir mañana. Ampliar la ronda, cubrir dos zonas en el mismo vuelo en vez de una. Si encuentro algo grande, alcanza para—
+
+—No. —Lena cerró el cuaderno de golpe, más fuerte de lo que la interrupción merecía—. No todo se arregla volando más lejos, Carina.
+
+El silencio que siguió tuvo un peso distinto al de siempre.
+
+—Solo estaba tratando de ayudar.
+
+—Ya sé lo que estabas tratando de hacer. —Lena se pasó una mano por la cara, el cansancio saliendo en la voz de un modo que normalmente controlaba mejor—. Es fácil ayudar cuando ayudar significa subirte a una nave e irte. Tú vuelas lejos y te sientes útil. Yo me quedo aquí y tengo que mirar a la cara de quién va a comer menos esta semana. No es lo mismo.
+
+No era del todo injusto. Tampoco era del todo cierto.
+
+Carina no tuvo un chiste para eso. Por primera vez, tampoco encontró la forma de defenderse — se quedó ahí, con la oferta todavía a medio hacer, sintiendo el golpe aterrizar en un lugar que no esperaba.
+
+Lena vio, un segundo tarde, lo que acababa de hacer.
+
+—Eso no fue justo —dijo, la voz ya más baja—. No debí ponértelo encima a ti.
+
+—¿Pero lo piensas?
+
+—A veces. —No lo suavizó, no esta vez—. No siempre. Pero a veces sí, y esta noche era una de esas veces, y te tocó a ti estar sentada ahí cuando salió.
+
+No hubo una disculpa perfecta después de eso. No hubo una frase que cerrara la herida del todo. Carina asintió, algo tenso todavía en los hombros, y no dijo que estaba bien, porque no lo estaba del todo.
+
+—Voy a salir de todas formas mañana —dijo, al fin—. No porque tú lo hayas pedido. Porque yo lo decidí.
+
+—De acuerdo.
+
+Ninguna de las dos durmió bien esa noche, cada una en su propio silencio, sin buscar el modo de arreglarlo antes de que el sueño las alcanzara.
+
+Por la mañana, la taza de siempre estaba lista de todas formas, sobre el mostrador, sin ninguna palabra alrededor que explicara si eso era una disculpa completa o solo la costumbre ganándole al orgullo. Carina la tomó. Ninguna de las dos volvió a mencionar la conversación de la noche anterior — no porque se hubiera resuelto, sino porque las dos, cada una a su manera, decidieron que seguir adelante importaba más que terminar de discutirlo.
+
+---
+
+## IX. The Fear with Style
 
 Teodor — el mismo cuyo brazo Carina había ayudado a curar en su primera visita — se acercó una tarde a la clínica, no por una herida nueva, sino solo a sentarse en el porche con Lena, como hacía casi todas las tardes desde entonces.
 
@@ -430,7 +476,7 @@ Carina la tomó, y no la soltó cuando Teodor las miró desde el porche sin deci
 
 ---
 
-## IX. The Absence That Lasted Too Long
+## X. The Absence That Lasted Too Long
 
 —Tres días —dijo Carina, la mañana en que la Vanguardia la llamó de vuelta, un mensaje urgente sobre una Casa de Caídos reorganizándose cerca del Arrecife, más al este de lo que cualquiera de las dos había anticipado—. Cuatro, si el clima complica el vuelo. Vuelvo antes del sábado.
 
@@ -478,7 +524,7 @@ Las dos rieron, al mismo tiempo, y eso fue suficiente para que el peso de los on
 
 ---
 
-## X. The Dock
+## XI. The Old Story
 
 Se sentaron juntas en el embarcadero medio hundido, unas semanas después de que la ausencia hubiera dejado de doler y hubiera empezado, en cambio, a enseñarles algo — que iban a tener que aprender a nombrar el tiempo, no a fingir que no existía.
 
@@ -520,7 +566,7 @@ Carina no encontró el chiste fácil que normalmente habría usado. Por una vez 
 
 ---
 
-## XI. Half an Hour Where No One Needed Her
+## XII. The Half-Hour Watch
 
 Lena se recostó contra ella, la cabeza en su hombro, y por un rato ninguna de las dos dijo nada. Había sido una semana larga — la clínica llena, un parto complicado dos noches atrás que había mantenido a Lena despierta hasta el amanecer, la discusión de los recién llegados todavía sin cerrar del todo bajo la superficie del pueblo.
 
@@ -560,9 +606,9 @@ Y siguieron así, patrulla tras patrulla, visita tras visita, sin que ninguna de
 
 ---
 
-*Conecta con: [[02_Characters/Carina]], [[02_Characters/Lena]], [[02_Characters/Hornet]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/06_The_Wine_Red_Jacket]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Carina]], [[02_Characters/Lena]], [[02_Characters/Hornet]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_ElEncuentro]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/06_The_Thread_That_Brings_You_Back]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Añadido en la misma sesión (2026-07-26), a petición del autor: **Sección VI, "The Rink"**, escena enteramente nueva sin fuente en `05_Dialogues/`. Lena lleva a Carina a un domo de patinaje sobre hielo en ruinas, en territorio Dredgen marginal cerca de Chicago, para enseñarle a patinar — una cita deliberada, elegida a propósito por el riesgo que implica, no a pesar de él ("quería que tuvieras una cita de verdad... no media hora robada"). Función múltiple: (1) da a la relación su primer gesto romántico planeado de principio a fin, distinto de la acumulación pasiva de visitas de las Secciones I-V; (2) siembra, sin nombrarlo en el texto ni romper la disciplina del vault contra la profecía explícita, el origen físico del equilibrio que Carina va a necesitar mucho después con Estasis en Europa (Beyond Light) — un único vistazo hacia adelante, con el mismo recurso narrativo ya usado en la Sección VIII ("Carina no supo, esa noche, que le estaba escuchando algo que iba a necesitar recordar mucho después..."), no una repetición mecánica sino el mismo permiso estructural aplicado una vez más; (3) reafirma, con Hornet vigilando la puerta, que el peligro real de Chicago (territorio Dredgen, ya establecido desde el Capítulo 1) sigue activo incluso en los momentos de ligereza — la escena se corta con una retirada táctica real, no un cierre romántico sin consecuencias. Regla dura respetada: sin beso — reservado, intacto, para el Capítulo 6 ("The Wine-Red Jacket"). El mecanismo real del rechazo de Estasis se precisó después en `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md`: no es aversión abstracta a la quietud, es que la técnica está soldada a esta noche específica, un recuerdo feliz que después de Taken King duele revivir.*
+*Añadido en la misma sesión (2026-07-26), a petición del autor: **Sección VI, "The Rink"**, escena enteramente nueva sin fuente en `05_Dialogues/`. Lena lleva a Carina a un domo de patinaje sobre hielo en ruinas, en territorio Dredgen marginal cerca de Chicago, para enseñarle a patinar — una cita deliberada, elegida a propósito por el riesgo que implica, no a pesar de él ("quería que tuvieras una cita de verdad... no media hora robada"). Función múltiple: (1) da a la relación su primer gesto romántico planeado de principio a fin, distinto de la acumulación pasiva de visitas de las Secciones I-V; (2) siembra, sin nombrarlo en el texto ni romper la disciplina del vault contra la profecía explícita, el origen físico del equilibrio que Carina va a necesitar mucho después con Estasis en Europa (Beyond Light) — un único vistazo hacia adelante, con el mismo recurso narrativo ya usado en la Sección VIII ("Carina no supo, esa noche, que le estaba escuchando algo que iba a necesitar recordar mucho después..."), no una repetición mecánica sino el mismo permiso estructural aplicado una vez más (referencia renumerada desde entonces: Sección IX, "The Post-Dredgen Caution"); (3) reafirma, con Hornet vigilando la puerta, que el peligro real de Chicago (territorio Dredgen, ya establecido desde el Capítulo 1) sigue activo incluso en los momentos de ligereza — la escena se corta con una retirada táctica real, no un cierre romántico sin consecuencias. Regla dura respetada: sin beso — reservado, intacto, para el Capítulo 6 ("The Thread That Brings You Back"). El mecanismo real del rechazo de Estasis se precisó después en `09_Roadmaps/Plan_Carina_Estasis_BeyondLight.md`: no es aversión abstracta a la quietud, es que la técnica está soldada a esta noche específica, un recuerdo feliz que después de Taken King duele revivir.*
 
 *Añadido en la misma sesión (2026-07-26), a petición del autor: **Sección III, "The Old Book"**, escena enteramente nueva sin fuente en `05_Dialogues/`, sembrando el precedente para el arco de misterio de Beyond Light (`09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`). Lena le lee a Carina, durante varias noches a lo largo de esa primavera, una vieja edición de *El asesinato de Roger Ackroyd* mientras Carina limpia o repara equipo con las manos. Carina falla repetidamente adivinando al culpable (siempre sospecha de quien esconde más), hasta que Lena le da la clave real —"a quien decidió en qué orden ibas a conocerlas... a quien te contó la historia"— y la deja terminar de resolverlo sola, leyendo por su cuenta. Regla dura respetada, siguiendo el brief del autor: Lena no le da la respuesta, le enseña una forma de mirar; sin vistazo hacia adelante ni mención de Beyond Light, Shayura o ningún caso futuro — el método queda sembrado como hábito de lectura de Carina, no como profecía. El libro en sí (edición vieja, heredada, nunca explicada del todo) queda disponible como objeto para el epílogo del arco de misterio, incluida una dedicatoria de Lena todavía sin escribir/revelar en ninguna escena de Book 02 — reservada a propósito para cuando se redacte Beyond Light. Renumeradas en cascada las Secciones III-X originales a IV-XI.*
 
@@ -570,4 +616,6 @@ Y siguieron así, patrulla tras patrulla, visita tras visita, sin que ninguna de
 
 *Ampliado en la misma sesión (2026-07-26), a petición del autor: el contenido del maletín, antes descrito con lenguaje genérico de botiquín terrestre ("agujas selladas, antibióticos de amplio espectro"), reescrito para coincidir con el inventario real del Freehold Asclepeion ya establecido en el Capítulo 4, Sección VIII — plasma sintético, kits de sutura autónomos, medicina para radiación — y con la placa institucional del Capítulo 4 ("pharmaceutical reserves, synthetic plasma, radiation medicine and autonomous surgical systems"). Añadido un intercambio corto donde Lena nota, sin que Carina se lo confirme, que el equipo no es de fabricación de la Torre — reforzando que su origen marciano es un secreto que Lena intuye sin que nadie se lo diga, coherente con la doble verdad que Carina nunca reporta.*
 
-*Nota narrativa: Capítulo 5 del Prólogo de Book 02 (renumerado de Capítulo 4 a 5 el 2026-07-26 al insertarse el nuevo Capítulo 4, "The Asclepeion", origen del maletín), "The Half-Hour Watch" (título anterior: "What Builds Slowly", ajustado por el autor el 2026-07-26), adaptando `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio.md` (siete movimientos originales) con el ajuste de alcance pedido por el autor el 2026-07-26 (ver `00_Book_Map.md`): "dar más aire" a la vida cotidiana compartida antes del embarcadero, para que la muerte de Lena, en Taken King, pegue con el peso que merece. Sección I expandida de un solo intercambio a un montaje de varias visitas (el ritual del té, el tiempo que se estira antes de la despedida). Dos secciones enteramente nuevas insertadas antes de "The Questionable Decision": **Sección IV, "The Crucible Out Loud"** (Carina relatando sus combates con entusiasmo efusivo, Lena escuchando sin entender los términos pero entendiendo el brillo en los ojos) y **Sección V, "The Seventh Match"** (Carina llega triste por perder la séptima ronda de las Pruebas de Osiris y quedarse fuera del Faro esa semana; Lena rehúsa medir el dolor de Carina contra "lo peor que existe" para que cuente) — las dos decisiones propuestas por el autor, resueltas aquí en cuanto a ubicación exacta (antes del conflicto civil, para acumular ligereza doméstica antes de la primera prueba de peso real de la relación). El resto de los movimientos originales (ahora Secciones VII-XI tras la inserción de "The Old Book" y "The Rink", ver notas arriba) se preserva verbatim o casi verbatim, respetando el cimiento ya fijado en la fuente. **Identificación aplicada:** "el Titán viejo" del movimiento IV original se nombra aquí **Teodor**, coherente con el Capítulo 3 (la misma herida del brazo que él mismo reabría, ya resuelta ahí) — no se modificó la fuente, que ya lo dejaba identificable por contexto ("el mismo cuyo brazo Carina había ayudado a curar en su primera visita"). Protegida sin cambios la ambigüedad del anillo en la Sección X, "The Dock" (cero presagio, ninguna confirmación) y la regla de no gastar la lectura completa del humor de Carina como defensa, reservada para el Capítulo 6. El cierre añade una línea de cierre nueva, sin apuntar hacia adelante ni sonar profética, marcando el paso del tiempo que da nombre al capítulo.
+*Nota narrativa: Capítulo 5 del Prólogo de Book 02 (renumerado de Capítulo 4 a 5 el 2026-07-26 al insertarse el nuevo Capítulo 4, "The Asclepeion", origen del maletín), "The Arithmetic of Staying" (títulos anteriores: "What Builds Slowly", "The Half-Hour Watch"), adaptando `05_Dialogues/Dialogue_Carina/Carina_Lena_HouseOfWolves_LoQueSeConstruyeDespacio.md` (siete movimientos originales) con el ajuste de alcance pedido por el autor el 2026-07-26 (ver `00_Book_Map.md`): "dar más aire" a la vida cotidiana compartida antes del embarcadero, para que la muerte de Lena, en Taken King, pegue con el peso que merece. Sección I expandida de un solo intercambio a un montaje de varias visitas (el ritual del té, el tiempo que se estira antes de la despedida). Dos secciones enteramente nuevas insertadas antes de "The Cost of Everyone": **Sección IV, "The Crucible Out Loud"** (Carina relatando sus combates con entusiasmo efusivo, Lena escuchando sin entender los términos pero entendiendo el brillo en los ojos) y **Sección V, "The Seventh Match"** (Carina llega triste por perder la séptima ronda de las Pruebas de Osiris y quedarse fuera del Faro esa semana; Lena rehúsa medir el dolor de Carina contra "lo peor que existe" para que cuente) — las dos decisiones propuestas por el autor, resueltas aquí en cuanto a ubicación exacta (antes del conflicto civil, para acumular ligereza doméstica antes de la primera prueba de peso real de la relación). El resto de los movimientos originales (ahora Secciones IX-XII tras la inserción de "The Old Book", "The Rink" y, el 2026-07-29, "What Wasn't Fair" — ver notas arriba) se preserva verbatim o casi verbatim, respetando el cimiento ya fijado en la fuente. **Identificación aplicada:** "el Titán viejo" del movimiento IV original se nombra aquí **Teodor**, coherente con el Capítulo 3 (la misma herida del brazo que él mismo reabría, ya resuelta ahí) — no se modificó la fuente, que ya lo dejaba identificable por contexto ("el mismo cuyo brazo Carina había ayudado a curar en su primera visita"). Protegida sin cambios la ambigüedad del anillo en la Sección XI, "The Old Story" (cero presagio, ninguna confirmación) y la regla de no gastar la lectura completa del humor de Carina como defensa, reservada para el Capítulo 6. El cierre añade una línea de cierre nueva, sin apuntar hacia adelante ni sonar profética, marcando el paso del tiempo que da nombre al capítulo.
+
+**Sección VIII, "What Wasn't Fair", añadida el 2026-07-29**, siguiendo la auditoría de Codex `99_Reference/Agent_Notes/codex/2026-07-29_auditoria-lena-momento-imperfecto.md` (respondiendo al encargo `99_Reference/Agent_Notes/claude-code/2026-07-29_encargo-lena-momento-imperfecto.md`). Hallazgo: Lena, en todo el material existente, es consistentemente sabia — su vulnerabilidad siempre llega calibrada y proporcional, nunca falla de un modo real y sin arreglo limpio. Se insertó, en el único punto donde la presión ya es real y no artificial (la noche después de aceptar a los seis recién llegados, antes de los once días), un fallo humano genuino: agotada y todavía cargando el reproche del pueblo, Lena le dice a Carina algo parcialmente cierto y parcialmente injusto — que ayudar, para ella, siempre significa subirse a una nave e irse, mientras Lena se queda con las caras de quienes van a comer menos. Carina no tiene chiste ni defensa para eso. La disculpa de Lena es mínima, no perfecta ("eso no fue justo... a veces sí lo pienso"), y la noche no se resuelve del todo — ninguna de las dos duerme bien, y la única señal de reconciliación a la mañana siguiente es la taza de siempre, sin palabras alrededor. Regla dura protegida, por instrucción explícita de la auditoría: el fallo no se redime limpio, no se convierte en lección, y no se vuelve a nombrar en el resto del capítulo. Secciones VIII-XI originales renumeradas a IX-XII.
