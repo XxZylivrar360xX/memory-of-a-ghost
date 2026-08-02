@@ -30,11 +30,13 @@ Las carpetas `Part_0X_.../` se crean recién cuando se redacta el primer capítu
 
 **Mapa de numeración global (provisional, se actualiza según se escribe):**
 - **Prólogo:** capítulos 1-7 (fijo, completo).
-- **Part 01 — Price of Vengeance:** capítulos 8-15 (8 capítulos — ver ajuste 2026-07-26 abajo).
-- **Part 02 — The Taken War:** capítulos 16-22 (7 capítulos).
-- **Part 03 — The Kingslayer:** capítulos 23-29 (7 capítulos, provisional — el capítulo 6 de esta Part, "The Weight of a Wrong Answer" / "The Question He Left in the Room", puede colapsar en uno solo al redactar; si eso pasa, Part 03 queda en 6 capítulos y **todos los números de Part 04 y Part 05 bajan en 1**).
-- **Part 04 — The Rightful Pretender:** capítulos 30-31 (2 capítulos; 29-30 si Part 03 colapsa a 6).
-- **Part 05 — Aftermath:** capítulos 32-37 (6 capítulos; 31-36 si Part 03 colapsa a 6).
+- **Part 01 — Price of Vengeance:** capítulos 8-17 (**10 capítulos** — ampliado el 2026-08-01, ver abajo).
+- **Part 02 — The Taken War:** capítulos 18-24 (7 capítulos).
+- **Part 03 — The Kingslayer:** capítulos 25-31 (7 capítulos, provisional — el capítulo 6 de esta Part, "The Weight of a Wrong Answer" / "The Question He Left in the Room", puede colapsar en uno solo al redactar; si eso pasa, Part 03 queda en 6 capítulos y **todos los números de Part 04 y Part 05 bajan en 1**).
+- **Part 04 — The Rightful Pretender:** capítulos 32-33 (2 capítulos; 31-32 si Part 03 colapsa a 6).
+- **Part 05 — Aftermath:** capítulos 34-39 (6 capítulos; 33-38 si Part 03 colapsa a 6).
+
+**Cambio de numeración (2026-08-01):** Part 01 pasó de 8 a 10 capítulos por la reimaginación de Taken King (ver `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`) — se añadieron el abordaje del Acorazado con `Aspect of Glass` y el evento planetario Eirene/Lubrae, que no existían cuando se dibujó el mapa original. **Todos los capítulos posteriores subieron +2.** Ningún capítulo ya escrito cambia de número: los Caps. 8-11 conservan el suyo.
 
 **Al redactar cualquier capítulo nuevo:** confirmar el número global correcto contra esta tabla antes de escribir el encabezado, y actualizar la tabla si el conteo de capítulos de alguna Part cambia.
 
@@ -66,45 +68,49 @@ Carina y Lena — la ventana de House of Wolves vista desde una vida que todaví
 2. **[Cap. 9] Phobos** — adapta `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos` + `Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion`. Oryx se mantiene en POV tiempo real (foco propio, no material diferido de los conspiradores). **Estado: escrito** (`Part_01_Price_of_Vengeance/02_Phobos.md`), pendiente de ajuste del autor.
 3. **[Cap. 10] The King's Hand** — el montaje de los cinco asedios simultáneos de la Mano del Rey (POV Elsie) y la muerte de Lena el mismo día (POV Carina). Fuentes: `Elsie_Petra_TakenKing_LaManoSeCierra`, `Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`. **Estado: escrito** (`Part_01_Price_of_Vengeance/03_The_Kings_Hand.md`), pendiente de ajuste del autor.
 4. **[Cap. 11] What the Ledger Kept** *(antes "The Little Box", antes "What the Refuge Kept")* — **capítulo nuevo, insertado 2026-07-26; reestructurado 2026-07-31.** El duelo material de Carina, días después de la muerte de Lena — el cuaderno de cuentas, Teodor, el nombre "Oryx" — y la evacuación del Refugio cuando el Sacerdote de Guerra lo alcanza como parte de la barrida del Frente Tierra: Aisha coordina, Reed-7 evacúa a los más vulnerables en un carguero de la Vanguardia a una granja en la EDZ. Carina se va a pelear, no para siempre. Fuente: `Carina_TakenKing_LoQueQuedoDelRefugio` (Book 02 diverge de la fuente — ver nota narrativa del capítulo). **El hallazgo del anillo se movió fuera de este capítulo** a una escena posterior al Regicidio Físico (Cap. 14), dentro del Frente 1 de la Guerra de los Poseídos — ver `07_Unsorted_Ideas/Semillas_2026-07-31_RegresoAlRefugio.md`. **Estado: escrito** (`Part_01_Price_of_Vengeance/04_What_The_Ledger_Kept.md`), pendiente de ajuste del autor.
-5. **[Cap. 12]** The Dreadnaught Key
-6. **[Cap. 13]** The Hellmouth Descent
-7. **[Cap. 14]** The Physical Regicide
-8. **[Cap. 15]** The Flank She Could Not Hold
-**Estado:** capítulos 8-11 (locales 1-4) escritos. Capítulos 12-15 (locales 5-8) por redactar — todas las escenas fuente ya existen (Cluster 3-4 de Taken King Parte 1, completo desde 2026-07-19).
+**Reestructura (2026-08-01):** ver `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, secciones "Aspect of Glass como llave del Acorazado" y "Reestructura de Part 01". Los cuatro capítulos ya escritos no se tocan.
+
+5. **[Cap. 12]** **The Dreadnaught Key** — el primer encuentro de Kyle con el caballo en el claro de la cabaña (ver `07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo.md` — la escena debe ser rigurosamente inútil, sin ninguna insinuación de utilidad futura) y, acto seguido, el fracaso de la infiltración al Acorazado: el módulo de Cayde, la nave de Eris, el arma derribándolos a metros, la carcasa de Ghost herida para siempre, Eris fijando la esencia de Crota como única credencial Ascendente. Cierra con `Carina_Cayde_TakenKing_LaPresionCivil` (sin tocar). **El título es irónico: creen que la llave es una cosa.**
+6. **[Cap. 13]** **The Hellmouth Descent** — desatracado: se cae el emisor portátil. La Luz de Kyle queda sofocada, no puede esconderse, y roba el cadáver de lo que mató mientras Ir Anûk e Ir Halak ofician el funeral. Carina está ahí por su cuenta. Rescate mutuo, nace el dúo, primer contacto Ghost↔Hornet. **`LaInterseccion` queda intacta — Kyle y Carina no se conocen antes de este capítulo, en ninguna forma.**
+7. **[Cap. 14]** **The Second Seat** *(nuevo)* — Kyle pide prestada `Aspect of Glass`; Carina dice que no, porque son dos asientos y el camuflaje los necesita. No existe versión donde entre solo. El abordaje real del Acorazado, y los primeros Fragmentos Calcificados (Fase I).
+8. **[Cap. 15]** **Eirene** *(nuevo)* — la Toma planetaria; la Mano converge; la derrota por escala, no por incompetencia.
+9. **[Cap. 16]** **The Cathedral of Voices** *(era "The Physical Regicide")* — el regicidio físico incompleto, reubicado a Lubrae.
+10. **[Cap. 17]** The Flank She Could Not Hold
+**Estado:** capítulos 8-11 (locales 1-4) escritos. Capítulos 12-17 (locales 5-10) por redactar — las escenas fuente de los Caps. 12-14 y 17 ya existen (Cluster 3-4 de Taken King Parte 1); los Caps. 15-16 (Eirene/Lubrae) son prosa enteramente nueva y su diseño de lugar sigue pendiente.
 
 ### Part 02 — The Taken War
-1. **[Cap. 16]** The War That Did Not Stay in Saturn
-2. **[Cap. 17]** What We Had Already Beaten
-3. **[Cap. 18]** The Map of Guilt
-4. **[Cap. 19]** A Sword Is Not an Answer
-5. **[Cap. 20]** The Fold That Resists
-6. **[Cap. 21]** The Wounded Wish
-7. **[Cap. 22]** Always Eager to Die
+1. **[Cap. 18]** The War That Did Not Stay in Saturn
+2. **[Cap. 19]** What We Had Already Beaten
+3. **[Cap. 20]** The Map of Guilt
+4. **[Cap. 21]** A Sword Is Not an Answer
+5. **[Cap. 22]** The Fold That Resists
+6. **[Cap. 23]** The Wounded Wish
+7. **[Cap. 24]** Always Eager to Die
 **Estado:** capítulos por redactar — todas las escenas fuente ya existen (Guerra de los Poseídos, 6 frentes, completa desde 2026-07-19).
 
 ### Part 03 — The Kingslayer
-1. **[Cap. 23]** The Ship That Believed It Was a God
-2. **[Cap. 24]** The Ones Who Stayed
-3. **[Cap. 25]** A Truth That Needed Permission
-4. **[Cap. 26]** Everything Power Leaves Behind
-5. **[Cap. 27]** The King Who Needed Heirs
-6. **[Cap. 28]** The Weight of a Wrong Answer
-7. **[Cap. 29, provisional]** The Question He Left in the Room *(puede fusionarse con el capítulo anterior al redactar — ver "Numeración de capítulos" arriba)*
+1. **[Cap. 25]** The Ship That Believed It Was a God
+2. **[Cap. 26]** The Ones Who Stayed
+3. **[Cap. 27]** A Truth That Needed Permission
+4. **[Cap. 28]** Everything Power Leaves Behind
+5. **[Cap. 29]** The King Who Needed Heirs
+6. **[Cap. 30]** The Weight of a Wrong Answer
+7. **[Cap. 31, provisional]** The Question He Left in the Room *(puede fusionarse con el capítulo anterior al redactar — ver "Numeración de capítulos" arriba)*
 **Estado:** capítulos por redactar — todas las escenas fuente ya existen (King's Fall, 6 viñetas + raid).
 
 ### Part 04 — The Rightful Pretender
-1. **[Cap. 30]** The Touch of Malice
-2. **[Cap. 31]** Six Months in Fragments
-**Estado:** capítulos por redactar — todas las escenas fuente ya existen. *(Números bajan a 29-30 si Part 03 colapsa a 6 capítulos.)*
+1. **[Cap. 32]** The Touch of Malice
+2. **[Cap. 33]** Six Months in Fragments
+**Estado:** capítulos por redactar — todas las escenas fuente ya existen. *(Números bajan a 31-32 si Part 03 colapsa a 6 capítulos.)*
 
 ### Part 05 — Aftermath
-1. **[Cap. 32]** *(título pendiente)* — el origen de Jaden con su maestro Suetake, House of Wolves (retrospectivo — ver nota abajo). **Movido desde el Prólogo el 2026-07-26.** Fuente: `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`. **Estado: sin escribir.**
-2. **[Cap. 33]** The Trail of Xur
-3. **[Cap. 34]** What They Found in Exile
-4. **[Cap. 35]** The False Pretender
-5. **[Cap. 36]** Just in Time
-6. **[Cap. 37]** The Third Sword
-**Estado:** capítulos 2-6 (locales) por redactar — todas las escenas fuente ya existen (Taken King — Aftermath, Movimientos V-VIII, completo desde 2026-07-19). Capítulo 1 (Jaden/Suetake) también sin redactar. *(Números bajan en 1, de 31-36, si Part 03 colapsa a 6 capítulos.)*
+1. **[Cap. 34]** *(título pendiente)* — el origen de Jaden con su maestro Suetake, House of Wolves (retrospectivo — ver nota abajo). **Movido desde el Prólogo el 2026-07-26.** Fuente: `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`. **Estado: sin escribir.**
+2. **[Cap. 35]** The Trail of Xur
+3. **[Cap. 36]** What They Found in Exile
+4. **[Cap. 37]** The False Pretender
+5. **[Cap. 38]** Just in Time
+6. **[Cap. 39]** The Third Sword
+**Estado:** capítulos 2-6 (locales) por redactar — todas las escenas fuente ya existen (Taken King — Aftermath, Movimientos V-VIII, completo desde 2026-07-19). Capítulo 1 (Jaden/Suetake) también sin redactar. *(Números bajan en 1, de 33-38, si Part 03 colapsa a 6 capítulos.)*
 
 **Nota de ubicación (2026-07-26):** el Capítulo 1 es deliberadamente retrospectivo — su ventana temporal (House of Wolves) es anterior a toda la campaña de Taken King que ya se contó en Parts 01-04. Se coloca aquí, no en orden cronológico estricto, porque es el punto donde Jaden se vuelve protagonista real por primera vez (Movimientos V-VIII de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md`) — funciona como capítulo de origen justo antes de que el libro empiece a centrarlo, mismo recurso que ya usa el Prólogo con Carina al abrir el libro completo.
 

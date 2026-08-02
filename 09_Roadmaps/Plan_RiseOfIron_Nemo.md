@@ -48,6 +48,28 @@ No todos los Vex cambian — es anomalía localizada, minoritaria, inestable, na
 - El Monitor Motor SIVA de `WrathOfTheMachine.md` conserva su función ya fijada (lectura de tres firmas, exige Kyle/Jaden/Carina) — la línea Vex lo vuelve más importante, no lo reemplaza. Reconciliar el lenguaje "nunca han operado como un solo sistema" si hace falta (mismo ajuste ya anotado en `Plan_Jaden_Atheena_Origen.md`).
 - En este bloque, Nemo solo debe dejar sembradas dos certezas: existe un Vex individual, y su existencia no es estable ni segura. Su llegada física a Sol se reserva para el Bloque 3.
 
+### La crisis de transporte y el caballo de Kyle (añadido 2026-08-01)
+
+**Fundamento:** SIVA no "infecta fácil" — se propaga por sistemas de ingeniería. Necesita sustrato: aleaciones de Edad de Oro, sistemas de potencia, transmat, red. Naves y colibríes fallan catastróficamente, y la Torre queda desbordada en mecánica y biomecánica.
+
+Un caballo no tiene motor, ni transmat, ni comunicador, ni una sola pieza de Clovis Bray encima. **No es que SIVA no pueda tocarlo — es que no hay vector.** Está fuera de la red. Eco directo de la tesis de la saga: lo que sobrevive no es la forma más avanzada, es la que está fuera del sistema.
+
+**Consecuencia:** aprender a montar deja de ser sentimental y pasa a ser practicidad justificada. Es aquí donde la amistad Kyle↔caballo se construye con espacio propio — el pago de una relación sembrada a lo largo de todo Book 02 sin ninguna utilidad aparente. Diseño completo en `07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo.md`.
+
+**La imagen:** Age III ya tiene gramática medieval — Señores, estandartes, Felwinter's Peak, lobos. Y el sistema de nombres del vault ya fija que Kyle es el **Señor de Hierro más joven** (ficha de Sai, "Los nombres"). Un señor a caballo, en la edad en que las máquinas tienen peste.
+
+**El beat a proteger:** Kyle no alimentó a ese caballo durante dos años porque necesitara transporte. Lo hizo porque no pudo evitarlo. El pago solo funciona si Book 02 nunca insinúa utilidad.
+
+### Elsie, no Ana, en la crisis de SIVA (decisión 2026-08-01)
+
+**Ana Bray queda fuera de Age III.** No hay nada en el vault que la ubique aquí, y en la cronología no aparece hasta Warmind — mucho después. Meterla ahora gastaría temprano una carta grande: su ficha fija que **Elsie la protege porque teme perder la última parte luminosa de su familia**, y ese reencuentro sigue sin pagar.
+
+**En su lugar, Elsie.** SIVA es un proyecto de Clovis Bray: Rise of Iron es, de raíz, una historia Bray. Elsie ya está presente en la vida de Kyle en Age III (etapa de Observación) y es quien más sabe de tecnología de Edad de Oro y de sistemas autorreplicantes en todo el elenco.
+
+Eso convierte "la Torre está desbordada" en algo peor para ella: **la plaga que está tumbando cada nave del sistema salió del laboratorio de su padre.** No está ocupada — está limpiando lo de su familia otra vez.
+
+**Amanda Holliday se queda sin cambios** — mecánica jefe de la Torre, relación con Kyle ya establecida.
+
 ---
 
 ## Bloque 3 — Vísperas de Guerra Roja: la llegada de Nemo

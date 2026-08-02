@@ -1,19 +1,22 @@
 ---
-title: "Semillas — El regreso al Refugio (post-Regicidio Físico)"
+title: "Semillas — El regreso al Refugio (post-King's Fall)"
 type: seed
 status: borrador crudo — beats sin numerar, para construir alrededor cuando se redacte el capítulo real
 created: 2026-07-31
+updated: 2026-08-01
 ---
 
 # Semillas — Lo que volvió con ellos
 
-*Material crudo, capturado para no perderlo. Destino final: dentro del Frente 1 de la Guerra de los Poseídos (`Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturno`, futuro Capítulo 16 de Book 02, "The War That Did Not Stay in Saturn"), en el beat ya fijado "Carina interviene en evacuaciones y refugios". Ocurre después del Regicidio Físico (Capítulo 14) — Kyle y Carina ya se conocen, Oryx ya está herido y retirado a su Mundo Trono, no muerto. Ver `11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/04_What_The_Ledger_Kept.md` para el capítulo que esto paga — ahí se dejó el escritorio de Lena sin abrir "por falta de tiempo, no por decisión."*
+*Material crudo, capturado para no perderlo.* **Reubicado (2026-08-01), corregido el mismo día tras releer `Carina_Lena_KingsFall_SeisMesesEnFragmentos.md`:** ya no vive en Guerra de los Poseídos. Destino final: **después del reencuentro de Carina con la escuadra que regresa al caer Oryx de verdad**, no inmediatamente después de la despedida en el Sacerdote de Guerra. Secuencia completa: Carina remata al Sacerdote y se despide de Kyle (no puede seguir con ellos, Golgoroth/las Hijas/Oryx son la prueba de los seis) → se transmatea a la Torre → espera ahí, sin tocar la escena ya escrita `Seis Meses en Fragmentos` → Oryx cae, se reencuentra con la escuadra → **solo entonces** parte hacia el Refugio, su primera parada antes de salir de verdad hacia la frontera de Sol en Aspect of Glass. El beat genérico "Carina interviene en evacuaciones y refugios" de `Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` (Frente 1) sigue siendo cierto como caracterización de fondo durante la guerra — esta escena específica, la del hallazgo de la cajita, se reserva para este punto más tardío a propósito: cuanto más recorrido narrativo separe la muerte de Lena (Cap. 11, "What the Ledger Kept") de este momento, más fuerte el efecto en el lector de "habíamos recorrido tanto que casi lo olvidamos" — y aun así duele. Ver `11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/04_What_The_Ledger_Kept.md` para el capítulo que esto paga — ahí se dejó el escritorio de Lena sin abrir "por falta de tiempo, no por decisión."
+
+**Nota de tono (2026-08-01, fijada por el autor):** el duelo aquí ya no está fresco — han pasado toda la Guerra de los Poseídos y King's Fall completos desde la muerte de Lena. Carina llora al encontrar la cajita, pero es un llanto distinto del que hubiera sido semanas atrás: la distancia no volvió el dolor más pequeño, solo menos inmediato. Que ya no sea una herida abierta no significa que haya dejado de doler — es la misma verdad que "También yo, pequeña" con Nastia ya insinúa, ahora confirmada por el propio cuerpo de Carina ante el objeto.
 
 ---
 
 Carina vuelve a la Granja no a evacuar, esta vez, sino a preguntar.
 
-La guerra no terminó — Oryx sigue vivo, herido, retirado a un lugar que nadie en Sol puede nombrar todavía con precisión — pero el frente que pasó por el Refugio ya no está ahí. Se movió, como se mueve todo lo que Oryx toca: hacia otro punto del tablero, dejando atrás algo roto pero no un cráter.
+La guerra por fin terminó — Oryx está muerto, de verdad, en su propio Mundo Trono — y el frente que pasó por el Refugio hace meses ya es historia vieja, no amenaza activa. Lo que queda es lo que siempre queda cuando el ruido se detiene: reconstruir, o decidir que no se puede.
 
 No todos quieren volver.
 
@@ -54,6 +57,7 @@ El escritorio sigue exactamente donde lo dejó — nadie lo tocó, ni siquiera p
 ## Pendientes de este seed
 
 - Confirmar si Jaden aparece en este punto (la Parte 1 lo excluye explícitamente — probablemente no, esto sigue siendo solo Carina).
-- Decidir el disparador exacto de la visita: ¿Carina va por iniciativa propia, o alguien del Refugio le pide que vaya a buscar a los que faltan?
-- `08_Core_Relationships/Carina_Lena.md`, Etapa 5, necesita actualizarse para reflejar que el anillo se encuentra aquí, no en la despedida original.
-- Verificar que esto no contradice `Plan_RiseOfIron_Nemo.md` (Refugio sobreviviendo años, Nastia creciendo ahí) — en principio refuerza esa continuidad en vez de romperla.
+- Decidir el disparador exacto de la visita: ¿Carina va por iniciativa propia, o alguien del Refugio le pide que vaya a buscar a los que faltan? Con la nueva ubicación (después del reencuentro con la escuadra que vuelve de King's Fall), lo más natural es que sea la primera parada de su propio viaje hacia la frontera, no un encargo ajeno.
+- ✅ `08_Core_Relationships/Carina_Lena.md`, Etapa 5, actualizada (2026-08-01) para reflejar la nueva ubicación temporal (post-King's Fall y post-reencuentro con la escuadra, no post-regicidio físico).
+- Verificar que esto no contradice `Plan_RiseOfIron_Nemo.md` (Refugio sobreviviendo años, Nastia creciendo ahí) — en principio refuerza esa continuidad en vez de romperla. Sin cambios por la reubicación.
+- ✅ **Tensión resuelta (2026-08-01):** `Carina_Lena_KingsFall_SeisMesesEnFragmentos` no se toca ni una línea. Carina participa solo en el encuentro fusionado del Sacerdote de Guerra, se retira, y la espera de esa escena (en la Torre, no en el Acorazado) cubre exactamente el resto del raid — sigue siendo literalmente cierto que "no es su incursión" para Golgoroth, las Hijas y Oryx. El regreso al Refugio ocurre después de que esa escena termina y ella se reencuentra con la escuadra.

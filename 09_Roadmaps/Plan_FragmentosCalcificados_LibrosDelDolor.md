@@ -202,6 +202,8 @@ El autor propuso que la exploracion de los Fragmentos Calcificados sea una **tar
 
 Detalle completo de la semilla en `07_Unsorted_Ideas/Semillas_2026-07-26.md`.
 
+**Resolución parcial (2026-08-01):** en el marco de la reimaginación de Taken King (`09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`), queda confirmado que **Carina sí acompaña a Kyle** en la exploración del Acorazado desde el Cluster 4 en adelante — no es una decisión nueva, es continuidad directa de que ya se conocen desde ahí. Los fragmentos de Fase I y Fase II (previos al clímax de Eirene/Lubrae, nuevo cierre de Part 01) funcionan como boceto de la escala real de Oryx para ambos — eones de conquista acumulada más el poder de un Dios Gusano, no solo un rey-dios — sin comprensión completa todavía. **Sigue sin resolver:** si Carina recibe visiones propias de su fuente (Savathûn) en paralelo, o si su rol se limita a leer la reacción emocional de Kyle ante las visiones de Oryx. Selección exacta de qué fragmentos se dramatizan en qué capítulo, pendiente hasta escribir el Cap. 12 (`The Dreadnaught Key`) en adelante.
+
 ---
 
 *Conecta con: `99_Reference/Agent_Notes/codex/2026-07-21_incubadora-fragmentos-calcificados-libros-del-dolor.md`, `07_Unsorted_Ideas/Borrador_LibrosDelDolor`, `07_Unsorted_Ideas/Borrador_LibrosDelDolorUbicaciones`, `05_Dialogues/Dialogue_Guardian/Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento.md`, `09_Roadmaps/Plan_TakenKing_Parte1.md`, `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`, `01_Timeline/Raids/KingsFall.md`, `00_Biblia/KingsFall_HerenciaOculta.md`, `02_Characters/Oryx.md`.*
