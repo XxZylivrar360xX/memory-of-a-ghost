@@ -72,6 +72,7 @@
 - [[02_Characters/Xur]]
 - [[02_Characters/The_Nine]]
 - [[02_Characters/Malok]] — hijo de Savathûn, antagonista de un solo evento (Taken King, Aftermath); lee la Lógica de la Espada de forma literal para reclamar el trono vacante de los Poseídos; muere atravesado por el Arma Dorada de Carina
+- [[02_Characters/Avarra]] — Ángel de Guerra del Ecúmene, parcialmente Tomada por Oryx; dividida entre servirlo como instrumento perfecto y cumplir su último mandato real (matar a Auryx); guardiana del ancla de la Toma de Eirene (Book 02, Cap. 16), muere sin completar nunca su verdadero propósito
 - [[02_Characters/The_Traveler]]
 - [[02_Characters/The_Veil]]
 - [[02_Characters/The_Winnower]]
@@ -159,6 +160,7 @@
 - [[04_Concepts/The_Lord_of_Every_Nothing]] — **anti-tesis de Kyle (post-Final Shape):** el trono de los Poseídos que Kyle rechazó no se borró — quedó vacante, y la obediencia sin amo se condensó en una soberanía hecha de nada ("ordena sin ordenar, reina sin reinar"); no un enemigo, una consecuencia. Los Poseídos = lógica del Winnower torcida (muerte burlada vuelta servidumbre); el Winnower aparte, aliviado sin decirlo. Se vence desmantelando la vacante — Kyle libera a los Poseídos: "el último rey, el que lo cerró". Sai es la primera que lo siente (acausal = su terreno, ceguera de Elsie)
 - [[04_Concepts/La_Ultima_Palabra]] — **(nuevo, 2026-07-16)** arma insignia de Carina, legado de Shin Malphur (ver [[02_Characters/Shin_Malphur]]); revólver que premia el reflejo entrenado sobre el cálculo — disparado desde la cadera, sin apuntar por la mira, suelta tres disparos casi como uno en abanico ("Instinto de Duelista"); se desenfunda antes de que la mano termine de decidir moverse. Contraste con Golden Gun: esta es la decisión perfecta ya calculada; La Última Palabra es la respuesta cuando ya no hay tiempo de calcular nada. **Movimiento firma:** su evasión de Cazadora, potenciada por un don reciente de su Solar, se convierte en gatillo — sale del giro ya disparando las tres balas alineadas ("el giro y las tres balas"). Origen en [[05_Dialogues/Dialogue_Carina/Carina_Shin_AgeI_DarSinQuePidan]] — el arma original, no una reconstrucción
 - [[04_Concepts/Mazmorras]] — **(nuevo, 2026-07-20)** regla rectora de las mazmorras como pruebas personales: raid = tablero colectivo, mazmorra = prueba en soledad + brief posterior que la vuelve memoria compartida; matriz completa de 11 mazmorras en `09_Roadmaps/Plan_Mazmorras_PruebasPersonales.md`
+- [[04_Concepts/Fragmentos_Calcificados_Libros_Del_Dolor]] — **(nuevo, 2026-08-02)** los 24 versos de la Fase I de los Libros del Dolor expandidos a prosa mítica completa (21 nuevos + los 3 ya dramatizados en Book 02, Caps. 12 y 14); origen de la Colmena desde Fundamento hasta la Lógica de la Espada; matriz completa de 50 fragmentos en `09_Roadmaps/Plan_FragmentosCalcificados_LibrosDelDolor.md`
 
 ---
 

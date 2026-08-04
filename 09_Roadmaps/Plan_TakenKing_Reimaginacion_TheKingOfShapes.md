@@ -59,6 +59,34 @@ Eirene es un lugar tranquilo que recibe la herida más grande de esta guerra y t
 - **Guerra de los Poseídos (Parte 2, 6 frentes, ya escrita) y King's Fall (Parte 3, ya escrito) siguen ocurriendo en el Acorazado, sin tocar una línea.** Tras la derrota incompleta en la Catedral de las Voces, Oryx se repliega a su Trono en el Acorazado — coherente con lo que ya estaba fijado (el regicidio físico nunca fue la muerte real; la existencia del Mundo Trono y el sistema de tributo ya demostraba que matar el cuerpo no basta).
 - La regla dura de nunca usar lenguaje de "matar/terminar/derrotar definitivamente" a Oryx hasta la muerte real en King's Fall se mantiene sin cambios.
 
+### Justificación para llegar a Eirene (fijado 2026-08-02)
+
+Eirene no es una parada al azar — es el destino donde termina el desborde de refugiados (Corsarios y civiles) que se dispersaron "hacia el interior del cinturón" cuando cayó el puesto de Vesta (Cap. 10, ya escrito). Kyle y Carina llegan siguiendo ese mismo rastro, en el mismo teatro donde ya existen la Batalla de Saturno y el Acorazado (Eirene es luna de Saturno). Esto vuelve la Toma todavía más cruel en la lectura del lector: Oryx elige, para su golpe de mayor escala en toda la Parte 1, exactamente el lugar donde acababa de refugiarse gente que ya había sobrevivido una catástrofe distinta.
+
+**Conexión adicional, no anticipada:** la misma caída de Vesta que empuja a los refugiados hacia Eirene es también, horas antes, lo que le abre a Oryx el vector de aproximación hacia la Ciudad Ensoñada (Beat A de Guerra de los Poseídos, Frente 6, ya escrito — ver `Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` y `02_Characters/Riven.md`). Un solo puesto menor cayendo en el Cap. 10 termina siendo la bisagra logística de dos eventos mayores de la campaña completa de Oryx — la Toma de Eirene y la herida de Riven — sin que ninguno de los personajes en escena lo sepa todavía.
+
+### Carina paga la luz verde del Prólogo (fijado 2026-08-02)
+
+Eirene es luna de Saturno — el mismo teatro donde ocurrió la Batalla de Saturno (interludio `The Queen Who Would Not Kneel`). Siguiendo el rastro de los refugiados de Vesta hacia Eirene, Carina cruza ese mismo teatro y encuentra, en vivo, evidencia de lo que pasó ahí: restos de la flota, relatos de sobrevivientes, el peso de una Reina que desapareció ofreciéndose a Oryx. Ata eso, sin que nadie tenga que explicárselo, a la luz verde opaca y agonizante que vio con Lena desde la azotea de la clínica, la última noche tranquila del Prólogo (Cap. 7, "The Last Line in the Ledger") — cerrada entonces deliberadamente sin resolver ("sin saber qué es... el primer disparo de una guerra que todavía no tenía nombre").
+
+**Por qué importa que sea en vivo y no contado:** Hornet ya le había dicho, el día de la muerte de Lena, que "algo enorme" había entrado al sistema — información abstracta, de segunda mano. Esto es distinto: Carina ve con sus propios ojos la escala de lo que ya estaba pasando esa misma noche, mientras ella y Lena todavía tenían tiempo, todavía no sabían nada, todavía se sentían a salvo. La revelación no es solo "esta guerra es grande" — es "esto ya estaba pasando cuando yo todavía tenía a alguien y no lo sabía." Cierra un hilo abierto desde el Prólogo sin que el lector tuviera que esperar a un libro futuro.
+
+**Pendiente de decidir al escribir:** si Carina llega a saber explícitamente que fue Mara quien se sacrificó (dato que ni siquiera Petra conecta del todo con certeza en el Cap. 10), o si se queda con la escala y el peso sin el nombre propio — coherente con que el propio Cap. 10 ya deja ese misterio sin resolver para casi todos los personajes en escena.
+
+### Eirene tiene que sentirse viva antes de desaparecer (fijado 2026-08-02)
+
+El Cap. 16 (`Eirene`) no puede abrir directamente en crisis. Necesita espacio real, antes de la Toma, para que Eirene sea un lugar concreto para Kyle y Carina — no un escenario que existe solo para ser destruido. Encaja directamente con la precisión ya fijada arriba (2026-08-01): asentamientos civiles reales, gente viviendo, no una ruina esperando su final. **Cuánto espacio exacto (una sección, medio capítulo, un capítulo puente aparte) queda pendiente de decidir cuando se llegue a escribir — no se fija hoy.**
+
+### El nombre que no se dice — "El Mundo Cadáver" / Grimworld (fijado 2026-08-02)
+
+**Mecanismo, aclarado por el autor:** no es un misterio sobre Eirene — todos conocen ese nombre, es una luna de Saturno colonizada y con registro oficial. El misterio es sobre **Lubrae**. Cuando Eirene desaparece y Lubrae ocupa su lugar, ni Kyle, ni Carina, ni Elsie, ni la Vanguardia saben todavía que ese mundo se llama Lubrae, ni que fue el mundo natal de Rhulk. Lo experimentan sin nombre propio, y le ponen uno propio: **"El Mundo Cadáver"** (registro de Kyle y Carina, visceral, en privado) y **"Grimworld"** (designación de Ghost/reportes de la Vanguardia, técnica). **La palabra "Lubrae" no debe aparecer en la prosa de los Caps. 16-17** — es un nombre que el libro se guarda a propósito. Se revela y se conecta recién en **Witch Queen (Age X)**, cuando la historia de Rhulk como prisionero de Savathûn entra en juego — el vault ya tenía sin resolver la auditoría de re-centrado de Witch Queen (`Plan_Carina_Savathun_Horizonte.md`) proponiendo justo ese cruce.
+
+*(Nota: en este mismo documento, arriba y en `00_Book_Map.md`, "Lubrae" se sigue usando libremente como nombre de trabajo/organización del roadmap — la restricción aplica solo a la prosa real del libro, no a la documentación de diseño.)*
+
+**Descripción sensorial del Mundo Cadáver / Grimworld, dada por el autor:** al entrar en la atmósfera siempre es de noche, aunque el sol dé de frente al planeta. Cielos entre rojo vino y violeta amargo. Tormentas eléctricas perpetuas. Aire denso. Superficie hostil. **Un lugar que se parece al Plano Ascendente, pero en el plano físico** — la arquitectura de la Colmena hecha clima y geografía, no solo estructura.
+
+**Por qué funciona como puente entre libros:** convierte a Book 02 en, de hecho, una precuela silenciosa de dos libros futuros a la vez — Beyond Light (Age VIII, ya con su propia semilla fijada en el documento original: la terraformación del Viajero llega "hasta Beyond Light") y ahora también Witch Queen (Age X, vía la identidad real de Lubrae y su lazo con Rhulk/Savathûn). El lector de Book 02 no sabe que está leyendo el origen de dos revelaciones futuras; el lector de esos libros futuros, al llegar ahí, va a poder volver atrás y reconocer que el "Mundo Cadáver" siempre fue Lubrae.
+
 ---
 
 ## Aspect of Glass como llave del Acorazado (2026-08-01)
@@ -122,18 +150,19 @@ Part 01 crece de **8 a 10 capítulos** — la reimaginación añade un evento pl
 | 9 | Phobos | ✅ escrito |
 | 10 | The King's Hand | ✅ escrito |
 | 11 | What the Ledger Kept | ✅ escrito |
-| 12 | **The Dreadnaught Key** — el caballo + el fracaso | re-apuntado |
+| 12 | **The Dreadnaught Key** — el fracaso de la infiltración al Acorazado | ✅ escrito |
 | 13 | **The Hellmouth Descent** — desatracado, el funeral, se conocen | re-diseñado |
-| 14 | **The Second Seat** — Aspect of Glass, el abordaje, primeros fragmentos | **nuevo** |
-| 15 | **Eirene** — la Toma planetaria | nuevo |
-| 16 | **The Cathedral of Voices** — el regicidio físico incompleto | era Cap. 14 |
-| 17 | The Flank She Could Not Hold — cierre | sin cambios |
+| 14 | **The Second Seat** — Aspect of Glass, el abordaje, primeros fragmentos (+ origen de "Pistolera") | **nuevo** |
+| 15 | **The Third Element** — Freehold, la tormenta, origen de Stormcaller y "Chispitas" | **nuevo (2026-08-02)** |
+| 16 | **Eirene** — la Toma planetaria | nuevo |
+| 17 | **The Cathedral of Voices** — el regicidio físico incompleto | era Cap. 14 |
+| 18 | The Flank She Could Not Hold — cierre | sin cambios |
 
-**Cascada:** todos los capítulos posteriores suben **+2**. Part 02 arranca en el 18, Part 03 en el 25, Part 04 en el 32, Part 05 en el 34. Tabla actualizada en `00_Book_Map.md`.
+**Cascada (actualizada 2026-08-02):** todos los capítulos posteriores suben. Part 02 arranca en el 19, Part 03 en el 26, Part 04 en el 33, Part 05 en el 35. Tabla actualizada en `00_Book_Map.md`.
 
-**Punto de compresión disponible** si se quiere volver a 9: fusionar 15 y 16 en un solo capítulo largo. No recomendado — Eirene es el clímax nuevo.
+**Punto de compresión disponible** si se quiere comprimir: fusionar 16 y 17 en un solo capítulo largo. No recomendado — Eirene es el clímax nuevo.
 
-**El caballo entra en el Cap. 12, antes del fracaso** — ver `07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo.md` para el diseño completo y las reglas de escritura (la más importante: la escena tiene que ser rigurosamente inútil, sin ninguna insinuación de utilidad futura).
+**El caballo entra en el Cap. 8** *(reubicado 2026-08-03, antes fijado en el Cap. 12)* — ver `07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo.md` para el diseño completo y las reglas de escritura (la más importante: la escena tiene que ser rigurosamente inútil, sin ninguna insinuación de utilidad futura). Movido al último día de calma antes de que empiece la campaña para no competir con la urgencia de la infiltración fallida al Acorazado.
 
 ---
 
@@ -171,6 +200,8 @@ Carina se infiltra por separado — **no es parte del fireteam formal de seis** 
 5. Ella menciona que tomará **Aspect of Glass** y saldrá a la frontera de Sol, a ver qué aventura la llama a causar problemas.
 6. Línea de cierre, antes de girarse y salir del Santuario: **"Kyle, no lo dejes escapar esta vez."** (refiriéndose a Oryx — Carina se va sabiendo que el regicidio de Lubrae fue incompleto, y le encarga a Kyle terminar lo que ella no se queda a ver).
 
+**Reinterpretación fijada (2026-08-02):** esta línea no es una despedida final ni un cierre emocional — es "ya te salvé una vez, ahora termina la tarea, y te veré cuando lo hagas." Carina se va esperando reencontrarse con Kyle, no despidiéndose de él. El cierre emocional real del arco de esta campaña vive en la escena nueva de abajo, después de la muerte real de Oryx.
+
 **Precisión importante (2026-08-01, tras leer `Carina_Lena_KingsFall_SeisMesesEnFragmentos.md`):** esta no es su despedida *final* antes de desaparecer de la historia. Es que no puede seguir con ellos más allá de este punto — Golgoroth, las Hijas y Oryx son la prueba de los seis, no la de ella. Después de despedirse, se transmatea de vuelta a la Torre. El equipo sigue solo hacia el resto del raid.
 
 **Lo que NO se toca:** Caps. 01 (`La Entrada`), 04 (`Golgoroth`), 05 (`Las Hermanas`) y 06 (`Oryx`) del raid quedan exactamente como están — Carina no participa en el resto del raid.
@@ -181,15 +212,70 @@ Carina se infiltra por separado — **no es parte del fireteam formal de seis** 
 
 Esto encaja sin fricción con la nueva presencia de Carina en el Sacerdote de Guerra: ella participa solo en ese primer encuentro fusionado, se retira, y la espera que describe `SeisMesesEnFragmentos` es exactamente el tramo que le queda — el resto del raid, del que en efecto no es parte ("no es su incursión, no es su equipo, no es su decisión" sigue siendo literalmente cierto para Golgoroth, las Hijas y Oryx). **Regla dura ya fijada ahí y que se mantiene intacta:** Carina no llega al llanto completo en esta escena — eso sigue reservado exclusivamente para Felwinter's Peak, años después.
 
+### El reencuentro real — Kyle y Carina, tras la muerte real de Oryx (escena nueva, 2026-08-02)
+
+Aportada por el autor como el cierre emocional verdadero del arco Kyle/Carina de esta campaña — el "momento con Kyle" que `SeisMesesEnFragmentos` ya anticipaba sin dramatizarlo. Ocurre justo cuando Oryx cae de verdad, dentro del mismo reencuentro con la escuadra que vuelve (después de que Joe reporta "Oryx ha caído" y Carina se pone de pie para recibirlos) — este es específicamente el instante privado entre ella y Kyle dentro de ese reencuentro, antes de que se separe del grupo para ir sola al Refugio.
+
+**Apertura pendiente de redactar** — terreno previo, ambientación física, qué rompe el primer silencio (marcado explícitamente por el autor como lugar reservado).
+
+**Beats de la escena, tal como la compartió el autor:**
+1. Carina, mirando hacia la Última Ciudad, no hacia Kyle: "Todos eventualmente perdemos algo."
+2. Kyle: "Eso es cierto. Pero eso no significa que no haya importado."
+3. Carina admite, sin teatro, que ya no tiene a nadie — a diferencia de Kyle, que tiene "su gente."
+4. Kyle no llena el silencio de inmediato — el primer indicio real de que ya no es el Guardian que necesita llenar cada pausa.
+5. Kyle: "Ahora me tienes a mí. Y donde sea que me necesites, ahí voy a estar."
+6. Carina lo recibe como un eco doloroso de la última promesa real que le hicieron — Lena, el cuaderno de cuentas, el turno de guardia, el niño con tos que alguien iba a revisar en dos semanas. Kyle no sabe qué tocó; no insiste.
+7. **Los apodos ya existen para entonces** — **"Chispitas" (Kyle, nacido Cap. 15) y "Pistolera" (Carina, nacida Cap. 14)** — y esta escena los consolida como los nombres que se dan el uno al otro, en el cierre: "Entonces hasta que te vuelva a salvar, Chispitas" / "Cuídate, Pistolera." *(Corregido 2026-08-02, hallazgo de auditoría de Codex: esta sección decía originalmente que los apodos nacían aquí, "primera aparición en todo el vault" — quedó desactualizada cuando el diseño posterior movió su origen a los Caps. 14-15, ya escritos. La prosa real ya refleja el origen temprano; solo este roadmap se había quedado atrás.)*
+8. Se estrechan las manos, un segundo entero más largo de lo necesario.
+9. Carina aborda **Aspect of Glass** sin mirar atrás — eco deliberado del embarcadero del Refugio del Muelle, otra despedida, otra vida.
+10. Se pierde en el espacio aéreo sobre la Última Ciudad. Kyle se queda un momento de más, sin saber todavía cuánto significó para ella que alguien nuevo le pidiera permiso para importar.
+
+**Nota de continuidad:** esta escena, no la del Santuario, es el verdadero punto de inflexión de la relación — confirma que Kyle ya tiene "su gente" (la Primera Escuadra, consolidada durante esta misma Parte 1/Parte 2) en un momento donde Carina reconoce no tener a nadie, y es la primera vez que alguien le ofrece, sin condiciones, permiso para volver a importarle a otra persona. Pendiente: decidir el archivo/capítulo exacto donde vive (probablemente Book 02, dentro del tramo de King's Fall/Aftermath, junto al reencuentro de la escuadra) y redactar la apertura que el autor dejó reservada.
+
 ### El siguiente beat: el regreso al Refugio (reubicado hoy, corregido)
 
 **Corrección sobre el primer intento de hoy:** no ocurre inmediatamente después de la despedida del Sacerdote — ocurre **después del reencuentro con la escuadra que vuelve** (el cierre de `Seis Meses en Fragmentos`), una vez que Carina ya tuvo su momento con Kyle y con el resto del equipo tras la muerte real de Oryx. Solo entonces parte de verdad: primero al Refugio del Muelle, no a evacuar esta vez, a preguntar quién quiere reconstruir — su primera parada antes de salir hacia la frontera de Sol.
 
 Este beat ya existía como semilla (`07_Unsorted_Ideas/Semillas_2026-07-31_RegresoAlRefugio.md`) pero estaba anclado al regicidio físico incompleto y a Guerra de los Poseídos (Frente 1) — reubicado hoy a este punto, después de King's Fall real y del reencuentro, por una razón deliberada de efecto en el lector: cuanto más recorrido narrativo separe la muerte de Lena (Cap. 11) de este momento, más fuerte pega el "habíamos recorrido tanto que casi lo olvidamos" cuando Carina encuentra la cajita y el anillo que Lena nunca llegó a entregarle. Ella llora, pero es un llanto distinto al que hubiera sido semanas atrás — la distancia no volvió el dolor más pequeño, solo menos inmediato; que ya no sea una herida abierta no significa que haya dejado de doler. Detalle completo en la semilla y en `08_Core_Relationships/Carina_Lena.md`, Etapa 5 (ambos actualizados hoy).
 
-**Secuencia completa confirmada:** Sacerdote de Guerra (Carina remata, despedida parcial con Kyle) → Torre / `Seis Meses en Fragmentos` (sin tocar) → reencuentro con la escuadra al caer Oryx → regreso al Refugio (la cajita, el anillo) → partida real hacia la frontera de Sol, que siembra sin haberlo planeado su exilio posterior a Kepler (`Plan_Jaden_Atheena_Origen.md`, Decisión 3, Movimiento VI).
+**Secuencia completa confirmada:** Sacerdote de Guerra (Carina remata, despedida parcial con Kyle, reinterpretada como "nos vemos cuando termines la tarea") → Torre / `Seis Meses en Fragmentos` (sin tocar) → reencuentro con la escuadra al caer Oryx, **con el momento privado Kyle/Carina ("Chispitas"/"Pistolera") como su cierre emocional real** → regreso al Refugio (la cajita, el anillo) → partida real hacia la frontera de Sol, que siembra sin haberlo planeado su exilio posterior a Kepler (`Plan_Jaden_Atheena_Origen.md`, Decisión 3, Movimiento VI).
 
 ---
+
+## Diseño de lugar — Lubrae / La Desolación del Terror (2026-08-02)
+
+*Responde al checklist de `07_Unsorted_Ideas/05_Working_Roadmap.md`, secciones F-G. Base: la descripción sensorial ya fijada arriba ("El nombre que no se dice") — noche perpetua, cielos rojo vino/violeta amargo, tormentas eléctricas constantes, aire denso, superficie hostil, el Plano Ascendente en el plano físico.*
+
+### Los dos soles
+
+Lubrae se estabilizó, en su sistema original, bajo dos soles: uno amarillo (por eso "el sol le da de frente" y aun así es de noche — el amarillo sigue ahí, pero no basta) y uno azul, vinculado a tecnología paracausal propia de Lubrae (la "Umbral Sun" del documento original). En Sol solo recibe la mitad de la ecuación que necesita. El planeta intenta compensar la ausencia del segundo componente con pulsos gravitacionales y emisiones de Resonancia — la fuente física real de las tormentas eléctricas perpetuas y del tono violeta amargo del cielo: no es atmósfera normal filtrando luz, es el planeta discutiendo con una física que no reconoce.
+
+### La Desolación del Terror
+
+La ciudad natal de Rhulk, en ruinas — arquitectura que no se parece a nada Colmena (nada de hueso, nada de quitina): piedra oscura y metal sin herrumbre, geometrías que privilegian la vigilancia por encima de la vivienda — un lugar diseñado para que nadie pudiera esconderse de quien gobernaba. Calles dispuestas como líneas de visión, no como rutas. Estructuras que en algún momento sostuvieron algo parecido a un hive-mind de control total sobre su propio pueblo — cables/conductos nerviosos todavía visibles, muertos, colgando de fachadas como venas vaciadas. Nada de esto se explica en prosa; se deja que Kyle y Carina lo caminen sin que nadie les traduzca lo que están viendo.
+
+### La Catedral de las Voces
+
+En el centro de la Desolación — el lugar donde Rhulk se sometió al Testigo para obtener su forma de Discípulo. Un espacio que se siente menos como templo y más como sala de audiencia: una estructura circular, alta, con superficies que registran (sin reproducir con voz) ecos de juicios y guerras que ni el propio Oryx reconoce del todo. **Las Voces son testigos mudos** (cimiento ya fijado arriba) — el terror no es que hablen, es que claramente *podrían*, y no lo hacen. Aquí ocurre el regicidio físico incompleto (Cap. 17).
+
+### Huellas concretas de Rhulk
+
+- Un trono/altar vacío en el centro de la Catedral — la postura de sometimiento congelada en la arquitectura misma (una hendidura en el piso con la forma exacta de algo arrodillándose, a escala mucho mayor que un humano).
+- Restos de tecnología robada — antes de someterse, Rhulk robó y adaptó tecnología no propia de su pueblo para resistir al Testigo. Fragmentos de eso siguen esparcidos, irreconocibles para Ghost (mismo recurso ya usado con el Fragmento del Cap. 12: "roca vacía" para los sensores, sentido solo por contacto directo). **No se nombra qué tecnología es** — queda como semilla muda para cuando se desarrolle en un libro futuro.
+- El destello mudo de Fundamento (ya fijado arriba) vive en algún punto de esta ciudad, no en la Catedral — Oryx lo reconoce al pasar, nadie más.
+
+### Población y escala de Eirene, antes de la Toma
+
+Pequeños asentamientos civiles (ya fijado 2026-08-01) + puestos de vigilancia de la Vanguardia — ni una gran ciudad, ni una colonia vacía. Suficiente para que la evacuación tenga cuerpos reales, nombres que Carina puede reconocer (encaja con el hilo ya sembrado de que ella conoce gente ahí — ver "Decisiones aún abiertas" abajo), no tantos como para que la escena se vuelva un ejercicio de logística de masas.
+
+---
+
+## Decisiones fijadas con el autor (2026-08-02)
+
+1. **Sacrificio de Elsie — no es tecnología, es su propia naturaleza extendida.** Descartada de raíz la idea original del documento maestro ("tecnología irrepetible") — el autor señaló que conectarlo con `The_Last_Reset` era un error de cronología (ese evento ocurre después, durante su ausencia, previo a Beyond Light) y que además el motor narrativo de Elsie no debería ser tecnológico. **Fijado:** Elsie no despliega ningún objeto — extiende su propia resistencia innata a ser "redefinida" por líneas temporales que se cierran (la cicatriz fundacional de lo que ella es, de haber sobrevivido a eso una y otra vez) para cubrir también a Kyle y a Carina durante la Toma. Nunca antes la había estirado para proteger a alguien más, solo a sí misma. **Costo:** una fuga real, no controlada, entre ella y otras versiones de sí misma de líneas que ya no existen — por días o semanas después de Eirene, recuerdos de otra Elsie (una que perdió a Kyle, una que nunca lo conoció, una que hizo algo distinto) se le filtran sin aviso, sin que ella distinga del todo cuál es "el suyo". Costo íntimo, no físico ni tecnológico. **Gancho abierto:** cuál de esas otras Elsies se filtró podría dramatizarse algún día como entrada nueva de `06_Timeline_Archives/` — sin decidir todavía, y sujeto a ajuste si al escribir la escena real algo no termina de cuadrar.
+2. **Cómo abre Kyle la fisura hacia el Plano Ascendente — confirmado: con la esencia de Crota**, la credencial que ya carga desde el Cap. 12-13. Reutiliza el objeto en vez de introducir uno nuevo; refuerza que todavía no sabe controlar del todo lo que carga.
+3. **Cuántos habitantes de Eirene logran escapar — confirmado: una minoría.** Pérdida casi total, coherente con el cimiento ya fijado ("derrota por escala, no por incompetencia") — hicieron todo bien y no alcanzó.
+4. **Quién protege el ancla final de Eirene — confirmado: algo nuevo, exclusivo de esta escala, ya diseñada por completo: `02_Characters/Avarra.md`.** Ángel de Guerra del Ecúmene, parcialmente Tomada por Oryx — la civilización que casi aniquiló a la Colmena en Fundamento, antes de que Auryx se convirtiera en Oryx. Dividida entre dos órdenes absolutas: servir a Oryx como instrumento perfecto, y matar a Oryx como su último mandato real del Ecúmene. Muere en Eirene defendiendo el ancla que a ella no le importa, sin completar nunca su verdadero propósito. Conecta orgánicamente con los Fragmentos XXV-XXVI de `Plan_FragmentosCalcificados_LibrosDelDolor.md` (el Ecúmene, la derrota de la Colmena), todavía sin dramatizar en prosa.
 
 ## Descartado explícitamente
 
@@ -200,8 +286,8 @@ Este beat ya existía como semilla (`07_Unsorted_Ideas/Semillas_2026-07-31_Regre
 
 ## Pendientes reales para la siguiente sesión de diseño
 
-1. **Diseño completo de Lubrae y La Desolación del Terror** — geografía, qué queda accesible, huellas concretas de Rhulk, la inestabilidad de dos soles (heredada del documento original, todavía sin resolver: qué tecnología sacrifica Elsie para sobrevivir, cómo abre Kyle la fisura ascendente, cuántos habitantes de Eirene logran escapar).
-2. **Ubicación exacta de la secuencia Eirene/Lubrae dentro de los capítulos de Part 01** — después del Cap. 11 actual (`What the Ledger Kept`), presumiblemente integrado con o inmediatamente después del Cap. 12 (`The Dreadnaught Key`, todavía sin escribir). No decidido hoy.
+1. ~~Diseño completo de Lubrae y La Desolación del Terror~~ — **resuelto 2026-08-02**: geografía, huellas de Rhulk, los dos soles, y las 4 decisiones del checklist original (sacrificio de Elsie, fisura de Kyle, escala de escape, guardián del ancla). Ver secciones "Diseño de lugar — Lubrae/La Desolación del Terror" y "Decisiones fijadas con el autor" arriba. **Sin diseñar todavía:** forma/nombre concreto del guardián nuevo del ancla final.
+2. ~~Ubicación exacta de la secuencia Eirene/Lubrae dentro de los capítulos de Part 01~~ — **resuelto 2026-08-02**: Eirene es el Cap. 16, Lubrae/Cathedral of Voices el Cap. 17, después del nuevo Cap. 15 (`The Third Element`, Freehold). Ver tabla arriba y `00_Book_Map.md`.
 3. **Selección final de qué fragmentos de los Libros del Dolor se dramatizan antes de Eirene** — candidatos a evaluar contra la matriz completa de `Plan_FragmentosCalcificados_LibrosDelDolor.md` (Fase I y Fase II) cuando lleguemos a escribir esos capítulos.
 4. **Beat sheet completo de Part 01 en adelante** (ver `05_Working_Roadmap.md`, sección A) — arcos específicos de Kyle, Carina y Elsie durante la crisis de Eirene (secciones B-D de ese mismo documento).
 5. **Expansión de la escena del destierro de Crota** a capítulo o interludio completo (`05_Working_Roadmap.md`, sección E).

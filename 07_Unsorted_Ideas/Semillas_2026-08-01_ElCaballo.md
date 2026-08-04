@@ -30,7 +30,7 @@ Kyle se pasa el libro entero practicando la refutación de la filosofía de Oryx
 
 ## Book 02 — el primer contacto
 
-**Ubicación:** Capítulo 12 (*The Dreadnaught Key*), antes del fracaso de la infiltración al Acorazado.
+**Ubicación:** Capítulo 8 (*The Last Board*, `Part_01_Price_of_Vengeance/01_The_Last_Board.md`), Sección IV ("The Apple at the Tree Line"), durante la construcción del porche — el último día de calma antes de que empiece la campaña. **Reubicado el 2026-08-03** desde el Capítulo 12 (*The Dreadnaught Key*), a petición del autor: el primer contacto competía por espacio con la urgencia de la infiltración fallida al Acorazado, diluyendo el ritmo justo cuando el capítulo necesitaba construir tensión. En Cap. 8, sin nada urgente ocurriendo todavía, la escena respira sin fricción — y sigue cumpliendo la condición original de vivir "antes del fracaso" del Cap. 12, solo que ahora también antes de que la Vanguardia sepa nada de Oryx.
 
 **Beats fijados por el autor:**
 - Kyle se encuentra al caballo. No lo monta.
@@ -74,11 +74,12 @@ La manzana ya es uno de los objetos más cargados del vault, y esto lo carga má
 - `Guardian_Familia_FinalShape_LasManzanasQueNoCayeron` — la familia congelada a media cosecha cuando se activa la Forma Final; Sai con la canasta suspendida.
 - `Guardian_Elsie_PostFinalShape_LoQueYaEraVerdad` — *"La primera cosa que Kyle vio al abrir la puerta fue una manzana."* Podrida, debajo de la mesa, semanas después. La última que Elsie recoge del suelo es donde por fin se tocan las manos.
 
-**Resuelto (2026-08-01): el manzano existe, pero las manzanas del caballo son compradas.**
+**Resuelto (2026-08-01, corregido 2026-08-02): el manzano existe, pero las manzanas del caballo son compradas.**
 
-- **Age I** — Kyle y Elsie plantan el manzano en la cabaña, en la escena todavía sin escribir donde ella le da su nombre real ("Elizabeth"). Detalle callado, sin carga narrativa en el momento.
-- **Book 02 y Book 03** — las manzanas que Kyle le da al caballo son **compradas en el mercado**. Decisión del autor para no arrastrar contabilidad de horticultura: la aritmética real (plantado en el Año 1, Taken King en septiembre del Año 2) deja el árbol en año y medio, demasiado joven para dar fruto en cualquier pie. Ventaja añadida: una manzana comprada es un desperdicio ordinario, no un gesto simbólico — refuerza la regla principal de la escena.
-- **Final Shape** — la canasta de `LasManzanasQueNoCayeron` **sí es del árbol**, y no hace falta justificarlo: han pasado más de diez años, un manzano de esa edad obviamente da fruta. El pago se sostiene solo, sin rastrear cosechas.
+- **Reubicado al final de la Guerra de los Poseídos** (Age II, Taken King Parte 2 — decisión del 2026-08-02, corrige la ubicación original en Age I). Kyle y Elsie plantan el manzano juntos como símbolo de vida nueva tras la guerra — ya no ligado al beat de "Elizabeth" (ver más abajo). Escena todavía sin escribir.
+- **Es un árbol distinto del árbol de los memoriales** (`Sai_Familia_Haunted_ElSolsticio`, "el árbol más viejo del claro", donde Kyle deja los cinco objetos de la Primera Escuadra tras la Guerra Roja). Confirmado con el autor el 2026-08-02: mezclar luto con vida nueva diluye ambos símbolos, y el árbol del memorial ya está descrito como el más viejo del claro — no puede ser un retoño recién plantado en Taken King.
+- **Book 02 y Book 03** — las manzanas que Kyle le da al caballo son **compradas en el mercado**. Decisión del autor para no arrastrar contabilidad de horticultura: aunque el manzano ahora se planta más tarde que en el diseño original, la lógica se mantiene — no hace falta rastrear la edad del árbol contra el Cap. 12, que ya no depende de él. Ventaja añadida: una manzana comprada es un desperdicio ordinario, no un gesto simbólico — refuerza la regla principal de la escena del caballo.
+- **Final Shape** — la canasta de `LasManzanasQueNoCayeron` **sí es del árbol**, y no hace falta justificarlo: han pasado casi diez años desde el fin de la Guerra de los Poseídos, un manzano de esa edad obviamente da fruta. El pago se sostiene solo, sin rastrear cosechas.
 
 Detalle disponible, de una línea o de ninguna: Kyle se pasa años comprando manzanas para un caballo mientras su propio árbol todavía no da nada.
 
@@ -86,25 +87,22 @@ Detalle disponible, de una línea o de ninguna: Kyle se pasa años comprando man
 
 ---
 
-## Conflicto de continuidad abierto — "Elizabeth" en Age I
+## Conflicto de continuidad "Elizabeth" — resuelto (2026-08-02)
 
-El momento donde Elsie le da su nombre real a Kyle (y donde se planta el manzano) está ubicado por el autor en **Age I**, semanas después del despertar. Todavía sin escribir, ni en escena ni en libro.
+**Hallazgo:** la escena donde Elsie le da su nombre real a Kyle no estaba "sin escribir" — ya existía como `Guardian_Elsie_VaultOfGlass_PrimeraVisita` (Age I, un porche a medio construir tras la Bóveda de Cristal). La confusión del diseño original (que asumía la escena pendiente y la ataba al manzano) se corrigió al verificar el vault.
 
-**Fricción real:** `Guardian_Elsie_BeyondLight_ElNombre` (Age VIII, ya escrita) es el primer "Kyle" de Elsie en toda la línea principal, y se apoya explícitamente en que *"lo había llamado Guardián desde el primer día de esta línea (...) la medida de algo que no había cedido."* Si en Age I ya le dio "Elizabeth" —acto de intimidad mayor que usar el nombre ajeno—, esa línea deja de sostenerse.
+**Resolución adoptada — Opción B, re-apuntar `ElNombre` en vez de mover "Elizabeth":** `PrimeraVisita` queda como la primera grieta — Elsie le da su nombre y en el mismo aliento se repliega pidiendo que la distancia siga llamándose "Guardian". `Guardian_Elsie_BeyondLight_ElNombre` (Age VIII) se editó para dejar de ser "la primera vez que ella cede algo" y pasar a ser **la vez que vuelve** a completar el gesto que empezó en el porche y no tuvo el valor de terminar — siete Ages después. Ambas escenas ahora se enlazan explícitamente. Memoria `feedback-kyle-name-convention` actualizada con los cuatro momentos del nombre.
 
-**Dos salidas planteadas al autor, sin resolver todavía:**
-
-- **(a)** Mover "Elizabeth" a Beyond Light o después. Orden limpio: primero ella lo nombra a él, después se nombra a sí misma. Costo: el manzano se planta en Age VIII y ya no llega maduro a Final Shape.
-- **(b)** *(recomendada)* Dejarlo en Age I y re-apuntar `ElNombre`. Elsie se le escapa una vez, temprano, sin defensas — y pasa siete Ages reconstruyendo la distancia que ella misma rompió. Beyond Light deja de ser la primera vez que cede y pasa a ser la vez que **vuelve** a algo que se permitió una vez y luego amuralló. Coherente con su miedo al apego y con "administra la distancia". Costo: ajustar esa línea de "algo que no había cedido" — re-apuntado, no reescritura.
+**Consecuencia para el manzano:** al desligarse del beat de "Elizabeth", el manzano ya no depende de esa escena — de ahí su reubicación al final de la Guerra de los Poseídos (ver arriba).
 
 ---
 
 ## Pendientes reales
 
-1. **Resolver (a) o (b)** en el conflicto de "Elizabeth" — bloquea la escritura de la escena de Age I, no la del Cap. 12.
-2. **Quién nombra al caballo y cuándo.** Reservado, sin decidir.
-3. **Si Elsie lo ve antes de Rise of Iron**, y qué hace con eso. Sin plantear.
-4. **Si son uno o dos manzanos.** Casi ningún manzano fructifica solo — necesita otro cerca que florezca al mismo tiempo. Disponible como detalle ("¿por qué dos?"), con riesgo real de volverse cursi en una línea de más.
+1. **Quién nombra al caballo y cuándo.** Reservado, sin decidir.
+2. **Si Elsie lo ve antes de Rise of Iron**, y qué hace con eso. Sin plantear.
+3. **Si son uno o dos manzanos.** Casi ningún manzano fructifica solo — necesita otro cerca que florezca al mismo tiempo. Disponible como detalle ("¿por qué dos?"), con riesgo real de volverse cursi en una línea de más.
+4. **Escribir la escena de la plantación** al final de la Guerra de los Poseídos (Age II) — todavía sin redactar.
 
 ---
 

@@ -91,7 +91,7 @@ La lluvia seguía cayendo sobre el lago, real esta vez, sin nadie más en la cam
 
 Se levantó.
 
-No lloró — no todavía, no de la forma completa que algún día llegaría, en Felwinter Peak, años después, frente a alguien que tampoco sabría nombrar del todo lo que estaba viendo. Aquí, ahora, solo se permitió sentarse con el peso exacto de lo que había perdido, sin convertirlo en historia, sin buscar el chiste que lo hiciera más liviano.
+No lloró — no todavía, no de la forma completa que algún día llegaría, meses después, frente a Hornet, la primera vez que decidiera no cargar con esto completamente sola. Aquí, ahora, solo se permitió sentarse con el peso exacto de lo que había perdido, sin convertirlo en historia, sin buscar el chiste que lo hiciera más liviano.
 
 Se lo debía, al menos esta vez.
 

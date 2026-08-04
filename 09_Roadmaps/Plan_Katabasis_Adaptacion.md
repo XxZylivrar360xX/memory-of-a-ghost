@@ -59,9 +59,10 @@ Esto explica, sin necesitar más mecanismo, **cómo existen las grabaciones que 
 2. **Años de exilio de frontera** (entre Twilight Gap y House of Wolves) — cacerías, contrabando, trabajos aislados. En algún punto de esta ventana, cruza con Lena en el Refugio del Muelle, posiblemente más de una vez.
 3. **Reclutamiento por Calus** — se convierte en una de las Sombras del Emperador, en algún momento antes de House of Wolves, Año 2.
 4. **House of Wolves, Año 2 (Book 02, Cap. 6)** — un Legionario de Calus lo busca sin descripción exacta, confunde a Carina con él, siembra el misterio.
-5. **Taken King (Age II)** — Lena muere. Katabasis nunca lo sabe; para entonces ya está lejos, o ya perdió el contacto con el Refugio.
-6. **En algún punto posterior** (sin fecha fijada — probablemente cerca de la ventana real de *Presage*, Temporada de los Elegidos, más adelante en la cronología del vault) — la expedición de la Glykon Volatus, la comunión de Calus, la tragedia completa del canon.
-7. **La misión del Glikon** (Kyle + Carina, fecha todavía sin fijar, ver `Plan_Carina_Savathun_Horizonte.md`) — encuentran los restos, el arma, y las grabaciones con la voz de Lena.
+5. **Taken King (Age II)** — Lena muere. Katabasis no está cerca cuando ocurre, y tarda en enterarse.
+6. **Red War (Age V), a petición del autor (2026-08-02)** — para entonces ya se enteró, por una vía todavía sin fijar (rumor, un contacto viejo de contrabando, un registro que cruza sin querer). Deja un collar con una Vara de Asclepio en el memorial de Lena en el Refugio del Muelle, sin revelarse — nadie en el Refugio sabe quién lo dejó, ni siquiera Carina, que lo ve ahí durante su propia visita sin Luz (`08_Core_Relationships/Carina_Lena.md`, Etapa 7; `09_Roadmaps/Plan_RedWar_Carina.md`, Movimiento 2). El símbolo médico, no militar, es deliberado — lo único que puede ofrecerle a una sanadora que nunca llegó a conocer del todo.
+7. **En algún punto posterior** (sin fecha fijada — probablemente cerca de la ventana real de *Presage*, Temporada de los Elegidos, más adelante en la cronología del vault) — la expedición de la Glykon Volatus, la comunión de Calus, la tragedia completa del canon.
+8. **La misión del Glikon** (Kyle + Carina, fecha todavía sin fijar, ver `Plan_Carina_Savathun_Horizonte.md`) — encuentran los restos, el arma, y las grabaciones con la voz de Lena. Si el pago se calibra bien, este es también el momento en que Carina puede llegar a atar el collar sin nombre del memorial a Catabasis, años después de haberlo visto.
 
 ---
 
@@ -72,7 +73,8 @@ Esto explica, sin necesitar más mecanismo, **cómo existen las grabaciones que 
 3. Fijar una fecha aproximada para la tragedia de la Glykon dentro de la cronología del vault (probablemente cerca de la temporada real, pero eso implica varias eras después de Witch Queen — revisar contra `01_Timeline/`).
 4. Confirmar el nombre en español de Dead Man's Tale si el vault ya tradujo otras armas exóticas, o dejarlo en inglés como el resto de nombres de armas ya usados (La Última Palabra sí se tradujo; revisar consistencia).
 5. Decidir si el nombre correcto a usar en prosa de aquí en adelante es "Catabasis" (ya en Cap. 6) o si se corrige a "Katabasis" (grafía oficial) — recomendación: mantener "Catabasis" en este vault, ya está en prosa publicada, y la nota de origen del canon puede documentar la diferencia sin que afecte el texto.
+6. **Nuevo (2026-08-02):** decidir por qué vía se entera Katabasis de la muerte de Lena antes de Red War — sin esto, el collar en el memorial no tiene causa. Y decidir si Carina llega a atar ese collar a Catabasis en algún punto (la misión del Glikon es el candidato natural) o si queda como misterio nunca resuelto ni para ella ni para el lector.
 
 ---
 
-*Conecta con: [[09_Roadmaps/Plan_Carina_Savathun_Horizonte]], [[07_Unsorted_Ideas/Semillas_2026-07-29]], [[02_Characters/Lena]], [[02_Characters/Carina]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/06_The_Thread_That_Brings_You_Back]], [[99_Reference/md_canon_lore/Katabasis_Contexto_Canonico_Destiny]]*
+*Conecta con: [[09_Roadmaps/Plan_Carina_Savathun_Horizonte]], [[09_Roadmaps/Plan_RedWar_Carina]], [[07_Unsorted_Ideas/Semillas_2026-07-29]], [[02_Characters/Lena]], [[02_Characters/Carina]], [[08_Core_Relationships/Carina_Lena]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/06_The_Thread_That_Brings_You_Back]], [[99_Reference/md_canon_lore/Katabasis_Contexto_Canonico_Destiny]]*
