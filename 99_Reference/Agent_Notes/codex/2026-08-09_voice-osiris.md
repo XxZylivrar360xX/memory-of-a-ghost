@@ -17,10 +17,14 @@ Seraph, Lightfall/Neomuna y Final Shape con una voz fácil de confundir con Eris
 
 - Creada `12_Craft_Policies/voice/osiris.md`.
 - Actualizado el índice de fichas en `12_Craft_Policies/README.md`.
+- Calibrada con `07_Unsorted_Ideas/Osiris_Character_Bible_Canon_Renewed_Fate.md` tras entrega del
+  bible canon por Víctor: añadidas anclas canon, separación Osiris real/Savathûn-as-Osiris, eje
+  Sagira/Saint/Echoes/Strand y checklist rápido.
 
 ## Fuentes usadas
 
 - `02_Characters/Osiris.md`
+- `07_Unsorted_Ideas/Osiris_Character_Bible_Canon_Renewed_Fate.md`
 - `02_Characters/Guardian.md` secciones de Curse of Osiris y Season of the Lost
 - `05_Dialogues/Dialogue_Eris/Eris_Osiris_TakenKing_ElPadreDebajoDelRey.md`
 - `05_Dialogues/Dialogue_Guardian/Guardian_Osiris_Seraph_LaColoniaPerdida.md`
