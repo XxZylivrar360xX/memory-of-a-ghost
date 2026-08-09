@@ -1,5 +1,6 @@
 ---
 personaje: Ana Bray
+origen: canon_readaptado
 ---
 
 # Ficha de Voz — Ana Bray

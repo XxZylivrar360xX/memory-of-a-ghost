@@ -1,5 +1,6 @@
 ---
 personaje: Guardian / Kyle
+origen: original_renewed_fate
 ---
 
 # Ficha de Voz — Guardian / Kyle

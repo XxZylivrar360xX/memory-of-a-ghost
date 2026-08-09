@@ -1,5 +1,6 @@
 ---
 personaje: Elsie Bray
+origen: canon_readaptado
 ---
 
 # Ficha de Voz — Elsie Bray

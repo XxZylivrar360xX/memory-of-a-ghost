@@ -1,5 +1,6 @@
 ---
 personaje: Dra. Elenna "Lena" Lekareva
+origen: original_renewed_fate
 ---
 
 # Ficha de Voz — Lena

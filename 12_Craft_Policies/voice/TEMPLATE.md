@@ -1,7 +1,13 @@
+---
+personaje: [Nombre del Personaje]
+origen: [canon_directo | canon_readaptado | canon_expandido | original_renewed_fate]
+---
+
 # Ficha de Voz — [Nombre del Personaje]
 
 > Copiar este archivo a `nombre-apellido.md` y borrar este encabezado. Consultar antes de
-> escribir cualquier diálogo de este personaje (ver precedencia en `../README.md`).
+> escribir cualquier diálogo de este personaje (ver precedencia en `../README.md`). Ver
+> `CHARACTER_ORIGIN_TYPES.md` para elegir el campo `origen`.
 
 ## Cadencia y sintaxis
 (Frases cortas o largas. Cuánto interrumpe o deja terminar. Cuánto pregunta vs. afirma.

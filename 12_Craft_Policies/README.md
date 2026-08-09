@@ -19,8 +19,10 @@ más operativa: qué NO se puede decir todavía, y cómo suena cada personaje cu
   `08_Core_Relationships/*.md`) — el reverso del ledger: no es lo que todavía no se puede
   decir, es lo que **ya es canon** y desde cuándo. No duplica contenido, apunta a él.
 - **`voice/`** — Ficha de voz por personaje (`nombre-apellido.md`). Cadencia, vocabulario,
-  lo que nunca dice, contraste con otras voces cercanas. Se consulta antes de escribir
-  cualquier diálogo de ese personaje.
+  lo que nunca dice, contraste con otras voces cercanas y tipo de origen/adaptación
+  (`canon_directo`, `canon_readaptado`, `canon_expandido`, `original_renewed_fate`; ver
+  [`voice/CHARACTER_ORIGIN_TYPES.md`](voice/CHARACTER_ORIGIN_TYPES.md)). Se consulta antes
+  de escribir cualquier diálogo de ese personaje.
 - **`dialogue_rules/`** — Catálogo de anti-patrones de diálogo detectados en la saga
   (uno por archivo, numerado). Nace de auditorías (ej. Codex) o de detección manual durante
   la escritura.
@@ -117,11 +119,15 @@ confirmar y la prioridad recomendada para `voice/` (Ana, Lena, Sai).
 
 ## Fichas de voz existentes
 
-Primeras tres fichas (2026-08-09), priorizadas por la auditoría de Codex — las tres leen a
-otros con la misma estructura (regla 01) y necesitaban huellas distintas.
-
-| Personaje | Archivo |
-|-----------|---------|
-| Ana Bray | [voice/ana-bray.md](voice/ana-bray.md) — lee desde la ciencia y su propio duelo (Willa), nombrado y ofrecido a cambio |
-| Lena | [voice/lena.md](voice/lena.md) — lee por evidencia física de médica de campo; retiene su propia herida en fragmentos |
-| Sai | [voice/sai.md](voice/sai.md) — lee sin elegirlo (don paracausal); el acierto debe costarle algo, no llegar limpio |
+| Personaje | Origen | Archivo |
+|-----------|--------|---------|
+| Ana Bray | `canon_readaptado` | [voice/ana-bray.md](voice/ana-bray.md) — lee desde la ciencia y su propio duelo (Willa), nombrado y ofrecido a cambio |
+| Carina | `original_renewed_fate` | [voice/carina.md](voice/carina.md) — cazadora práctica que vuelve habitable el espacio alrededor de otros |
+| Elsie Bray | `canon_readaptado` | [voice/elsie-bray.md](voice/elsie-bray.md) — superviviente de demasiados mapas rotos; precisión antes que consuelo |
+| Ghost | `canon_readaptado` | [voice/ghost.md](voice/ghost.md) — archivo emocional de Kyle y primera familia, no asistente técnico genérico |
+| Guardian / Kyle | `original_renewed_fate` | [voice/guardian-kyle.md](voice/guardian-kyle.md) — persona contenida bajo el mito; responsabilidad y culpa vigilada |
+| Hornet | `original_renewed_fate` | [voice/hornet.md](voice/hornet.md) — instinto de guardia con voz baja y precisa |
+| Lena | `original_renewed_fate` | [voice/lena.md](voice/lena.md) — médica de campo; lee por síntoma físico y patrón observado |
+| Oryx | `canon_directo` | [voice/oryx.md](voice/oryx.md) — Rey, Navegante y Padre; siempre busca una respuesta |
+| Sai | `original_renewed_fate` | [voice/sai.md](voice/sai.md) — lectora paracausal; el acierto debe costarle algo |
+| Savathûn | `canon_directo` | [voice/savathun.md](voice/savathun.md) — Autora, Fugitiva y Cirujana de posibilidades |

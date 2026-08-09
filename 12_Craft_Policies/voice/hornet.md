@@ -1,5 +1,6 @@
 ---
 personaje: Hornet
+origen: original_renewed_fate
 ---
 
 # Ficha de Voz — Hornet

@@ -1,5 +1,6 @@
 ---
 personaje: Oryx
+origen: canon_directo
 ---
 
 # Ficha de Voz — Oryx
@@ -134,4 +135,3 @@ intentar medir si eso es debilidad, otra clase de fuerza, o una refutación parc
 - ❌ "Deseo morir para descansar por fin." — confunde aceptación de una prueba legítima con
   impulso suicida.
 - ❌ "Soy la oscuridad final. Todo debe detenerse." — suena a Witness, no a Navegante.
-

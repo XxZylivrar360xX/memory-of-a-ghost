@@ -1,5 +1,6 @@
 ---
 personaje: Ghost
+origen: canon_readaptado
 ---
 
 # Ficha de Voz — Ghost

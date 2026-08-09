@@ -1,5 +1,6 @@
 ---
 personaje: Carina
+origen: original_renewed_fate
 ---
 
 # Ficha de Voz — Carina
