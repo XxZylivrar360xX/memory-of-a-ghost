@@ -91,6 +91,17 @@ Codex es el auditor natural de este mecanismo: continuidad y patrones son su rol
 solo en Claude Code cada vez, sigue el mismo precedente que la compuerta de
 `00_Book_Map.md` (autorizada por Víctor a Codex, 2026-08-09, ver `11_Books/README.md`):
 
+**División de trabajo: detección vs. ejecución (fijado 2026-08-09).** Cuando una auditoría de
+`dialogue_rules/` o `staging_rules/` encuentra un patrón real en prosa ya escrita, **quién
+detecta y cataloga no es quien reescribe**. Codex diagnostica y documenta (esta sección
+explica qué puede escribir directamente en las políticas, no en los capítulos); expandir o
+corregir la prosa del libro es trabajo de Claude Code, siguiendo la división ya fijada del
+proyecto — Codex = Editorial de Postproducción (continuidad/filosofía/simetrías), Claude Code
+= peso dramático (ver `project-chatgpt-editor-gpt` en memoria). El rol de **incubadora** de
+Codex (`Codex_Brief.md`, "Rol ampliado") es para ideas narrativas nuevas sin desarrollar
+todavía — no aplica aquí: un hallazgo de `staging_rules/` no es una idea a incubar, es un
+ajuste confirmado sobre texto que ya es canon y ya pasó auditoría de continuidad.
+
 **Codex puede escribir directamente en estas subcarpetas** cuando el resultado es aditivo y
 sigue el template existente al pie de la letra — sin esperar a que Claude Code lo reformatee:
 - `dialogue_rules/` — nuevas reglas numeradas, siguiendo `dialogue_rules/TEMPLATE.md`.
