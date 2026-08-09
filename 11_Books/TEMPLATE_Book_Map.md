@@ -10,6 +10,10 @@ resolver todavía.*
 **Nota de proceso:** ningún libro nuevo entra a desarrollo de prosa sin este mapa. Regla
 fijada por Víctor y aplicada por Codex el 2026-08-09; ver `11_Books/README.md`.
 
+**Ejemplo de referencia completo:** [`11_Books/Book_02_The_King_Of_Shapes/00_Book_Map.md`](Book_02_The_King_Of_Shapes/00_Book_Map.md) —
+rellenado el 2026-08-09 para cumplir esta misma plantilla, primer caso real de todas las
+secciones con contenido, incluidas las dos operativas opcionales de abajo.
+
 ---
 
 ## Qué es este libro
@@ -75,6 +79,22 @@ Cruzar esta sección con `12_Craft_Policies/revelations/` antes de redactar.
 **Clímax filosófico:** qué respuesta parcial da el libro a su pregunta central.
 
 **Qué NO debe resolver:** lo que debe quedar vivo para libros futuros.
+
+## Regla de redacción *(opcional — libros extensos / multi-parte)*
+
+Cadencia de sesión recomendada (ej. "una sesión = un capítulo redactado, o el mapa de una
+Parte; nunca el libro completo de un jalón") y reparto de responsabilidades entre agentes
+(quién redacta, quién audita continuidad/filosofía, quién decide canon). Útil sobre todo en
+libros de varias Partes escritos a lo largo de muchas sesiones — omitir en libros cortos o
+de una sola sesión.
+
+## Numeración de capítulos *(opcional — libros multi-parte)*
+
+Si el libro tiene Partes, fijar aquí si la numeración de capítulo es **global y continua**
+(nunca se reinicia en 1 al empezar una Parte nueva) o local a cada Parte, y mantener una
+tabla de rangos por Parte que se actualice cada vez que el conteo cambie (fusiones,
+inserciones, reubicaciones). Evita que un capítulo insertado a mitad de redacción rompa la
+numeración de todo lo que sigue sin que quede registrado en un solo lugar.
 
 ## Estructura
 

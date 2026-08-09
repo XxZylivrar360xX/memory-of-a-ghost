@@ -11,9 +11,9 @@ más operativa: qué NO se puede decir todavía, y cómo suena cada personaje cu
 ## Estructura
 
 - **`revelations/`** — Ledger de misterios y revelaciones. Un archivo por libro
-  (`Book_XX_Titulo.md`), más `SAGA_LEVEL.md` para misterios que cruzan varios libros. Rastrea
-  qué sabe cada personaje y desde cuándo, para que ninguna escena filtre algo antes de su
-  capítulo.
+  (`Book_XX_Titulo.md` — primer caso real: [`Book_02_The_King_Of_Shapes.md`](revelations/Book_02_The_King_Of_Shapes.md)),
+  más `SAGA_LEVEL.md` para misterios que cruzan varios libros. Rastrea qué sabe cada
+  personaje y desde cuándo, para que ninguna escena filtre algo antes de su capítulo.
 - **`milestones/`** — [[12_Craft_Policies/milestones/INDEX|Índice cronológico]] de los
   Momentos Hito/Ancla **ya establecidos** en el wiki (`02_Characters/Guardian.md`,
   `08_Core_Relationships/*.md`) — el reverso del ledger: no es lo que todavía no se puede
@@ -69,6 +69,37 @@ En caso de conflicto:
    escenas anteriores) — documentarlo como regla nueva en `dialogue_rules/`.
 3. Si la escena revela algo nuevo y genuino sobre cómo habla un personaje — reflejarlo en su
    ficha de `voice/`.
+
+## Auditorías de Codex — integración directa autorizada
+
+Codex es el auditor natural de este mecanismo: continuidad y patrones son su rol ya fijado
+(`99_Reference/Codex_Brief.md`). Para que la administración de `12_Craft_Policies/` no recaiga
+solo en Claude Code cada vez, sigue el mismo precedente que la compuerta de
+`00_Book_Map.md` (autorizada por Víctor a Codex, 2026-08-09, ver `11_Books/README.md`):
+
+**Codex puede escribir directamente en estas subcarpetas** cuando el resultado es aditivo y
+sigue el template existente al pie de la letra — sin esperar a que Claude Code lo reformatee:
+- `dialogue_rules/` — nuevas reglas numeradas, siguiendo `dialogue_rules/TEMPLATE.md`.
+- `voice/` — nuevas fichas, siguiendo `voice/TEMPLATE.md`, con citas a escenas reales.
+- `revelations/*.md` — nuevas entradas o actualización de `Estado` en entradas existentes,
+  siguiendo el formato de encabezado ya fijado en cada archivo.
+- `milestones/INDEX.md` — nuevas filas que apunten a hitos ya escritos en el wiki (nunca
+  contenido narrativo nuevo — eso sigue viviendo en `02_Characters/`/`08_Core_Relationships/`).
+
+**Sigue pasando por Claude Code o Víctor** cualquier cambio que no sea aditivo: reordenar la
+precedencia, reescribir el flujo de uso, resolver un misterio marcándolo `revelado`/`pagado`
+cuando eso implica una decisión de canon (no solo registrar que ya se escribió), o crear una
+carpeta/archivo nuevo fuera de la estructura ya fijada.
+
+**Trazabilidad:** aunque la escritura sea directa, Codex deja de todas formas una nota en
+`99_Reference/Agent_Notes/codex/` con el mismo esqueleto de siempre (Hallazgo/Por qué/
+Sugerencia/Severidad), para que quede registro de qué motivó el cambio — la diferencia con
+el protocolo general de `Agent_Notes/` es que aquí la nota **documenta** el cambio ya
+aplicado, no lo **propone** para que alguien más lo aplique después.
+
+**Ortografía:** Codex, escribe con acentos correctos desde el origen (el reporte de
+auditoría de diálogo y la primera versión de `TEMPLATE_Book_Map.md` llegaron sin ellos y
+tuvieron que corregirse aparte) — evita ese paso de limpieza manual.
 
 ## Índice de reglas de diálogo
 

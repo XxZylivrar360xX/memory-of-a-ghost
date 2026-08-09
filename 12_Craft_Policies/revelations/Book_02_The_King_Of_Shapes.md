@@ -1,0 +1,117 @@
+# Ledger de Revelaciones — Book 02: The King of Shapes
+
+Misterios y revelaciones propias de este libro. Ver `SAGA_LEVEL.md` para los que cruzan
+varios libros. Cruzado desde
+[[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map|00_Book_Map.md]], sección "Revelaciones y
+misterios" — este archivo es el detalle completo de esa tabla.
+
+---
+
+## La luz verde de la Batalla de Saturno
+
+- **Qué es:** la "luz verde opaca y agonizante" que Carina y Lena ven desde la azotea de la
+  clínica al cierre del Prólogo (Cap. 7) — sin saber qué es.
+- **Se revela en:** sembrado en Cap. 7 (*The Last Line in the Ledger*); atado a su escala
+  real en Cap. 16 (*Eirene*) — Carina descubre restos de la flota y relatos de sobrevivientes
+  cruzando la misma zona, y conecta la luz con lo que ya estaba pasando esa noche.
+- **Quién ya lo sabe (desde cuándo):** Carina, desde el Cap. 16 — pero solo la **escala**,
+  no el nombre de quién estaba involucrado.
+- **Quién NO debe saberlo/insinuarlo todavía:** nadie ha confirmado si Carina llega a saber
+  que fue Mara quien se sacrificó esa noche — **pendiente de decidir con el autor** (ver
+  `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, sección "Carina paga la luz
+  verde del Prólogo").
+- **Foreshadowing ya sembrado:** Cap. 7 (la luz vista sin explicación).
+- **Líneas o gestos prohibidos antes del reveal:** ningún personaje debe nombrar a Mara como
+  la responsable del sacrificio hasta que el autor decida si ese nombre llega a saberse.
+- **Estado:** parcial — la escala está pagada, el nombre propio sigue abierto.
+
+---
+
+## El nombre "Lubrae"
+
+- **Qué es:** el nombre real de la luna donde ocurre la Toma de Eirene / La Desolación del
+  Terror — deliberadamente vetado en la prosa de este libro.
+- **Se revela en:** Witch Queen (libro futuro, sin fijar todavía).
+- **Quién ya lo sabe (desde cuándo):** nadie del elenco, en ningún capítulo de Book 02.
+- **Quién NO debe saberlo/insinuarlo todavía:** todos — regla dura, cero excepciones dentro
+  de este libro (ver Caps. 16-17, ya verificados limpios por auditoría de Codex el
+  2026-08-02).
+- **Foreshadowing ya sembrado:** ninguno explícito — el lugar existe en prosa, el nombre no.
+- **Líneas o gestos prohibidos antes del reveal:** cualquier personaje pronunciando o
+  escribiendo "Lubrae" dentro de Book 02.
+- **Estado:** sembrado (como lugar, sin nombre).
+
+---
+
+## La carta y el anillo de Lena
+
+- **Qué es:** una carta reescrita "mil veces" pidiéndole a Carina compartir su camino, y un
+  anillo dentro de una cajita de terciopelo — Lena nunca llegó a entregarla.
+- **Se revela en:** encontrados por Carina en Cap. 33 (*What They Found in Exile*) — se los
+  lleva sin abrirlos del todo, sin decírselo a nadie. La respuesta real (leer la carta,
+  ponerse el anillo, responder en voz alta) ocurre muchos libros después, en
+  `05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta` (ver
+  `02_Characters/Lena.md`).
+- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 33 — pero no ha leído el contenido
+  completo todavía dentro de este libro.
+- **Quién NO debe saberlo/insinuarlo todavía:** nadie más del elenco sabe que la caja existe
+  hasta que Carina decida compartirlo (no ocurre dentro de Book 02).
+- **Foreshadowing ya sembrado:** la escena de la muerte de Lena y "Lo que dejó" en
+  `02_Characters/Lena.md`.
+- **Líneas o gestos prohibidos antes del reveal:** Carina no puede citar el contenido de la
+  carta ni confirmar su respuesta ("quiero compartir tu camino") en ningún capítulo de este
+  libro ni de los libros intermedios antes de Post Final Shape.
+- **Estado:** parcial — encontrada, no respondida.
+
+---
+
+## El costo de Elsie en Eirene (fuga entre versiones)
+
+- **Qué es:** al sacar a Kyle y Carina con vida de Eirene, Elsie fuerza una fuga real entre
+  ella y otras versiones de sí misma de líneas que ya no existen — deliberadamente sin
+  nombrar cuál se filtró.
+- **Se revela en:** pagado sin nombre en Cap. 18 (*The Flank She Could Not Hold*) — visible
+  para el lector como costo, pero sin detalle.
+- **Quién ya lo sabe (desde cuándo):** Elsie, desde el momento mismo del rescate — nadie más
+  lo sabe.
+- **Quién NO debe saberlo/insinuarlo todavía:** todo el resto del elenco; ningún capítulo de
+  Book 02 nombra qué versión se filtró ni qué significa exactamente.
+- **Foreshadowing ya sembrado:** ninguno anterior — nace aquí.
+- **Líneas o gestos prohibidos antes del reveal:** nombrar la línea temporal específica que
+  se filtró, o explicar el mecanismo exacto de la fuga, antes de que exista una pieza en
+  `06_Timeline_Archives/` que lo desarrolle.
+- **Estado:** sembrado — gancho abierto, sin pieza de Timeline Archive asignada todavía.
+
+---
+
+## "Chispitas" / "Pistolera" (apodos de Kyle y Carina)
+
+- **Qué es:** los apodos que Kyle y Carina se dan mutuamente, nacidos de Stormcaller (Cap.
+  15) y de la puntería exacta de Carina (Cap. 14).
+- **Se revela en:** sembrados en Caps. 14-15, consolidados y pagados como cierre emocional
+  en Caps. 27 y 32.
+- **Quién ya lo sabe:** Kyle y Carina, desde que se los dan.
+- **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban
+  ignorar, es una revelación que se paga por completo dentro del mismo libro.
+- **Estado:** **pagado.** No cruza a libros futuros como pendiente — se documenta aquí solo
+  por trazabilidad, ya que un roadmap anterior (`Plan_Libros_Saga`) llegó a decir por error
+  que nacían en una escena posterior; corregido por auditoría de Codex el 2026-08-02.
+
+---
+
+## Lo que Ghost vio en el porche
+
+- **Qué es:** en una escena privada Kyle/Ghost del Cap. 8, Ghost ve algo relacionado con el
+  eco paterno de Kyle (el modo que sobrevivió a su muerte y al borrado total del Testigo,
+  origen real explorado en [[05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar]]). Kyle
+  se hace el loco — no confirma haberlo notado.
+- **Se revela en:** sembrado en Cap. 8; no se desarrolla más dentro de este libro.
+- **Quién ya lo sabe (desde cuándo):** Ghost, desde siempre (conoce el origen completo del
+  eco); posiblemente Kyle a nivel no consciente, sin confirmarlo.
+- **Quién NO debe saberlo/insinuarlo todavía:** Sai es quien eventualmente roza esto (ver
+  `02_Characters/Sai.md`, "Ghost — el que sabe") — pero eso ocurre muchas eras después
+  (Season of Plunder), muy fuera del rango de este libro.
+- **Foreshadowing ya sembrado:** el origen mismo en `Kyle_ElDespatar`.
+- **Líneas o gestos prohibidos antes del reveal:** ningún capítulo de Book 02 debe explicar
+  qué es exactamente el "modo" que Ghost reconoce — se queda como gesto silencioso.
+- **Estado:** sembrado — semilla explícita para Book 03.

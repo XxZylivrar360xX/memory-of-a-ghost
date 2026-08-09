@@ -4,6 +4,15 @@
 
 **Estado: LIBRO COMPLETO — 35 capítulos, de punta a punta (Prólogo 1-7, Part 01 8-18, Part 02 19-25, Part 03 26-30, Part 04 31-32, Part 05 33-35). Terminado el 2026-08-08, listo para auditoría de continuidad/filosofía con Codex y ajuste final del autor.**
 
+**Compuerta retroactiva (2026-08-09):** este libro se escribió y se completó un día antes de
+que existiera la compuerta obligatoria de `00_Book_Map.md` (`11_Books/README.md`), así que
+quedó exento con retroactividad. Se rellenó de todas formas, a petición del autor, para que
+sirva de ejemplo de referencia completo de `TEMPLATE_Book_Map.md` y para darle a la
+auditoría de continuidad/filosofía pendiente con Codex un mapa estructurado (Protagonistas,
+Antagonistas, Revelaciones, Decisiones, Clímax) en vez de 35 capítulos sueltos. Nació
+también `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`, primer ledger de
+revelaciones por libro con contenido real.
+
 **Reubicación mayor (2026-08-08, misma sesión que el cierre):** a petición del autor, el origen de Jaden (`The Terrain That Cannot Be Conquered`, Suetake), `The Trail of Xur` y la forja de Dark Drinker (`The Third Sword`) se movieron a la apertura de **Book 03 — Evolution of Ashes** (`11_Books/Book_03_Evolution_Of_Ashes/00_Prologue/`). Razón: Book 02 fija su perspectiva estrictamente del lado de Carina cuando conoce a Jaden y Atheena — nunca entra en la cabeza de ninguno de los dos por su cuenta; esos tres capítulos, sin ninguna escena de Carina, no encajaban con esa regla. Book 03 es, además, donde el autor quiere abrir con la formación completa de Jaden — la tesis fijada para ese libro es una reimaginación de Rise of Iron como *space western* fusionado con filosofía samurái, donde la tecnología no es la respuesta a SIVA, y donde arranca la amistad Kyle/Jaden que ese libro existe para contar. Los tres capítulos de Part 05 que quedaron (`What They Found in Exile`, `The False Pretender`, `Just in Time`) se reescribieron el mismo día para eliminar toda interioridad de Jaden/Atheena y anclar el punto de vista en Carina de punta a punta — ver notas narrativas de cada capítulo. Cascada de -3 capítulos en Part 05 (de 6 a 3) y en el total del libro (de 38 a 35).
 
 ---
@@ -12,9 +21,105 @@
 
 Book 02 convierte el material ya escrito de Age II (Taken King) en una unidad de lectura real. No mueve ni una sola escena de `05_Dialogues/` — novela, ordena y da voz de narrador a lo que ya existe. `01_Timeline/Age_II_The_Taken_King.md` sigue viva como mapa cronológico y se enlaza aquí cuando haya capítulos redactados.
 
-## Tesis
+## Premisa narrativa
+
+¿Puede alguien —rey o Guardián— imponerle una forma absoluta al duelo, a la herencia, al
+significado de una vida, sin que esa imposición termine devorándolo también a él? Oryx cree
+que sí, y construye un imperio entero (los Poseídos, la Lógica de la Espada, los Libros del
+Dolor) para demostrarlo. El libro pone esa premisa a prueba en dos escalas a la vez: Kyle,
+que puede derrotar a un rey sin darse cuenta de que ganar bajo sus propias reglas es
+validarlo; y Carina, cuya pérdida (Lena, el Refugio) no le llega como epopeya sino como
+duelo civil, sin ceremonia ni forma, exactamente lo que Oryx desprecia.
+
+## Punto de entrada
+
+Heredado de Age I (sin libro propio todavía): Kyle recién asentado como Guardián con
+historia real — Vault of Glass, Crota, Skolas — pero sin tercer subclase y sin haber sido
+puesto a prueba por una fuerza a la escala de un dios de la Colmena. Su relación con Elsie
+sigue en etapa de **Observación** (visitas ocasionales, sin convivencia ni romance
+adelantado — ver [[08_Core_Relationships/Guardian_Elsie_Bray]]). Ghost y Kyle tienen un
+vínculo ya consolidado. Carina no tiene ninguna historia compartida con Kyle todavía — el
+libro la introduce desde cero, renacida, construyendo su propia vida en el Refugio del
+Muelle junto a Lena, sin saber que ese hilo va a cruzarse con el de Kyle. Nada de esto
+necesita reexplicarse como nuevo — es lo que el Prólogo ya asume conocido al abrir.
+
+## Punto de salida
+
+Oryx derrotado físicamente, pero la victoria resulta ser una trampa filosófica que Kyle
+carga sin saberlo del todo ("¿soy diferente de lo que él era?"), semilla directa de
+[[12_Craft_Policies/revelations/SAGA_LEVEL#The Lord of Every Nothing (antagonista coda post-Final Shape)|The Lord of Every Nothing]] mucho más adelante en la saga.
+Kyle gana un tercer elemento (Stormcaller) y un caballo (semilla de Book 03). Carina queda
+integrada al círculo de Kyle —"Chispitas"/"Pistolera" consolidados—, pero cierra el libro
+exiliada a Kepler tras el fracaso con Jaden/Atheena/Malok, con la carta y el anillo de Lena
+sin abrir. Elsie paga un costo real y sin nombrar (fuga entre sus propias versiones
+temporales) — hook abierto hacia `06_Timeline_Archives/`. La puerta hacia Book 03 —
+*Evolution of Ashes*— se abre con el origen de Jaden ya reubicado ahí y la amistad
+Kyle/Jaden todavía sin empezar.
+
+## Tesis emocional / filosófica
 
 Oryx no es solo el Rey de los Poseídos — es un rey que intenta imponer una forma absoluta al significado, al duelo, a la herencia y a la existencia. Cada parte del libro es una arena distinta donde esa imposición se prueba: la mirada (Part 01), la identidad (Part 02), el juicio (Part 03), la herencia inmediata (Part 04) y la herencia diferida (Part 05).
+
+## Protagonistas y arcos
+
+| Personaje | Empieza en | Presión principal | Decisión clave | Termina en |
+|-----------|------------|--------------------|-----------------|------------|
+| **Kyle** | Post-Age I, sin tercer elemento, Elsie en etapa de Observación | La Mano del Rey; Oryx como espejo directo de la Lógica de la Espada; pérdida repetida de gente civil (Lena) por una guerra que ni sabe que existe | Encripta el Toque de Maldad en vez de usarlo; toma la esencia de Crota como credencial Ascendente; se enfrenta al juicio completo de King's Fall | Rey derrotado y sin saberlo validado bajo la Lógica de la Espada; gana Stormcaller y el caballo; vínculo consolidado con Carina |
+| **Carina** | Renacida sin historia, construyendo su vida en el Refugio del Muelle junto a Lena | La muerte de Lena el mismo día que Oryx llega al sistema; encontrar un lugar/familia después de perder el primero | Se infiltra sola para rematar al Sacerdote de Guerra como ajuste de cuentas por el Refugio; elige quedarse a pelear en vez de desaparecer en el duelo | Integrada al círculo de Kyle; exiliada a Kepler tras el fracaso con Jaden/Atheena/Malok; carta y anillo de Lena sin abrir |
+| **Elsie** | Etapa de Observación — visitas ocasionales, sin convivencia | El patrón de "otras líneas" donde versiones de Kyle no sobrevivieron a esta escala de amenaza | Fuerza una fuga entre sus propias versiones temporales para sacarlos de Eirene con vida | Costo pagado en soledad, deliberadamente sin nombre — hook abierto hacia `06_Timeline_Archives/` |
+| **Ghost** | Vínculo consolidado con Kyle, sin haber sido puesto a prueba físicamente a esta escala | El arma que casi los destruye en el fracaso de infiltración al Acorazado | Sigue junto a Kyle pese a la carcasa herida; guarda en silencio lo que ve en el porche (Cap. 8) | Carcasa herida de forma permanente; vínculo con Hornet nacido; el secreto del eco paterno de Kyle sigue callado (semilla Book 03) |
+
+## Antagonistas / fuerzas de presión
+
+| Fuerza | Qué quiere | Cómo presiona | Qué revela del protagonista |
+|--------|------------|-----------------|--------------------------------|
+| **Oryx** | Imponer una forma absoluta (la Lógica de la Espada) al significado, al duelo y a la existencia | Los cinco asedios simultáneos de la Mano del Rey; mata a Lena "de paso", sin saber siquiera que el Refugio existía; estructura King's Fall como juicio con resultado predeterminado | Kyle se pregunta si es diferente de lo que Oryx era; el juicio prueba si su Luz merece prevalecer, no solo si es más fuerte |
+| **La Mano del Rey / los Poseídos** | Expandir la corrupción Tomada por el sistema solar | Asedios simultáneos e indiferentes a la escala humana — el horror no es personal, es sistémico | El costo civil de una guerra cósmica; siembra el duelo de Carina desde el primer día |
+| **La Lógica de la Espada** (fuerza filosófica, no un personaje) | Perpetuarse a través de quien derrota al rey | Convierte cada victoria limpia en validación silenciosa | El miedo de Kyle a convertirse en lo que acaba de matar — trampa que no se cierra en este libro |
+| **Malok** (hijo de Savathûn) | Sobrevivir/expandirse en Kepler | Presiona directamente a Jaden, Atheena y Carina en el frente reubicado a Part 05 | El fracaso y el exilio de Carina; siembra su patrón de "actuar sola" |
+
+## Revelaciones y misterios
+
+Cruzado con [[12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes]] (archivo nuevo,
+creado junto con este mapa) — ver ahí el detalle completo de cada entrada.
+
+| Elemento | Estado al inicio | Se siembra / revela / paga en | Quién lo sabe | Reservado para |
+|----------|--------------------|----------------------------------|-----------------|-------------------|
+| La luz verde de la Batalla de Saturno | Sembrado (Cap. 7, Prólogo) | Sembrado Cap. 7, atado a la escala real en Cap. 16 (Eirene) | Carina (ata la escala, no el nombre) | El nombre de quién se sacrificó (¿Mara?) — sin decidir |
+| El nombre "Lubrae" | Reservado, nunca dicho | No se nombra en ningún capítulo de este libro | Nadie en el elenco | Witch Queen |
+| La carta y el anillo de Lena | Sin abrir | Encontrados en Cap. 33; abiertos sin abrirse del todo | Carina (los tiene, no los lee completos) | Post Final Shape (ver `02_Characters/Lena.md`) |
+| El costo de Elsie en Eirene (fuga entre versiones) | No existe todavía | Pagado sin nombre en Cap. 18 | Elsie (nadie más) | `06_Timeline_Archives/` — línea sin decidir |
+| "Chispitas" / "Pistolera" | No existen todavía | Sembrados Caps. 15 y 27; consolidados y pagados en Cap. 32 | Kyle y Carina | Pagado dentro de este mismo libro — no cruza a libros futuros |
+| Lo que Ghost vio en el porche | No existe todavía | Sembrado en Cap. 8 (escena privada Kyle/Ghost, Kyle se hace el loco) | Ghost (Kyle no confirma haberlo notado) | Book 03 |
+
+## Decisiones y consecuencias
+
+| Decisión | Causa | Consecuencia en este libro | Consecuencia futura |
+|----------|-------|--------------------------------|--------------------------|
+| Kyle encripta el Toque de Maldad en vez de usarlo o destruirlo | La atracción real que siente hacia el poder de Oryx | No puede usar el arma; el trono de los Poseídos queda formalmente vacío | Semilla directa de [[12_Craft_Policies/revelations/SAGA_LEVEL#The Lord of Every Nothing (antagonista coda post-Final Shape)\|The Lord of Every Nothing]] |
+| Carina se infiltra sola para matar al Sacerdote de Guerra | Ajuste de cuentas personal por el Refugio del Muelle | Cierre emocional real, pero refuerza un patrón de actuar sola | Contribuye directamente a su exilio y aislamiento en Kepler (Part 05) |
+| Elsie fuerza la fuga entre sus propias versiones temporales | Sacar a Kyle y Carina con vida de Eirene | Los salva; el costo queda deliberadamente sin nombrar | Hook abierto para una pieza futura en `06_Timeline_Archives/` |
+| Kyle llama a la Primera Escuadra completa para King's Fall | El regicidio físico en el Mundo Cadáver queda incompleto | Arranca la incursión de Part 03 | — |
+| Carina no abre la caja de Lena al encontrarla | El duelo todavía no tiene forma para sostener la pregunta | Se la lleva sin decírselo a nadie | Permanece cerrada durante años — respondida recién en `Carina_Lena_PostFinalShape_LaRespuesta`, muchos libros después |
+
+## Clímax
+
+**Clímax externo:** la derrota física de Oryx en King's Fall (Cap. 30, *The Weight of a
+Wrong Answer*).
+
+**Clímax emocional:** dos, en paralelo — Carina rematando al Sacerdote de Guerra y
+despidiéndose de Kyle consolidando "Chispitas"/"Pistolera" (Cap. 27); y el reencuentro real
+Kyle/Carina tras la muerte de Oryx, que cierra la campaña como vínculo, no solo como alianza
+táctica (Cap. 32).
+
+**Clímax filosófico:** el descubrimiento, vía los Libros del Dolor, de que derrotar a Oryx
+bajo la Lógica de la Espada no lo mata — lo *valida*, y Oryx vive a través de Kyle en la
+pregunta que no puede sacudirse: *¿Soy diferente de lo que él era?*
+
+**Qué NO debe resolver:** esa misma duda (queda abierta para libros futuros); el trono
+vacío / The Lord of Every Nothing; la carta y el anillo de Lena; el costo sin nombre de
+Elsie; el arco completo de Jaden (reubicado a Book 03); la reconciliación de Carina con su
+propio exilio.
 
 ## Regla de redacción
 
@@ -131,6 +236,32 @@ Ambas pendientes de ajuste del autor.
 Todas pendientes de ajuste del autor.
 
 **Nota de ubicación (2026-07-26):** el Capítulo 1 es deliberadamente retrospectivo — su ventana temporal (House of Wolves) es anterior a toda la campaña de Taken King que ya se contó en Parts 01-04. Se coloca aquí, no en orden cronológico estricto, porque es el punto donde Jaden se vuelve protagonista real por primera vez (Movimientos V-VIII de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md`) — funciona como capítulo de origen justo antes de que el libro empiece a centrarlo, mismo recurso que ya usa el Prólogo con Carina al abrir el libro completo.
+
+---
+
+## Límites del libro
+
+- **Nunca entra en la cabeza de Jaden ni de Atheena por su cuenta** — regla dura de
+  perspectiva del libro. Los tres capítulos que la violaban se reubicaron a Book 03 el
+  2026-08-08 (ver nota de reubicación al inicio de este documento).
+- **El atraco de Mara al Mundo Trono y las escenas propias de Eris/Osiris** (la otra mitad
+  del Cluster 1 de Taken King) quedan reservadas como recuerdo retrospectivo — no se narran
+  en tiempo real en este libro; ubicación futura pendiente (King's Fall o Aftermath de un
+  libro posterior).
+- **El nombre "Lubrae" no puede aparecer en ningún capítulo** — reservado hasta Witch Queen.
+- **La carta y el anillo de Lena no se responden en este libro** — Carina los encuentra
+  (Cap. 33) pero la respuesta vive en Post Final Shape (ver `02_Characters/Lena.md`).
+- **El eco paterno completo de Kyle (lo que Ghost sabe y calla) no se explica aquí** —
+  semilla deliberada para Book 03.
+
+## Fuentes / material base
+
+Cruce completo capítulo por capítulo en [`01_Source_Index.md`](01_Source_Index.md). Fuentes
+de diseño: `09_Roadmaps/Plan_Book02_TheKingOfShapes.md` (triage original),
+`09_Roadmaps/Plan_TakenKing_Parte1.md`, `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`,
+`09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`. Escenas fuente principales en
+`05_Dialogues/Dialogue_Carina/`, `05_Dialogues/Dialogue_Guardian/` y
+`05_Dialogues/RenacimientosGuardianes/`.
 
 ---
 
