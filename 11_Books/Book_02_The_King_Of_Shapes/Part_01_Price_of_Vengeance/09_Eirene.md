@@ -54,7 +54,7 @@ Los restos estaban en el borde del puerto — fragmentos de casco, demasiado gra
 
 —¿Qué batalla?
 
-—La de la Reina. —El técnico se encogió de hombros, la clase de gesto de alguien que había escuchado la historia de segunda mano tantas veces que ya no la sentía como noticia—. Dicen que la flota entera casi cae. Dicen que ella se ofreció a algo, sola, para salvar al resto. Nadie sabe muy bien qué fue "algo." Solo que después de esa noche, dejó de haber una Reina a la que reportarle a nadie en el Arrecife.
+—Nadie se pone de acuerdo en el nombre. —El técnico se encogió de hombros, la clase de gesto de alguien que había escuchado la historia de segunda mano tantas veces que ya no la sentía como noticia—. Dicen que la flota entera casi cae. Dicen que alguien al mando se ofreció a algo, solo, para salvar al resto. Nadie sabe muy bien qué fue "algo." Solo que después de esa noche, el Arrecife entero se quedó sin nadie claro a quién reportarle, una temporada.
 
 Carina se quedó mirando los restos un momento largo, algo frío asentándose en su pecho que no tenía nada que ver con el aire de Eirene.
 
@@ -70,7 +70,7 @@ Hornet cruzó la fecha contra sus propios registros, y el silencio que siguió l
 
 Carina no dijo nada durante un momento.
 
-No había forma de haberlo sabido entonces. No había forma de haber conectado un punto de luz agonizante en el cielo con una reina sacrificándose a un sistema entero de distancia, la misma noche en que ella y Lena hablaban de estrellas sin saber que ya estaban mirando una guerra. Hornet ya le había dicho, el día que Lena murió, que "algo enorme" había entrado al sistema — un dato abstracto, de segunda mano, algo que aceptar y seguir adelante. Esto era distinto. Esto era pararse, en carne propia, sobre los restos de lo que esa luz había sido, y entender, de una vez, la escala real de lo que ya estaba pasando aquella noche mientras ella todavía tenía a alguien y no lo sabía.
+No había forma de haberlo sabido entonces. No había forma de haber conectado un punto de luz agonizante en el cielo con alguien sacrificándose a un sistema entero de distancia, la misma noche en que ella y Lena hablaban de estrellas sin saber que ya estaban mirando una guerra. Hornet ya le había dicho, el día que Lena murió, que "algo enorme" había entrado al sistema — un dato abstracto, de segunda mano, algo que aceptar y seguir adelante. Esto era distinto. Esto era pararse, en carne propia, sobre los restos de lo que esa luz había sido, y entender, de una vez, la escala real de lo que ya estaba pasando aquella noche mientras ella todavía tenía a alguien y no lo sabía.
 
 —Vámonos de aquí —dijo, al fin, la voz más apretada de lo que pretendía—. Nos necesitan del otro lado del puerto.
 
@@ -330,4 +330,4 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 **Regla dura protegida:** cero lenguaje de "matar/derrotar definitivamente" a Oryx — la escena nunca lo nombra como derrotado, solo como una presión que respondió con más presión. El reclamo dormido de Kyle no aparece en ningún momento de este capítulo.
 
-**Cierre deliberadamente sin nombre:** el capítulo termina antes de que nadie llame al mundo nuevo "Lubrae" — ese nombre queda vetado de la prosa hasta Witch Queen, per `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "El nombre que no se dice". El Capítulo 17 abre con los tres ya del otro lado, procesando lo que acaban de perder, antes de que alguien necesite ponerle nombre a lo que queda.*
+**Cierre deliberadamente sin nombre:** el capítulo termina antes de que nadie llame al mundo nuevo por su nombre real — ese nombre queda vetado de la prosa hasta Witch Queen, per `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "El nombre que no se dice" (ver también `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`). El Capítulo 17 abre con los tres ya del otro lado, procesando lo que acaban de perder, antes de que alguien necesite ponerle nombre a lo que queda.*

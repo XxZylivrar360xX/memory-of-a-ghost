@@ -12,18 +12,23 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** la "luz verde opaca y agonizante" que Carina y Lena ven desde la azotea de la
   clínica al cierre del Prólogo (Cap. 7) — sin saber qué es.
 - **Se revela en:** sembrado en Cap. 7 (*The Last Line in the Ledger*); atado a su escala
-  real en Cap. 16 (*Eirene*) — Carina descubre restos de la flota y relatos de sobrevivientes
-  cruzando la misma zona, y conecta la luz con lo que ya estaba pasando esa noche.
-- **Quién ya lo sabe (desde cuándo):** Carina, desde el Cap. 16 — pero solo la **escala**,
-  no el nombre de quién estaba involucrado.
-- **Quién NO debe saberlo/insinuarlo todavía:** nadie ha confirmado si Carina llega a saber
-  que fue Mara quien se sacrificó esa noche — **pendiente de decidir con el autor** (ver
+  real en Cap. 16 (*Eirene*) — Carina descubre restos de la flota y un rumor anónimo de la
+  Batalla, y conecta la luz con lo que ya estaba pasando esa noche.
+- **Quién ya lo sabe (desde cuándo):** Carina, desde el Cap. 16 — pero solo la **escala**
+  (que alguien de mando se sacrificó por la flota), no el nombre de quién.
+- **Quién NO debe saberlo/insinuarlo todavía:** nadie debe nombrar o insinuar que fue Mara
+  específicamente — reservado, sin decidir con el autor (ver
   `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, sección "Carina paga la luz
   verde del Prólogo").
+- **Corrección aplicada (auditoría de Codex, 2026-08-09):** el Cap. 16 decía originalmente
+  "la de la Reina" y "una reina sacrificándose" — identificaba a Mara con demasiada
+  precisión para lo que este ledger permitía. Suavizado a rumor anónimo de la flota/Arrecife
+  ("alguien al mando se ofreció a algo") por decisión explícita del autor.
 - **Foreshadowing ya sembrado:** Cap. 7 (la luz vista sin explicación).
 - **Líneas o gestos prohibidos antes del reveal:** ningún personaje debe nombrar a Mara como
   la responsable del sacrificio hasta que el autor decida si ese nombre llega a saberse.
-- **Estado:** parcial — la escala está pagada, el nombre propio sigue abierto.
+- **Estado:** parcial — la escala está pagada de forma anónima, el nombre propio sigue
+  cerrado.
 
 ---
 
