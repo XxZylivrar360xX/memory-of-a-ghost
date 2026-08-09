@@ -8,6 +8,8 @@
 
 ---
 
+El Santuario se abría en una cámara circular tallada a una escala que hacía sentir pequeño a cualquiera que entrara — columnas de hueso fusionado ascendiendo hacia una oscuridad que el techo apenas insinuaba, dos plataformas talladas a los costados marcadas con símbolos que latían con la misma luz enferma del resto del Acorazado, y en el centro, inmóvil, la silueta encorvada del Sacerdote de Guerra, esperando.
+
 El Santuario no ofrecía dos pruebas separadas. Ofrecía una sola, doblada sobre sí misma.
 
 Los Tótems seguían ahí, a ambos lados de la cámara, exigiendo que alguien permaneciera. El Sacerdote de Guerra seguía ahí también, en el centro, exigiendo glifos leídos y confirmados con precisión de organismo. Pero el diseño de Oryx no los había separado por generosidad. Los había fusionado por crueldad: fallar cualquiera de las dos pruebas no costaba una posición ni un intento.
@@ -100,7 +102,7 @@ Era una cuenta que llevaba semanas sin cerrar.
 
 El Sacerdote de Guerra que caía en esta cámara llevaba la misma insignia, la misma voz de mando, el mismo lugar en la jerarquía de Oryx que había dirigido la invasión Poseída que llegó al Refugio del Muelle, días después de que Lena muriera, dentro del mismo Frente Tierra que Elsie había visto cerrarse desde el Arrecife. Para Carina, eso bastaba.
 
-Encontró un ángulo alto, fuera de la línea de visión del resto del equipo, y esperó.
+Encontró un ángulo alto, fuera de la línea de visión del resto del equipo, agazapada entre dos columnas donde la sombra del techo abovedado la cubría por completo, el arco ya montado, y esperó.
 
 ## V. The Opening
 
@@ -158,3 +160,5 @@ El equipo, completo otra vez, se reagrupó frente al camino que seguía hacia Go
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Carina]], [[02_Characters/Resner]], [[02_Characters/Tiago]], [[02_Characters/Kevin]], [[02_Characters/Angie]], [[02_Characters/Joe]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_02_LosTotems]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_03_ElSacerdote]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_03_Resner]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/03_Everything_Power_Leaves_Behind]]*
 
 *Nota narrativa: Capítulo 27 del libro (Capítulo 2 de Part 03), "The Ones Who Stayed", fusiona `Guardian_Equipo_KingsFall_02_LosTotems` y `Guardian_Equipo_KingsFall_03_ElSacerdote` en un solo encuentro compuesto (Secciones I-III, mecánica simultánea con riesgo de wipe compartido, al estilo Pantheon), preservando ambas tesis originales casi verbatim: la de Resner ("aguantar es la acción", Sección II) y la primera grieta de la jerarquía sin fundamento (Sección III). Suma material enteramente nuevo (Secciones IV-VI) siguiendo el diseño fijado en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`: Carina se infiltra por separado —no es parte del fireteam formal de seis— y remata al Sacerdote de Guerra con Shadowshot como ajuste de cuentas personal por la invasión que llegó al Refugio del Muelle tras la muerte de Lena (Cap. 10). La escena de despedida sigue los seis beats fijados por el autor: diálogo breve, broma de entrada, apretón de manos, "hasta pronto" sin certeza, mención de Aspect of Glass y la frontera de Sol, y la línea de cierre "Kyle, no lo dejes escapar esta vez" — reinterpretada explícitamente (no como despedida final, sino como "ya te salvé una vez, ahora termina la tarea"). Carina no llega a llanto ni cierre emocional completo aquí —eso queda reservado para la escena nueva del reencuentro tras la muerte real de Oryx (Cap. 32) y, más adelante, Felwinter's Peak. Regla dura respetada: Carina no participa en Golgoroth, las Hijas ni Oryx — se transmatea de vuelta a la Torre al cierre de este capítulo, coherente con `Carina_Lena_KingsFall_SeisMesesEnFragmentos` (sin tocar, Cap. 32).*
+
+*Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):* anclado el Santuario al abrir (columnas de hueso fusionado, plataformas talladas, el Sacerdote inmóvil esperando) — antes el capítulo entraba directo a la mecánica de la prueba sin espacio propio. Añadida posición física concreta a la emboscada de Carina (agazapada entre columnas, en sombra, arco montado) en vez de solo "esperó". El resto del capítulo (los beats de Resner/Kyle sosteniendo los tótems, la secuencia de glifos) ya tenía textura física suficiente por diseño — no se tocó. Ningún diálogo ni hecho de canon se modificó.*
