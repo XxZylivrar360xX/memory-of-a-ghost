@@ -92,7 +92,7 @@ Kyle sintió algo que era simultáneamente incómodo y correcto — la confirmac
 
 —Pero si sus reglas son las que gobiernan cómo funciona el poder en este universo...
 
-—Las reglas de la Espada dicen que el más fuerte tiene derecho a todo. Las reglas del Viajero dicen que la fuerza debe proteger. —Pausa—. Ni Oryx ni el Viajero terminan de tener razón. Los dos son sistemas que alguien construyó para justificar lo que ya hacía de todas formas.
+—Las reglas de la Espada dicen que el más fuerte tiene derecho a todo. Las reglas del Viajero dicen que la fuerza debe proteger. —Pausa—. No sé cuál de las dos es más cierta. Sé que las dos existen porque alguien necesitaba una regla antes de seguir haciendo lo que ya iba a hacer.
 
 Kyle la miró.
 
@@ -358,8 +358,6 @@ Elsie lo miró.
 
 No necesitaba hacerlo.
 
-La diferencia entre Kyle y Oryx no era el poder. No era la filosofía. Era que Kyle se había detenido a preguntar. Oryx había construido un universo entero para no tener que hacerlo.
-
 —¿Sabes lo que más me molesta? —dijo Kyle, después de un momento.
 
 Elsie esperó.
@@ -396,3 +394,5 @@ Esta noche había sido suficiente.
 *Conecta con: [[08_Core_Relationships/Guardian_Elsie_Bray]], [[02_Characters/Guardian]], [[02_Characters/Elsie]], [[02_Characters/Ghost]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostKingsFall]], [[05_Dialogues/Dialogue_Guardian/Guardian_PostKingsFall]], [[05_Dialogues/Dialogue_Guardian/Guardian_Elsie_PostKingsFall_ElToqueDelaMaldad]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/05_The_Weight_Of_A_Wrong_Answer]], [[11_Books/Book_02_The_King_Of_Shapes/Part_04_The_Rightful_Pretender/02_Six_Months_In_Fragments]]*
 
 *Nota narrativa: Capítulo 31 del libro (Capítulo 1 de Part 04), "The Touch of Malice", adapta las tres fuentes que le corresponde según `01_Source_Index.md` — `Guardian_PostKingsFall` (versión con interioridad completa, usada como base de las Secciones I-III, en vez de la versión conjunta más corta `Guardian_Elsie_PostKingsFall`, redundante con la misma escena) y `Guardian_Elsie_PostKingsFall_ElToqueDelaMaldad` (Secciones IV-VII), casi verbatim ambas. Único añadido real: el párrafo de apertura, que ancla el capítulo al cierre exacto del Cap. 30 (Carina poniéndose de pie en la Torre mientras Kyle todavía no ha vuelto del todo), y el puente temporal al abrir la Sección IV ("la noche siguiente"), que estas dos fuentes ya establecían por separado como noches distintas.*
+
+*Calibración de voz (auditoría de Codex, 2026-08-09 — marcado como el ajuste más importante del pase): el capítulo acumulaba demasiadas conclusiones filosóficas cerradas en boca de Elsie y en narración omnisciente. Dos recortes: la línea de Elsie sobre la Espada y el Viajero ya no cierra con "los dos son sistemas que alguien construyó para justificar lo que ya hacía de todas formas" — queda como pregunta sin resolver, no como tesis. Y se eliminó la línea de narrador "La diferencia entre Kyle y Oryx no era el poder... Oryx había construido un universo entero para no tener que hacerlo", que además contradecía el beat inmediatamente anterior ("Él no terminó el pensamiento en voz alta. No necesitaba hacerlo.") explicando en la frase siguiente exactamente lo que se acababa de decir que no hacía falta explicar. El resto del capítulo (la acción concreta de cifrar el arma en vez de destruirla o quedársela) se dejó sin tocar — es donde la diferencia entre Kyle y Oryx debe vivir.*

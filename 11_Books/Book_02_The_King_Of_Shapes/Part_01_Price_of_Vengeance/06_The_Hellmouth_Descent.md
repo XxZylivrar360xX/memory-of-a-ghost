@@ -496,11 +496,13 @@ Kyle no lo negó.
 
 —¿No lo es?
 
-—No. —Elsie lo dijo sin suavizarlo, la misma honestidad no calculada que él había aprendido a esperar de ella y que en nadie más encontraba—. Culpa es sentir que hiciste algo mal. Tú no hiciste nada mal matando a Crota. Lo que estás cargando es otra cosa: la sensación de que, si tus acciones tienen consecuencias que no puedes controlar, entonces tienes que ser tú quien las resuelva todas, sin excepción, sin ayuda, sin descanso.
+—No. —Elsie lo dijo sin suavizarlo, la misma honestidad no calculada que él había aprendido a esperar de ella y que en nadie más encontraba—. Culpa es sentir que hiciste algo mal. Tú no hiciste nada mal matando a Crota.
 
-Kyle se quedó en silencio, la frase aterrizando en un lugar que no esperaba que aterrizara tan directo.
+No completó el pensamiento. Lo dejó ahí, abierto, y esperó a ver si él llegaba solo al resto.
 
-—Eso suena a algo más grande que solo esta guerra.
+Kyle llegó. No en voz alta — en el silencio que siguió, algo se le ordenó por dentro con una claridad que no había pedido: que lo que cargaba no era culpa, sino la sensación de que, si sus acciones tenían consecuencias que no podía controlar, entonces tenía que ser él quien las resolviera todas. Sin excepción. Sin ayuda. Sin descanso.
+
+—Eso suena a algo más grande que solo esta guerra —dijo, al fin.
 
 —Probablemente lo es.
 
@@ -516,7 +518,7 @@ Elsie no respondió de inmediato. No porque no supiera qué decir, sino porque l
 
 —¿Por qué lo preguntas?
 
-—No sé qué pensaba Oryx antes de esto. —Kyle miró el fuego, sin verlo del todo—. Pero lo que veo ahora es alguien que decidió que su manera de arreglar las cosas es la única que cuenta. Y no puedo dejar de preguntarme cuánto de eso empieza igual que como empiezo yo: pensando que si no lo arreglo yo, nadie más lo va a hacer.
+—No sé qué pensaba Oryx antes de esto. —Kyle miró el fuego, sin verlo del todo—. Pero maté a Crota porque tenía que hacerlo, y ahora hay gente muriendo en todo el sistema que ni siquiera sabe que existo. No sé cómo se llega de ahí a esto. Solo sé que él llegó, y que yo sigo pensando que si no lo arreglo yo, nadie más lo va a hacer.
 
 —No se lo preguntarías a la Vanguardia.
 

@@ -3356,3 +3356,17 @@ Preparado el encargo en `99_Reference/Agent_Notes/claude-code/2026-08-09_encargo
 El autor corrigió el alcance del encargo anterior: quiere calibrar el libro *The King of Shapes*, no el corpus disperso de `05_Dialogues/`. La nota anterior (`2026-08-09_encargo-calibracion-dialogo-6-fichas-voz.md`) se marcó `status: descartado` sin borrarla — nunca llegó a entregarse — y se reemplazó por `2026-08-09_encargo-calibracion-dialogo-book02.md`.
 
 Rediseñado como una sola pasada por el libro completo (Prólogo → Part 05) en vez de seis relecturas por personaje: en cada escena, contrastar contra los checklists "Lo que nunca dice" de los 9 personajes que aparezcan. Dos prioridades altas mantenidas: el registro cronológico de Carina (bisagra exacta en el Cap. 10, cuando muere Lena — encaja mejor con el alcance de Book 02 que con `05_Dialogues/`, que mezcla eras) y las líneas prohibidas de Oryx concentradas en sus capítulos (9, 17, 23-25, 26-30).
+
+## [2026-08-09] calibración aplicada | Book 02 — 5 ajustes de voz sobre 4 capítulos
+
+Codex entregó la auditoría (`99_Reference/Agent_Notes/codex/2026-08-09_calibracion-dialogo-book02.md`): Carina, Hornet y Oryx calibrados sin ajuste; Ana y Sai sin aparición dialogada en el libro; 5 hallazgos reales concentrados en Elsie, Ghost y Kyle, ninguno bloquea canon. El autor pidió aplicarlos directamente en vez de dejarlos para el pase manual.
+
+**Cap. 13 (Hellmouth Descent):** el diagnóstico completo de la culpa de Kyle deja de salir de la boca de Elsie — ella dice solo la primera distinción, el resto lo articula Kyle solo, en silencio. La línea que comparaba explícitamente el origen de Kyle con el de Oryx se reemplazó por un miedo más concreto y menos simétrico.
+
+**Cap. 21 (Map of Guilt):** Ghost ya no nombra la lógica emocional completa del manipulador, solo confirma el patrón concreto más su propio temor. Elsie desplaza "amor" de fórmula explicativa a una sola palabra difícil, con el centro en datos (rutas, frentes, costo). **No se tocó** la línea guionada de Kyle ("la está usando para moverme") — confirmada como beat literal del checklist de diseño del 2026-07-19, documentada como excepción deliberada para que no se vuelva a marcar en auditorías futuras.
+
+**Cap. 31 (Touch of Malice) — el ajuste más importante del pase:** recortada la línea de Elsie sobre la Espada y el Viajero a pregunta sin resolver; eliminada por completo la línea de narrador que explicaba la diferencia Kyle/Oryx, porque contradecía su propio beat anterior ("no necesitaba hacerlo" seguido, en la frase siguiente, de la explicación completa). La acción concreta del capítulo (cifrar el arma) queda intacta como el verdadero lugar donde vive esa diferencia.
+
+**Prólogo, Cap. 6 (Thread That Brings You Back):** el intercambio "no tienes que diagnosticarme" — la palabra exacta que la ficha de Lena prohíbe — se corrigió a una acusación anclada en conducta observable ("estoy mirando lo que acabas de hacer").
+
+Cada capítulo tocado recibió su propia nota "Calibración de voz" en el footer. Cerrado el hilo con Codex en `99_Reference/Agent_Notes/claude-code/2026-08-09_integracion-calibracion-dialogo-book02.md` (`status: resuelto`).
