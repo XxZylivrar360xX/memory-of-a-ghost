@@ -1,8 +1,8 @@
 # Sai
 *Destiny: Renewed Fate — Ficha de Personaje*
 
-**Raza:** Awoken
-**Nombre completo:** Saiidris Thelis, *la lectora del Plano* — "Sai" es el diminutivo; el nombre entero solo lo usa Elsie, y solo en los momentos que son de las dos
+**Raza:** Mestiza — mitad Awoken, mitad humana (ver "Origen — la niña del Refugio")
+**Nombre completo:** Sainastia, *la lectora del Plano* — fusión de sus dos mitades, Awoken ("Sai") y humana ("Nastia"); "Sai" es el diminutivo de uso diario. El nombre entero tiene dos registros distintos: Elsie lo usa en lo ritual, en los momentos que son solo de las dos; Carina —que la conoció mucho antes, sin saber quién sería— lo recibe después, no como intimidad ganada sino como reconocimiento (ver "Los nombres")
 **Rol:** La más joven del aquelarre de las Techeun de Mara Sov — lectora del Plano Ascendente
 **Espectro:** Ninguno (no es Guardiana; su don es propio, no paracausal-Luz)
 **Estado:** Viva — en recuperación con las Techeun tras ser rescatada del Plano; entra en la órbita de la familia elegida de Kyle y Elsie
@@ -12,7 +12,7 @@
 
 ## Apariencia
 
-Awoken. Aparenta diecinueve años — o los que aparente una Awoken que parece de diecinueve y ha estado mucho más lejos de casa de lo que esa edad debería permitir. La piel no es el azul espectral de las Techeun mayores: es un tono vivo entre el lila y el rosa, más cálido, con algo de sangre debajo — una Awoken que se ve menos hecha de otro mundo y más a punto de seguir siendo de este. Y los ojos terminan de inclinarla hacia lo humano: verde esmeralda con leves vetas de café, sin la luz interna que las otras Awoken llevan detrás de la mirada. Ojos de humana. Es lo que más desconcierta al aquelarre y lo que ella no sabe explicar: como si el Plano, al casi borrarla, la hubiera arrastrado un paso de vuelta hacia la humana de la que su pueblo descendió, y la hubiera soltado otra vez de este lado — diferente, no cambiada. Aun así, según la inclinación de la cabeza, sigue pareciendo o muy niña o muy antigua, sin término medio.
+Awoken. Aparenta diecinueve años — o los que aparente una Awoken que parece de diecinueve y ha estado mucho más lejos de casa de lo que esa edad debería permitir. La piel no es el azul espectral de las Techeun mayores: es un tono vivo entre el lila y el rosa, más cálido, con algo de sangre debajo — una Awoken que se ve menos hecha de otro mundo y más a punto de seguir siendo de este. Y los ojos terminan de inclinarla hacia lo humano: verde esmeralda con leves vetas de café, sin la luz interna que las otras Awoken llevan detrás de la mirada. Ojos de humana — porque literalmente lo es, a medias: heredados del padre que nunca conoció, no del Plano. Durante años el aquelarre lo achacó al casi-borrado, la explicación disponible más a mano; nadie ahí sabía que había una más simple y más vieja, escrita en su sangre desde antes de que leyera el Plano por primera vez. Aun así, según la inclinación de la cabeza, sigue pareciendo o muy niña o muy antigua, sin término medio.
 
 El pelo la delata antes que nada. Era oscuro —el azul-negro de su pueblo— hasta el Plano. El casi-borrado se lo quemó por dentro: ahora lo cruzan mechones sin color, blanco-ceniza, como si algunas hebras hubieran envejecido siglos mientras el resto siguió teniendo diecinueve. No es plata de bruja ni canas de vieja; es una decoloración a parches, irregular, en los sitios exactos por donde el Plano la estaba gastando cuando Elsie la alcanzó. La herida que no se le ve por dentro se le ve ahí, vuelta rasgo.
 
@@ -31,6 +31,22 @@ Sai es honesta de la forma específica en que solo es honesta la gente muy joven
 Entró al aquelarre de Mara demasiado pronto, llevada por un don que llegó antes que la madurez para cargarlo. Es la más joven de las Techeun, y eso la coloca en el lugar incómodo de ser, a la vez, indispensable por lo que ve y vulnerable por lo poco que ha vivido.
 
 Lo que la define no es la fragilidad. Es que sigue *queriendo* a pesar de ella — pregunta por la gente, se aferra, busca un sitio al cual pertenecer. Estuvo a punto de ser borrada y salió, no más cerrada, sino con más hambre de quedarse.
+
+---
+
+## Origen — la niña del Refugio
+
+Antes de Sai hubo **Nastia**, en el Refugio del Muelle, a orillas de un lago cerca del Viejo Chicago. Nunca conoció a sus padres — llegó al Refugio ya sin ellos, y no guarda memoria de ninguno de los dos, solo de haber crecido ahí. Lo que se sabe de ellos se sabe de oídas y a medias: una madre Awoken cuyo nombre hasta la propia Mara Sov ha olvidado, de la generación de la reina madre de Mara; un padre humano sin nombre conocido, de la época de la Batalla de los Seis Frentes. Ninguno de los dos llegó a formar parte de su vida — la mitad Awoken y la mitad humana le llegaron como herencia en la sangre, no como historia contada.
+
+Creció bajo el ala de [[02_Characters/Teodor|Teodor]] y, sobre todo, de Lena — la médica del Refugio que la vendaba, la regañaba con cariño por las historias exageradas de pesca, y a la que Nastia quería con la clase de amor absoluto que solo tienen los niños por el primer adulto que los cuidó bien. Ahí, de niña, conoció también a la Guardiana que llegaba de visita cada tanto: le pedía que le curara el conejo, y ninguna de las dos sabía todavía que ese sería el primer capítulo de una historia que tardaría años en continuar (ver [[08_Core_Relationships/Carina_Lena]] y [[02_Characters/Carina]]).
+
+La muerte de Lena durante Taken King le dejó su primera pérdida real — la primera vez que Nastia entendió que a la gente que se ama se la puede perder sin ceremonia ni aviso. El Refugio siguió en pie, y ella siguió ahí, creciendo, años después de que Carina se marchara rumbo a Kepler.
+
+El don del Plano empezó a manifestarse solo, sin que nadie se lo enseñara — y con él llegó el peligro: llamó la atención tanto de Mara Sov como, de forma mucho más siniestra, de los Dredgen que ya rondaban la cautela post-Dredgen del pueblo (ver [[02_Characters/Teodor]]). Para sacarla de ese riesgo, Mara envió a **Petra Venj** por ella durante Forsaken — coincidiendo con la reconstrucción del aquelarre tras Last Wish, con Shuro Chi, Sedia y Kalli recién liberadas de la posesión de Riven como sus primeras maestras. Nastia entró como aprendiz, y el aquelarre, con el tiempo, terminó por llamarla de otra forma.
+
+No hay nada borrado ni reprimido: Sai recuerda su infancia entera, el Refugio, el conejo, a Lena, a Teodor. Lo único que nunca tuvo fue a sus padres — no porque se lo hayan quitado, sino porque nunca llegó a tenerlos.
+
+El reencuentro con la Guardiana que le curó el conejo llega mucho después, ya crecida — ver [[09_Roadmaps/Plan_Sai_Nastia_Origen]] para el diseño completo de ese momento.
 
 ---
 
@@ -74,6 +90,8 @@ Eso la vuelve mirror de los dos polos de su nueva familia: el don que aísla (El
 
 **Ghost — el que sabe.** Ghost conoce el origen del eco de Kyle (la niña bajo el árbol, [[05_Dialogues/RenacimientosGuardianes/Kyle_ElDespatar]]) y calla. Sai, que lee lo invisible, es **el único ser capaz de rozar lo que Ghost carga.** Esa tensión se paga en [[05_Dialogues/Dialogue_Sai/Sai_Ghost_Plunder_LaMascaraQueNoLee|La Máscara Que No Lee]] (Season of Plunder): ella lo roza de verdad, en el Festival de las Almas Perdidas, y es ahí —no antes— donde practica su defecto ya en corrección, aprendiendo a no terminar de leer a alguien que no está listo.
 
+Hay una cuarta persona que la conoció antes que estos tres, sin que ninguna de las dos supiera todavía lo que llegarían a ser una para la otra — ver "Origen" arriba y [[02_Characters/Carina]].
+
 ---
 
 ## Los nombres
@@ -82,13 +100,15 @@ Cómo la llaman —y cómo llama ella— dice quién es cada quién para el otro
 
 **Hacia Sai:**
 - **Kyle → "niña".** Su palabra, la que le sale con la aspereza tierna de un padre que no sabe decir las cosas blandas de frente.
-- **Elsie → "norte chiquito"** en lo cotidiano — inversión de su *"yo soy el norte"* de [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene|Lo Que Sostiene]] — y, en los momentos que son solo de las dos, **el nombre completo: "Saiidris".** En su boca el nombre entero no es regaño: es la forma más honda en que la nombra.
+- **Elsie → "norte chiquito"** en lo cotidiano — inversión de su *"yo soy el norte"* de [[05_Dialogues/Dialogue_Elsie/Elsie_Sai_SeasonLost_LoQueSostiene|Lo Que Sostiene]] — y, en los momentos que son solo de las dos, **el nombre completo: "Sainastia".** En su boca el nombre entero no es regaño: es la forma más honda en que la nombra.
 
 **De Sai:**
 - **A Elsie → "norte" / "mi norte"** en lo cotidiano (la que la orienta, el punto fijo que no se mueve — maternal sin decir "mamá"); y **"Elizabeth"** en lo sagrado, el reverso más cargado: "Elizabeth" es el nombre verdadero que Elsie le entregó a una sola persona en la existencia, Kyle (ver [[06_Timeline_Archives/Bray_Legacies/Elizabeth_Antes]]). Que Sai pueda devolvérselo significa que Elsie dio su nombre real a **dos** seres — su esposo y su hija. El mismo ritual que Elsie, en la dirección contraria.
 - **A Kyle → "lobito"** en lo cotidiano: Saladin lo nombró Señor de Hierro ([[02_Characters/Guardian|ficha de Kyle]], Rise of Iron) y es el más joven de ellos —los demás murieron con SIVA—, así que es el lobo más joven de la manada. El diminutivo ablanda al Señor de Hierro, que es justo lo que hace la intimidad.
 
-**La asimetría que importa:** Sai esconde a una mujer entera bajo el diminutivo (Saiidris), y Elsie también (Elizabeth). Kyle no. Kyle no tiene un nombre sagrado oculto porque "Kyle" ya es el nombre que él mismo eligió desde el cero, sin un antes que enterrar. Por eso, con él, el registro más hondo no es un nombre secreto: es "papá", o el silencio.
+**La asimetría que importa:** Sai esconde a una mujer entera bajo el diminutivo (Sainastia), y Elsie también (Elizabeth). Kyle no. Kyle no tiene un nombre sagrado oculto porque "Kyle" ya es el nombre que él mismo eligió desde el cero, sin un antes que enterrar. Por eso, con él, el registro más hondo no es un nombre secreto: es "papá", o el silencio.
+
+**Un tercer registro, más tardío.** Carina no recibe "Sainastia" como ritual — no repite el gesto de Elsie —, sino como reconocimiento: la primera vez que Sai se lo dice es la primera vez que Carina entiende, del todo, a quién tiene enfrente. No compite con lo que el nombre significa entre Sai y Elsie; es otra puerta a la misma casa, abierta mucho después y por una razón distinta (ver [[09_Roadmaps/Plan_Sai_Nastia_Origen]]).
 
 El círculo de intimidad más estrecho del vínculo: gente que se da el nombre que no le da a nadie más. El origen de estos ritos está en dos escenas hermanas, separadas a propósito porque son dos registros distintos del mismo miedo a ser un reemplazo:
 - [[05_Dialogues/Dialogue_Sai/Sai_Guardian_Risen_ElLoboMasJoven|El Lobo Más Joven]] (Kyle↔Sai, Season of the Risen) — Sai lo lee buscando el nombre enterrado bajo el suyo y no encuentra nada (Kyle se construyó desde cero, sin un antes que esconder); ese cero, junto al espejo de Saladin (fortaleza vs. cabaña), le muestra que lo que Kyle esconde no es un secreto, es una casa. En vez de desenterrar un secreto, *da* uno pequeño: "lobito". Kyle resiste ("lobo joven") antes de aceptarlo con el tiempo; le devuelve "niña".
@@ -118,4 +138,4 @@ Y la regla de oro del triángulo: nadie la superpone. Ni Elsie a la otra Sai, ni
 
 ---
 
-*Conecta con: [[02_Characters/Elsie]], [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Mara_Sov]], [[02_Characters/Petra_Venj]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Saberes_Heredados]], [[06_Timeline_Archives/Alternate_Allies/Sai_ElCirculoDelDolor]], [[00_Biblia/La_Pregunta_Central]], [[08_Core_Relationships/Guardian_Elsie_Bray]]*
+*Conecta con: [[02_Characters/Elsie]], [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Mara_Sov]], [[02_Characters/Petra_Venj]], [[02_Characters/Carina]], [[02_Characters/Teodor]], [[08_Core_Relationships/Carina_Lena]], [[09_Roadmaps/Plan_Sai_Nastia_Origen]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Saberes_Heredados]], [[06_Timeline_Archives/Alternate_Allies/Sai_ElCirculoDelDolor]], [[00_Biblia/La_Pregunta_Central]], [[08_Core_Relationships/Guardian_Elsie_Bray]]*

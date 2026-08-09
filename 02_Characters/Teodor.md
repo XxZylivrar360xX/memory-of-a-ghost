@@ -12,6 +12,8 @@ Sufre en silencio la cautela post-Dredgen del pueblo — vecinos que cambian de 
 
 Le promete a Nastia enseñarle a pescar "de verdad" el año siguiente, cuando los brazos ya no le queden cortos para la caña buena (`11_Books/Book_02_The_King_Of_Shapes/00_Prologue/07_The_Last_Line_In_The_Ledger.md`).
 
+**Nota de continuidad (2026-08-09).** Nastia crece en el Refugio bajo su cuidado hasta Forsaken (Age VI), cuando Petra Venj se la lleva al Arrecife —sus dones del Plano ya llamaban la atención de Mara y de los Dredgen— para entrar al aquelarre reconstruido de las Techeun. Se convierte, años después, en [[02_Characters/Sai]]. Ver [[09_Roadmaps/Plan_Sai_Nastia_Origen]] para el diseño completo; pendiente decidir si hay escena propia de despedida entre Teodor y Nastia.
+
 ---
 
-*Conecta con: [[02_Characters/Carina]], [[02_Characters/Lena]], [[08_Core_Relationships/Carina_Lena]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/03_The_Wound_That_Would_Not_Close]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Arithmetic_Of_Staying]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/07_The_Last_Line_In_The_Ledger]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]]*
+*Conecta con: [[02_Characters/Carina]], [[02_Characters/Lena]], [[02_Characters/Sai]], [[08_Core_Relationships/Carina_Lena]], [[09_Roadmaps/Plan_Sai_Nastia_Origen]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/03_The_Wound_That_Would_Not_Close]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/05_The_Arithmetic_Of_Staying]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/07_The_Last_Line_In_The_Ledger]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]]*
