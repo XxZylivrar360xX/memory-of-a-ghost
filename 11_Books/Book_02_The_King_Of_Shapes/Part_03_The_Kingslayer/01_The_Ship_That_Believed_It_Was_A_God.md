@@ -69,7 +69,7 @@ Entraron.
 ---
 
 *Pilares activos: [[04_Concepts/Hope|Esperanza]], [[04_Concepts/Identity|Identidad]]*
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/07_Always_Eager_To_Die]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/02_The_Ones_Who_Stayed]], [[00_Biblia/KingsFall_HerenciaOculta]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/07_Always_Eager_To_Die]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/02_Everything_That_Isnt_Solid_Ground]], [[00_Biblia/KingsFall_HerenciaOculta]]*
 
 *Nota narrativa: Capítulo 26 del libro (Capítulo 1 de Part 03), "The Ship That Believed It Was a God", adapta completo `Guardian_Equipo_KingsFall_01_LaEntrada`, casi verbatim. Único añadido real: el párrafo de apertura, que ancla la transición directa desde el cierre del Cap. 25 (el instante exacto en que la escuadra cruza el umbral mientras Oryx se queda solo con Savathûn ya idos) y un párrafo en la Sección II que conecta explícitamente la intención de Joe con su origen real en el desgaste fragmentado del Frente 2 de Guerra de los Poseídos — ya presente como nota de viñeta en la fuente, aquí llevado a la prosa del capítulo. Abre Part 03 — The Kingslayer.*
 

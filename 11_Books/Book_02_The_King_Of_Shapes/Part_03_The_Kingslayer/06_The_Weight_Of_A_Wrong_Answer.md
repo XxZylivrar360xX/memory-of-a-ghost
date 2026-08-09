@@ -1,4 +1,4 @@
-# Chapter 30 — The Weight of a Wrong Answer
+# Chapter 31 — The Weight of a Wrong Answer
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 03: The Kingslayer*
 
@@ -111,6 +111,40 @@ Resner cubría con el cuerpo. Angie ya estaba moviéndose antes de que el primer
 Cuando el polvo se asentó, Oryx ya no estaba en el centro de la cámara.
 
 Y tampoco estaba ninguno de ellos en el mismo lugar que antes.
+
+La cámara se había cerrado sobre cada uno por separado — seis domos de energía poseída, cada uno sellando a un solo Guardian en una oscuridad privada que no compartía nada con la de al lado. No era el mismo tipo de Oscuridad que el Cellar o el Transept. Era más íntima. Más deliberada. La clase de Oscuridad que Oryx reservaba para probar a alguien completamente a solas, sin la posibilidad de que otro cuerpo cubriera el suyo.
+
+Joe rompió el suyo primero, la disciplina de Seis Frentes convertida en instinto puro contra la sombra que lo esperaba dentro. Tiago tardó más — calculando antes de moverse, incluso ahí, incluso con el reloj interno de la propia Oscuridad corriendo en su contra — pero encontró la salida. Angie y Resner cayeron sus domos casi juntos, como si la cámara misma hubiera decidido soltarlos al mismo tiempo por economía.
+
+El de Kevin no se abrió.
+
+—¡Kevin! —Angie ya estaba en el borde del espacio donde su domo había estado, golpeando algo que ya no era del todo pared ni del todo aire.
+
+Dentro, Kevin peleaba solo contra una sombra con la forma aproximada de Oryx — más pequeña, más concentrada, pero no menos real por eso. No tenía a nadie cubriéndolo. No tenía a Tiago leyendo el patrón, ni a Joe señalando una salida, ni el peso tranquilo de Resner ocupando el espacio que hacía falta. Tenía solo lo que llevaba encima y el tiempo que le quedara antes de que la sombra terminara lo que había empezado.
+
+No fue suficiente.
+
+Kevin cayó dentro de su propio domo, invisible para el resto, la única señal de lo que estaba pasando la luz de su Ghost intentando encenderse contra las paredes del espacio que lo aislaba — la misma chispa que no encontraba con qué prender que ya habían visto una vez, en un corredor sin luz, media incursión atrás.
+
+Esta vez ni siquiera podían llegar hasta él.
+
+—No puedo tocar el borde —dijo Joe, la mano contra algo que se sentía sólido y líquido al mismo tiempo—. No hay una puerta.
+
+—No hace falta una puerta —dijo Tiago, entendiéndolo en el mismo instante en que lo decía—. Ya sabemos su firma. La distancia no debería importar si la intención es suficiente.
+
+No lo discutieron más de lo necesario.
+
+Los cuatro pusieron las manos contra el domo cerrado de Kevin — no atravesándolo, no rompiéndolo, simplemente ofreciendo su Luz contra la superficie que los separaba de él, buscando la única frecuencia a la que ese Ghost, ese Guardian, iba a responder, sin importar cuántas paredes de Oscuridad privada de Oryx hubiera entre medio.
+
+El domo resistió. Después no.
+
+La luz de resurrección de Kevin prendió del otro lado, visible ahora como un resplandor que se filtraba a través de la energía poseída, y un segundo después el domo entero se disolvió, dejándolo de rodillas en el suelo de la cámara, respirando con el pecho entero, vivo.
+
+—¿Me perdí algo interesante? —dijo, la voz todavía quebrada, pero ahí.
+
+Nadie se rió. Angie lo abrazó del hombro sin decir nada, y eso fue suficiente respuesta.
+
+Solo un domo seguía cerrado.
 
 ## IV. The Mirror
 
@@ -264,9 +298,11 @@ En algún lugar de la Torre, Carina se ponía de pie al escuchar por radio la vo
 
 ---
 
-*Pilares activos: [[04_Concepts/Identity|Identidad]], [[04_Concepts/Memory|Memoria]], [[04_Concepts/Darkness|Oscuridad]]*
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Oryx]], [[02_Characters/Elsie]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_06_Oryx]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/04_The_King_Who_Needed_Heirs]], [[11_Books/Book_02_The_King_Of_Shapes/Part_04_The_Rightful_Pretender/01_The_Touch_Of_Malice]], [[00_Biblia/KingsFall_HerenciaOculta]]*
+*Pilares activos: [[04_Concepts/Identity|Identidad]], [[04_Concepts/Memory|Memoria]], [[04_Concepts/Darkness|Oscuridad]], [[04_Concepts/Trust|Confianza]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Oryx]], [[02_Characters/Elsie]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_06_Oryx]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/05_The_King_Who_Needed_Heirs]], [[11_Books/Book_02_The_King_Of_Shapes/Part_04_The_Rightful_Pretender/01_The_Touch_Of_Malice]], [[00_Biblia/KingsFall_HerenciaOculta]], [[07_Unsorted_Ideas/Kings_Fall_Raid_Bible_Locations_Mechanics_Renewed_Fate]]*
 
-*Nota narrativa: Capítulo 30 del libro (Capítulo 5 de Part 03), "The Weight of a Wrong Answer", adapta completo `Guardian_Equipo_KingsFall_06_Oryx`, casi verbatim — fuente que ya fusiona el combate, el duelo contra el Eco y el epílogo de celebración/pregunta en un solo arco continuo, así que este capítulo absorbe también lo que el mapa original reservaba como "The Question He Left in the Room" (Cap. 32 provisional) sin necesitar un capítulo separado — la Sección VI cumple esa función íntegra dentro del mismo capítulo. **Con esto, Part 03 — The Kingslayer queda completa: 5 de 5 capítulos (26-30)**, dos menos de los 7 originalmente proyectados por el Book Map, debido a dos fusiones: Tótems+Sacerdote (Cap. 27) y Oryx+Epílogo (este capítulo). Único añadido real: la última línea, que ancla la transición directa hacia `Carina_Lena_KingsFall_SeisMesesEnFragmentos` (Cap. 32) — Carina escuchando por radio el reporte de Joe es, literalmente, el instante que abre esa escena. Restricciones duras verificadas sin cambios: la muerte de Oryx sigue sin sonar a cierre filosófico limpio; el reclamo dormido de Kyle sigue completamente mudo — nunca siente, nombra ni usa herencia o trono; Oryx no es omnisciente en ningún momento.*
+*Nota narrativa: Capítulo 31 del libro (Capítulo 6 de Part 03 desde la expansión del 2026-08-10 — antes Capítulo 30/Capítulo 5), "The Weight of a Wrong Answer", adapta completo `Guardian_Equipo_KingsFall_06_Oryx`, casi verbatim — fuente que ya fusiona el combate, el duelo contra el Eco y el epílogo de celebración/pregunta en un solo arco continuo, así que este capítulo absorbe también lo que el mapa original reservaba como "The Question He Left in the Room" (Cap. 32 provisional) sin necesitar un capítulo separado — la Sección VI cumple esa función íntegra dentro del mismo capítulo. Único añadido real (hasta la repasada de 2026-08-10, ver Calibración abajo): la última línea, que ancla la transición directa hacia `Carina_Lena_KingsFall_SeisMesesEnFragmentos` (Cap. 33) — Carina escuchando por radio el reporte de Joe es, literalmente, el instante que abre esa escena. Restricciones duras verificadas sin cambios: la muerte de Oryx sigue sin sonar a cierre filosófico limpio; el reclamo dormido de Kyle sigue completamente mudo — nunca siente, nombra ni usa herencia o trono; Oryx no es omnisciente en ningún momento.*
 
-*Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):* capítulo no citado en la auditoría — es el más sólido de Part 03 en ambas reglas por diseño. La escala de Oryx, los Ogros y sus esferas de energía, el domo del duelo, cada intercambio de espada: todo ya está anclado en cuerpo y espacio, sin un solo salto de "resumen funcional" en los seis encuentros que contiene. Cierra el pase de Part 03 sin cambios de prosa.*
+*Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):* capítulo no citado en la auditoría — es el más sólido de Part 03 en ambas reglas por diseño. La escala de Oryx, los Ogros y sus esferas de energía, el domo del duelo, cada intercambio de espada: todo ya está anclado en cuerpo y espacio, sin un solo salto de "resumen funcional" en los seis encuentros que contiene. Cierra el pase de Part 03 sin cambios de prosa.
+
+**Actualización (2026-08-10, repasada de King's Fall):** la Sección III (antes dos frases: "el equipo sobrevivió el azote... tampoco estaba ninguno en el mismo lugar que antes") se expandió a la escena completa de Shade of Oryx — los seis domos individuales de energía poseída, cinco resueltos rápido y el de Kevin resistiéndose, hasta el tercer y último revive-en-oscuridad de la repasada: el resto de la escuadra, separados en sus propios domos ya disueltos, canaliza su Luz a través del domo todavía cerrado de Kevin, sin poder tocarlo, solo reconociendo su firma a distancia — la versión más extrema de la mecánica ya establecida en los Caps. 29 y 30, que aquí no se re-explica. La escena paga literalmente la tesis que este mismo libro ya había fijado sobre Kevin en el Cap. 29 ("Kevin dejaría más huella en el universo que Golgoroth"). **Restricción dura respetada: ningún cambio en Secciones I-II ni IV-VI** — el duelo contra el Eco, la muerte de Oryx y el epílogo/pregunta final, ya auditados por Codex el 2026-08-09 (ver `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`), quedan exactamente como estaban. La línea de apertura de la Sección IV ("El domo de energía poseída se cerró alrededor de Kyle antes de que pudiera reaccionar") sigue leyéndose sin fricción después del añadido — el domo de Kyle es, explícitamente, el único que seguía cerrado al cierre de la Sección III nueva.*

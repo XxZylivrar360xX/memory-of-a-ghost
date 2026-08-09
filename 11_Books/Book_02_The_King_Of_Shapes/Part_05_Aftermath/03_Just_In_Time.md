@@ -1,4 +1,4 @@
-# Chapter 35 — Just in Time
+# Chapter 36 — Just in Time
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 05: Aftermath*
 

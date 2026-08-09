@@ -2,7 +2,7 @@
 
 *Cruce entre cada capítulo futuro y sus escenas fuente en `05_Dialogues/`, roadmaps y conceptos. Ver `00_Book_Map.md` para el orden literario aprobado y `09_Roadmaps/Plan_Book02_TheKingOfShapes.md` para la triage completa.*
 
-**Numeración de capítulos:** los números de esta lista son locales a cada Part (reinician en 1). El número de capítulo real, continuo para todo el libro (el que aparece en el encabezado "Chapter N" de cada archivo), vive en la tabla de `00_Book_Map.md`, sección "Numeración de capítulos — regla fija". Prólogo = capítulos 1-7; Part 01 = 8-18 (11 capítulos); Part 02 = 19-25 (7 capítulos); Part 03 = 26-30 (**5 capítulos, no 7** — dos fusiones aplicadas al redactar el 2026-08-08); Part 04 = 31-32; Part 05 = 33-35 (**3 capítulos, no 6** — tres capítulos reubicados a Book 03 el mismo día, ver `00_Book_Map.md`). **LIBRO COMPLETO — 35 capítulos, terminado 2026-08-08.**
+**Numeración de capítulos:** los números de esta lista son locales a cada Part (reinician en 1). El número de capítulo real, continuo para todo el libro (el que aparece en el encabezado "Chapter N" de cada archivo), vive en la tabla de `00_Book_Map.md`, sección "Numeración de capítulos — regla fija". Prólogo = capítulos 1-7; Part 01 = 8-18 (11 capítulos); Part 02 = 19-25 (7 capítulos); Part 03 = 26-31 (**6 capítulos, no 7** — dos fusiones aplicadas al redactar el 2026-08-08, compensadas parcialmente por un capítulo nuevo insertado el 2026-08-10 en la repasada de King's Fall); Part 04 = 32-33; Part 05 = 34-36 (**3 capítulos, no 6** — tres capítulos reubicados a Book 03 el mismo día, ver `00_Book_Map.md`). **LIBRO COMPLETO — 36 capítulos, terminado 2026-08-08, expandido 2026-08-10.**
 
 ---
 
@@ -54,19 +54,20 @@ Fuente general: `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` (6 fr
 
 ## Part 03 — The Kingslayer
 
-Fuente general: `01_Timeline/Raids/KingsFall.md`. **Estado: COMPLETA — 5/5 capítulos, escritos 2026-08-08.** Dos fusiones aplicadas al redactar (ver `00_Book_Map.md`): Tótems+Sacerdote colapsaron en el Cap. 27; Oryx+Epílogo colapsaron en el Cap. 30.
+Fuente general: `01_Timeline/Raids/KingsFall.md` + `07_Unsorted_Ideas/Kings_Fall_Raid_Bible_Locations_Mechanics_Renewed_Fate.md` (repasada del 2026-08-10). **Estado: COMPLETA — 6/6 capítulos, escritos 2026-08-08, expandida 2026-08-10.** Dos fusiones aplicadas al redactar (ver `00_Book_Map.md`): Tótems+Sacerdote colapsaron en el Cap. 28; Oryx+Epílogo colapsaron en el Cap. 31. Un capítulo nuevo insertado el 2026-08-10: Cap. 27.
 
 1. **The Ship That Believed It Was a God** — `Guardian_Equipo_KingsFall_01_LaEntrada`. **Escrito** (`Part_03_The_Kingslayer/01_The_Ship_That_Believed_It_Was_A_God.md`).
-2. **The Ones Who Stayed** — fusiona `Guardian_Equipo_KingsFall_02_LosTotems` + `03_ElSacerdote`, + escena nueva de la infiltración y despedida de Carina (Shadowshot al Sacerdote, apodos "Chispitas"/"Pistolera"). **Escrito** (`Part_03_The_Kingslayer/02_The_Ones_Who_Stayed.md`). Absorbe lo que iba a ser el capítulo separado "A Truth That Needed Permission".
-3. **Everything Power Leaves Behind** — `Guardian_Equipo_KingsFall_04_Golgoroth`. **Escrito** (`Part_03_The_Kingslayer/03_Everything_Power_Leaves_Behind.md`).
-4. **The King Who Needed Heirs** — `Guardian_Equipo_KingsFall_05_LasHermanas`. **Escrito** (`Part_03_The_Kingslayer/04_The_King_Who_Needed_Heirs.md`).
-5. **The Weight of a Wrong Answer** — `Guardian_Equipo_KingsFall_06_Oryx` completo (combate + duelo contra el Eco + epílogo, ya narrados como un solo arco en la fuente). **Escrito** (`Part_03_The_Kingslayer/05_The_Weight_Of_A_Wrong_Answer.md`). Absorbe lo que iba a ser el capítulo separado "The Question He Left in the Room". Cierra Part 03.
+2. **Everything That Isn't Solid Ground** — nuevo, sin fuente de diálogo (prosa directa desde la raid bible del autor). Hall of Souls, The Crux, The Portico. **Escrito 2026-08-10** (`Part_03_The_Kingslayer/02_Everything_That_Isnt_Solid_Ground.md`).
+3. **The Ones Who Stayed** — fusiona `Guardian_Equipo_KingsFall_02_LosTotems` + `03_ElSacerdote`, + escena nueva de la infiltración y despedida de Carina (Shadowshot al Sacerdote, apodos "Chispitas"/"Pistolera"). **Escrito** (`Part_03_The_Kingslayer/03_The_Ones_Who_Stayed.md`). Absorbe lo que iba a ser el capítulo separado "A Truth That Needed Permission".
+4. **Everything Power Leaves Behind** — `Guardian_Equipo_KingsFall_04_Golgoroth`, con Golgoroth's Cellar y el revive #1 (Resner) antepuestos el 2026-08-10, sin fuente de diálogo propia para ese tramo. **Escrito** (`Part_03_The_Kingslayer/04_Everything_Power_Leaves_Behind.md`).
+5. **The King Who Needed Heirs** — `Guardian_Equipo_KingsFall_05_LasHermanas`, con The Transept y el revive #2 (Angie) antepuestos el 2026-08-10, sin fuente de diálogo propia para ese tramo. **Escrito** (`Part_03_The_Kingslayer/05_The_King_Who_Needed_Heirs.md`).
+6. **The Weight of a Wrong Answer** — `Guardian_Equipo_KingsFall_06_Oryx` completo (combate + duelo contra el Eco + epílogo, ya narrados como un solo arco en la fuente), con la Sección III (Shade of Oryx, revive #3 — Kevin) expandida el 2026-08-10 sin fuente de diálogo propia. **Escrito** (`Part_03_The_Kingslayer/06_The_Weight_Of_A_Wrong_Answer.md`). Absorbe lo que iba a ser el capítulo separado "The Question He Left in the Room". Cierra Part 03.
 
 Todas pendientes de ajuste del autor.
 
 ## Part 04 — The Rightful Pretender
 
-**Estado: COMPLETA — 2/2 capítulos, escritos 2026-08-08.**
+**Estado: COMPLETA — 2/2 capítulos, escritos 2026-08-08. Renumerados +1 el 2026-08-10.**
 
 1. **The Touch of Malice** — `Guardian_Elsie_PostKingsFall`, `Guardian_PostKingsFall`, `Guardian_Elsie_PostKingsFall_ElToqueDelaMaldad`. **Escrito** (`Part_04_The_Rightful_Pretender/01_The_Touch_Of_Malice.md`).
 2. **Six Months in Fragments** — `Carina_Lena_KingsFall_SeisMesesEnFragmentos` (sin tocar ni una línea) + escena nueva del reencuentro Kyle/Carina + escena nueva del regreso al Refugio (`07_Unsorted_Ideas/Semillas_2026-07-31_RegresoAlRefugio.md`). **Escrito** (`Part_04_The_Rightful_Pretender/02_Six_Months_In_Fragments.md`). Cierra Part 04.
@@ -75,16 +76,16 @@ Ambas pendientes de ajuste del autor.
 
 ## Part 05 — Aftermath
 
-Fuente general: bloque Taken King — Aftermath de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md` (Movimientos VI-VIII). **Estado: COMPLETA — 3/3 capítulos, escritos y reescritos 2026-08-08. Cierra el libro.**
+Fuente general: bloque Taken King — Aftermath de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md` (Movimientos VI-VIII). **Estado: COMPLETA — 3/3 capítulos, escritos y reescritos 2026-08-08. Renumerados +1 el 2026-08-10. Cierra el libro.**
 
 **Reubicados a Book 03 (2026-08-08, a petición del autor):** el origen de Jaden con Suetake (Movimiento de formación, sin fuente en Movimientos V-VIII) y The Trail of Xur (Movimiento V) — ninguno tiene escena de Carina, incompatibles con la regla de perspectiva de este libro. La forja de Dark Drinker (`Jaden_Eris_TakenKing_DarkDrinker`) también se reubicó por la misma razón. Los tres viven ahora en `11_Books/Book_03_Evolution_Of_Ashes/00_Prologue/`, capítulos 1-3 de ese libro.
 
 1. **What They Found in Exile** — `Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio` (Movimiento VI) + escena nueva (apertura de la cajita/nota/anillo en el hangar de la Torre). **Reescrito 2026-08-08** para POV estricto de Carina. **Escrito** (`Part_05_Aftermath/01_What_They_Found_In_Exile.md`).
 2. **The False Pretender** — `Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok` (Movimiento VII). **Reescrito 2026-08-08** para POV estricto de Carina. **Escrito** (`Part_05_Aftermath/02_The_False_Pretender.md`).
-3. **Just in Time** — `Carina_Guardian_TakenKing_JustoATiempo` (Movimiento VIII). **Reescrito 2026-08-08** para POV estricto de Carina + nuevo párrafo de cierre. **Escrito** (`Part_05_Aftermath/03_Just_In_Time.md`). **Con la reubicación de Dark Drinker a Book 03, este capítulo cierra Book 02 — The King of Shapes: 35/35 capítulos.**
+3. **Just in Time** — `Carina_Guardian_TakenKing_JustoATiempo` (Movimiento VIII). **Reescrito 2026-08-08** para POV estricto de Carina + nuevo párrafo de cierre. **Escrito** (`Part_05_Aftermath/03_Just_In_Time.md`). **Con la reubicación de Dark Drinker a Book 03, este capítulo cierra Book 02 — The King of Shapes: 36/36 capítulos (tras la expansión de King's Fall del 2026-08-10).**
 
 Todas pendientes de ajuste del autor.
 
 ---
 
-*Actualizar esta tabla cada vez que un capítulo se redacte: marcar la escena fuente como absorbida y anotar el archivo final dentro de `Part_0X_.../` que la contiene. **Libro completo desde 2026-08-08 (35 capítulos, tras la reubicación de tres capítulos de Jaden a Book 03) — próxima actualización real de esta tabla llegará con la auditoría de Codex o los ajustes del autor.***
+*Actualizar esta tabla cada vez que un capítulo se redacte: marcar la escena fuente como absorbida y anotar el archivo final dentro de `Part_0X_.../` que la contiene. **Libro completo desde 2026-08-08 (35 capítulos tras la reubicación de tres capítulos de Jaden a Book 03; 36 desde la expansión de King's Fall del 2026-08-10) — próxima actualización real de esta tabla llegará con la auditoría de Codex o los ajustes del autor.***

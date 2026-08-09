@@ -1,4 +1,4 @@
-# Chapter 33 — What They Found in Exile
+# Chapter 34 — What They Found in Exile
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 05: Aftermath*
 
