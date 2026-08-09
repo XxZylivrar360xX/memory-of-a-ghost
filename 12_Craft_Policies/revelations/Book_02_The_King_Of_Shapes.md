@@ -120,3 +120,34 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Líneas o gestos prohibidos antes del reveal:** ningún capítulo de Book 02 debe explicar
   qué es exactamente el "modo" que Ghost reconoce — se queda como gesto silencioso.
 - **Estado:** sembrado — semilla explícita para Book 03.
+
+---
+
+## Nota para la auditoría de continuidad/filosofía pendiente — el final de Oryx
+
+No es un misterio ni una revelación (no aplica la plantilla de arriba). Es un hallazgo de
+tono/filosofía detectado el 2026-08-09 al construir `voice/oryx.md`, para que no se pierda
+antes de la auditoría de continuidad/filosofía de Book 02 completo que ya está pendiente con
+Codex (ver `MEMORY.md` → `project-riseofiron-nemo-siguiente-sesion` y el estado general del
+vault, sección "Pendiente real de Book 02").
+
+- **La tensión:** `02_Characters/Oryx.md` cierra con una lectura redentora — "esa duda
+  destruye el fundamento completo de su identidad", "parte de Oryx siempre quiso que eso
+  fuera verdad" (secciones "The Collapse of the Sword Logic" y "Final Tragedy"). El capítulo
+  donde muere, `11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/05_The_Weight_Of_A_Wrong_Answer.md`,
+  tampoco le da una línea de cierre filosófico propia — muere en un duelo-espejo contra su
+  Eco Primario silencioso (Kyle vs. una versión de sí mismo), sin aceptación digna de la
+  derrota en escena.
+- **Por qué importa:** `07_Unsorted_Ideas/Oryx_Character_Bible_Canon_Renewed_Fate.md` (la
+  biblia de personaje más reciente y detallada, base de `voice/oryx.md`) prohíbe
+  explícitamente ambas cosas — §52 "No hacerlo secretamente bueno" (comprenderlo no es
+  absolverlo) y §25 "Oryx no abandona la Sword Logic al final" (nunca debe sonar a "tenías
+  razón, la Sword Logic era mala"; una derrota legítima debe "conservar su identidad", no
+  colapsarla).
+- **Qué decidir en la auditoría:** si el título del capítulo ("The Weight of a Wrong
+  Answer") y el cierre de `Oryx.md` se mantienen como están (lectura redentora, ya escrita y
+  parte de un libro TERMINADO), o si se ajustan para que la muerte de Oryx se sienta como la
+  biblia nueva pide — una derrota que él mismo podría reconocer como prueba legítima sin
+  que eso signifique que se equivocó de raíz. Ninguna opción se aplicó todavía; requiere
+  decisión del autor, no ajuste unilateral.
+- **Estado:** flag abierto, sin resolver.
