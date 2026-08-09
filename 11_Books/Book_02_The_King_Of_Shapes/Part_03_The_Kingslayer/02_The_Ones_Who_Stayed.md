@@ -82,7 +82,7 @@ La primera grieta tomó forma.
 
 No como pensamiento completo. Como la sensación de que algo en la arquitectura de lo que acababan de enfrentar tenía una falla que la arquitectura misma no podía ver.
 
-*La verdad no necesita jerarquía para existir.*
+*Algo en esa verdad no necesitaba un rey para seguir siendo cierto.*
 
 Kyle no lo articuló todavía.
 
@@ -98,7 +98,7 @@ A sus ojos, esto no era ayuda no solicitada.
 
 Era una cuenta que llevaba semanas sin cerrar.
 
-El Sacerdote de Guerra que caía en esta cámara era el mismo tipo de cosa —no necesariamente el mismo cuerpo, pero la misma función, el mismo cargo dentro de la jerarquía de Oryx— que había dirigido la invasión Poseída que llegó al Refugio del Muelle, días después de que Lena muriera, dentro del mismo Frente Tierra que Elsie había visto cerrarse desde el Arrecife. Carina no necesitaba que fuera literalmente el mismo individuo. Necesitaba que fuera, en el idioma que Oryx usaba para nombrar autoridad, la misma cosa.
+El Sacerdote de Guerra que caía en esta cámara llevaba la misma insignia, la misma voz de mando, el mismo lugar en la jerarquía de Oryx que había dirigido la invasión Poseída que llegó al Refugio del Muelle, días después de que Lena muriera, dentro del mismo Frente Tierra que Elsie había visto cerrarse desde el Arrecife. Para Carina, eso bastaba.
 
 Encontró un ángulo alto, fuera de la línea de visión del resto del equipo, y esperó.
 
@@ -120,9 +120,9 @@ Kyle giró hacia el ángulo de donde había llegado el disparo y la vio bajar, s
 
 —Pensé que el asedio afuera había terminado —dijo Kyle.
 
-—Terminó. —Carina guardó el arco—. Decidí entrar de todas formas. Alguien tenía que asegurarse de que ustedes seis fueran mejores que yo sola.
+—Terminó. —Carina guardó el arco—. Decidí entrar de todas formas. Alguien tenía que asegurarse de que ese cargo cayera esta vez.
 
-—¿Y lo fuimos?
+—¿Y bien?
 
 —Todavía lo estoy evaluando.
 

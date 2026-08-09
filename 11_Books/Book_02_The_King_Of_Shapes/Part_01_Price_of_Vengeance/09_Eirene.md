@@ -108,7 +108,7 @@ El horizonte empezó a sentirse, sin que nadie pudiera medirlo con un instrument
 
 Elsie cerró los ojos un momento, algo en su rostro cediendo a una certeza que no quería tener.
 
-—Ya sé qué forma tiene esto —dijo—. Es la misma frase que empezó en cinco idiomas distintos, hace semanas. Se está terminando de decir aquí.
+—Ya sé qué forma tiene esto —dijo—. El patrón que empezó hace semanas no se está abriendo. Se está cerrando.
 
 ---
 

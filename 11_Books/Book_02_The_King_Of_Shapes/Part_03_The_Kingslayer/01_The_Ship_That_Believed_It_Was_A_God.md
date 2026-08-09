@@ -10,7 +10,7 @@
 
 Seis Guardianes cruzaron el umbral del Acorazado por última vez, en el instante exacto en que Oryx se quedaba solo frente a las Tablas de la Ruina, esperando una pregunta lo bastante grande como para merecer una respuesta completa.
 
-Ellos no sabían nada de esa conversación. No sabían que Savathûn acababa de irse con una Mente Vex en las manos y un secreto sobre una ciudad hecha de deseo. No sabían que Mara seguía viva, escondida en algún pliegue de la misma arquitectura hacia la que ahora descendían. Sabían solo lo que la Guerra de los Poseídos les había enseñado a la fuerza, frente separado tras frente separado: que Oryx no dirigía un ejército. Dirigía una gramática. Y que la única forma de terminarla era entrar juntos, de una vez, a discutirla en su propio idioma.
+Ellos no sabían nada de esa conversación. No sabían cuántas guerras acababan de cruzarse debajo de sus pies, ni cuántas seguían sin terminar en algún pliegue de la misma arquitectura hacia la que ahora descendían. Sabían solo lo que la Guerra de los Poseídos les había enseñado a la fuerza, frente separado tras frente separado: que Oryx no dirigía un ejército. Dirigía una gramática. Y que la única forma de terminarla era entrar juntos, de una vez, a discutirla en su propio idioma.
 
 ## I. What the Ship Declares
 

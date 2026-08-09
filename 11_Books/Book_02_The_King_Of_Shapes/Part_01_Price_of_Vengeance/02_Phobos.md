@@ -368,7 +368,7 @@ Kyle no tenía forma de saber eso hasta que Ghost lo dijo en voz alta — ningú
 
 Se sentó, no cerca de ninguno de los dos, sino en el borde del catre, con la clase de distancia profesional que era, para ella, la única forma disponible de estar presente sin fingir más de lo que en realidad había entre ellos.
 
-—Lo que viste en Phobos son los Poseídos. No son Cabal, ni Colmena más, ya no son nada que tenga nombre propio todavía, y ese es exactamente el punto. Oryx no invade con un ejército —toma lo que ya existe y lo vacía, lo rellena con algo suyo, y lo devuelve como arma. No importa a qué especie pertenecía antes. Ahora le pertenece a él bajo una forma que él decide labrar.
+—Lo que viste en Phobos... —Eris se detuvo, buscando la palabra correcta y no encontrándola del todo—. Los llamamos Poseídos porque no tenemos nada mejor. Ya no son Cabal. No estoy segura de que sigan muertos, tampoco, no de la forma en que nosotros entendemos muerte. Lo que queda obedece a algo que no es suyo. —Dudó, como si la frase siguiente le costara más que las anteriores—. Oryx toma lo que ya existe. Hasta ahí puedo seguirte con certeza. Lo demás —qué hace con eso, por qué, cuánto queda debajo de la especie que fue— todavía no lo sé.
 
 —¿Oryx? —repitió Kyle, la palabra saliendo más despacio la segunda vez, como si decirla en voz alta pudiera confirmar o desmentir lo que ya llevaba minutos sospechando sin nombrarlo—. ¿El padre de Crota?
 

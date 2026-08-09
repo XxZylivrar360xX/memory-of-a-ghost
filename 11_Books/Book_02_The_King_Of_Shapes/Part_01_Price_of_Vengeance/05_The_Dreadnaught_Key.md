@@ -258,7 +258,7 @@ Eris se quedó en silencio el tiempo suficiente para que Kyle se preguntara si l
 
 —¿Por qué me lo muestra a mí?
 
-—No lo sé. —Fue honesta, sin suavizarlo—. Pero si tuviera que adivinar: porque algo que se convirtió en esto necesita, en algún nivel que ni él mismo puede nombrar, que alguien entienda que no empezó siendo un monstruo. Eso no lo disculpa. —La voz de Eris se endureció lo justo—. Nada de lo que hizo después queda disculpado por lo que fue antes de hacerlo. Pero pelear contra alguien que una vez tuvo miedo del mismo tipo de cosas que vos es distinto a pelear contra un monstruo sin historia.
+—No lo sé. —Fue honesta, sin suavizarlo—. Pero si tuviera que adivinar: porque algo que se convirtió en esto necesita, en algún nivel que ni él mismo puede nombrar, que alguien entienda que no empezó siendo un monstruo. Eso no lo disculpa. —La voz de Eris se endureció lo justo—. Nada de lo que hizo después queda disculpado por lo que fue antes de hacerlo. Pero pelear contra alguien que una vez tuvo miedo del mismo tipo de cosas que tú es distinto a pelear contra un monstruo sin historia.
 
 Kyle se quedó mirando la piedra, otra vez inerte en su palma.
 
@@ -582,11 +582,23 @@ Cayde no la vio entrar. La escuchó — el paso de alguien que había dejado de 
 
 —Tienes mi atención completa. —Cayde bajó los pies de la mesa, algo en el tono de Carina cortando cualquier posibilidad de que la broma habitual aterrizara bien—. ¿Qué pasa?
 
-—Lo que pasa es que hay una plaga matando gente en todo el sistema, y la Vanguardia está actuando como si tuviera todo el tiempo del mundo para responder. Vengo de un lugar que ya no existe de la forma en que existía hace dos semanas. Un asentamiento civil. Sin defensa real. Los que sobrevivieron tuvieron que dejar sus propias casas atrás, con lo puesto, porque quedarse dejó de ser algo que nadie pudiera garantizarles. Un Dredgen sin Luz, poseído por lo que sea que ese tal Oryx está soltando por todo el sistema, entró y se llevó a la única persona que sostenía ese lugar entero. No me interesa quién sea ese nombre, ni qué tan viejo, ni qué tan grande dicen que es. Me interesa el ángulo correcto para meterle una bala en el cráneo, como a cualquier otra cosa que decide que la gente que me importa no tiene derecho a seguir respirando. Y cuando pregunté qué estaba haciendo la Vanguardia para cazar al responsable, la respuesta que me dieron fue "estamos trabajando en ello."
+—Lo que pasa es que hay una plaga matando gente en todo el sistema, y la Vanguardia actúa como si tuviera todo el tiempo del mundo. —La voz de Carina no subió, pero tampoco dejó espacio—. Vengo de un lugar que ya no existe de la forma en que existía hace dos semanas.
 
 —Carina—
 
-—No he terminado. —No gritó. No necesitaba gritar—. Los civiles del Refugio me hicieron la misma pregunta que te estoy haciendo a ti ahora. Y no tuve una respuesta mejor que la que me dieron a mí. Eso no es aceptable, Cayde. No para mí, y definitivamente no para ellos.
+—Un asentamiento civil. Sin defensa real. La gente se fue con lo puesto porque quedarse dejó de ser algo que nadie pudiera garantizarles.
+
+—Escúchame un segundo—
+
+—Un Dredgen sin Luz, poseído por lo que sea que ese tal Oryx está soltando, entró y se llevó a la única persona que sostenía ese lugar entero. No me interesa el nombre. Me interesa el ángulo correcto para meterle una bala.
+
+Cayde no volvió a intentar interrumpirla.
+
+—Y cuando pregunté qué estaba haciendo la Vanguardia, la respuesta fue "estamos trabajando en ello."
+
+—Carina—
+
+—No he terminado. —No gritó. No necesitaba gritar—. Los civiles del Refugio me preguntaron lo mismo. No tuve nada mejor que darles. Eso no es aceptable, Cayde.
 
 Cayde se puso de pie, despacio, el humor completamente ausente de su postura por primera vez desde que Carina lo conocía.
 

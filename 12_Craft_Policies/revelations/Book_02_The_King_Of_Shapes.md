@@ -52,21 +52,24 @@ misterios" — este archivo es el detalle completo de esa tabla.
 
 - **Qué es:** una carta reescrita "mil veces" pidiéndole a Carina compartir su camino, y un
   anillo dentro de una cajita de terciopelo — Lena nunca llegó a entregarla.
-- **Se revela en:** encontrados por Carina en Cap. 33 (*What They Found in Exile*) — se los
-  lleva sin abrirlos del todo, sin decírselo a nadie. La respuesta real (leer la carta,
-  ponerse el anillo, responder en voz alta) ocurre muchos libros después, en
+- **Se revela en:** Carina encuentra, abre y lee la carta completa, y ve el anillo, en
+  Cap. 33 (*What They Found in Exile*) — el "primer golpe": lee la nota, abre la cajita,
+  formula internamente "Me eligió a mí para esto", pero no responde. Cierra la cajita, guarda
+  ambas cosas, y se las lleva sin decírselo a nadie. La respuesta real (ponerse el anillo,
+  decir en voz alta "quiero compartir tu camino") ocurre muchos libros después, en
   `05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta` (ver
   `02_Characters/Lena.md`).
-- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 33 — pero no ha leído el contenido
-  completo todavía dentro de este libro.
+- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 33 — ya leyó el contenido completo
+  dentro de este libro; lo que no ha hecho todavía es responder.
 - **Quién NO debe saberlo/insinuarlo todavía:** nadie más del elenco sabe que la caja existe
   hasta que Carina decida compartirlo (no ocurre dentro de Book 02).
 - **Foreshadowing ya sembrado:** la escena de la muerte de Lena y "Lo que dejó" en
   `02_Characters/Lena.md`.
-- **Líneas o gestos prohibidos antes del reveal:** Carina no puede citar el contenido de la
-  carta ni confirmar su respuesta ("quiero compartir tu camino") en ningún capítulo de este
-  libro ni de los libros intermedios antes de Post Final Shape.
-- **Estado:** parcial — encontrada, no respondida.
+- **Líneas o gestos prohibidos antes del reveal:** Carina no puede ponerse el anillo ni
+  confirmar su respuesta en voz alta ("quiero compartir tu camino") en ningún capítulo de
+  este libro ni de los libros intermedios antes de Post Final Shape. Citar o parafrasear el
+  contenido de la carta sí está permitido a partir del Cap. 33 — ya ocurrió en prosa ahí.
+- **Estado:** parcial — encontrada y leída, no respondida.
 
 ---
 

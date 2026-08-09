@@ -68,13 +68,13 @@ La tocó.
 
 La quemadura no fue física. Fue la quemadura de sostener algo que quería ser dos cosas al mismo tiempo — luz que recordaba su forma original y oscuridad que se había convertido en su nueva arquitectura. Inestable. A punto de colapsar sobre sí misma o sobre quien la sostuviera.
 
-—Tocadla —dijo Kyle.
+—Tóquenla —dijo Kyle.
 
 Joe lo miró.
 
 —¿Qué?
 
-—Tocadla. Los tres. Con intención de limpiarla.
+—Tóquenla. Los tres. Con intención de redirigirla.
 
 No era un plan. Era una intuición que venía de haber pasado demasiado tiempo sosteniendo cosas que no debían sostenerse — la Luz del Viajero tenía su propio lenguaje, y a veces ese lenguaje era más simple de lo que parecía: la intención cambiaba lo que las cosas eran.
 
@@ -82,7 +82,7 @@ Angie fue la primera. Puso la mano junto a la de Kyle sin preguntar más.
 
 Joe después. Con la calma de alguien que confía en la aguja de su brújula incluso cuando no ve el norte.
 
-Tiago último, con el escudero morado guardado y ambas manos extendidas y el gesto de quien hace algo que va contra toda la formación de la Orden Praxica que nunca lo aceptó.
+Tiago último, con el bolígrafo morado guardado y ambas manos extendidas y el gesto de quien hace algo que va contra toda la formación de la Orden Praxica que nunca lo aceptó.
 
 La colisión fue silenciosa.
 
@@ -182,7 +182,7 @@ El domo se disolvió.
 
 La cámara volvió a tener un solo espacio.
 
-El equipo estaba de pie — todos, intactos, con la expresión de personas que acaban de combatir contra la versión de sí mismas que no llegaron a ser y han salido del otro lado. Kyle no preguntó cómo les había ido. La respuesta estaba en que seguían aquí.
+El equipo estaba de pie — todos, intactos, con la expresión de gente que acababa de sobrevivir al juicio de una sala que no perdonaba errores, y de ver a uno de los suyos volver de una pelea que ninguno de ellos había podido compartir. Kyle no preguntó cómo les había ido. La respuesta estaba en que seguían aquí.
 
 Oryx estaba en el centro de la sala, el corazón expuesto, la arquitectura de su inmortalidad desmantelada por primera vez en eones.
 
@@ -226,7 +226,7 @@ No era que no sintiera nada. Era que lo que sentía no era clausura. Había algo
 
 *Tú abres*, decía el espacio. No con palabras. Con el peso de todo lo que había ocurrido aquí esta noche y todo lo que claramente seguía en movimiento en algún lugar que no estaba en esta sala.
 
-Tiago había dicho, semanas atrás: *Oryx va a saber.* Y Oryx había sabido, y había cruzado las estrellas, y ahora Oryx estaba muerto.
+Tiago había dicho, semanas atrás: *Oryx va a saber.* Y Oryx había sabido, y había cruzado las estrellas, y ahora Oryx había caído.
 
 Pero el tablero no se sentía vacío.
 

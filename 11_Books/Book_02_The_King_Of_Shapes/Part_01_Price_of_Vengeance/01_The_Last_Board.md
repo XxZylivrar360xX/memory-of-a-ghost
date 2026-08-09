@@ -28,7 +28,7 @@ Kyle miró las cajas abiertas a lo largo de la pared — líneas limpias y agres
 
 —¿Cuál es la diferencia?
 
-—Filosofía. —Banshee se encogió de hombros, el gesto raro en alguien que normalmente no perdía tiempo en abstracciones—. Suros cree que un arma es una declaración. Omolon cree que un arma es una pregunta que todavía se está haciendo. Hakke cree que un arma es un martillo con mejor puntería. Ninguno tiene razón del todo. Ninguno se equivoca del todo. —Levantó la vista, por primera vez desde que Kyle había entrado—. ¿A qué viniste, si no es a hacerme preguntas que no puedo responder?
+—Filosofía. —Banshee se encogió de hombros, el gesto raro en alguien que normalmente no perdía tiempo en abstracciones—. Suros hace el cañón más recto que puedas sostener con la mano temblando. Omolon todavía no sabe bien qué quiere ser, así que prueba cosas raras, y a veces le funcionan. Hakke hace un martillo con mejor puntería, y no se disculpa por eso. —Levantó la vista, por primera vez desde que Kyle había entrado—. ¿A qué viniste, si no es a hacerme preguntas que no puedo responder?
 
 Kyle sonrió y se llevó la mano al cinturón, donde tres engramas colgaban sujetos a presión, cada uno del tamaño de un puño cerrado — dos con el brillo constante y apagado del púrpura, uno con un dorado que parecía tener luz propia incluso a plena vista. Los dejó sobre el banco, uno junto al otro, con el cuidado específico de quien no los trata como inventario.
 
@@ -78,7 +78,7 @@ Banshee soltó algo que, en cualquier otra cara, habría sido una risa corta —
 
 —No tenía idea.
 
-—Nadie nunca sabe. —Empezó a desarmar el mecanismo del rifle con manos que no dudaban en ningún paso, el tipo de trabajo que no necesitaba que nadie se lo confirmara—. Eso es lo único constante en este oficio. La gente cree que elige sus armas. Las armas deciden si se quedan.
+—Nadie nunca sabe. —Empezó a desarmar el mecanismo del rifle con manos que no dudaban en ningún paso, el tipo de trabajo que no necesitaba que nadie se lo confirmara—. Eso es lo único constante en este oficio. La gente cree que elige sus armas. En realidad es el retroceso, el balance, cómo cae en la mano después de la primera semana de desgaste. Eso es lo que decide si se queda.
 
 Trabajó en silencio un rato, Kyle sin apuro por interrumpirlo, cómodo en la clase de silencio que solo existía entre dos personas que ya se habían dicho, hacía tiempo, todo lo que necesitaban decirse sobre por qué volvían a este mismo banco una y otra vez.
 

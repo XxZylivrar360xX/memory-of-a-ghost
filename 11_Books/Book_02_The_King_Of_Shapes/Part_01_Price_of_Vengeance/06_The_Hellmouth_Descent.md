@@ -358,7 +358,7 @@ Ninguno de los dos supo todavía, en ese momento, cuánto iban a terminar necesi
 
 —¿Disculpa?
 
-—Entrar solo a un Mundo Trono extinto, sin equipo de respaldo, con un solo Espectro y sin nada más que tu propio cuerpo para esconderte. —No lo dijo con crueldad, solo con la precisión clínica de alguien acostumbrada a leer el error antes que la intención—. Eso no es valentía. Es venganza disfrazada de estrategia.
+—Entrar solo a un Mundo Trono extinto, sin equipo de respaldo, con un solo Espectro y sin nada más que tu propio cuerpo para esconderte. —No lo dijo con crueldad, solo con la irritación de alguien que reconocía la misma estupidez porque la había cometido ella misma hace poco—. Eso no es valentía. Eso es no tener a nadie que te diga que no.
 
 El Guardian no lo negó de inmediato, lo cual, para Carina, dijo más que cualquier defensa que hubiera podido ofrecer.
 
@@ -418,7 +418,7 @@ Lo que Carina no dijo —ni a él, ni a nadie, todavía— era la forma exacta e
 
 —Responsabilidad —corrigió el Guardian, aunque incluso mientras lo decía no estaba del todo seguro de que la distinción fuera tan limpia como quería que sonara—. Si mis acciones atrajeron esto, entonces yo tengo que ser parte de detenerlo. No puedo simplemente dejar que otros paguen la factura de algo que empecé.
 
-—Eso suena a culpa disfrazada de responsabilidad.
+—¿Y si son la misma cosa con un nombre más bonito?
 
 —Puede ser las dos cosas.
 

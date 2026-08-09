@@ -62,7 +62,7 @@ Elsie asintió, procesando la información sin ninguna sombra de la reacción qu
 
 —No pretendo reemplazar nada —dijo Carina, con la misma honestidad directa que aplicaba a todo lo demás—. Solo estaba ahí cuando hacía falta estar ahí.
 
-—Lo sé. —Elsie lo dijo sin ninguna tensión detrás—. Por eso te lo agradezco, en vez de sentir cualquier otra cosa.
+—Lo sé. —Elsie lo dijo sin ninguna tensión detrás—. Por eso te lo agradezco.
 
 ---
 
@@ -78,7 +78,7 @@ Kyle no dijo nada, pero tampoco apartó la mirada.
 
 Carina asintió — y por un instante algo cruzó su expresión que todavía no tenía nombre: la certeza silenciosa de haber visto, en un hombre que ni siquiera se había mirado a sí mismo, algo que le iba a tomar años más admitir en voz alta.
 
-—Entonces me alegra haber ayudado a que volviera —dijo, en lugar de decir lo que había visto—. Para lo que sea que ustedes dos todavía no se han dicho.
+—Entonces me alegra haber ayudado a que volviera —dijo, en lugar de decir lo que había visto.
 
 ---
 
@@ -86,11 +86,7 @@ Carina asintió — y por un instante algo cruzó su expresión que todavía no 
 
 Más tarde, cuando Carina se había ido a coordinar algo con Cayde y Kyle se había quedado atrás para hablar con Ghost, Elsie se quedó un momento sola en el hangar, procesando lo que acababa de pasar de la misma forma en que procesaba todo — despacio, con cuidado, sin apurar la conclusión.
 
-No había sentido celos.
-
-No había sentido amenaza.
-
-Había sentido, en cambio, algo más parecido al alivio — la certeza silenciosa de que Kyle no necesitaba que ella fuera la única persona capaz de sostenerlo en cada frente. Que otras personas podían cubrir otros flancos, y que eso no restaba nada de lo que existía entre ellos dos. Solo lo hacía menos frágil.
+Había sentido algo parecido al alivio — la certeza silenciosa de que Kyle no necesitaba que ella fuera la única persona capaz de sostenerlo en cada frente. Que otras personas podían cubrir otros flancos, y que eso no restaba nada de lo que existía entre ellos dos. Solo lo hacía menos frágil.
 
 *La mujer que siempre supo más que los demás*, pensó, sin ironía, *está aprendiendo que no puede leer esta guerra completa sola.*
 

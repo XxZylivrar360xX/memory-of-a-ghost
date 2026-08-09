@@ -70,7 +70,7 @@ Golgoroth no había dejado nada detrás.
 
 La segunda grieta tomó forma.
 
-*Consumir no crea significado.*
+*Golgoroth no dejaba nada que pudiera volver por él.*
 
 ---
 

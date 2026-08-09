@@ -112,7 +112,7 @@ Algo respondió — no visible del todo, no controlado del todo, un tirón de en
 
 —¿Qué fue eso? —preguntó Kyle, ya a su lado.
 
-—No lo sé. —Carina se miró la mano, todavía temblando—. Se sintió como... —Buscó las palabras, sin encontrarlas del todo—. Como si algo en mí supiera leer el espacio de la misma forma en que sé leer a la gente. Qué los conecta. Dónde está el hilo que, si lo cortas, los deja a todos expuestos a la vez.
+—No lo sé. —Carina se miró la mano, todavía temblando—. Se sintió como... —Buscó las palabras, sin encontrarlas del todo—. Como si el aire tuviera un ángulo. Un punto exacto donde algo cede, si aprietas lo suficiente. No sé explicarlo mejor que eso.
 
 —Nunca habías sentido eso antes.
 

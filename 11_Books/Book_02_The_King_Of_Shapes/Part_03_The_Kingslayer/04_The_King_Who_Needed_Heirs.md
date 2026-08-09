@@ -20,7 +20,7 @@ Tiago lo observó desde la entrada de la sala con la atención específica de al
 
 —¿Qué? —dijo Kyle.
 
-—Que él podía no estar. —Una pausa—. Si la Lógica de la Espada fuera perfectamente autosuficiente, no necesitaría herederos. La verdad que se sostiene sola no necesita custodios. —Miró la sala—. Crear descendencia es admitir mortalidad. Y admitir mortalidad es admitir que lo que uno construyó requiere a otros para continuar.
+—No lo sé todavía. —Una pausa—. Pero si la Lógica de la Espada fuera perfectamente autosuficiente, esta sala no necesitaría estar construida alrededor de continuidad. —Miró la sala—. ¿Por qué hacer herederas, si nada de lo que él construyó necesitaba quien lo sostuviera después?
 
 Silencio breve.
 
@@ -58,7 +58,7 @@ Para que algo de él siguiera existiendo en ellas después de que él ya no estu
 
 La tercera grieta tomó forma — más grande que las anteriores, con un borde diferente.
 
-*Lo que merece continuar no siempre es uno mismo.*
+*Crear hijas era admitir que una sola vida no había bastado.*
 
 Kyle no lo articuló.
 
