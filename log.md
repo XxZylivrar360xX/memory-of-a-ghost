@@ -3336,3 +3336,11 @@ Codex entregó la auditoría completa (`99_Reference/Agent_Notes/codex/2026-08-0
 **Decisiones de canon, resueltas por el autor:** (1) Cap. 16, "la Reina" — identificaba a Mara con más precisión de la que el ledger permitía; suavizado a rumor anónimo de la flota/Arrecife, ledger de `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md` actualizado. (2) Reclamo dormido en Caps. 34-35 — confirmado que la regla es la resonancia interna de Kyle, no el vocabulario de sucesión en boca de otros personajes; sin cambios.
 
 Cerrado el hilo con nota de respuesta en `99_Reference/Agent_Notes/claude-code/2026-08-09_integracion-auditoria-book02-completo.md` (`status: resuelto`). Book 02 queda listo para el ajuste final del autor capítulo por capítulo.
+
+## [2026-08-09] cotejo | Book Map vs. libro real — verificación estructural mecánica
+
+A petición del autor, cotejado `00_Book_Map.md` contra los 35 capítulos reales de `11_Books/Book_02_The_King_Of_Shapes/` — distinto de la auditoría de continuidad/filosofía de Codex (esa revisa canon y prosa; este pase revisa que la estructura documentada sea exactamente la real). Verificación por script contra los archivos del repo, no por lectura.
+
+**Resultado limpio:** los 35 encabezados reales ("Chapter N — Título") coinciden exactos, uno por uno, contra `00_Book_Map.md` y `01_Source_Index.md` — mismo número, mismo título, mismo orden; el interludio "The Queen Who Would Not Kneel" correctamente sin número de capítulo. De 483 wikilinks internos del libro completo, 1 estaba roto: `[[02_Characters/Nastia]]` en el Cap. 32, residual de antes de que Nastia se fusionara con la ficha de Sai — corregido a `[[02_Characters/Sai]]`. Las 47 escenas fuente citadas en `01_Source_Index.md` existen todas en el vault.
+
+`00_Book_Map.md` actualizado con el resultado del cotejo en "Próximo paso". Con esto, Book 02 tiene tres capas de verificación completas: continuidad/filosofía (Codex), estructura mapa↔libro (este pase), y queda solo el ajuste final del autor capítulo por capítulo.
