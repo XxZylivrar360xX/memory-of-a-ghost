@@ -162,5 +162,6 @@ vault, sección "Pendiente real de Book 02").
   hallazgo ataca el mismo síntoma desde el ángulo de redacción, pero no resuelve la tensión
   de fondo (el cierre de `Oryx.md` y la falta de un beat de aceptación digna en Cap. 30). La
   auditoría de punta a punta ya corrió; este hallazgo específico sigue sin auditar.
-- **Estado:** flag abierto, sin resolver — pendiente un encargo de seguimiento a Codex o
-  decisión directa del autor.
+- **Estado:** encargo de seguimiento enviado a Codex —
+  `99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-auditoria-final-oryx.md`. Esperando
+  respuesta.
