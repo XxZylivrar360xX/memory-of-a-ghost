@@ -120,9 +120,12 @@ Ver `11_Books/README.md`.
    antes de asumirlo de memoria.
 4. Repasar `12_Craft_Policies/dialogue_rules/` si la escena es un beat emocional parecido a
    otros ya escritos.
+5. Repasar `12_Craft_Policies/staging_rules/` antes de cerrar la escena — escenografía,
+   acción física, silencios y transiciones tienen su propio catálogo, separado del diálogo.
 
 **Al cerrar una escena o capítulo:** actualizar la entrada del ledger si algo se sembró,
-reveló o pagó; documentar como regla nueva cualquier patrón de diálogo repetido 2+ veces.
+reveló o pagó; documentar como regla nueva cualquier patrón de diálogo o de puesta en escena
+(beats vacíos, sin acción física, sin transición) repetido 2+ veces.
 
 ## EPUB Build (`11_Books/`)
 

@@ -3370,3 +3370,11 @@ Codex entregó la auditoría (`99_Reference/Agent_Notes/codex/2026-08-09_calibra
 **Prólogo, Cap. 6 (Thread That Brings You Back):** el intercambio "no tienes que diagnosticarme" — la palabra exacta que la ficha de Lena prohíbe — se corrigió a una acusación anclada en conducta observable ("estoy mirando lo que acabas de hacer").
 
 Cada capítulo tocado recibió su propia nota "Calibración de voz" en el footer. Cerrado el hilo con Codex en `99_Reference/Agent_Notes/claude-code/2026-08-09_integracion-calibracion-dialogo-book02.md` (`status: resuelto`).
+
+## [2026-08-09] mecanismo nuevo | Craft Policies — pilar de puesta en escena (staging_rules/)
+
+El autor notó, releyendo Book 02, que algunos beats se sienten vacíos o demasiado cortos comparados con los primeros capítulos del libro — menos escenografía, menos acción física de los personajes mientras hablan, silencios mencionados de pasada en vez de dejados respirar, transiciones abruptas entre secciones. Pidió sumar esto a `12_Craft_Policies/` como su propio pilar, separado de `dialogue_rules/` (que audita la estructura del intercambio de diálogo, no la carne alrededor).
+
+Creado `12_Craft_Policies/staging_rules/` (espejo de `dialogue_rules/`: `TEMPLATE.md` con cuatro categorías — escenografía, acción física, silencio/pausa, transición — más una sección de "contraste con capítulos que sí lo resuelven bien", ya que el catálogo existe para nivelar hacia arriba, no solo para señalar la falla; `WATCHLIST.md` vacío). Precedencia actualizada: `dialogue_rules/` y `staging_rules/` quedan al mismo nivel, última capa. `README.md`, `CLAUDE.md` e `INDEX.md` actualizados con el flujo de consulta (paso 5 antes de escribir, paso 4 al cerrar una escena) y la autorización de integración directa de Codex extendida a esta carpeta también.
+
+Preparado el encargo de la primera auditoría en `99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-calibracion-escenografia-book02.md` — no es relectura pareja de los 35 capítulos, es una comparación dirigida: muestra de alta densidad (Prólogo, Part 01 Caps. 12-16, toda prosa enteramente nueva) contra muestra a contrastar (Part 02 y Part 03, mayormente adaptadas "casi verbatim" de escenas ya escritas — hipótesis a verificar: la adaptación pudo haber heredado el ritmo escueto de la fuente original en vez de expandirlo).

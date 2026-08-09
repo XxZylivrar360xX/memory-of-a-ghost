@@ -26,6 +26,11 @@ más operativa: qué NO se puede decir todavía, y cómo suena cada personaje cu
 - **`dialogue_rules/`** — Catálogo de anti-patrones de diálogo detectados en la saga
   (uno por archivo, numerado). Nace de auditorías (ej. Codex) o de detección manual durante
   la escritura.
+- **`staging_rules/`** — Catálogo de anti-patrones de **puesta en escena**: escenografía,
+  acción física de los personajes, silencios/pausas y transiciones entre secciones. Nace de
+  la misma observación que originó `dialogue_rules/` (Farid/`IA_policies/`) aplicada a la
+  carne alrededor del diálogo, no al diálogo mismo — beats que se sienten vacíos o
+  demasiado cortos frente a capítulos anteriores con más densidad descriptiva.
 
 ## ⚖️ Precedencia
 
@@ -39,7 +44,8 @@ En caso de conflicto:
    cuándo)" de `revelations/`.
 3. **`voice/`** manda sobre `dialogue_rules/` y sobre el instinto genérico de "cómo sonaría
    bien la línea". Una voz bien fijada ya evita la mayoría de los patrones catalogados abajo.
-4. **`dialogue_rules/`** es la última capa: patrones a evitar cuando ni el ledger, ni los
+4. **`dialogue_rules/`** y **`staging_rules/`** son la última capa, al mismo nivel entre
+   ellas: patrones a evitar (de diálogo o de puesta en escena) cuando ni el ledger, ni los
    hitos, ni la voz resuelven el problema por sí solos.
 
 ## Flujo de uso
@@ -63,6 +69,10 @@ En caso de conflicto:
    `milestones/INDEX.md` en vez de asumirlo de memoria.
 4. Repasar `dialogue_rules/` si la escena es una conversación larga o un beat emocional
    parecido a otros ya escritos (riesgo de caer en un patrón ya catalogado).
+5. Repasar `staging_rules/` antes de dar por cerrada la escena: ¿el lugar quedó anclado con
+   algún detalle sensorial? ¿los cuerpos hacen algo mientras hablan? ¿los silencios ocupan
+   espacio propio en vez de solo mencionarse? ¿hay una frase puente al cambiar de sección o
+   de escena, en vez de un corte seco?
 
 **Al cerrar una escena o capítulo:**
 1. Si la escena revela, confirma o siembra algo nuevo — actualizar la entrada de
@@ -71,6 +81,8 @@ En caso de conflicto:
    escenas anteriores) — documentarlo como regla nueva en `dialogue_rules/`.
 3. Si la escena revela algo nuevo y genuino sobre cómo habla un personaje — reflejarlo en su
    ficha de `voice/`.
+4. Si un beat quedó sin anclar espacialmente, sin acción física o sin transición, y ese
+   vacío se repite dos veces o más — documentarlo como regla nueva en `staging_rules/`.
 
 ## Auditorías de Codex — integración directa autorizada
 
@@ -82,6 +94,7 @@ solo en Claude Code cada vez, sigue el mismo precedente que la compuerta de
 **Codex puede escribir directamente en estas subcarpetas** cuando el resultado es aditivo y
 sigue el template existente al pie de la letra — sin esperar a que Claude Code lo reformatee:
 - `dialogue_rules/` — nuevas reglas numeradas, siguiendo `dialogue_rules/TEMPLATE.md`.
+- `staging_rules/` — nuevas reglas numeradas, siguiendo `staging_rules/TEMPLATE.md`.
 - `voice/` — nuevas fichas, siguiendo `voice/TEMPLATE.md`, con citas a escenas reales.
 - `revelations/*.md` — nuevas entradas o actualización de `Estado` en entradas existentes,
   siguiendo el formato de encabezado ya fijado en cada archivo.
@@ -116,6 +129,17 @@ confirmar y la prioridad recomendada para `voice/` (Ana, Lena, Sai).
 | [02-confesion-de-identidad-como-funcion](dialogue_rules/02-confesion-de-identidad-como-funcion.md) | "Soy solo mi función" (el arma, la lectora, el reemplazo) como fórmula repetida del miedo central de varios personajes distintos |
 | [03-antitesis-limpia-como-cierre-de-verdad](dialogue_rules/03-antitesis-limpia-como-cierre-de-verdad.md) | "Eso no es X, es Y" como cierre de aforismo — eficaz una vez, intercambiable si lo usan todos |
 | [04-resumen-perfecto-del-otro](dialogue_rules/04-resumen-perfecto-del-otro.md) | El interlocutor resume la herida del otro mejor de lo que él mismo la formuló, y el beat cierra ahí sin fricción |
+
+## Índice de reglas de puesta en escena
+
+Carpeta creada 2026-08-09, a petición del autor — la escenografía, la acción física, los
+silencios y las transiciones tienen su propio catálogo, separado del diálogo. Primera
+auditoría encargada a Codex el mismo día sobre `11_Books/Book_02_The_King_Of_Shapes/`
+(ver `99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-calibracion-escenografia-book02.md`).
+
+| Regla | Descripción |
+|-------|-------------|
+| *(vacío — pendiente de la primera auditoría)* | |
 
 ## Fichas de voz existentes
 
