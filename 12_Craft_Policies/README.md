@@ -150,16 +150,22 @@ heredados, en observación.
 | Personaje | Origen | Archivo |
 |-----------|--------|---------|
 | Ana Bray | `canon_readaptado` | [voice/ana-bray.md](voice/ana-bray.md) — lee desde la ciencia y su propio duelo (Willa), nombrado y ofrecido a cambio |
+| Angie | `original_renewed_fate` | [voice/angie.md](voice/angie.md) — presencia que sostiene; calor presente sin volverse romance perdido |
 | Carina | `original_renewed_fate` | [voice/carina.md](voice/carina.md) — cazadora práctica que vuelve habitable el espacio alrededor de otros |
 | Eris Morn | `canon_directo` | [voice/eris-morn.md](voice/eris-morn.md) — Traductora y Hereje; convierte cicatriz en instrumento |
 | Elsie Bray | `canon_readaptado` | [voice/elsie-bray.md](voice/elsie-bray.md) — superviviente de demasiados mapas rotos; precisión antes que consuelo |
 | Ghost | `canon_readaptado` | [voice/ghost.md](voice/ghost.md) — archivo emocional de Kyle y primera familia, no asistente técnico genérico |
 | Guardian / Kyle | `original_renewed_fate` | [voice/guardian-kyle.md](voice/guardian-kyle.md) — persona contenida bajo el mito; responsabilidad y culpa vigilada |
 | Hornet | `original_renewed_fate` | [voice/hornet.md](voice/hornet.md) — instinto de guardia con voz baja y precisa |
+| Joe | `original_renewed_fate` | [voice/joe.md](voice/joe.md) — brújula veterana; señala dirección sin volverse mentor solemne |
+| Kevin | `original_renewed_fate` | [voice/kevin.md](voice/kevin.md) — aire entre momentos difíciles; humor como inteligencia emocional |
 | Lena | `original_renewed_fate` | [voice/lena.md](voice/lena.md) — médica de campo; lee por síntoma físico y patrón observado |
 | Mara Sov | `canon_directo` | [voice/mara-sov.md](voice/mara-sov.md) — Arquitecta y Deudora; convierte amor en estrategia |
 | Oryx | `canon_directo` | [voice/oryx.md](voice/oryx.md) — Rey, Navegante y Padre; siempre busca una respuesta |
 | Petra Venj | `canon_directo` | [voice/petra-venj.md](voice/petra-venj.md) — Responsabilidad operativa; lidera mirando dos veces antes de ordenar |
+| Primera Escuadra | `original_renewed_fate` | [voice/primera-escuadra.md](voice/primera-escuadra.md) — gramática colectiva de "nadie vuelve solo" como práctica, no lema |
+| Resner | `original_renewed_fate` | [voice/resner.md](voice/resner.md) — disciplina silenciosa; la posición correcta como voz |
 | Riven | `canon_directo` | [voice/riven.md](voice/riven.md) — Depredadora, Artesana, Reina Enjaulada y Espejo; lee la distancia entre realidad y deseo |
 | Sai | `original_renewed_fate` | [voice/sai.md](voice/sai.md) — lectora paracausal; el acierto debe costarle algo |
 | Savathûn | `canon_directo` | [voice/savathun.md](voice/savathun.md) — Autora, Fugitiva y Cirujana de posibilidades |
+| Tiago | `original_renewed_fate` | [voice/tiago.md](voice/tiago.md) — memoria analítica; precisión que preserva personas, no técnico genérico |
