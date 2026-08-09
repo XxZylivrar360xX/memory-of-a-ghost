@@ -270,7 +270,7 @@ Kyle no respondió.
 
 Una pausa.
 
-—Lo que tú traes al combate no es certeza. No es rabia. —La voz de Eris no varió—. Es violencia definida por amor. —Pausa—. Eso es lo que el núcleo encontró. Eso es lo que ahora va a sostener.
+—Lo que tú traes al combate no es certeza. No es rabia. —La voz de Eris no varió—. Es fuego que protege antes de consumir. —Pausa—. Eso es lo que el núcleo encontró. Eso es lo que ahora va a sostener.
 
 Una pausa más larga.
 
@@ -332,13 +332,13 @@ Mandó llamar a Carina esa misma tarde.
 
 —No sé por qué me llamaste a mí —dijo Carina, entrando al taller con la cautela de alguien que todavía no terminaba de confiar del todo en espacios que olían a Colmena.
 
-—Porque esto no le sirve a nadie más. —Eris puso el fragmento sobre la mesa, entre las dos—. Reconoce urgencia. Reconoce la necesidad de decidir en el instante exacto en que ya es tarde para dudar. Kyle no tiene eso. Kyle tiene paciencia, aunque a veces la use mal. Vos no.
+—Porque esto no le sirve a nadie más. —Eris puso el fragmento sobre la mesa, entre las dos—. Reconoce urgencia. Reconoce la necesidad de decidir en el instante exacto en que ya es tarde para dudar. Kyle no tiene eso. Kyle tiene paciencia, aunque a veces la use mal. Tú no.
 
 Carina miró el fragmento, sin tocarlo todavía.
 
 —¿Es un arma?
 
-—Todavía no. Es una posibilidad. —Eris se sentó frente al material, con la misma calma técnica que Carina había visto usar con Kyle esa misma mañana, aunque no la hubiera presenciado—. Un núcleo así lee a quien lo sostiene. No pregunta qué querés ser. Pregunta qué ya sos, con la suficiente frecuencia como para que tenga forma.
+—Todavía no. Es una posibilidad. —Eris se sentó frente al material, con la misma calma técnica que Carina había visto usar con Kyle esa misma mañana, aunque no la hubiera presenciado—. Un núcleo así lee a quien lo sostiene. No pregunta qué quieres ser. Pregunta qué ya eres, con la suficiente frecuencia como para que tenga forma.
 
 ---
 
@@ -346,7 +346,7 @@ Carina miró el fragmento, sin tocarlo todavía.
 
 Trabajó en silencio un rato largo, y Carina se quedó, sin que nadie se lo pidiera, observando de la misma forma en que observaba cualquier sala nueva —catalogando, sin poder evitarlo, qué salida quedaba más cerca, qué objeto podía servir de cobertura si algo salía mal.
 
-—Dejá de hacer eso —dijo Eris, sin levantar la vista.
+—Deja de hacer eso —dijo Eris, sin levantar la vista.
 
 —¿Hacer qué?
 
@@ -356,11 +356,11 @@ Carina no lo negó, pero tampoco se disculpó.
 
 —Es lo que hago cuando no sé qué más hacer con las manos.
 
-—Lo sé. —Eris siguió trabajando—. Es exactamente lo que este núcleo encontró. No calma. No certeza. Una lectura constante del espacio, buscando el ángulo que otros no ven, porque en algún momento aprendiste que el ángulo que no cubrís es el que te cuesta lo que más te importa.
+—Lo sé. —Eris siguió trabajando—. Es exactamente lo que este núcleo encontró. No calma. No certeza. Una lectura constante del espacio, buscando el ángulo que otros no ven.
 
 Carina no respondió a eso.
 
-—Arco —dijo Eris, al fin, como quien anuncia un hecho, no una elección—. No fuego lento. No la paciencia de Solar. Algo que decide y golpea antes de que el resto del combate termine de darse cuenta de que ya pasó. Eso es lo que sos, con la frecuencia suficiente para que un núcleo lo reconozca.
+—Arco —dijo Eris, al fin, como quien anuncia un hecho, no una elección—. No fuego lento. No la paciencia de Solar. Algo que decide y golpea antes de que el resto del combate termine de darse cuenta de que ya pasó. Eso es lo que haces, con la frecuencia suficiente para que un núcleo lo reconozca.
 
 ---
 
@@ -368,9 +368,9 @@ Carina no respondió a eso.
 
 No fue un proceso largo —el fragmento, a diferencia del núcleo de Kyle, no cargaba dos historias enfrentadas que reconciliar, solo una velocidad que necesitaba dirección.
 
-—¿Qué le diste vos? —preguntó Carina, viendo tomar forma algo que todavía no reconocía como arma—. Kyle tuvo que traer los materiales. Yo solo traje una nota de Petra.
+—¿Qué le diste tú? —preguntó Carina, viendo tomar forma algo que todavía no reconocía como arma—. Kyle tuvo que traer los materiales. Yo solo traje una nota de Petra.
 
-—Vos trajiste la intención sin saber que la estabas trayendo. —Eris no levantó la vista del trabajo—. Cada vez que entraste a un asentamiento antes que la unidad oficial. Cada vez que decidiste, en el instante exacto en que ya era tarde para dudar, a quién sacar primero. Eso es lo que el núcleo estaba esperando encontrar. No lo trajiste hoy. Lo traés desde hace semanas.
+—Tú trajiste la intención sin saber que la estabas trayendo. —Eris no levantó la vista del trabajo—. Cada vez que entraste a un asentamiento antes que la unidad oficial. Cada vez que decidiste, en el instante exacto en que ya era tarde para dudar, a quién sacar primero. Eso es lo que el núcleo estaba esperando encontrar. No lo trajiste hoy. Lo traes desde hace semanas.
 
 Cuando terminó, puso el arma sobre la mesa.
 
@@ -382,7 +382,7 @@ Carina la tomó. El peso se sintió, de inmediato, menos como un objeto nuevo y 
 
 ## XI. What Carina Didn't Say
 
-—¿Por qué vos? —preguntó Carina, antes de irse—. Podrías haberle dado esto a cualquiera. ¿Por qué molestarte con alguien que ni siquiera es parte formal de la Vanguardia?
+—¿Por qué tú? —preguntó Carina, antes de irse—. Podrías haberle dado esto a cualquiera. ¿Por qué molestarte con alguien que ni siquiera es parte formal de la Vanguardia?
 
 —Porque el fragmento no habría servido para nadie más —dijo Eris, sin adornar la respuesta—. Y porque la última vez que alguien confió en mí sin que yo se lo pidiera, resultó que valía la pena.
 
@@ -395,3 +395,5 @@ Salió del taller con el arma todavía extraña en la mano, pensando, sin decirl
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Eris_Morn]], [[02_Characters/Carina]], [[02_Characters/Alak-Hul]], [[02_Characters/Ecthar]], [[02_Characters/Nokris]], [[02_Characters/Petra_Venj]], [[05_Dialogues/Dialogue_Guardian/Guardian_AlakHul_TakenKing_ElOscuroCuchillo]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ecthar_TakenKing_ElPortadorDelEscudo]], [[05_Dialogues/Dialogue_Guardian/Guardian_Eris_TakenKing_LaForja]], [[05_Dialogues/Dialogue_Carina/Carina_Eris_GuerraDeLosPoseidos_BoltCaster]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/03_The_Map_Of_Guilt]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 22 del libro (Capítulo 4 de Part 02), "A Sword Is Not an Answer", adaptando completo el **Frente 3** del roadmap (no el 4 — ver nota de numeración de `00_Book_Map.md`) casi verbatim: `Guardian_AlakHul_TakenKing_ElOscuroCuchillo` (Sección I), `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo` (Sección II), `Guardian_Eris_TakenKing_LaForja` (Secciones III-VI, ya escrita desde Parte 1, sin tocar una línea, solo dividida en sub-secciones con títulos nuevos para la estructura del capítulo) y `Carina_Eris_GuerraDeLosPoseidos_BoltCaster` (Secciones VII-XI). Es el capítulo más largo de Part 02 hasta ahora porque absorbe cuatro fuentes completas en vez de una — mismo tratamiento que recibió el Cap. 12 (`The Dreadnaught Key`) con el Cluster 3 de Part 01. Cumple el checklist del roadmap: Alak-Hul se ubica después de que Kyle entienda que fuerza sin pregunta puede ser una trampa (Sección I, la lección explícita en el cierre); Ecthar se ubica después del Frente 2, la devoción sin identidad ya visible en los Poseídos (Sección II); la espada nace como decisión —Oscuridad redirigida por intención Solar, no como "arma más fuerte" (Secciones V-VI); Eris no sobreexplica a Nokris ni el futuro, forja con conocimiento incompleto sin mentir sobre lo necesario (Sección IV, Kyle nunca sabe que el núcleo era de Nokris); Raze Lighter es la respuesta correcta para King's Fall porque preserva pregunta, amor e intención (Sección VI, cierre). Bolt Caster (Secciones VII-XI) cumple su propia función fijada en el roadmap: Carina gana su espada el mismo día, misma forja, mismo Eris, con un origen deliberadamente distinto en estructura al de Kyle (un solo componente, una sola pregunta, en vez de dos historias enfrentadas que reconciliar) para no calcar la fórmula. El elemento Arco nace de la misma lectura del portador que ya estableció el núcleo de Kyle. Único añadido real sobre las cuatro fuentes: ninguno — se preservó el texto íntegro de las cuatro escenas, solo se tradujeron los títulos de sección al inglés y se dividió `LaForja` en cuatro sub-secciones tituladas (III-VI) que no existían en el original (ahí corría como prosa continua separada por `---`). Ubicación en el mapa del libro: Cap. 21 (Frente 4, "The Map of Guilt") queda inmediatamente antes — Kyle llega a la forja ya contaminado por esa pregunta, coherente con la nota narrativa original de `LaForja` ("imperfecta, llena de dudas, incapaz de articular con precisión qué era lo que estaba eligiendo ser").*
+
+**Calibración de voz — auditoría Part 02 (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** normalizado a `tú` el voseo suelto de Eris y Carina en las Secciones VIII-XI (misma causa que en el Cap. 21 — fuente casi verbatim). Tres líneas de Eris definían la identidad de Kyle y Carina con demasiada certeza: "Es violencia definida por amor" (Sección V) se cambió a "Es fuego que protege antes de consumir" — conserva la lectura material del núcleo Solar sin la etiqueta emocional explícita. En la Sección IX, "el ángulo que no cubrís es el que te cuesta lo que más te importa" se recortó antes de nombrar la herida (el duelo por Lena, sin decirlo) — Eris nombra ángulo y decisión, no completa sola el trauma de alguien externo. "Eso es lo que sos, con la frecuencia suficiente..." se cambió a "Eso es lo que haces..." — lee conducta observada, no dicta identidad completa.

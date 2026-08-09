@@ -148,19 +148,19 @@ Savathûn lo miró, sin tocarlo todavía.
 
 —¿Por qué?
 
-—Porque si voy a perder, prefiero que lo que queda de mí sirva para algo que yo mismo elegí soltar, en vez de para algo que me arrebaten. —Oryx no explicó más que eso. No dijo para qué iba a servir. No dijo qué era, exactamente, lo que estaba poniendo en marcha al soltarlo de sus manos y en las de ella—. Es tuyo. Como es tuyo, ahora, lo que aprendí de un lugar tejido con magia que no es Colmena, ni Vex, ni nuestra. Una ciudad hecha de deseo. Y algo dentro de ella que no terminé de someter — solo herí.
+—Porque una herramienta no debe esperar a que el vencedor decida su uso. —Oryx no explicó más que eso. No dijo para qué iba a servir. No dijo qué era, exactamente, lo que estaba poniendo en marcha al soltarlo de sus manos y en las de ella—. Es tuyo. Como es tuyo, ahora, lo que aprendí de un lugar tejido con magia que no es Colmena, ni Vex, ni nuestra. Una ciudad hecha de deseo. Y algo dentro de ella que no terminé de someter — solo herí.
 
 Savathûn tomó la Mente Vex, sintiendo, sin poder nombrarlo todavía, que aceptar eso significaba aceptar más de lo que la frase decía en voz alta.
 
 —¿Por qué me lo das a mí, y no a Xivu?
 
-—Porque Xivu lo usaría para hacer más guerra. —Oryx la miró directamente—. Tú vas a hacer con esto algo que ni yo ni ella podríamos predecir. Eso es exactamente lo que quiero que quede de mí, si esto termina como creo que va a terminar.
+—Porque Xivu lo usaría para hacer más guerra. —Oryx la miró directamente—. Tú vas a hacer con esto algo que ni yo ni ella podríamos predecir. Toda pregunta digna sobrevive a quien la hizo. Eso es lo que quiero que quede de mí.
 
 Ninguno de los dos nombró en voz alta lo que ese don iba a desatar, con los años, en un rincón de Sol que todavía no tenía ninguna razón para importarle a nadie.
 
 —¿No quieres saber cuál de nosotros tenía razón? —repitió Oryx, volviendo a la pregunta original, ahora con el peso añadido de lo que acababa de entregarle—. ¿No quieres saber por qué no vas a estar a mi lado cuando lleguen?
 
-—No es que no quiera saberlo. —Savathûn guardó la Mente Vex en algún lugar que no era del todo espacio—. Es que ya sé que tu ausencia va a confirmar, para mí, que ya empecé a separarme de la familia. Y de la doctrina. Vine a decírtelo en persona, en vez de dejar que lo descubrieras solo.
+—No es que no quiera saberlo. —Savathûn guardó la Mente Vex en algún lugar que no era del todo espacio—. No vine a estar a tu lado cuando lleguen. Vine a asegurarme de que lo supieras antes de llamarlo traición.
 
 ## IX. The Farewell Neither of Them Calls a Farewell
 
@@ -210,3 +210,5 @@ Tenía nombre de cuenta pendiente.
 *Conecta con: [[02_Characters/Oryx]], [[02_Characters/Savathun]], [[02_Characters/Riven]], [[04_Concepts/Throne_Worlds]], [[04_Concepts/Ascendant_Plane]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/06_The_Wounded_Wish]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 25 del libro (Capítulo 7 de Part 02), "Always Eager to Die", cierra la Parte 2 — Fuente: `Oryx_Savathun_GuerraDeLosPoseidos_SiempreEstoyEntusiasmadoPorMorir`, casi verbatim, respetando los 10 movimientos guionados por el autor y todas las líneas protegidas entre comillas, sin alterar orden ni diálogo. Adapta a la vez el cierre del **Frente 5** (Secciones I-VII, IX-X) y el **Beat B del Frente 6** (Sección VIII, el don de la Mente Vex y el secreto de Riven a Savathûn) — la Mente no se nombra en ningún punto del texto, coherente con el guardrail ya fijado en el Cap. 24. Único añadido real: el párrafo de apertura y las tres líneas de cierre ("Muy lejos de ahí..."), que anclan la transición directa hacia `Guardian_Equipo_KingsFall_01_LaEntrada` (Cap. 26) — la Sección X termina, literalmente, en el instante anterior a esa escena. **Con este capítulo, Part 02 — The Taken War queda completa: 7 de 7 capítulos (19-25).** Regla dura respetada: Kyle no aparece ni se menciona en ningún punto — la escena es enteramente Oryx/Savathûn. Verificado sin fricciones contra `02_Characters/Oryx.md` y `02_Characters/Savathun.md` (uso de "Sathona" ya fijado, su desconfianza de toda verdad final y su futura búsqueda de la Luz, dramatizadas aquí por primera vez sin inventarlas). Oryx no suena suicida — "siempre estoy entusiasmado por morir" se sostiene como disposición a arriesgarse por una pregunta, no resignación ni plan de derrota.*
+
+**Calibración de voz — auditoría Part 02 (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** dos líneas de Oryx en la Sección VIII rozaban plan de derrota al entregar la Mente Vex — "si voy a perder, prefiero que lo que quede de mí sirva para algo que yo mismo elegí soltar" se reescribió como principio de agencia ("una herramienta no debe esperar a que el vencedor decida su uso"), y "eso es lo que quiero que quede de mí, si esto termina como creo que va a terminar" perdió la predicción de derrota final, quedando en "toda pregunta digna sobrevive a quien la hizo. Eso es lo que quiero que quede de mí" — el roadmap exige que Oryx pelee para ganar, sin sonar a testamento. En la misma sección, Savathûn se autoexplicaba entera al despedirse ("ya sé que tu ausencia va a confirmar, para mí, que ya empecé a separarme de la familia. Y de la doctrina") contra su propia ficha, que la marca reformulando, no confesándose — corregido a "no vine a estar a tu lado cuando lleguen. Vine a asegurarme de que lo supieras antes de llamarlo traición", que además conecta directo con la pregunta de Oryx dos líneas antes.

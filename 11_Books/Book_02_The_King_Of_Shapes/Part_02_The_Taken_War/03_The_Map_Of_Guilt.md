@@ -30,9 +30,9 @@ Elsie tenía la mesa cubierta de proyecciones cuando Kyle llegó, pero no eran l
 
 —Ya dejé de mirar eso hace días. —Elsie no apartó los ojos de la proyección—. Mirar dónde atacó Oryx no explica nada. El patrón no está en los objetivos. Está en las respuestas.
 
-—¿A qué te referís?
+—¿A qué te refieres?
 
-—A esto. —Elsie amplió una línea de tiempo, superpuesta sobre un mapa que no mostraba territorio ganado ni perdido, solo decisiones—. No dibujé dónde Oryx quería conquistar. Dibujé dónde ibas a correr vos, si te daban una razón moral suficiente para hacerlo.
+—A esto. —Elsie amplió una línea de tiempo, superpuesta sobre un mapa que no mostraba territorio ganado ni perdido, solo decisiones—. No dibujé dónde Oryx quería conquistar. Dibujé dónde ibas a correr, si te daban una razón moral suficiente para hacerlo.
 
 Kyle se acercó, sin entender todavía del todo.
 
@@ -46,7 +46,7 @@ Kyle se acercó, sin entender todavía del todo.
 
 —¿Confirmar qué?
 
-—Los ataques más costosos de esta semana no ocurrieron al azar. —Ghost proyectó una secuencia propia, más pequeña, más precisa que la de Elsie—. Ocurrieron minutos después de que vos decidieras desviarte para salvar algo que parecía urgente. No antes. Después. Como si algo esperara a ver hacia dónde ibas a mirar, y golpeara exactamente donde acababas de dejar de mirar.
+—Los ataques más costosos de esta semana no ocurrieron al azar. —Ghost proyectó una secuencia propia, más pequeña, más precisa que la de Elsie—. Ocurrieron minutos después de que decidieras desviarte para salvar algo que parecía urgente. No antes. Después. Como si algo esperara a ver hacia dónde ibas a mirar, y golpeara exactamente donde acababas de dejar de mirar.
 
 Kyle se quedó en silencio, el peso de la frase asentándose despacio.
 
@@ -58,7 +58,7 @@ Kyle se quedó en silencio, el peso de la frase asentándose despacio.
 
 —Entonces esto es sobre mí —dijo Kyle, la voz más plana de lo que pretendía.
 
-—No —dijo Elsie, con la firmeza específica que reservaba para cuando alguien se equivocaba en algo que de verdad importaba—. Esto no es que Oryx te haya elegido especialmente. Es que encontró el mismo patrón que encontraría en cualquier ruta con suficientes desvíos: suficientes frentes abandonados, suficiente costo repetido siempre en el mismo punto ciego. —Pausa—. La palabra que no quiero usar es amor. Pero es esa.
+—No —dijo Elsie, con la firmeza específica que reservaba para cuando alguien se equivocaba en algo que de verdad importaba—. Esto no es que Oryx te haya elegido especialmente. Es que encontró el mismo patrón que encontraría en cualquier ruta con suficientes desvíos: suficientes frentes abandonados, suficiente costo repetido siempre en el mismo punto ciego. —Pausa—. Es el punto donde siempre respondes primero.
 
 Kyle miró la proyección un momento más, las líneas de tiempo, los frentes, las decisiones que en su momento se habían sentido como las únicas posibles.
 
@@ -76,7 +76,7 @@ Elsie no respondió de inmediato. Dejó que la frase existiera en el espacio ent
 
 —¿Entonces qué hago? —preguntó Kyle—. ¿Dejo de desviarme? ¿Dejo que la gente muera en el objetivo que no elegí solo porque elegir es exactamente lo que él quiere que haga?
 
-—No. —Elsie lo dijo sin dudar—. Si dejás de salvar gente, ganás la pelea equivocada. Eso tampoco es la respuesta.
+—No. —Elsie lo dijo sin dudar—. Si dejas de salvar gente, ganas la pelea equivocada. Eso tampoco es la respuesta.
 
 —¿Entonces cuál es?
 
@@ -84,7 +84,7 @@ Elsie no respondió de inmediato. Dejó que la frase existiera en el espacio ent
 
 Kyle no tuvo una respuesta lista. No pretendió tenerla.
 
-—Mostrame el mapa otra vez —dijo, en cambio.
+—Muéstrame el mapa otra vez —dijo, en cambio.
 
 Elsie lo hizo. No le dio instrucciones. No le dijo qué decisión tomar la próxima vez que el patrón volviera a repetirse. Solo le mostró, una vez más, la forma exacta de lo que ya sabía — y aceptó, sin decirlo en voz alta, que no podía controlar lo que él hiciera con esa forma una vez que saliera otra vez a pelear.
 
@@ -94,7 +94,15 @@ Elsie lo hizo. No le dio instrucciones. No le dijo qué decisión tomar la próx
 
 Más tarde, cuando Elsie ya se había quedado dormida y Kyle seguía despierto, mirando el fuego sin verlo del todo, Ghost habló, la voz todavía marcada por el tartamudeo mínimo que llevaba desde el Acorazado.
 
-—Necesito decirte la parte que no le dije a Elsie completa —dijo—. Seguir el patrón que Oryx te tiende puede salvar una vida real, inmediata, la que ves frente a vos. Y puede costarte una posición estratégica que después le cuesta la vida a alguien que no llegaste a ver. Ignorarlo puede ganarte esa posición. Y puede costarte a alguien real, frente a vos, mientras decidís no mirar.
+—Necesito decirte la parte que no le dije a Elsie completa —dijo—. Seguir el patrón que Oryx te tiende puede salvar una vida real. Inmediata. La que ves frente a ti.
+
+—¿Y si no lo sigo?
+
+—Entonces ganas la posición. —Ghost se detuvo, corrigiéndose a media frase—. No. No siempre. A veces solo pierdes de otra forma, en otro lugar, a alguien que nunca llegaste a ver a tiempo para saber que lo estabas perdiendo.
+
+—Entonces no hay diferencia.
+
+—Sí la hay. —Otra pausa, más corta que la anterior—. Solo que ninguna de las dos es limpia.
 
 —No hay opción limpia.
 
@@ -113,3 +121,5 @@ Y que esa certeza, por primera vez, no lo iba a dejar elegir tranquilo nunca má
 *Nota narrativa: Capítulo 21 del libro (Capítulo 3 de Part 02), "The Map of Guilt", adaptando completa `Guardian_Elsie_GuerraDeLosPoseidos_ElMapaDeLaCulpa` (**Frente 4** del roadmap — no el 3; ver nota de numeración de `00_Book_Map.md`) casi verbatim, mismo tratamiento que los Caps. 19-20. Resuelve la Decisión pendiente original de `Plan_TakenKing_Parte1.md` (heredada a Parte 2): el beat exacto donde Kyle entiende que Oryx usa su culpa como arma. Cumple el checklist fijado el 2026-07-19 al pie de la letra: Elsie compara rutas de respuesta, no rutas de ataque (Sección II); Ghost confirma que los ataques más costosos siguieron a las decisiones de desviarse de Kyle (Sección III); la frase funcional llega tal como se guionó — "Oryx no está usando mi culpa para castigarme; la está usando para moverme" (Sección IV); la comprensión no lo vuelve frío — la respuesta no es dejar de salvar gente, sino dejar de permitir que Oryx decida el orden (Sección V); Elsie no da la respuesta, muestra el mapa y acepta no controlar lo que Kyle haga con él (Sección V); Ghost sostiene la consecuencia sin opción limpia (Sección VI). Carina aparece brevemente en el frente civil paralelo (Sección I), nunca como quien le explica la culpa a Kyle — cumple la restricción del roadmap; su hilo y el de Kyle corren sin cruzarse, eco deliberado del "ninguno de los dos tríos se entera del otro todavía" ya establecido en el Cap. 20. Regla dura respetada: en ningún momento Kyle siente, nombra ni usa el reclamo dormido — la introspección es exclusivamente sobre culpa y responsabilidad, nunca sobre herencia o trono. Se ubica inmediatamente antes del Cap. 22 ("A Sword Is Not an Answer", la forja de Raze Lighter y Bolt Caster, Frente 3) — Kyle llega ahí ya contaminado por esta pregunta, coherente con el orden fijado en el roadmap y con la nota narrativa ya existente en `Guardian_Eris_TakenKing_LaForja` ("imperfecta, llena de dudas, incapaz de articular con precisión qué era lo que estaba eligiendo ser"). Sin añadidos de prosa nuevos — la fuente ya tenía calidad de capítulo de libro completo, solo se tradujeron los títulos de sección al inglés.*
 
 *Calibración de voz (auditoría de Codex, 2026-08-09):* la línea de Ghost en la Sección III se recortó — mantiene la confirmación concreta ("los ataques siguieron tus desvíos") y suma su propio temor ("no sé cómo decirte esto"), pero ya no nombra la lógica emocional completa ("tu culpa va a elegir la ruta por él"), que sonaba a narrador temático en su boca. La línea de Elsie en la Sección IV se desplazó de fórmula ("el mismo mecanismo que encontraría en cualquiera que amara lo suficiente...") a datos concretos (rutas, frentes abandonados, costo repetido), dejando "amor" como una sola palabra difícil en vez de explicación del patrón; el mismo ajuste se aplicó a su línea de la Sección V ("sangrar tu amor" → "el orden"). **La línea de Kyle en la Sección IV ("Oryx no está usando mi culpa para castigarme... la está usando para moverme") se revisó y se dejó intacta a propósito** — es el beat guionado explícitamente en el checklist del 2026-07-19 citado arriba, no una improvisación de diálogo; tocarla habría roto una decisión de diseño ya fijada con el autor, no un problema de voz.*
+
+**Calibración de voz — auditoría Part 02 (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** normalizado a `tú` el voseo suelto de Kyle, Elsie y Ghost en las Secciones II, III y V (venía de la fuente casi verbatim, no de una decisión de voz — el resto del vault los trata como hablantes de `tú`). Sección IV, cierre de Elsie: "La palabra que no quiero usar es amor. Pero es esa." se reescribió a "Es el punto donde siempre respondes primero" — todavía muy frontal para su etapa de confianza incipiente en Taken King, aun después del ajuste anterior de la misma línea. Sección VI: el pasaje de Ghost que resumía el dilema completo en una sola intervención simétrica se fragmentó en un intercambio con Kyle, con una autocorrección de Ghost a media frase ("Entonces ganas la posición. —No. No siempre...") antes de llegar a "No hay opción limpia" — conserva esa línea y la lealtad final intactas, pero ya no llega por fórmula perfecta.
