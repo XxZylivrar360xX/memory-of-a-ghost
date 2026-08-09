@@ -14,7 +14,7 @@ El rumor le llegó primero a Atheena, que nunca dejaba de escuchar. Lo que hicie
 
 Carina notó el cambio antes de entender qué lo había causado.
 
-Atheena llevaba una hora encorvada sobre la misma proyección, sin la vigilia tranquila de siempre —esa paciencia de quien no necesita dormir y por eso puede permitirse mirar las cosas el tiempo que hagan falta. Esta vez había tensión en la forma en que sostenía los datos, algo que Carina no le había visto antes en las semanas que llevaban compartiendo campamento.
+El campamento en Kepler, tres semanas después de la emboscada, ya tenía la rutina asentada de un lugar que empezaba a sentirse habitado — una fogata baja rodeada de equipo apilado con cuidado, la luz gris del cielo cediendo hacia algo más oscuro que nunca terminaba de ser noche completa. Atheena llevaba una hora encorvada sobre la misma proyección, sin la vigilia tranquila de siempre —esa paciencia de quien no necesita dormir y por eso puede permitirse mirar las cosas el tiempo que hagan falta. Esta vez había tensión en la forma en que sostenía los datos, algo que Carina no le había visto antes en las semanas que llevaban compartiendo campamento.
 
 —¿Qué encontraste? —preguntó, acercándose.
 
@@ -92,7 +92,7 @@ Atheena no dijo nada. Solo revisó, una vez más, cada dato del patrón que llev
 
 ## VI. Malok
 
-Lo encontraron en el aftermath, no en el clímax —el sistema todavía sacudiéndose de la caída de Oryx, sin que la Vanguardia hubiera terminado de reorganizar su respuesta, cuando el patrón de Atheena por fin les dio una ubicación concreta: una célula Poseída moviéndose con una coherencia y una dirección que ningún resto vaciado debería tener.
+Lo encontraron en el aftermath, no en el clímax —el sistema todavía sacudiéndose de la caída de Oryx, sin que la Vanguardia hubiera terminado de reorganizar su respuesta, cuando el patrón de Atheena por fin les dio una ubicación concreta: los restos calcinados de un puesto avanzado en los bordes del Cosmódromo, chatarra Poseída todavía humeante entre las estructuras caídas, donde una célula Poseída se movía con una coherencia y una dirección que ningún resto vaciado debería tener.
 
 Al frente de ella, algo que se movía con demasiada intención para ser solo un eco.
 
@@ -136,3 +136,5 @@ Como quien busca al único aliado capaz de cerrar, junto a ellos, algo que los t
 *Conecta con: [[02_Characters/Carina]], [[02_Characters/Jaden]], [[02_Characters/Atheena]], [[02_Characters/Guardian]], [[02_Characters/Malok]], [[11_Books/Book_02_The_King_Of_Shapes/Part_05_Aftermath/01_What_They_Found_In_Exile]], [[11_Books/Book_02_The_King_Of_Shapes/Part_05_Aftermath/03_Just_In_Time]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[09_Roadmaps/Plan_Jaden_Atheena_Origen]]*
 
 *Nota narrativa: Capítulo 34 del libro (Capítulo 2 de Part 05, renumerado 2026-08-08), "The False Pretender", adapta `Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok` (Movimiento VII del Aftermath). **Reescrito el 2026-08-08** para cerrar la perspectiva en Carina de punta a punta — la versión anterior abría con la lectura técnica privada de Atheena antes de que Carina interviniera; ahora todo pasa por lo que Carina observa, pregunta o infiere del comportamiento ajeno, incluidas las razones de Jaden y Atheena para acompañarla, que ella lee en gestos y pausas en vez de conocerlas por acceso directo a su interioridad. Carina todavía no conoce el nombre de Malok en este capítulo —lo sabrá recién en el Cap. 35 (`Just in Time`), de boca de Kyle— coherente con que el rumor le llegó primero a Atheena, nunca a ella. El fracaso final (Carina herida, Jaden sin ángulo, Atheena sorprendida por primera vez) sigue siendo real, no derrota total — es lo que los lleva a buscar a Kyle, no un impulso de auxilio automático.*
+
+*Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`, capítulo citado explícitamente en la auditoría por la regla 02):* anclado el campamento de Kepler al abrir (fogata, equipo apilado, la luz gris cediendo hacia la falsa noche) y el sitio del encuentro con Malok (restos calcinados de un puesto del Cosmódromo, chatarra Poseída humeante) — ninguno de los dos tenía descripción física propia. El combate contra Malok ya traía beats corporales concretos de una revisión anterior (Carina herida en el hombro, Jaden sin ángulo, Atheena sorprendida por primera vez) que cumplen la regla 02 sin necesitar más — se dejaron intactos. Ningún diálogo ni hecho de canon se modificó.*
