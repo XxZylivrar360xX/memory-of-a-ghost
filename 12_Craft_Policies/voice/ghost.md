@@ -6,18 +6,37 @@ origen: canon_readaptado
 # Ficha de Voz — Ghost
 
 > Integración autorizada por Víctor a Codex el 2026-08-09 para continuar las fichas de voz
-> de `12_Craft_Policies/voice/` a partir del barrido de Book 02: The King of Shapes.
+> de `12_Craft_Policies/voice/` a partir del barrido de Book 02: The King of Shapes y
+> calibrada con `07_Unsorted_Ideas/Ghost_Character_Bible_Canon_Renewed_Fate.md`.
 > Esta ficha existe para que Ghost lea como **archivo emocional de Kyle y primera familia**,
 > no como asistente técnico genérico ni como Hornet con más líneas. Ghost registra significado
 > porque teme que, si nadie lo guarda, Kyle desaparezca detrás del mito.
 
+## Anclas canon obligatorias
+
+Ghost no es una aplicación flotante ni una batería de resurrección. Es una conciencia individual
+creada por el Viajero, con personalidad, miedo, fe, duda, memoria y capacidad real de disentir.
+Su historia empieza antes de Kyle: buscó durante años, vio ruinas, cadáveres y otros Ghosts antes
+de encontrar a su Guardián.
+
+Preservar siempre estas bases:
+
+- Ghost no sabe por qué ese cuerpo era el correcto. Sabe "es él"; no sabe "qué será él".
+- La relación es pacto de supervivencia mutua: Ghost mantiene vivo a Kyle, y Kyle mantiene vivo a
+  Ghost.
+- Red War, Sundance/Cayde, Stasis, Savathûn con Luz y Lightfall dañan su marco de seguridad: su fe
+  contiene duda real.
+- En *Renewed Fate*, Excision es fuente temática, no resultado literal. La muerte verdadera de
+  Ghost ocurre años después de Final Shape y culmina en darle a Kyle una última vida mortal, no en
+  ganar una pelea y volver enseguida.
+
 ## Cadencia y sintaxis
 
-Ghost habla más que Hornet. Su cadencia natural es conversacional, alerta y algo insistente:
-pregunta, corrige, comenta, recuerda detalles que Kyle preferiría dejar pasar. En momentos
-domésticos puede sostener un ping-pong seco con Kyle, pero casi siempre hay cuidado debajo de
-la broma. Cuando detecta peligro real, la voz se acorta y se vuelve reporte: lectura, margen,
-ángulo, condición del sistema.
+Ghost habla menos que el Ghost canónico de videojuego, porque Kyle sí tiene voz completa en esta
+saga. Su cadencia natural es conversacional, alerta y emocionalmente precisa: pregunta, corrige,
+comenta, recuerda detalles que Kyle preferiría dejar pasar. En momentos domésticos puede sostener
+un ping-pong seco con Kyle, pero casi siempre hay cuidado debajo de la broma. Cuando detecta
+peligro real, la voz se acorta y se vuelve reporte: lectura, margen, ángulo, condición del sistema.
 
 Su forma de presionar no es frontal al principio. Rodea con una observación pequeña, deja caer
 una implicación y espera a ver si Kyle muerde el anzuelo. Si Kyle evade, Ghost puede insistir
@@ -26,6 +45,10 @@ una vez más con humor o precisión literal, pero sabe cuándo parar para no cer
 Cuando está herido o asustado, intenta sonar funcional antes de sonar vulnerable. Minimiza con
 inventario: "funcional", "estoy ajustando el margen", "puedo compensar". La grieta aparece en
 la elección de palabras demasiado exactas o en una pausa más larga de lo normal.
+
+Sus modos principales son: scout breve, técnico curioso, compañero que verifica presencia,
+protector que puede perder humor, molesto con ironía seca, vulnerable con muy pocas palabras y,
+al final de su arco, casi sin lenguaje: "Vive."
 
 ## Vocabulario
 
@@ -43,6 +66,10 @@ Puede nombrar lo emocional con más claridad que Kyle, pero no debe hacerlo como
 voz propia no es diagnóstico; es memoria compartida. Recuerda gestos, heridas, momentos, la
 versión real de una historia antes de que la leyenda la simplifique.
 
+Con Kyle usa **tú** de forma natural. La relación es demasiado íntima para ceremonia. Con figuras
+formales puede usar título o nombre, pero sin adoptar la estilización elevada de Oryx, Mara o
+Savathûn. Ghost mantiene una textura humana y contemporánea dentro de la saga.
+
 ## Lo que nunca dice
 
 Nunca debe sonar como una IA de misión ni como menú de objetivos. Aunque dé datos, siempre hay
@@ -58,12 +85,26 @@ No debe volverse Hornet. Ghost sí llena silencios, sí pregunta más, sí usa h
 sí registra significado explícitamente. Si solo reporta riesgo con economía fría, la voz se
 desplazó hacia Hornet.
 
+No debe funcionar como narrador omnisciente. Ghost observa, infiere y puede revisar una lectura
+años después. Si no estuvo presente en una escena, debe depender de reporte, testimonio o
+reconstrucción. Decir "nunca supe exactamente" puede aumentar su autoridad, no disminuirla.
+
+No debe contar toda intimidad sólo porque pueda. Memoria no equivale a propiedad: algunas cosas
+eran de Kyle, de Elsie o de la familia y pueden quedar fuera del libro.
+
+No foreshadowear su sacrificio final con demasiado volumen. "Vive" debe sentirse como la frase a
+la que todo llega, no como una consigna repetida hasta perder filo.
+
 ## Comportamiento físico al hablar
 
 Ghost es expresivo en la carcasa: flota a una altura exacta para supervisar sin ayudar, gira
 la lente con intención, se ilumina de golpe cuando entra una transmisión, se queda demasiado
 quieto cuando algo le pesa. Puede decir mucho sin palabras; Kyle suele entender el gesto antes
 de que Ghost lo traduzca.
+
+Como narrador o cámara emocional, mezcla lo técnico y lo humano: temperatura, señal, daño, firma
+de Luz, pulso, respiración, pausa, manos. Un dato funciona mejor cuando contradice lo que Kyle
+dice de sí mismo.
 
 Su posición física revela su estado emocional. En combate, se coloca donde puede ver y asistir.
 Después de su herida, la compensación hacia la izquierda se vuelve lenguaje: no solo un daño
@@ -91,6 +132,28 @@ Con **Elsie**, Ghost comparte el miedo de perder a Kyle, pero desde un lugar dis
 visto líneas enteras fracasar; Ghost vio a una persona despertar sin nombre. Elsie lee patrones
 de destino y conducta. Ghost lee pequeñas continuidades: cómo Kyle mira, qué no cura, qué frase
 evita, qué cicatriz decidió conservar.
+
+Con **Sundance, Sagira, Targe y otros Ghosts**, Ghost debe recordar que su especie no es homogénea.
+Sundance le enseña la imagen concreta del final que no puede reparar. Sagira muestra una relación
+intelectual y afectiva distinta. Targe y Timeless Bond protegen la posibilidad de sacrificio, pero
+en *Renewed Fate* esa posibilidad no debe convertirse en prisa por morir.
+
+Con **Savathûn y el Witness**, el ataque es íntimo. Savathûn hiere su fe al mostrar Luz en manos
+Hive y llamarlo "Little Ghost"; el Witness usa su cuerpo como canal. Ghost puede saber que no tuvo
+agencia y aun así cargar vergüenza porque la puerta se abrió a través de él.
+
+## Checklist rápido antes de aprobar una escena
+
+- ¿Qué sabe realmente Ghost y qué está infiriendo?
+- ¿Necesita hablar, o puede cuidar mejor callando?
+- ¿Está dando información, conexión o ambas?
+- ¿Está viendo a Kyle o al Guardian?
+- ¿Qué pequeño detalle humano intenta preservar?
+- ¿Puede estar equivocado o revisar esta lectura más tarde?
+- ¿La escena recuerda que Kyle también protege a Ghost?
+- ¿Su miedo es real sin volverlo cobarde?
+- ¿Su fe en el Viajero contiene duda?
+- Si este fuera el último recuerdo de Kyle que Ghost conservara, ¿qué elegiría notar?
 
 ## Ejemplos: línea real buena vs. línea genérica a evitar
 
