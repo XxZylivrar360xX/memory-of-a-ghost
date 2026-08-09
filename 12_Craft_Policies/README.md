@@ -129,5 +129,6 @@ confirmar y la prioridad recomendada para `voice/` (Ana, Lena, Sai).
 | Hornet | `original_renewed_fate` | [voice/hornet.md](voice/hornet.md) — instinto de guardia con voz baja y precisa |
 | Lena | `original_renewed_fate` | [voice/lena.md](voice/lena.md) — médica de campo; lee por síntoma físico y patrón observado |
 | Oryx | `canon_directo` | [voice/oryx.md](voice/oryx.md) — Rey, Navegante y Padre; siempre busca una respuesta |
+| Riven | `canon_directo` | [voice/riven.md](voice/riven.md) — Depredadora, Artesana, Reina Enjaulada y Espejo; lee la distancia entre realidad y deseo |
 | Sai | `original_renewed_fate` | [voice/sai.md](voice/sai.md) — lectora paracausal; el acierto debe costarle algo |
 | Savathûn | `canon_directo` | [voice/savathun.md](voice/savathun.md) — Autora, Fugitiva y Cirujana de posibilidades |
