@@ -14,6 +14,8 @@ Eris Morn le dijo a Kyle dónde encontrar el primer componente de la espada. No 
 
 La Celda Sin Sol no era una prisión en el sentido que Kyle reconocía.
 
+No había barrotes. No hacían falta. El espacio mismo estaba tallado en la roca viva del Acorazado, sin una sola grieta por donde entrara luz que no fuera la propia bioluminiscencia enferma de las paredes — un pozo cerrado, hondo, cuyo techo se perdía en una oscuridad que ni el escáner de Ghost terminaba de medir. El aire ahí dentro pesaba distinto, cargado de algo que Kyle no supo nombrar hasta que llevaba varios pasos adentro: la quietud específica de un lugar diseñado para que nada, ni siquiera el tiempo, encontrara motivo para moverse.
+
 Las prisiones que había visto tenían la textura del castigo — algo diseñado para comunicarle al prisionero su condición. Esto era diferente. El lugar donde Oryx había encerrado a Alak-Hul tenía la textura de la precaución. No *eres débil y estás aquí porque lo mereces*. Sino: *eres peligroso y estás aquí porque no tengo otra solución para ti*.
 
 Kyle llegó hasta él atravesando capas de defensa que no eran de Alak-Hul — eran de Oryx. La Colmena que lo custodiaba no servía al prisionero. Servía al carcelero.
@@ -40,6 +42,8 @@ El combate no tenía sutileza.
 
 Eso también era información. Alak-Hul no medía, no probaba, no buscaba la grieta — iba directo porque para su lógica ir directo era la única respuesta correcta. La fuerza más directa contra la fuerza más directa. El resultado determinaba la verdad.
 
+El primer golpe le abrió una línea en el hombro que la Luz cerró antes de que terminara de sangrar. El segundo lo lanzó contra la pared curva de la celda, el impacto sacándole el aire de los pulmones un instante antes de que pudiera rodar fuera del alcance del tercero.
+
 Kyle no peleó a la manera de Alak-Hul.
 
 No porque no pudiera — porque entendía, mientras esquivaba el tercer golpe y buscaba el ángulo, que pelear a la manera de Alak-Hul sería confirmar su lógica. Sería decirle: *tienes razón, esto es lo que somos, la fuerza más grande gana y eso lo explica todo*.
@@ -47,6 +51,8 @@ No porque no pudiera — porque entendía, mientras esquivaba el tercer golpe y 
 Y eso no era lo que Kyle pensaba.
 
 No del todo.
+
+Se movió distinto, entonces — más bajo, más lateral, dejando que Alak-Hul gastara su propio impulso contra el espacio vacío una y otra vez, hasta que el patrón perfecto empezó a tener el desgaste mínimo de algo que no sabía hacer otra cosa. Ahí, en esa fracción de segundo entre un golpe fallado y el siguiente, encontró el ángulo.
 
 ---
 
@@ -79,6 +85,8 @@ El primer componente tenía su lección: la fuerza sin pregunta termina encerrad
 ---
 
 ## II. The Shieldbearer
+
+La cámara sellada tenía una geometría distinta a cualquier otro espacio que Kyle hubiera cruzado en el Acorazado — perfectamente circular, las paredes lisas en vez de talladas con la textura orgánica habitual de la Colmena, como si algo hubiera decidido que ese cuarto merecía una precisión que el resto del barco no necesitaba. El aire ahí dentro estaba inmóvil de una forma casi antinatural, sin la corriente helada que se colaba por el resto de los corredores.
 
 El segundo componente no estaba oculto — estaba custodiado. Eris sabía dónde. Lo que Kyle encontraría junto al núcleo era algo que Eris no le explicó de antemano: la historia de para quién había sido forjado el núcleo originalmente, y por qué nunca lo habían reclamado.
 
@@ -116,9 +124,11 @@ Kyle tardó más de lo esperado.
 
 No porque Ecthar fuera más fuerte que Alak-Hul —sino porque luchar contra algo que no tiene voluntad propia tiene una fricción específica. No hay grieta que buscar en el ego. No hay momento de duda que aprovechar. Solo el escudo y el cuerpo detrás del escudo y la convicción absoluta de que ambos deben mantenerse donde están.
 
+Cada golpe que Kyle lanzaba contra el escudo rebotaba con la misma resistencia exacta, una y otra vez, hasta que el brazo empezó a dolerle por el impacto repetido más que por ningún corte. Probó el flanco izquierdo. El escudo ya estaba ahí. Probó una finta baja. El escudo ya estaba ahí también, como si Ecthar no reaccionara sino que ya supiera, de antemano, cada movimiento que un atacante podía intentar contra él.
+
 ---
 
-Ecthar cayó cuando Kyle encontró el ángulo que la devoción ciega nunca había necesitado cubrir.
+Ecthar cayó cuando Kyle encontró el ángulo que la devoción ciega nunca había necesitado cubrir — no un flanco, no una finta, sino el instante exacto, medio segundo después de cada bloqueo, en que el escudo volvía a su posición de reposo antes de que Ecthar necesitara moverlo de nuevo. Ahí, en ese medio segundo que la perfección del hábito nunca contempló como vulnerable, cupo el golpe final.
 
 El escudo perfecto tiene un punto ciego: no considera lo inesperado porque lo inesperado no existe en su cosmología. Solo existe el deber y lo que el deber requiere.
 
@@ -155,6 +165,8 @@ Kyle no supo por qué eso le pareció importante. Lo fue de todas formas.
 ---
 
 ## III. What the Metal Already Knew
+
+El taller de Eris no se parecía a ninguna forja que Kyle hubiera visto en la Torre — sin el ruido metálico constante de Banshee, sin las chispas ni el calor de un horno convencional. Era un espacio bajo, en los bordes menos transitados de la Torre, iluminado por una luz Ascendente propia que Eris había traído consigo del Plano, proyectando sombras que no siempre coincidían con la posición real de las cosas. Herramientas de origen incierto —algunas Colmena, algunas que Kyle no reconocía de ninguna civilización— colgaban ordenadas contra una pared, y el aire olía a algo mineral y frío que no era del todo de este mundo.
 
 Eris no preguntó cómo había ido.
 
@@ -330,7 +342,7 @@ Mandó llamar a Carina esa misma tarde.
 
 ## VIII. The Question Eris Didn't Ask as a Question
 
-—No sé por qué me llamaste a mí —dijo Carina, entrando al taller con la cautela de alguien que todavía no terminaba de confiar del todo en espacios que olían a Colmena.
+—No sé por qué me llamaste a mí —dijo Carina, entrando al taller con la cautela de alguien que todavía no terminaba de confiar del todo en espacios que olían a Colmena, los ojos recorriendo las herramientas colgadas en la pared antes de posarse en la mesa.
 
 —Porque esto no le sirve a nadie más. —Eris puso el fragmento sobre la mesa, entre las dos—. Reconoce urgencia. Reconoce la necesidad de decidir en el instante exacto en que ya es tarde para dudar. Kyle no tiene eso. Kyle tiene paciencia, aunque a veces la use mal. Tú no.
 
@@ -397,3 +409,5 @@ Salió del taller con el arma todavía extraña en la mano, pensando, sin decirl
 *Nota narrativa: Capítulo 22 del libro (Capítulo 4 de Part 02), "A Sword Is Not an Answer", adaptando completo el **Frente 3** del roadmap (no el 4 — ver nota de numeración de `00_Book_Map.md`) casi verbatim: `Guardian_AlakHul_TakenKing_ElOscuroCuchillo` (Sección I), `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo` (Sección II), `Guardian_Eris_TakenKing_LaForja` (Secciones III-VI, ya escrita desde Parte 1, sin tocar una línea, solo dividida en sub-secciones con títulos nuevos para la estructura del capítulo) y `Carina_Eris_GuerraDeLosPoseidos_BoltCaster` (Secciones VII-XI). Es el capítulo más largo de Part 02 hasta ahora porque absorbe cuatro fuentes completas en vez de una — mismo tratamiento que recibió el Cap. 12 (`The Dreadnaught Key`) con el Cluster 3 de Part 01. Cumple el checklist del roadmap: Alak-Hul se ubica después de que Kyle entienda que fuerza sin pregunta puede ser una trampa (Sección I, la lección explícita en el cierre); Ecthar se ubica después del Frente 2, la devoción sin identidad ya visible en los Poseídos (Sección II); la espada nace como decisión —Oscuridad redirigida por intención Solar, no como "arma más fuerte" (Secciones V-VI); Eris no sobreexplica a Nokris ni el futuro, forja con conocimiento incompleto sin mentir sobre lo necesario (Sección IV, Kyle nunca sabe que el núcleo era de Nokris); Raze Lighter es la respuesta correcta para King's Fall porque preserva pregunta, amor e intención (Sección VI, cierre). Bolt Caster (Secciones VII-XI) cumple su propia función fijada en el roadmap: Carina gana su espada el mismo día, misma forja, mismo Eris, con un origen deliberadamente distinto en estructura al de Kyle (un solo componente, una sola pregunta, en vez de dos historias enfrentadas que reconciliar) para no calcar la fórmula. El elemento Arco nace de la misma lectura del portador que ya estableció el núcleo de Kyle. Único añadido real sobre las cuatro fuentes: ninguno — se preservó el texto íntegro de las cuatro escenas, solo se tradujeron los títulos de sección al inglés y se dividió `LaForja` en cuatro sub-secciones tituladas (III-VI) que no existían en el original (ahí corría como prosa continua separada por `---`). Ubicación en el mapa del libro: Cap. 21 (Frente 4, "The Map of Guilt") queda inmediatamente antes — Kyle llega a la forja ya contaminado por esa pregunta, coherente con la nota narrativa original de `LaForja` ("imperfecta, llena de dudas, incapaz de articular con precisión qué era lo que estaba eligiendo ser").*
 
 **Calibración de voz — auditoría Part 02 (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** normalizado a `tú` el voseo suelto de Eris y Carina en las Secciones VIII-XI (misma causa que en el Cap. 21 — fuente casi verbatim). Tres líneas de Eris definían la identidad de Kyle y Carina con demasiada certeza: "Es violencia definida por amor" (Sección V) se cambió a "Es fuego que protege antes de consumir" — conserva la lectura material del núcleo Solar sin la etiqueta emocional explícita. En la Sección IX, "el ángulo que no cubrís es el que te cuesta lo que más te importa" se recortó antes de nombrar la herida (el duelo por Lena, sin decirlo) — Eris nombra ángulo y decisión, no completa sola el trauma de alguien externo. "Eso es lo que sos, con la frecuencia suficiente..." se cambió a "Eso es lo que haces..." — lee conducta observada, no dicta identidad completa.
+
+**Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`, capítulo citado explícitamente en la auditoría por reglas 01 y 02, más watchlist de separadores):** anclada la Celda Sin Sol (oscuridad tallada en roca viva, aire pesado, techo que ni el escáner de Ghost mide) y la cámara sellada de Ecthar (geometría circular perfecta, aire inmóvil) al abrir cada sección — antes ambas llegaban directo al combate sin espacio propio. Los dos combates (Alak-Hul, Ecthar) ganaron beats físicos concretos — golpes recibidos, el brazo doliendo por el impacto repetido del escudo, el instante exacto donde se encuentra el ángulo — en vez de resolverse en un salto directo de "el combate no tenía sutileza" a "cayó". El taller de Eris, escenario de 9 de las 11 secciones, se ancla por primera vez en la Sección III (luz Ascendente, herramientas de origen incierto, aire mineral) — antes no tenía descripción física en ningún punto del capítulo pese a sostener la mayor parte de la acción. Los separadores `---` internos de cada sub-beat se dejaron intactos a propósito: son parte del registro staccato/mítico deliberado de este capítulo (ecos de la voz de Eris, el ritmo de "Observó. / Después atacó."), no un sustituto de transición real — Codex mismo los dejó en watchlist, no como regla confirmada. Ningún diálogo ni hecho de canon se modificó.
