@@ -42,6 +42,15 @@ En caso de conflicto:
 
 ## Flujo de uso
 
+**Antes de desarrollar prosa de un libro nuevo en `11_Books/`:**
+1. Crear o completar el `00_Book_Map.md` de ese libro siguiendo la compuerta fijada en
+   `11_Books/README.md` y la plantilla `11_Books/TEMPLATE_Book_Map.md`.
+2. Confirmar que el mapa ya responde, como mínimo: premisa, punto de entrada, punto de
+   salida, protagonistas, antagonistas/fuerzas de presión, clímax, revelaciones, misterios,
+   decisiones y consecuencias a corto/largo plazo.
+3. Si el mapa no existe o solo contiene una idea general, no redactar capítulos todavía: el
+   siguiente trabajo es diseñar el mapa con el autor.
+
 **Antes de escribir una escena con diálogo:**
 1. Leer la ficha de voz (`voice/`) de cada personaje presente.
 2. Si la escena toca un misterio, revelación o algo que un personaje "sabe" — revisar la
@@ -77,6 +86,11 @@ confirmar y la prioridad recomendada para `voice/` (Ana, Lena, Sai).
 
 ## Fichas de voz existentes
 
+Primeras tres fichas (2026-08-09), priorizadas por la auditoría de Codex — las tres leen a
+otros con la misma estructura (regla 01) y necesitaban huellas distintas.
+
 | Personaje | Archivo |
 |-----------|---------|
-| *(vacío — pendiente de la primera ficha)* | |
+| Ana Bray | [voice/ana-bray.md](voice/ana-bray.md) — lee desde la ciencia y su propio duelo (Willa), nombrado y ofrecido a cambio |
+| Lena | [voice/lena.md](voice/lena.md) — lee por evidencia física de médica de campo; retiene su propia herida en fragmentos |
+| Sai | [voice/sai.md](voice/sai.md) — lee sin elegirlo (don paracausal); el acierto debe costarle algo, no llegar limpio |

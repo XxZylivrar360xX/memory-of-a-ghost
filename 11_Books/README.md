@@ -25,6 +25,18 @@ Cada libro, al planear su lista de capítulos, debe buscar activamente espacio p
 
 ## Cómo se aplica, en la práctica
 
+- **Compuerta de diseño obligatoria (autorizada por Víctor a Codex, 2026-08-09):**
+  ningún libro nuevo entra a desarrollo de prosa hasta que su carpeta tenga un
+  `00_Book_Map.md` suficiente para funcionar como mapa de recorrido del libro. Esta edición
+  fue aplicada directamente por Codex por autorización explícita del autor en sesión, para
+  dejar la regla disponible a Claude Code y a futuros agentes.
+- El `00_Book_Map.md` no es una biblia paralela ni una enciclopedia del libro. Es un
+  documento operativo: fija premisa, punto de entrada, punto de salida, protagonistas,
+  antagonistas/fuerzas de presión, clímax, revelaciones, misterios y consecuencias antes de
+  que exista prosa nueva.
+- Plantilla base para libros futuros: [`TEMPLATE_Book_Map.md`](TEMPLATE_Book_Map.md). Puede
+  adaptarse al libro activo, pero no se debe omitir la compuerta: si el mapa no existe o solo
+  tiene una idea general, el siguiente paso es diseñar el mapa, no redactar capítulos.
 - Al diseñar la lista de capítulos de una Parte (o de un Prólogo, o de cualquier unidad mayor), no basta con recorrer las escenas que ya "avanzan la trama". Hay que preguntar explícitamente: *¿qué está pasando, en esta misma ventana temporal, en la vida de alguien más?*
 - Un capítulo complementario no necesita conectar con el antagonista del libro ni con el conflicto central para justificar su lugar. Le basta con ser real dentro del vault y ocurrir en la ventana temporal correcta.
 - Esto puede significar capítulos que interrumpen momentáneamente el ritmo de la trama principal — es una decisión deliberada, no un descuido. El lector gana mundo a cambio de una pausa en el avance.

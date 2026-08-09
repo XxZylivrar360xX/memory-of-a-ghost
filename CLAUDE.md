@@ -105,6 +105,11 @@ mecanismo `IA_policies/` que Farid usa en el repo del ERP de Onaxis. Documento r
 [`12_Craft_Policies/README.md`](12_Craft_Policies/README.md) (estructura, precedencia y
 flujo completos).
 
+**Antes de desarrollar prosa de un libro nuevo en `11_Books/`:** compuerta obligatoria
+(autorizada por Víctor a Codex, 2026-08-09) — el libro necesita un `00_Book_Map.md`
+completo (plantilla en `11_Books/TEMPLATE_Book_Map.md`) antes de redactar un solo capítulo.
+Ver `11_Books/README.md`.
+
 **Antes de escribir cualquier escena con diálogo:**
 1. Leer la ficha de voz (`12_Craft_Policies/voice/`) de cada personaje presente, si existe.
 2. Si la escena toca un misterio, revelación o algo que un personaje "sabe" — revisar
