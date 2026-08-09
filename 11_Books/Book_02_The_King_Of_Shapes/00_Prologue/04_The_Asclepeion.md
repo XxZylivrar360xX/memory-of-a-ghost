@@ -304,7 +304,7 @@ Carina lo miró.
 
 Hornet no respondió enseguida. Cuando lo hizo, no fue con una de sus advertencias cortas, sino con algo más parecido a una observación que llevaba tiempo esperando el momento de decirse.
 
-—Un pedazo que todavía imita la forma de la red —dijo—. Cargando suministros de un mundo a otro, sin que nadie te lo haya pedido, para un lugar que ni siquiera sabe que este complejo existió.
+—Estás llevando suministros de un nodo a otro —dijo—. Eso era la red, en pequeño. Sin que nadie te lo haya pedido, para un lugar que ni siquiera sabe que este complejo existió.
 
 Carina no respondió de inmediato. Se quedó mirando el cielo dorado a través del cristal roto, el contenedor ya sellado y cargado a su lado, pensando en un lago cerca de Chicago y en una clínica improvisada que nunca había tenido la suerte de estar conectada a nada más grande que la voluntad de una sola mujer.
 
@@ -343,3 +343,5 @@ Despegaron con la última luz del día marciano, el contenedor asegurado, la Tie
 **Adaptación deliberada de Dust Palace, aclarada por el autor:** los Desolladores de este capítulo no son una célula menor ni tres Psion cualquiera — son los mismos **Psion Flayers canónicos** asociados al Palacio de Polvo (Dust Palace) / Freehold, reubicados aquí para caer en el complejo médico en vez de en el evento original. El núcleo del evento canónico se conserva —Cabal usando Flayers para extraer tecnología crítica de la Edad de Oro en Freehold— pero se desplaza del eje IA/Rasputin hacia infraestructura médica, para anclarlo al arco Carina/Lena y al origen del maletín. Reflejado en prosa: Hornet los nombra "los Desolladores del Palacio" al identificarlos, y el reporte final de Carina dice "los tres Desolladores" (artículo definido), señalando que son los principales, no una amenaza genérica.
 
 *Pendiente de lectura y ajuste del autor. Pendiente también: verificar si "Freehold" necesita ficha propia en `04_Concepts/` (infraestructura de la Edad de Oro) o si por ahora vive solo dentro de este capítulo; el nombre completo de las tres figuras Cabal individuales, si alguna necesita desarrollo propio más adelante, queda sin resolver — funcionan aquí como amenaza colectiva, no personajes.*
+
+**Calibración de voz (auditoría de Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-prologue.md`):** cierre de la Sección IX, línea de Hornet ("Un pedazo que todavía imita la forma de la red") reescrita a "Estás llevando suministros de un nodo a otro... Eso era la red, en pequeño" — mismo pago temático, en vocabulario técnico (nodo/red) en vez de metáfora literaria, más cerca del registro de sistemas de su ficha de voz.

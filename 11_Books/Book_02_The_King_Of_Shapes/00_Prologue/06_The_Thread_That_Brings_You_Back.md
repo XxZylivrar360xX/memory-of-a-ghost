@@ -354,11 +354,11 @@ Carina tragó saliva.
 
 Carina no respondió.
 
-—Los Portaluces no son inmortales, Malyshka —dijo Lena, más baja ahora, sin ninguna filosidad protegiéndola—. Solo tienen más intentos que el resto de nosotros. Uno. Uno solo, en realidad, porque solo hace falta que ese hilo se rompa una vez. Y tú acabas de apostar el único hilo que te trae de vuelta, no porque no tuvieras opción, sino porque decidiste que correr sola valía más la pena que esperar treinta segundos a que el resto llegara. Si Hornet hubiera caído hoy, no habría "la próxima vez" para ninguno de los dos. Solo habría quedado yo, sabiendo exactamente en qué momento se pudo evitar.
+—Los Portaluces no son inmortales, Malyshka —dijo Lena, más baja ahora, sin ninguna filosidad protegiéndola—. Solo tienen más intentos que el resto de nosotros. Hornet estaba fuera. Tú estabas dentro. Si esa jaula duraba diez segundos más, no había hilo que jalar.
 
 Carina sintió el peso completo de eso asentarse, distinto a cualquier otro reclamo que le hubieran hecho antes.
 
-—No lo había pensado así.
+—No fue por creerme inmortal —dijo—. Fue porque no pensé.
 
 —Ya lo sé. Por eso te lo estoy diciendo yo.
 
@@ -428,13 +428,15 @@ Se quedaron así un momento, en la ventana, el lago oscuro reflejando algo de lu
 
 Se quedó mirando el agua un momento más antes de volver a hablar, la voz distinta — más lenta, más deliberada, como si llevara rato construyendo la pregunta antes de decidirse a soltarla.
 
-—¿Has pensado —dijo— en lo que van a pensar las personas que te rodean, el día que faltes? No en el reporte de la Vanguardia. No en el nombre en una lista. En la gente que te quiere, dándose cuenta de que ya no hay nadie haciendo habitables los espacios donde antes estabas tú.
+—¿Has pensado —dijo— en lo que van a pensar las personas que te rodean, el día que faltes? No en el reporte de la Vanguardia. No en el nombre en una lista. En la gente que te quiere, dándose cuenta de que ya no hay nadie...
+
+Se detuvo ahí, dejando la frase abierta.
 
 Carina no tuvo un chiste para eso.
 
 Por primera vez desde que se conocían, no lo buscó siquiera.
 
-—No —dijo, la voz apenas un hilo—. Nunca lo había pensado así.
+—...haciendo habitables los espacios donde antes estaba yo —dijo, la voz apenas un hilo—. Nunca lo había pensado así.
 
 —Piénsalo ahora. Aunque sea una vez.
 
@@ -523,3 +525,5 @@ Cuidaba esa chaqueta más de lo que cuidaba casi cualquier otra parte de sí mis
 **Corrección de continuidad (2026-07-30), por consistencia con la regla fijada en `02_Phobos.md` ("Kyle no lleva comunicador propio; todo pasa por Ghost").** Misma regla aplicada al reparto de Carina: la Sección II decía "el comunicador todavía en silencio" al describir que Carina echó a correr antes de que Hornet terminara de avisar al escuadrón — corregido a "sin haberle dado tiempo de abrir el canal con el resto del escuadrón", dejando claro que es Hornet, no un dispositivo propio de Carina, quien maneja las comunicaciones. La Sección X ajustada de forma equivalente: el reclamo de Lena ya no habla de "una palabra dicha a tiempo por el comunicador" sino de "una palabra que le hubieras dejado decir a Hornet a tiempo". Sin cambios de contenido dramático — mismos beats, mismo peso emocional, solo la mecánica de mundo corregida. Las menciones de "comunicador" en `05_The_Arithmetic_Of_Staying.md` y `02_The_Patrols_No_One_Wanted.md` se revisaron y se dejaron intactas — ahí se refiere al canal del equipo *rival* durante partidas de Crisol (una voz de pánico que Carina reconstruye de memoria), no a un dispositivo propio de Carina, así que no contradicen la regla.*
 
 *Calibración de voz (auditoría de Codex, 2026-08-09):* el intercambio de la Sección V usaba la palabra "diagnosticar" dos veces seguidas ("no tienes que diagnosticarme" / "no te estoy diagnosticando"), justo el término que la ficha de Lena (`12_Craft_Policies/voice/lena.md`) marca como lenguaje prohibido — ella lee por evidencia física observable, no con vocabulario clínico-psicológico. Corregido a "no tienes que leerme como si fuera una de tus pacientes" / "no te estoy leyendo la cabeza. Estoy mirando lo que acabas de hacer" — misma acusación, anclada en conducta, no en diagnóstico. El resto de la escena (el peto, la mueca, la reconstrucción de Halvard y la resistencia de Carina) se dejó intacto — es evidencia física real, exactamente lo que la ficha pide.*
+
+**Calibración de voz — auditoría de diálogos del Prólogo (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-prologue.md`):** dos ajustes en la Sección XI, contra el patrón de Lena "leyendo perfecto" a Carina. La explicación extendida tras "Los Portaluces no son inmortales... solo tienen más intentos" ("Uno. Uno solo, en realidad, porque solo hace falta que ese hilo se rompa una vez...") se recortó a evidencia concreta de la escena misma ("Hornet estaba fuera. Tú estabas dentro. Si esa jaula duraba diez segundos más, no había hilo que jalar"), protegiendo la primera frase (la mejor línea del bloque) sin diluirla con la extensión. La respuesta de Carina ("No lo había pensado así") se cambió a una corrección parcial de la lectura de Lena ("No fue por creerme inmortal. Fue porque no pensé"), rompiendo la cadena de lecturas impecables consecutivas que señaló la auditoría (Secciones X-XIV). En la Sección XIV, la pregunta de Lena sobre "hacer habitables los espacios" se partió en dos: ella la deja abierta a la mitad, y es Carina quien la completa — mismo texto exacto (necesario para el eco de la línea 457, "Podré hacer habitables los espacios. Pero tú llenas los míos"), pero la autoría de la formulación pasa de Lena a Carina.

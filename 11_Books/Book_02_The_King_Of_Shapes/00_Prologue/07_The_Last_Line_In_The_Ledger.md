@@ -154,7 +154,7 @@ Carina se quedó callada un momento, sopesando por dónde empezar, y decidió, p
 
 Lena sonrió contra su hombro, sin decir nada más, dejando que continuara.
 
-—Venus tiene una historia mejor, si te gustan las historias imposibles —siguió Carina—. Hay un rifle que no debería existir. Lo tiene un Guardian, todavía muy nuevo entonces, que entró a una bóveda Vex persiguiendo algo llamado Atheon — el Conflujo del Tiempo, le dicen, una máquina que dobla el pasado y el futuro hasta que dejan de significar algo distinto entre sí. El novato lo venció. Nadie sabe todavía cómo, exactamente — ni siquiera él, si los rumores son ciertos. Y salió con un arma que ningún armero de la Torre puede explicar del todo: dispara como un rifle de asalto, pero por dentro es un fusil de fusión, algo que no debería poder existir en la misma pieza de metal. Le dicen Mythoclast. En el Crisol todos lo quieren, y casi nadie lo tiene.
+—Venus tiene una historia mejor, si te gustan las historias imposibles —siguió Carina—. Un novato entró a una bóveda Vex persiguiendo algo que nadie termina de explicar del todo, y salió con un rifle que no debería existir. Le dicen Mythoclast. En el Crisol todos lo quieren, y casi nadie lo tiene.
 
 —¿Lo conoces? Al novato.
 
@@ -168,7 +168,7 @@ Lena sonrió contra su hombro, sin decir nada más, dejando que continuara.
 
 Algo en la voz de Carina cambió, más despacio, casi reverente.
 
-—Mercurio tiene el Faro. Y una fragua al lado que usa la luz solar directa, sin filtrar por ninguna atmósfera, para forjar las armas y armaduras de las Pruebas de Osiris. Un hombre llamado Vance la cuida como si fuera un templo — un fanático, honestamente, del tipo que puede recitarte cada ronda de cada Torneo desde que existe. Pero Osiris... —se detuvo un segundo, buscando la forma correcta de decirlo—. Osiris es distinto. Es una leyenda incluso entre Guardianes. Dicen que fue el Vanguard de los Hechiceros antes de que existiera el puesto tal como lo conocemos ahora — el Zavala antes de Zavala, si eso significa algo para ti. Y lo exiliaron. La Ciudad no acepta bien lo que no puede entender del todo, y él entendía demasiado.
+—Mercurio tiene el Faro. Un fanático llamado Vance lo cuida como si fuera un templo — del tipo que te recita cada ronda de cada Torneo desde que existe. Pero Osiris... —se detuvo un segundo, buscando la forma correcta de decirlo—. Osiris es distinto. Un exiliado al que la Ciudad no supo contener.
 
 —¿Eso te asusta? Que la Ciudad haga eso.
 
@@ -256,7 +256,7 @@ Pasó un rato antes de que ninguna de las dos volviera a hablar, las dos todaví
 
 Carina se quedó muy quieta.
 
-—Mi abuela lo llamaba la Edad de Oro, aunque nunca estoy segura de si esa era la palabra real o solo la que a ella le gustaba usar —siguió Lena—. Decía que había ciudades enteras que ni la Luz ni la Oscuridad habían tocado todavía, en ese entonces — que esas dos cosas ni siquiera eran parte de cómo la gente entendía el mundo. Solo la esfera, y lo que traía con ella. Yo siempre pensé que era un cuento para niños. Del tipo que se inventa para explicar por qué el mundo se rompió, no porque sea cierto.
+—Mi abuela lo llamaba la Edad de Oro, aunque nunca estoy segura de si esa era la palabra real o solo la que a ella le gustaba usar —siguió Lena—. Decía que había ciudades enteras que existían antes de que el mundo aprendiera esas dos palabras grandes que todos usan ahora para explicar demasiado. Solo la esfera, y lo que traía con ella. Yo siempre pensé que era un cuento para niños. Del tipo que se inventa para explicar por qué el mundo se rompió, no porque sea cierto.
 
 —No es un cuento —dijo Carina, en voz baja.
 
@@ -360,7 +360,7 @@ Carina lo consideró un segundo entero, la mano de Lena todavía en la suya, la 
 
 —No —dijo, al final—. Probablemente no es nada.
 
-—Probablemente no es nada —repitió Lena, la misma frase que había escrito en el cuaderno horas antes, sin que ninguna de las dos notara el eco—. Vuelve aquí. Se está poniendo frío.
+—Probablemente no es nada —repitió Lena—. Vuelve aquí. Se está poniendo frío.
 
 Carina volvió.
 
@@ -397,3 +397,5 @@ En el Refugio del Muelle, nadie lo notó.
 **Cuatro semillas de vida ordinaria añadidas 2026-07-30**, siguiendo `99_Reference/Agent_Notes/codex/2026-07-30_lena-conversaciones-pendientes.md` — objetivo: que después de la muerte de Lena en Taken King el lector piense *"¿y si hubiera pasado?"*, sin convertir el Prólogo en presagio. (1) Sección V: Lena dice que algún día quiere ver el Faro "solo para juzgar si merece tanto drama"; Carina jura ganarle algún día "en algo" — callback ligero al método de lectura de misterios del Cap. 5. (2) Sección III: microseñal muda de la aspereza del Cap. 5 — Carina deja suministros sin anunciarlo, Lena casi menciona "volar lejos" y se detiene, Carina cierra con "porque yo lo decidí" sin explicar de qué viene, eco directo de `05_The_Arithmetic_Of_Staying.md`, Sección VIII. (3) Sección VI: Lena empieza "cuando alguien elige a otra persona..." y se corta a mitad de frase — gesto no decodificable, sin objeto ni palabra reconocible, protegiendo que Carina no reconozca la propuesta hasta `LoQueQuedoDelRefugio`. Regla dura protegida en las cuatro: ningún personaje verbaliza miedo a morir, Carina no promete "volver siempre", y ningún plan a futuro se acumula más allá de uno o dos por escena.
 
 *Regla dura protegida:* ninguna línea de este capítulo es profética. Carina y Lena no sospechan nada — la inquietud de Carina ante la luz se lee y se descarta en la misma escena, como cualquier instinto de combate que no encuentra confirmación. La noche de tormenta donde nace "el mundo aburrido" no se redramatiza aquí (esa escena vive, intacta, como flashback en `LoQueQuedoDelRefugio`). Con este capítulo, el Prólogo de Book 02 queda completo — 7 capítulos, enteramente Carina/Lena, terminando en el instante exacto en que empieza Part 01.*
+
+**Calibración de voz (auditoría de Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-prologue.md`):** tres ajustes en la Sección V y IX. Los párrafos de Venus (Mythoclast) y Mercurio (Vance/Osiris) en la charla de mundos (Sección V) se recortaron de exposición completa de lore a rumor breve y función emocional, respectivamente — Carina "te lleva a ver algo", no funciona como índice de Destiny. El mito de la abuela de Lena sobre "la gran esfera" (Sección VII) nombraba "la Luz" y "la Oscuridad" pese a que la nota narrativa del propio capítulo declara que el mito nunca los nombra "como tales" — corregido a vocabulario de fábula ("esas dos palabras grandes que todos usan ahora para explicar demasiado"), resolviendo la contradicción. En la Sección IX, la aclaración meta sobre el eco de "probablemente no es nada" (línea de narrador señalando la coincidencia con el cuaderno) se eliminó, dejando la frase repetida sola — la regla dura de cero profecía sentida pide que el eco sea licencia estructural para el lector, no un patrón que el texto le señale.
