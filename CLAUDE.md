@@ -48,6 +48,7 @@ Memories Of A Ghost/
 ├── 07_Unsorted_Ideas/        # Raw ideas, seeds, fragments
 ├── 08_Core_Relationships/    # Deep-dive files on the three central relationships
 ├── 09_Roadmaps/              # Checklists/beat-roadmaps for events confirmed but not yet written (Plan_*.md)
+├── 12_Craft_Policies/        # Craft rules for prose drafting: spoiler/revelations ledger, character voice fingerprints, dialogue anti-patterns
 └── 99_Reference/             # External reference material
 ```
 
@@ -96,6 +97,24 @@ Every important scene should answer at least one of: *What does it mean to exist
 - The INDEX.md is the canonical navigation document and should be updated when new files are added
 - Duplicate files exist (e.g., `Mara_Sov.md` and `Mara _Sov.md`) — prefer the correctly named file and clean up duplicates when found
 - **Language convention:** File names and folder names in English. Section headers within documents in Spanish. Body content always in Spanish.
+
+## Craft Policies (`12_Craft_Policies/`)
+
+Reglas de oficio narrativo acumuladas de la propia escritura — equivalente prosa del
+mecanismo `IA_policies/` que Farid usa en el repo del ERP de Onaxis. Documento raíz:
+[`12_Craft_Policies/README.md`](12_Craft_Policies/README.md) (estructura, precedencia y
+flujo completos).
+
+**Antes de escribir cualquier escena con diálogo:**
+1. Leer la ficha de voz (`12_Craft_Policies/voice/`) de cada personaje presente, si existe.
+2. Si la escena toca un misterio, revelación o algo que un personaje "sabe" — revisar
+   `12_Craft_Policies/revelations/` (el archivo del libro activo + `SAGA_LEVEL.md`) **antes**
+   de escribir una sola línea.
+3. Repasar `12_Craft_Policies/dialogue_rules/` si la escena es un beat emocional parecido a
+   otros ya escritos.
+
+**Al cerrar una escena o capítulo:** actualizar la entrada del ledger si algo se sembró,
+reveló o pagó; documentar como regla nueva cualquier patrón de diálogo repetido 2+ veces.
 
 ## EPUB Build (`11_Books/`)
 

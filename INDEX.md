@@ -266,6 +266,18 @@
 - [[11_Books/README]] — **(nuevo 2026-07-25)** principio de arquitectura permanente de toda la colección de libros: cada Parte debe reservar espacio para capítulos complementarios (vidas propias de Carina, Jaden, la escuadra y sus Espectros; antagonistas como personas; escenas fuera de la trama principal), no solo la columna Kyle/Oryx — ambición declarada de mini-universo literario
 - [[09_Roadmaps/Plan_Libros_Saga]] — **(nuevo 2026-07-25)** arquitectura completa de los 14 libros de la saga (Book 00-13): Prólogo=Book 00, un libro por expansión/evento (D1) o expansión+temporadas (D2), Final Shape dividido en 3 libros (Books 10-12); apéndices (Faris, Mandato Cero, timelines de Elsie) quedan como colección paralela sin novelar
 - [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]] — **(nuevo 2026-08-01)** reimaginación completa de Taken King aportada por el autor (6 documentos en `07_Unsorted_Ideas/00-05`): Eirene reubicada como luna de Saturno, reemplazada por **Lubrae** (no Fundamento, no Torobatl) con **La Desolación del Terror** y **La Catedral de las Voces** (sometimiento de Rhulk al Testigo) como nuevo clímax de Part 01 — regicidio físico incompleto se muda ahí, Guerra de los Poseídos/King's Fall siguen intactos en el Acorazado; Los Tótems + El Sacerdote de Guerra (King's Fall) se fusionarán estilo Pantheon con mecánica de wipe, Carina remata al Sacerdote con Shadowshot y se despide rumbo a la frontera de Sol; resuelve la semilla abierta de `Plan_FragmentosCalcificados_LibrosDelDolor` sobre la presencia de Carina en los fragmentos
+- [[09_Roadmaps/Plan_Sai_Nastia_Origen]] — **(nuevo 2026-08-09)** premisa de diseño: Sai es Nastia, la niña del Refugio del Muelle, crecida — mestiza Awoken/humana, nombre completo Saiidris→**Sainastia**; reclutada por Petra durante Forsaken tras llamar la atención de Mara y los Dredgen; reencuentro con Carina fijado para post Season of the Lost (la reconoce por la cara, no por el nombre); pista sembrada de antemano: su afinidad por el bienestar de los conejos (ya hay un conejo gris suyo en el vault desde House of Wolves) no se explica hasta que se revele el origen. No aplicado a ninguna ficha todavía — pendiente de confirmación del autor
+
+---
+
+# Craft Policies
+
+> **(nueva 2026-08-09)** Reglas de oficio narrativo acumuladas de la propia escritura, equivalente prosa del mecanismo `IA_policies/` de Farid en el ERP de Onaxis. Ver [[12_Craft_Policies/README]] para estructura, precedencia y flujo completos.
+
+- [[12_Craft_Policies/README]] — índice, precedencia (`revelations/` > `voice/` > `dialogue_rules/`) y flujo de consulta antes/después de escribir una escena
+- [[12_Craft_Policies/revelations/SAGA_LEVEL]] — ledger de misterios que cruzan varios libros; sembrado con Vale (identidad sin revelar, Elsie no lo reconoce en ninguna línea temporal) y The Lord of Every Nothing (Sai lo siente primera, capítulo de la liberación pendiente)
+- `12_Craft_Policies/voice/` — fichas de voz por personaje (vacío, pendiente de la primera ficha)
+- `12_Craft_Policies/dialogue_rules/` — catálogo de anti-patrones de diálogo (vacío, pendiente de primera auditoría — ver siguiente sesión)
 
 ---
 
