@@ -90,6 +90,7 @@ revelaciones debe apuntar a la entrada correspondiente en vez de inventar una fe
 - [[02_Characters/Guardian#La revelación Bray — el apellido que nunca dijo|La revelación Bray — el apellido que nunca dijo]] — *"Ana es mi hermana"*
 - [[02_Characters/Guardian#Estasis — el método y la pregunta incómoda|Estasis — el método y la pregunta incómoda]] — Elsie enseña Estasis como definición del ser, no como fuerza
 - [[02_Characters/Guardian#Lo no dicho — "Ahora tengo todo el tiempo para explicar"|Lo no dicho — "Ahora tengo todo el tiempo para explicar"]] — Elsie admite que la salida de Shadowkeep no fue completamente operacional — [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_LoNoDicho]]
+- [[02_Characters/Guardian#El nombre — lo que solo ella usa|El nombre — lo que solo ella usa]] — Elsie le devuelve su nombre en la despedida en Europa; a partir de aquí "Kyle" en su voz carga un "te quiero" entre líneas, distinto del uso ya existente de Ghost/Cayde/Carina — **fija la convención de nombre de toda la saga** (ver nota abajo) — [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]]
 
 ## Splicer
 
@@ -134,3 +135,26 @@ tienen un equivalente — sus hitos, si existen, están dispersos dentro de esce
 - **Ghost** — igual: arco propio documentado (`project-ghost-narrator`), sin lista de hitos.
 - **Sai** — arco largo (duelo, Haunted, origen Nastia) sin consolidar.
 - **Carina** — Dialogue_Carina tiene 9 escenas propias sin consolidar en hitos.
+
+---
+
+## Convención de nombre — "Guardian" vs. "Kyle" (resuelto 2026-08-09)
+
+Regla vigente para diálogo e interpelación directa en toda la saga:
+
+- **Círculo íntimo (Ghost, Cayde, Carina)** ya usa "Kyle" desde temprano (Age I-II —
+  `02_The_Patrols_No_One_Wanted`, `Part_01/01_The_Last_Board`, `Part_03/02_The_Ones_Who_Stayed`),
+  por cercanía ganada, sin ninguna carga romántica. No es una excepción a corregir: es la
+  moneda normal de esas relaciones.
+- **Elsie** es la única cuyo "Kyle" es distinto en especie, no solo en grado: a partir de
+  [[02_Characters/Guardian#El nombre — lo que solo ella usa|"El nombre — lo que solo ella usa"]]
+  (Beyond Light, Age VIII), cada vez que ella lo dice en privado, el nombre ya lleva un "te
+  quiero" entre líneas — años antes de que la palabra se diga en voz alta en Final Shape. Antes
+  de ese hito, incluso ella usa "Guardián" salvo la grieta aislada del porche en Age I (ver
+  "La Bóveda de Cristal").
+- **El resto del mundo** — Vanguardia, conocidos, cualquiera fuera del círculo íntimo — dice
+  "Guardián" toda la saga, sin excepción de era.
+
+Reemplaza la lectura anterior ("nadie excepto Elsie, y solo desde Beyond Light, todos los
+demás dicen Guardián siempre") — esa versión ya contradecía escenas cerradas de Book 02. Ver
+también `voice/guardian-kyle.md` y `voice/elsie-bray.md`.

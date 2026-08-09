@@ -1320,6 +1320,19 @@ La distancia entre ellos no desaparece. Pero ya saben de qué está hecha.
 
 ---
 
+### El nombre — lo que solo ella usa
+En la despedida, en la plataforma de transmat de Europa, Elsie termina el gesto que dejó a medias en el porche a medio construir de Age I (ver "La Bóveda de Cristal", arriba): en vez de darle su propio nombre otra vez, le devuelve el de él. *"Kyle."* No es información — los dos ya sabían su nombre. Es la primera vez que ella lo deja ser, en voz alta, la persona y no la función, y la primera puerta de esa clase que no se vuelve a cerrar.
+
+No es el "te amo" — faltan años para eso, hasta Final Shape. Pero es su cimiento: en la voz de Elsie, a partir de aquí, el nombre ya carga un "te quiero" entre líneas. El Guardian lo entiende así de inmediato porque ya conocía el nombre dicho sin ese peso — "había visto a Ghost decir su nombre cuando nadie miraba" — así que reconoce, en el acto, que lo que Elsie acaba de darle es otra cosa, no una versión tardía de lo que ya tenía.
+
+**Convención de nombre resultante (ver [[12_Craft_Policies/milestones/INDEX]]):** el círculo íntimo (Ghost, Cayde, Carina) usa "Kyle" desde antes, por su cuenta, sin este peso — cercanía ganada, moneda distinta. El resto del mundo sigue diciendo "Guardián" toda la saga. Elsie es la única cuyo "Kyle" es, en sí mismo, una declaración.
+
+**En la página:** [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]].
+
+**Pilar activo:** [[04_Concepts/Love|Amor]], [[04_Concepts/Identity|Identidad]], [[04_Concepts/Vulnerability|Vulnerabilidad]]
+
+---
+
 ## Las Temporadas — Post Beyond Light
 
 ### Crow — la deuda hacia quien vino después
