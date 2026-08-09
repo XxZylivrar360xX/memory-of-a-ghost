@@ -110,7 +110,10 @@ flujo completos).
 2. Si la escena toca un misterio, revelación o algo que un personaje "sabe" — revisar
    `12_Craft_Policies/revelations/` (el archivo del libro activo + `SAGA_LEVEL.md`) **antes**
    de escribir una sola línea.
-3. Repasar `12_Craft_Policies/dialogue_rules/` si la escena es un beat emocional parecido a
+3. Si la escena asume que algo ya pasó o que un personaje ya cambió por algo — revisar
+   `12_Craft_Policies/milestones/INDEX.md` (índice cronológico de hitos ya establecidos)
+   antes de asumirlo de memoria.
+4. Repasar `12_Craft_Policies/dialogue_rules/` si la escena es un beat emocional parecido a
    otros ya escritos.
 
 **Al cerrar una escena o capítulo:** actualizar la entrada del ledger si algo se sembró,

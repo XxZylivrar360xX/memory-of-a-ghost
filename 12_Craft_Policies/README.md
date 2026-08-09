@@ -14,6 +14,10 @@ más operativa: qué NO se puede decir todavía, y cómo suena cada personaje cu
   (`Book_XX_Titulo.md`), más `SAGA_LEVEL.md` para misterios que cruzan varios libros. Rastrea
   qué sabe cada personaje y desde cuándo, para que ninguna escena filtre algo antes de su
   capítulo.
+- **`milestones/`** — [[12_Craft_Policies/milestones/INDEX|Índice cronológico]] de los
+  Momentos Hito/Ancla **ya establecidos** en el wiki (`02_Characters/Guardian.md`,
+  `08_Core_Relationships/*.md`) — el reverso del ledger: no es lo que todavía no se puede
+  decir, es lo que **ya es canon** y desde cuándo. No duplica contenido, apunta a él.
 - **`voice/`** — Ficha de voz por personaje (`nombre-apellido.md`). Cadencia, vocabulario,
   lo que nunca dice, contraste con otras voces cercanas. Se consulta antes de escribir
   cualquier diálogo de ese personaje.
@@ -27,10 +31,14 @@ En caso de conflicto:
 
 1. **`revelations/`** manda sobre todo. Ninguna escena, por bien escrita que esté, puede
    insinuar o revelar algo antes de lo que su entrada del ledger permite.
-2. **`voice/`** manda sobre `dialogue_rules/` y sobre el instinto genérico de "cómo sonaría
+2. **`milestones/`** manda sobre el instinto de "esto podría ser un buen giro" — si algo ya
+   está fijado como hito, una escena nueva no lo puede contradecir ni repetir como si fuera
+   la primera vez. También es la fuente de verdad para el campo "Quién ya lo sabe (desde
+   cuándo)" de `revelations/`.
+3. **`voice/`** manda sobre `dialogue_rules/` y sobre el instinto genérico de "cómo sonaría
    bien la línea". Una voz bien fijada ya evita la mayoría de los patrones catalogados abajo.
-3. **`dialogue_rules/`** es la última capa: patrones a evitar cuando ni el ledger ni la voz
-   resuelven el problema por sí solos.
+4. **`dialogue_rules/`** es la última capa: patrones a evitar cuando ni el ledger, ni los
+   hitos, ni la voz resuelven el problema por sí solos.
 
 ## Flujo de uso
 
@@ -40,7 +48,9 @@ En caso de conflicto:
    entrada correspondiente en `revelations/` (el archivo del libro activo + `SAGA_LEVEL.md`)
    antes de escribir una sola línea. Ver también la memoria
    `feedback-character-knowledge-state-checks` (chequeo de qué sabe cada personaje, cuándo).
-3. Repasar `dialogue_rules/` si la escena es una conversación larga o un beat emocional
+3. Si la escena asume que algo ya pasó, o que un personaje ya cambió por algo — revisar
+   `milestones/INDEX.md` en vez de asumirlo de memoria.
+4. Repasar `dialogue_rules/` si la escena es una conversación larga o un beat emocional
    parecido a otros ya escritos (riesgo de caer en un patrón ya catalogado).
 
 **Al cerrar una escena o capítulo:**
@@ -53,9 +63,17 @@ En caso de conflicto:
 
 ## Índice de reglas de diálogo
 
+Primera auditoría completada por Codex (2026-08-09) sobre `05_Dialogues/` y
+`11_Books/Book_02_The_King_Of_Shapes/`. Ver también
+[`dialogue_rules/WATCHLIST.md`](dialogue_rules/WATCHLIST.md) para patrones sospechados sin
+confirmar y la prioridad recomendada para `voice/` (Ana, Lena, Sai).
+
 | Regla | Descripción |
 |-------|-------------|
-| *(vacío — pendiente de la primera auditoría)* | |
+| [01-interrogatorio-terapeutico-escalonado](dialogue_rules/01-interrogatorio-terapeutico-escalonado.md) | Un personaje acorrala al otro con preguntas cada vez más precisas hasta la herida exacta, y la resume con precisión terapéutica — Ana, Lena y Sai suenan intercambiables haciéndolo |
+| [02-confesion-de-identidad-como-funcion](dialogue_rules/02-confesion-de-identidad-como-funcion.md) | "Soy solo mi función" (el arma, la lectora, el reemplazo) como fórmula repetida del miedo central de varios personajes distintos |
+| [03-antitesis-limpia-como-cierre-de-verdad](dialogue_rules/03-antitesis-limpia-como-cierre-de-verdad.md) | "Eso no es X, es Y" como cierre de aforismo — eficaz una vez, intercambiable si lo usan todos |
+| [04-resumen-perfecto-del-otro](dialogue_rules/04-resumen-perfecto-del-otro.md) | El interlocutor resume la herida del otro mejor de lo que él mismo la formuló, y el beat cierra ahí sin fricción |
 
 ## Fichas de voz existentes
 

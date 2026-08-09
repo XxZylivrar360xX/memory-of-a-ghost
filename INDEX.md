@@ -277,8 +277,8 @@
 - [[12_Craft_Policies/README]] — índice, precedencia (`revelations/` > `milestones/` > `voice/` > `dialogue_rules/`) y flujo de consulta antes/después de escribir una escena
 - [[12_Craft_Policies/revelations/SAGA_LEVEL]] — ledger de misterios que cruzan varios libros; sembrado con Vale (identidad sin revelar, Elsie no lo reconoce en ninguna línea temporal), The Lord of Every Nothing (Sai lo siente primera, capítulo de la liberación pendiente) y Sai = Nastia (identidad de origen, foreshadowing ya sembrado en la ficha de Sai)
 - [[12_Craft_Policies/milestones/INDEX]] — **(nuevo 2026-08-09)** índice cronológico de los Momentos Hito/Ancla ya establecidos en `02_Characters/Guardian.md` y `08_Core_Relationships/Guardian_Elsie_Bray.md` (Año 1 → Post Beyond Light/Witch Queen), sin duplicar contenido; huecos detectados: Elsie, Ghost, Sai y Carina no tienen lista de hitos individual propia todavía
-- `12_Craft_Policies/voice/` — fichas de voz por personaje (vacío, pendiente de la primera ficha)
-- `12_Craft_Policies/dialogue_rules/` — catálogo de anti-patrones de diálogo (vacío, pendiente de primera auditoría — ver siguiente sesión)
+- `12_Craft_Policies/voice/` — fichas de voz por personaje (vacío, pendiente de la primera ficha; Codex recomienda priorizar Ana, Lena y Sai)
+- [[12_Craft_Policies/README]] `dialogue_rules/` — **(auditado 2026-08-09 por Codex)** 4 anti-patrones confirmados: interrogatorio terapéutico escalonado, confesión de identidad como función, antítesis limpia como cierre de verdad, resumen perfecto del otro; watchlist con 2 patrones sin confirmar en `dialogue_rules/WATCHLIST.md`
 
 ---
 
