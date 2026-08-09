@@ -32,7 +32,7 @@ from pathlib import Path
 VAULT_ROOT = Path(__file__).resolve().parents[2]
 SCRIPT_DIR = Path(__file__).resolve().parent
 
-TRAILER_RE = re.compile(r"^\*Conecta con:")
+TRAILER_RE = re.compile(r"^\*(Conecta con|Pilares activos):")
 
 
 def divider_title(folder_name: str) -> str:

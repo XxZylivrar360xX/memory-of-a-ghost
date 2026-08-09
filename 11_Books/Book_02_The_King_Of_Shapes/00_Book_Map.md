@@ -2,7 +2,9 @@
 
 *Estructura literaria aprobada. Fuente de verdad para el orden y el contenido de este libro. Diseño triado con el autor el 2026-07-23 — ver `09_Roadmaps/Plan_Book02_TheKingOfShapes.md` para el detalle completo de la triage, las fricciones resueltas y lo que este libro deliberadamente no toca.*
 
-**Estado: arquitectura fijada; Prólogo completo (7/7 capítulos); Part 01 COMPLETA (interludio + Capítulos 8-18, 11/11); Part 02 iniciada (5 de 7 capítulos escritos, 19-23).**
+**Estado: LIBRO COMPLETO — 35 capítulos, de punta a punta (Prólogo 1-7, Part 01 8-18, Part 02 19-25, Part 03 26-30, Part 04 31-32, Part 05 33-35). Terminado el 2026-08-08, listo para auditoría de continuidad/filosofía con Codex y ajuste final del autor.**
+
+**Reubicación mayor (2026-08-08, misma sesión que el cierre):** a petición del autor, el origen de Jaden (`The Terrain That Cannot Be Conquered`, Suetake), `The Trail of Xur` y la forja de Dark Drinker (`The Third Sword`) se movieron a la apertura de **Book 03 — Evolution of Ashes** (`11_Books/Book_03_Evolution_Of_Ashes/00_Prologue/`). Razón: Book 02 fija su perspectiva estrictamente del lado de Carina cuando conoce a Jaden y Atheena — nunca entra en la cabeza de ninguno de los dos por su cuenta; esos tres capítulos, sin ninguna escena de Carina, no encajaban con esa regla. Book 03 es, además, donde el autor quiere abrir con la formación completa de Jaden — la tesis fijada para ese libro es una reimaginación de Rise of Iron como *space western* fusionado con filosofía samurái, donde la tecnología no es la respuesta a SIVA, y donde arranca la amistad Kyle/Jaden que ese libro existe para contar. Los tres capítulos de Part 05 que quedaron (`What They Found in Exile`, `The False Pretender`, `Just in Time`) se reescribieron el mismo día para eliminar toda interioridad de Jaden/Atheena y anclar el punto de vista en Carina de punta a punta — ver notas narrativas de cada capítulo. Cascada de -3 capítulos en Part 05 (de 6 a 3) y en el total del libro (de 38 a 35).
 
 ---
 
@@ -28,13 +30,15 @@ Las carpetas `Part_0X_.../` se crean recién cuando se redacta el primer capítu
 
 **El "Chapter N" que encabeza cada archivo es global y continuo para todo el libro — nunca se reinicia en 1 al empezar una Part nueva.** El Prólogo ocupa los capítulos 1-7; Part 01 sigue en el 8; y así en adelante, sin cortes. Los números de archivo dentro de cada carpeta (`01_`, `02_`...) son **locales a esa carpeta**, solo para que el explorador de archivos los liste en orden — no tienen que coincidir con el número de capítulo real que aparece en el encabezado del documento.
 
-**Mapa de numeración global (provisional, se actualiza según se escribe):**
+**Mapa de numeración global (FIJO — libro completo, 2026-08-08):**
 - **Prólogo:** capítulos 1-7 (fijo, completo).
-- **Part 01 — Price of Vengeance:** capítulos 8-18 (**11 capítulos** — ampliado el 2026-08-01 y de nuevo el 2026-08-02, ver abajo).
+- **Part 01 — Price of Vengeance:** capítulos 8-18 (**11 capítulos**).
 - **Part 02 — The Taken War:** capítulos 19-25 (7 capítulos).
-- **Part 03 — The Kingslayer:** capítulos 26-32 (7 capítulos, provisional — el capítulo 6 de esta Part, "The Weight of a Wrong Answer" / "The Question He Left in the Room", puede colapsar en uno solo al redactar; si eso pasa, Part 03 queda en 6 capítulos y **todos los números de Part 04 y Part 05 bajan en 1**).
-- **Part 04 — The Rightful Pretender:** capítulos 33-34 (2 capítulos; 32-33 si Part 03 colapsa a 6).
-- **Part 05 — Aftermath:** capítulos 35-40 (6 capítulos; 34-39 si Part 03 colapsa a 6).
+- **Part 03 — The Kingslayer:** capítulos 26-30 (**5 capítulos**, no 7 — dos fusiones aplicadas al redactar el 2026-08-08: Tótems+Sacerdote de Guerra colapsaron en el Cap. 27 ("The Ones Who Stayed"), y Oryx+Epílogo colapsaron en el Cap. 30 ("The Weight of a Wrong Answer"), porque la fuente ya los narraba como un arco continuo. Cascada de -2 aplicada a Part 04 y Part 05.
+- **Part 04 — The Rightful Pretender:** capítulos 31-32 (2 capítulos).
+- **Part 05 — Aftermath:** capítulos 33-35 (**3 capítulos, no 6** — tres capítulos reubicados a Book 03 el 2026-08-08, ver nota de reubicación arriba).
+
+**El libro cierra en el Capítulo 35, no en el 40** — cinco capítulos menos que la proyección original de 2026-07-26: dos por las fusiones de Part 03, tres por la reubicación de material de Jaden a Book 03. Ningún capítulo de contenido se perdió del todo — la fusión de Tótems+Sacerdote sumó además material nuevo (la infiltración y despedida de Carina, ver Part 03 abajo), y el material de Jaden reubicado vive ahora en la apertura de Book 03.
 
 **Cambio de numeración (2026-08-01):** Part 01 pasó de 8 a 10 capítulos por la reimaginación de Taken King (ver `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`) — se añadieron el abordaje del Acorazado con `Aspect of Glass` y el evento planetario Eirene/Lubrae, que no existían cuando se dibujó el mapa original. Ningún capítulo ya escrito cambia de número: los Caps. 8-11 conservan el suyo.
 
@@ -88,35 +92,43 @@ Carina y Lena — la ventana de House of Wolves vista desde una vida que todaví
 3. **[Cap. 21]** The Map of Guilt — adapta `Guardian_Elsie_GuerraDeLosPoseidos_ElMapaDeLaCulpa` (**Frente 4** del roadmap, no el 3 — ver nota de mapa abajo). **Estado: escrito** (`Part_02_The_Taken_War/03_The_Map_Of_Guilt.md`, 2026-08-04), casi verbatim, pendiente de ajuste del autor.
 4. **[Cap. 22]** A Sword Is Not an Answer — adapta `Guardian_Eris_TakenKing_LaForja`, `Carina_Eris_GuerraDeLosPoseidos_BoltCaster`, `Guardian_AlakHul_TakenKing_ElOscuroCuchillo`, `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo` (**Frente 3** del roadmap — la forja de Raze Lighter y Bolt Caster). **Estado: escrito** (`Part_02_The_Taken_War/04_A_Sword_Is_Not_An_Answer.md`, 2026-08-04), 11 secciones, casi verbatim, pendiente de ajuste del autor.
 5. **[Cap. 23]** The Fold That Resists — adapta `Mara_Eris_TakenKing_LoQueNingunoModelo` + `Mara_Eris_GuerraDeLosPoseidos_ElPliegueQueResiste` (Frente 5, parte 1). **Estado: escrito** (`Part_02_The_Taken_War/05_The_Fold_That_Resists.md`, 2026-08-05), casi verbatim, pendiente de ajuste del autor.
-6. **[Cap. 24]** The Wounded Wish — adapta `Oryx_Riven_GuerraDeLosPoseidos_LoQueNoTerminoDeSometer` (Frente 6, Beat A + beat intermedio).
-7. **[Cap. 25]** Always Eager to Die — adapta `Oryx_Savathun_GuerraDeLosPoseidos_SiempreEstoyEntusiasmadoPorMorir` (cierre fusionado del Frente 5 + Frente 6 Beat B).
-**Estado:** Caps. 19-23 escritos (2026-08-04/05); Caps. 24-25 por redactar — todas las escenas fuente ya existen (Guerra de los Poseídos, 6 frentes, completa desde 2026-07-19).
+6. **[Cap. 24]** The Wounded Wish — adapta `Oryx_Riven_GuerraDeLosPoseidos_LoQueNoTerminoDeSometer` (Frente 6, Beat A + beat intermedio). **Estado: escrito** (`Part_02_The_Taken_War/06_The_Wounded_Wish.md`, 2026-08-08), casi verbatim, pendiente de ajuste del autor.
+7. **[Cap. 25]** Always Eager to Die — adapta `Oryx_Savathun_GuerraDeLosPoseidos_SiempreEstoyEntusiasmadoPorMorir` (cierre fusionado del Frente 5 + Frente 6 Beat B). **Estado: escrito** (`Part_02_The_Taken_War/07_Always_Eager_To_Die.md`, 2026-08-08), casi verbatim, pendiente de ajuste del autor. **Con este capítulo, Part 02 — The Taken War queda completa: 7 de 7 capítulos (19-25).**
 
 **Nota de mapa (2026-08-04, corrección):** el orden de capítulos de Part 02 **no sigue el orden numérico de los 6 frentes del roadmap** — está reordenado a propósito por secuencia narrativa. El Cap. 21 adapta el Frente 4 (el mapa de culpa de Kyle) y el Cap. 22 adapta el Frente 3 (la forja), invertidos porque el propio roadmap fija que "Kyle llega a la forja ya contaminado por la pregunta de Oryx" — el Frente 4 tiene que leerse antes que el Frente 3 aunque su número sea mayor. Verificado cruzando `01_Source_Index.md` con `Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`. El resto del orden (Caps. 23-25) sí sigue la secuencia cronológica de los Frentes 5-6 tal como los fija el roadmap.
 
 ### Part 03 — The Kingslayer
-1. **[Cap. 26]** The Ship That Believed It Was a God
-2. **[Cap. 27]** The Ones Who Stayed
-3. **[Cap. 28]** A Truth That Needed Permission
-4. **[Cap. 29]** Everything Power Leaves Behind
-5. **[Cap. 30]** The King Who Needed Heirs
-6. **[Cap. 31]** The Weight of a Wrong Answer
-7. **[Cap. 32, provisional]** The Question He Left in the Room *(puede fusionarse con el capítulo anterior al redactar — ver "Numeración de capítulos" arriba)*
-**Estado:** capítulos por redactar — todas las escenas fuente ya existen (King's Fall, 6 viñetas + raid). **También vive aquí, dentro del Cap. 26 o 27, el reencuentro real Kyle/Carina tras la muerte de Oryx — apodos "Chispitas"/"Pistolera" en su cierre emocional real (ver `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "El reencuentro real — Kyle y Carina").**
+
+**Estado: COMPLETA — 5 de 5 capítulos (26-30), escritos 2026-08-08.** Dos fusiones aplicadas al redactar (ver "Numeración de capítulos" arriba): Tótems+Sacerdote de Guerra colapsaron en un solo encuentro (Cap. 27), y Oryx+Epílogo colapsaron en un solo capítulo (Cap. 30), porque las fuentes ya narraban cada par como un arco continuo sin corte natural.
+
+1. **[Cap. 26]** The Ship That Believed It Was a God — adapta `Guardian_Equipo_KingsFall_01_LaEntrada`. **Estado: escrito** (`Part_03_The_Kingslayer/01_The_Ship_That_Believed_It_Was_A_God.md`).
+2. **[Cap. 27]** The Ones Who Stayed — fusiona `Guardian_Equipo_KingsFall_02_LosTotems` + `03_ElSacerdote` en un encuentro compuesto estilo Pantheon (riesgo de wipe compartido), preservando ambas tesis originales. Suma material nuevo: Carina se infiltra por separado del fireteam de seis, remata al Sacerdote de Guerra con Shadowshot como ajuste de cuentas por el Refugio del Muelle (Cap. 10), y se despide de Kyle consolidando los apodos "Chispitas"/"Pistolera" — seis beats fijados por el autor en `09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`. **Estado: escrito** (`Part_03_The_Kingslayer/02_The_Ones_Who_Stayed.md`).
+3. **[Cap. 28]** Everything Power Leaves Behind — adapta `Guardian_Equipo_KingsFall_04_Golgoroth`. **Estado: escrito** (`Part_03_The_Kingslayer/03_Everything_Power_Leaves_Behind.md`).
+4. **[Cap. 29]** The King Who Needed Heirs — adapta `Guardian_Equipo_KingsFall_05_LasHermanas`. **Estado: escrito** (`Part_03_The_Kingslayer/04_The_King_Who_Needed_Heirs.md`).
+5. **[Cap. 30]** The Weight of a Wrong Answer — adapta `Guardian_Equipo_KingsFall_06_Oryx` completo (combate, duelo contra el Eco, y epílogo/pregunta final ya narrados como un solo arco en la fuente — absorbe lo que iba a ser el "Cap. 32 provisional, The Question He Left in the Room" sin necesitar capítulo aparte). Cierra Part 03. **Estado: escrito** (`Part_03_The_Kingslayer/05_The_Weight_Of_A_Wrong_Answer.md`).
+
+Todas pendientes de ajuste del autor.
 
 ### Part 04 — The Rightful Pretender
-1. **[Cap. 33]** The Touch of Malice
-2. **[Cap. 34]** Six Months in Fragments
-**Estado:** capítulos por redactar — todas las escenas fuente ya existen. *(Números bajan a 32-33 si Part 03 colapsa a 6 capítulos.)*
+
+**Estado: COMPLETA — 2 de 2 capítulos (31-32), escritos 2026-08-08.**
+
+1. **[Cap. 31]** The Touch of Malice — adapta `Guardian_Elsie_PostKingsFall`, `Guardian_PostKingsFall`, `Guardian_Elsie_PostKingsFall_ElToqueDelaMaldad`. **Estado: escrito** (`Part_04_The_Rightful_Pretender/01_The_Touch_Of_Malice.md`).
+2. **[Cap. 32]** Six Months in Fragments — adapta `Carina_Lena_KingsFall_SeisMesesEnFragmentos` sin tocar ni una línea (regla dura), + escena nueva del reencuentro real Kyle/Carina tras la muerte de Oryx (consolida "Chispitas"/"Pistolera" como cierre emocional real de la campaña) + el regreso al Refugio del Muelle (Nastia, Teodor, el memorial que Carina todavía no está lista para ver — se paga después, en Red War). Cierra Part 04. **Estado: escrito** (`Part_04_The_Rightful_Pretender/02_Six_Months_In_Fragments.md`).
+
+Ambas pendientes de ajuste del autor.
 
 ### Part 05 — Aftermath
-1. **[Cap. 35]** *(título pendiente)* — el origen de Jaden con su maestro Suetake, House of Wolves (retrospectivo — ver nota abajo). **Movido desde el Prólogo el 2026-07-26.** Fuente: `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista`. **Estado: sin escribir.**
-2. **[Cap. 36]** The Trail of Xur
-3. **[Cap. 37]** What They Found in Exile
-4. **[Cap. 38]** The False Pretender
-5. **[Cap. 39]** Just in Time
-6. **[Cap. 40]** The Third Sword
-**Estado:** capítulos 2-6 (locales) por redactar — todas las escenas fuente ya existen (Taken King — Aftermath, Movimientos V-VIII, completo desde 2026-07-19). Capítulo 1 (Jaden/Suetake) también sin redactar. *(Números bajan en 1, de 34-39, si Part 03 colapsa a 6 capítulos.)*
+
+**Estado: COMPLETA — 3 de 3 capítulos (33-35), escritos y reescritos 2026-08-08. Cierra el libro completo.**
+
+**Reubicados a Book 03 (2026-08-08):** el origen de Jaden con Suetake (antes Cap. 33, "The Terrain That Cannot Be Conquered"), The Trail of Xur (antes Cap. 34) y la forja de Dark Drinker (antes Cap. 38, "The Third Sword") — los tres sin ninguna escena de Carina, incompatibles con la regla de perspectiva de este libro. Viven ahora en `11_Books/Book_03_Evolution_Of_Ashes/00_Prologue/`, capítulos 1-3 de ese libro.
+
+1. **[Cap. 33]** What They Found in Exile — adapta `Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio` (Movimiento VI) + escena nueva de la apertura de la cajita/nota/anillo en el hangar de la Torre, antes de que Carina parta a Kepler. **Reescrito 2026-08-08** para eliminar la sección de POV exclusivo de Atheena y anclar todo el capítulo en lo que Carina percibe. **Estado: escrito** (`Part_05_Aftermath/01_What_They_Found_In_Exile.md`).
+2. **[Cap. 34]** The False Pretender — adapta `Carina_Jaden_Atheena_TakenKing_ElRegresoYMalok` (Movimiento VII). **Reescrito 2026-08-08** — el patrón de Malok, las razones de Jaden y Atheena para volver a Sol, y el fracaso final ahora pasan por lo que Carina observa e infiere, no por acceso directo a la interioridad de sus compañeros. **Estado: escrito** (`Part_05_Aftermath/02_The_False_Pretender.md`).
+3. **[Cap. 35]** Just in Time — adapta `Carina_Guardian_TakenKing_JustoATiempo` (Movimiento VIII, el duelo y la muerte de Malok). **Reescrito 2026-08-08** — el pánico de Kyle sin Luz y su procesamiento posterior del duelo, antes narrados desde su interioridad, ahora corren desde lo que Carina ve y siente desde afuera del combate. Suma un párrafo de cierre nuevo que cierra el libro sobre el propio arco de duelo de Carina. **Estado: escrito** (`Part_05_Aftermath/03_Just_In_Time.md`). **Con la reubicación de "The Third Sword" a Book 03, este capítulo cierra Book 02 — The King of Shapes.**
+
+Todas pendientes de ajuste del autor.
 
 **Nota de ubicación (2026-07-26):** el Capítulo 1 es deliberadamente retrospectivo — su ventana temporal (House of Wolves) es anterior a toda la campaña de Taken King que ya se contó en Parts 01-04. Se coloca aquí, no en orden cronológico estricto, porque es el punto donde Jaden se vuelve protagonista real por primera vez (Movimientos V-VIII de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md`) — funciona como capítulo de origen justo antes de que el libro empiece a centrarlo, mismo recurso que ya usa el Prólogo con Carina al abrir el libro completo.
 
@@ -124,10 +136,9 @@ Carina y Lena — la ventana de House of Wolves vista desde una vida que todaví
 
 ## Pendiente de decidir
 
-- Idioma de títulos de capítulo: por defecto inglés (ya asumido, coherente con la convención de `10_Chapters/`).
-- Si hace falta una Coda después de Part 05 (propuesta original de Codex, "The Shape That Remained") o si el Prólogo y el cierre de Part 05 ya cumplen esa función de cierre hacia Rise of Iron/Heresy.
+- Si hace falta una Coda después de Part 05 (propuesta original de Codex, "The Shape That Remained") o si el cierre nuevo del Cap. 35 (`Just in Time`) ya cumple esa función de cierre hacia Book 03 — recomendación de Claude Code (2026-08-08): probablemente no hace falta, el Cap. 35 ya nombra el horizonte (SIVA, Rise of Iron) sin dramatizarlo, y el gesto de cierre completo hacia ese horizonte ahora vive en la apertura de Book 03; decidir junto con el autor y Codex en la auditoría.
 - Formato de trazabilidad por capítulo: bloque "Fuentes integradas" al pie de cada capítulo, o mantenerlo centralizado solo en `01_Source_Index.md`.
 
-## Próximo paso sugerido
+## Próximo paso
 
-Redactar el Prólogo primero — es la única pieza del libro que exige prosa genuinamente nueva (todo lo demás novela escenas ya escritas). Ver `01_Source_Index.md` para el material fuente de cada capítulo.
+**El libro está completo — 35 capítulos** (tras la reubicación de tres capítulos a Book 03, ver nota arriba). Próximo paso: auditoría de continuidad y filosofía con Codex (revisión completa del libro de punta a punta, no por bloques), seguida de ajuste final del autor capítulo por capítulo. Ver `01_Source_Index.md` para el cruce completo entre cada capítulo y su material fuente.

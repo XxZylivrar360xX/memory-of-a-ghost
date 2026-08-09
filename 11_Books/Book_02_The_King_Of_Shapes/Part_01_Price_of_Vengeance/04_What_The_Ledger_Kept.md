@@ -4,7 +4,7 @@
 
 **Protagonistas:** Carina, Hornet, Teodor, Aisha, Reed-7
 **Ventana temporal:** The Taken King — días después de la muerte de Lena, el día en que la guerra alcanza al Refugio del Muelle
-**Lugar:** El Refugio del Muelle, el cuarto de Lena sobre la clínica
+**Lugar:** El Refugio del Muelle — el cuarto de Lena sobre la clínica, la plaza del pueblo, el embarcadero y el bosque en sus límites
 
 ---
 
@@ -166,9 +166,51 @@ Dejó el maletín médico con Teodor, que prometió cuidarlo, y a Nastia, que ya
 
 ---
 
-## VII. What the Desk Would Have to Wait
+## VII. What Carina Brought Back
 
-Antes de irse —a donde fuera que "irse" significara todavía esa mañana— Carina dejó que los ojos cruzaran el cuarto una última vez, completo, sin apurar nada.
+Bajó a la plaza con el informe todavía formándose en la cabeza, y encontró al pueblo ya reunido, esperándola sin haberla llamado.
+
+—Los Dredgen se están retirando —dijo, sin rodeos, apenas hubo suficiente silencio para que la escucharan—. No porque perdieron el interés en este lugar. Porque algo más grande los está sacando primero. Todos los sectores entre el viejo aeropuerto y el lago están cayendo, uno detrás de otro. El Refugio queda directamente en el camino.
+
+Nadie preguntó qué era "algo más grande". Nadie, todavía, tenía nombre para eso.
+
+—Encontramos Dredgen contra Dredgen —añadió Hornet, la voz baja, casi con cuidado de no asustar más de lo necesario—. No peleando por territorio. Peleando porque algunos de ellos ya no eran ellos mismos. La misma apariencia que tenía lo que se llevó a Lena.
+
+Eso sí tuvo nombre, aunque nadie lo dijera en voz alta.
+
+—Esto no es un enemigo, es todo un frente —siguió Carina—. Los canales de la Vanguardia están saturados en toda la ciudad, no solo aquí. Eso significa que no es casualidad. Es grande a propósito. Lo bastante grande para que la Vanguardia tenga que mirar, para que los Guardianes tengan que venir.
+
+—Entonces que vengan —dijo alguien, desde el fondo—. Este es nuestro hogar. No nos vamos a ir de nuestro hogar porque algo quiera que la Vanguardia mire.
+
+Un murmullo de acuerdo recorrió el grupo, más terco que convencido.
+
+—Tú disparaste dentro de la clínica —dijo otra voz, más dura, la del hombre que había perdido la mitad de su almacén en el mismo ataque que se llevó a Lena—. Adentro. Con gente cerca. ¿Y ahora nos pides que confiemos en tu criterio sobre cuándo hay que correr?
+
+Carina no respondió de inmediato. La marca en la pared de la planta baja, la que nadie le había preguntado cómo se hizo, pareció pesar más en ese silencio que en todos los días que llevaba mirándola de reojo.
+
+—Sin ella, las bajas habrían sido más —dijo Hornet, sin que nadie se lo pidiera—. Lo sé porque hice el cálculo esa misma noche, y lo he vuelto a hacer cada noche desde entonces. Incluso con lo que pasó, tuvieron suerte. La clase de suerte que no se repite dos veces.
+
+El hombre no discutió con el Espectro. Discutió con lo único que tenía cerca para discutir.
+
+—¿Y dónde están los demás? —dijo, más alto, la voz quebrándose en algo que no era del todo enojo—. ¿Dónde están los otros Guardianes, si esto es tan grande? ¿Quién viene a defender a la gente que no puede defenderse sola?
+
+—Los últimos meses, la que ha defendido este lugar he sido yo —dijo Carina, y no lo dijo como reproche, aunque sonara a uno—. Sola. Sin ayuda de nadie, sin que nadie más viniera a preguntar si hacía falta. Y así va a seguir siendo, hoy y todos los días que hagan falta, con o sin Vanguardia, con o sin el resto de los Guardianes. Pero no puedo defender un pueblo entero parado en un solo lugar mientras algo tan grande como esto pasa por encima.
+
+Nadie respondió a eso.
+
+—Un montón de tablas no es su hogar —dijo, más despacio, la voz cediendo el filo que había tenido un segundo antes—. Las personas que tienen al lado sí lo son. Piensen en ellas antes de pensar en algo que se puede reconstruir.
+
+Se le cerró la garganta a mitad de la frase, y no intentó disimularlo.
+
+Teodor fue el primero en moverse. Cruzó la distancia sin decir nada, puso una mano en el hombro de Carina, y asintió una vez —no a ella, sino al resto del pueblo, la clase de gesto que no necesitaba palabras porque decía, con la misma claridad que cualquier discurso, *ella tiene razón, y yo voy primero*.
+
+Empezó a caminar hacia su casa a juntar lo poco que se podía llevar.
+
+Nadie más discutió después de eso.
+
+## VIII. What the Desk Would Have to Wait
+
+Antes de irse —a donde fuera que "irse" significara todavía esa mañana— Carina subió una última vez al cuarto de Lena, y dejó que los ojos lo cruzaran completo, sin apurar nada.
 
 La bata de lino de Lena seguía colgada del respaldo de la silla, gastada en los mismos puntos de siempre, y todavía olía a ella —un olor que en unos meses más iba a empezar a parecerse más al cuarto vacío que a una persona, aunque esa mañana todavía no. La cama seguía sin tender desde la última vez que alguien había dormido en ella: la misma cama de la noche de tormenta, la misma donde, meses después de esa noche, Carina la había besado por primera vez sin saber todavía que ese instante iba a tener que durarle el resto de la vida.
 
@@ -182,11 +224,11 @@ No era el tono de una pregunta. Era el tono de algo que llevaba ya varios minuto
 
 —¿Qué?
 
-—El canal interno de Espectros lleva días saturado. Retiradas forzadas. Reportes de bajas, uno detrás de otro, sin espacio entre ellos para que nadie termine de procesar el anterior antes de que llegue el siguiente. —Una pausa, la carcasa girando despacio hacia la ventana, hacia el bosque al borde del pueblo—. Hace un momento dejó de ser ruido de fondo.
+—Lo que veíamos desde el perímetro ya no es una retirada lenta. Se aceleró en los últimos minutos —dijo, la carcasa girando despacio hacia la ventana, hacia el bosque al borde del pueblo—. El margen que creíamos tener se acaba de reducir a la mitad.
 
-—¿Qué quieres decir?
+—¿Cuánto tiempo?
 
-—Quiero decir que se acerca algo, y no es pequeño.
+—Menos del que necesitamos para que todos terminen de empacar con calma.
 
 —Dame un minuto.
 
@@ -204,7 +246,7 @@ No esperó a ver de qué se trataba el grito. Ya estaba bajando las escaleras, g
 
 ---
 
-## VIII. The Call to Aisha
+## IX. The Call to Aisha
 
 —Necesito una salida para esta gente, y la necesito rápido —dijo Carina, ya corriendo hacia el embarcadero, Hornet abriendo el canal antes de que terminara la frase—. No puedo defender un pueblo entero sola contra lo que sea que se está acercando.
 
@@ -228,7 +270,7 @@ Un silencio breve del otro lado — Aisha pensando en voz baja, calculando.
 
 ---
 
-## IX. Reed's Ship
+## X. Reed's Ship
 
 El carguero llegó marcado con el símbolo de la Vanguardia en el casco, torpe y lento comparado con cualquier cosa que Carina estuviera acostumbrada a pilotar, pero enorme por dentro — suficiente para veinte personas, sus animales, lo poco que alguien lograba salvar de una casa en los minutos que le daban para decidir qué importaba.
 
@@ -254,7 +296,7 @@ Fue entonces cuando el bosque empezó a moverse.
 
 ---
 
-## X. The Priest at the Tree Line
+## XI. The Priest at the Tree Line
 
 No eran Psionicos comunes los que salieron de la bruma. Tenían los ojos ya abiertos, demasiado abiertos, y cargaban algo que no llegaba a los oídos sino directo al centro del cráneo — un zumbido que dolía como si un pensamiento ajeno se abriera paso dentro del propio antes de que el propio terminara de formarse.
 
@@ -304,7 +346,7 @@ Y siguió caminando.
 
 ---
 
-## XI. Already in the Air
+## XII. Already in the Air
 
 No supo cuánto tiempo pasó entre el golpe y el sonido de su propio nombre, gritado desde muy lejos y muy cerca al mismo tiempo.
 
@@ -334,7 +376,7 @@ Todo después de eso fue ruido distante y luz que dolía —el zumbido del motor
 
 ---
 
-## XII. The Name Oryx
+## XIII. The Name Oryx
 
 Despertó a media altura, el zumbido del motor del carguero metido en huesos que ya le dolían por otra razón, la cabeza más pesada de lo que ninguna herida de combate normal le había dejado nunca.
 
@@ -348,9 +390,23 @@ Carina se tomó un segundo antes de contestar, midiendo la distancia entre lo qu
 
 —Pregúntame en una hora —dijo, la voz todavía espesa—. ¿Qué fue eso?
 
-Hornet tardó en contestar. Nunca tardaba.
+—Antes de que contestes eso —dijo Hornet—, tienes que escuchar esto.
 
-—El canal interno de Espectros sigue saturado —dijo, al fin—. Y ahora tengo más contexto del que tenía hace una hora. Todos repiten la misma palabra, el mismo nombre.
+Reprodujo la transmisión sin preámbulo, la voz de un Espectro que no era el suyo, comprimida y urgente, repitiéndose en un bucle que ya llevaba horas corriendo por cada canal abierto del sistema:
+
+*—Vanguardia, a todos los canales. Contacto confirmado. Escala desconocida. Algo enorme acaba de entrar al Sistema Solar. Prepárense para movilización total.*
+
+—¿De dónde salió eso? —preguntó Carina, incorporándose a medias.
+
+—De cerca de Marte. Phobos.
+
+—Marte. —Repitió la palabra como si necesitara sentir su propio peso en la boca antes de creerla—. Eso está a media galaxia del Refugio. ¿Esto es solo aquí, Hornet? ¿Solo nosotros?
+
+—No. —No hubo ninguna vacilación en la respuesta—. Es en todo Sol. Esto no es un evento aislado. Es una invasión del sistema solar entero.
+
+Carina se quedó en silencio el tiempo que le tomó a esa frase terminar de asentarse —no como dato táctico, sino como el tamaño real de lo que acababa de perder frente a lo que apenas empezaba.
+
+—El canal interno de Espectros sigue saturado —continuó Hornet, al fin—. Y ahora tengo más contexto del que tenía hace una hora. Todos repiten la misma palabra, el mismo nombre.
 
 —¿Cuál?
 
@@ -368,7 +424,7 @@ No dijo, porque todavía no encontraba cómo, la otra cosa que se llevaba de ese
 
 ---
 
-## XIII. The Road Away
+## XIV. The Road Away
 
 El carguero encontró tierra firme donde detenerse un momento —un claro cualquiera, elegido más por necesidad que por plan, en algún punto entre lo que quedaba atrás y lo que fuera que viniera después. Carina bajó por la misma rampa por la que había subido a medio desmayar, el aire frío afuera un contraste brusco contra el encierro caliente del carguero, y encontró su colibrí exactamente donde lo había dejado, como si el mundo todavía le debiera esa pequeña certeza.
 
@@ -384,7 +440,7 @@ Ninguno de los que la esperaban más adelante, en lugares que ella todavía no p
 
 ---
 
-*Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Lena]], [[02_Characters/Teodor]], [[02_Characters/Aisha]], [[02_Characters/Reed-7]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_03_ElSacerdote]], [[09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[09_Roadmaps/Plan_RiseOfIron_Nemo]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Lena]], [[02_Characters/Teodor]], [[02_Characters/Aisha]], [[02_Characters/Reed-7]], [[02_Characters/Ghost]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_03_ElSacerdote]], [[09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[09_Roadmaps/Plan_RiseOfIron_Nemo]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 11 de Part 01 (capítulo local 4), originalmente "The Little Box" (título anterior: "What the Refuge Kept"), adaptando `Carina_TakenKing_LoQueQuedoDelRefugio.md`. Preservado verbatim o casi verbatim en las Secciones I-VI.
 
@@ -396,6 +452,10 @@ Ninguno de los que la esperaban más adelante, en lugares que ella todavía no p
 
 **Corrección de continuidad (2026-08-02), detectada por el autor.** La Sección IV citaba, por error heredado de la fuente original (`Carina_TakenKing_LoQueQuedoDelRefugio.md`, Sección IV), que el llanto completo de Carina llegaría "en Felwinter Peak, años después" — ese lugar y ese llanto son de Kyle (la venganza vacía de Uldren, llorando en brazos de Elsie), no de Carina. Corregido aquí y en la fuente original a una referencia propia de su arco: el llanto completo llega meses después, frente a Hornet, la primera vez que decide no cargar sola con el duelo (`Carina_Haunted_LoQueElRefugioTodaviaGuarda`, Season of the Haunted).
 
-**Por qué se movió el anillo (versión 2026-08-02, reemplaza la nota anterior del 31 de julio):** el hallazgo ya no ocurre en el Refugio. Carina se lleva la cajita y la nota consigo desde este mismo capítulo (Sección VII), sin abrirlas, guardadas en el bolsillo derecho de la chaqueta durante toda la Guerra de los Poseídos y King's Fall. Las abre sola, en el hangar de la Torre, en el momento exacto en que decide dejar Sol atrás rumbo a Kepler (`Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio`, Movimiento VI del Aftermath de Taken King) — escena todavía sin escribir, pendiente real de una sesión futura. **Consecuencia directa:** el regreso posterior al Refugio (`Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturon`, futuro Capítulo 16) ya no incluye el hallazgo de la cajita — queda reducido a Nastia y Teodor. Nastia le cuenta que hicieron un memorial para Lena y le pregunta si quiere verlo; Carina, recién leída la nota y con la cajita todavía en el bolsillo derecho, no está lista. `08_Core_Relationships/Carina_Lena.md` (Etapa 5) y `07_Unsorted_Ideas/Semillas_2026-07-31_RegresoAlRefugio.md` requieren reescritura para reflejar este nuevo orden — pendiente real, no aplicado todavía.
+**Por qué se movió el anillo (versión 2026-08-02, reemplaza la nota anterior del 31 de julio):** el hallazgo ya no ocurre en el Refugio. Carina se lleva la cajita y la nota consigo desde este mismo capítulo (Sección VIII, "What the Desk Would Have to Wait" — renumerada el 2026-08-08, ver nota abajo), sin abrirlas, guardadas en el bolsillo derecho de la chaqueta durante toda la Guerra de los Poseídos y King's Fall. Las abre sola, en el hangar de la Torre, en el momento exacto en que decide dejar Sol atrás rumbo a Kepler (`Carina_Jaden_Atheena_TakenKing_LoQueEncontraronEnElExilio`, Movimiento VI del Aftermath de Taken King) — escena todavía sin escribir, pendiente real de una sesión futura. **Consecuencia directa:** el regreso posterior al Refugio (`Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturon`, futuro Capítulo 16) ya no incluye el hallazgo de la cajita — queda reducido a Nastia y Teodor. Nastia le cuenta que hicieron un memorial para Lena y le pregunta si quiere verlo; Carina, recién leída la nota y con la cajita todavía en el bolsillo derecho, no está lista. `08_Core_Relationships/Carina_Lena.md` (Etapa 5) y `07_Unsorted_Ideas/Semillas_2026-07-31_RegresoAlRefugio.md` requieren reescritura para reflejar este nuevo orden — pendiente real, no aplicado todavía.
 
-**Objetos que llegan a este capítulo ya con origen dramatizado en Book 02, sin necesidad de exposición adicional:** el maletín médico (Capítulo 4, "The Asclepeion"), la chaqueta rojo vino — mencionada implícitamente en "la cama... donde Carina la había besado por primera vez" (Capítulo 6, "The Thread That Brings You Back") —, y el libro de *El asesinato de Roger Ackroyd* (Capítulo 5, Sección III, "The Old Book" — sembrado para el arco de misterio de Beyond Light, `Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`). La cajita con el anillo y la nota de Lena, ya fijada como símbolo central en `Carina_Lena.md`, sigue resolviéndose mucho después en `Carina_Lena_PostFinalShape_LaRespuesta` — solo cambia dónde se *encuentra* por primera vez, no dónde se resuelve.*
+**Objetos que llegan a este capítulo ya con origen dramatizado en Book 02, sin necesidad de exposición adicional:** el maletín médico (Capítulo 4, "The Asclepeion"), la chaqueta rojo vino — mencionada implícitamente en "la cama... donde Carina la había besado por primera vez" (Capítulo 6, "The Thread That Brings You Back") —, y el libro de *El asesinato de Roger Ackroyd* (Capítulo 5, Sección III, "The Old Book" — sembrado para el arco de misterio de Beyond Light, `Plan_BeyondLight_Carina_Shayura_LasCenizasVacias.md`). La cajita con el anillo y la nota de Lena, ya fijada como símbolo central en `Carina_Lena.md`, sigue resolviéndose mucho después en `Carina_Lena_PostFinalShape_LaRespuesta` — solo cambia dónde se *encuentra* por primera vez, no dónde se resuelve.
+
+**Quinto ajuste (2026-08-08), a petición del autor — la evacuación gana su propia escena de duelo colectivo antes del caos.** El autor señaló que el capítulo saltaba de la calma del cuarto de Lena directamente a la logística de la evacuación (Hornet, Aisha, Reed) sin que el pueblo mostrara resistencia real a irse, ni que quedara claro *por qué* hacía falta evacuar más allá del aviso genérico de Hornet sobre el canal saturado. Se insertó una **Sección VII enteramente nueva, "What Carina Brought Back"**, entre el empaque (Sección VI) y el último vistazo al cuarto (renumerada de VII a **VIII**, con toda la cascada de secciones posteriores corrida en +1 hasta la XIV final): Carina baja a la plaza con un reporte propio —los Dredgen retirándose porque la invasión avanza entre el viejo aeropuerto y el lago, evidencia de Dredgen corrompidos peleando entre sí con la misma apariencia que el ataque que se llevó a Lena, y la lectura de que los canales saturados de la Vanguardia en toda la ciudad apuntan a un frente deliberadamente grande, no a un incidente aislado. El pueblo resiste —"este es nuestro hogar"—, alguien le reclama con dureza el disparo dentro de la clínica (pagando la marca en la pared ya sembrada en la Sección I), Hornet la defiende con el cálculo de bajas evitadas, y el reclamo escala a "¿dónde están los demás Guardianes?". Carina responde primero con la defensa dura de que lleva meses sosteniendo el lugar sola, y después, cediendo el filo, con la línea que pidió el autor casi textual: *"Un montón de tablas no es su hogar. Las personas que tienen al lado sí lo son"* — con la garganta cerrándosele a mitad de frase. Teodor cierra la escena sin palabras: una mano en el hombro, un asentimiento al resto del pueblo, y empieza a empacar — el gesto que arranca la evacuación de verdad. La antigua apertura de la Sección VII (Hornet anunciando el canal saturado como noticia nueva) se reescribió para no repetir información ya establecida: ahora es una escalada en tiempo real ("el margen que creíamos tener se acaba de reducir a la mitad"), no un descubrimiento.
+
+**Mismo ajuste — el mensaje de Ghost desde Phobos, ya en el aire.** La Sección XIII ("The Name Oryx", renumerada de XII) gana un beat nuevo antes de la revelación del nombre: Hornet reproduce, verbatim, la transmisión de Ghost ya escrita en el Capítulo 9 ("Vanguardia, a todos los canales. Contacto confirmado. Escala desconocida. Algo enorme acaba de entrar al Sistema Solar. Prepárense para movilización total.", `02_Phobos.md`, Sección VI) — la misma frecuencia general que llega a cada Espectro activo del sistema, confirmada ahí como no formalidad sino la forma que tuvo Ghost de traducir la escala de lo que sintió en Phobos. Carina pregunta el alcance al enterarse de que el origen es Marte —a media galaxia del Refugio—, y Hornet cierra con la línea pedida por el autor: *"Es en todo Sol. Esto no es un evento aislado. Es una invasión del sistema solar entero."* Esto ancla en tiempo real que los eventos de este capítulo corren en paralelo exacto con el Capítulo 9 (Phobos) y el Capítulo 10 (The King's Hand) — Carina se entera del alcance real de la guerra por el mismo mensaje que ya vimos a Ghost transmitir, sin que ninguno de los dos elenco se cruce todavía.*

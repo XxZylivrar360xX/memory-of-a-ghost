@@ -2,17 +2,21 @@
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
-**Protagonistas:** Kyle, Ghost, Carina, Hornet, Ir Anûk, Ir Halak, Elsie
+**Protagonistas:** Kyle, Ghost, Carina, Hornet, Ir Anûk, Ir Halak, Elsie, Eris Morn (breve, por radio)
 **Ventana temporal:** The Taken King — la noche que Eris no puede acompañarlo, hasta la noche siguiente
-**Lugar:** El Hellmouth — el Mundo Trono extinto de Crota, en la Luna; un saliente rocoso a las afueras; el campamento improvisado de Elsie
+**Lugar:** El Hellmouth, en la Luna — la superficie exterior sobre el Templo de Crota, los túneles de descenso, Las Lámparas, el gran portal, y la cámara/corte donde Crota cayó; un saliente rocoso a las afueras; el campamento improvisado de Elsie
 
 ---
 
 ## I. What Kyle Chose to Carry
 
+La Luna no tenía atmósfera que llorara por nadie, y aun así, esa noche, todo en ella parecía intentarlo.
+
 El Hellmouth no había cambiado.
 
-Eso, de alguna forma, era lo más inquietante de todo — que un lugar donde algo tan grande había muerto pudiera seguir teniendo exactamente la misma forma que tenía la primera vez que Kyle lo cruzó, como si la muerte de un dios no dejara ni una marca visible en la piedra que lo había contenido.
+Eso, de alguna forma, era lo más inquietante de todo — que un lugar donde algo tan grande había muerto pudiera seguir teniendo exactamente la misma forma que tenía la primera vez que Kyle lo cruzó, como si la muerte de un dios no dejara ni una marca visible en la piedra que lo había contenido. Bajó por la ladera gris hacia la boca del abismo con el mismo paso cauteloso de siempre, aprendido hacía ya un año entero: ese lugar castigaba la prisa antes que cualquier otra cosa. Pero el silencio que lo recibió esta vez tenía una textura distinta a la que recordaba. No era la ausencia de sonido de una roca muerta. Era la clase de silencio que se sostiene a propósito — una habitación entera que deja de respirar cuando alguien entra a mitad de un velorio.
+
+El Templo de Crota seguía ahí, la entrada abierta desde la noche en que Kyle rompió su sello por primera vez, aunque le costara todavía cuadrar esa fecha con la vida que había tenido que construir después de cruzarla. No entraron por ese camino. Ghost había marcado, semanas atrás, una vía más directa hacia las profundidades — un descenso más crudo, menos ceremonial, que rodeaba el templo del todo y bajaba derecho hacia lo que quedaba de la corte de su hijo.
 
 —Nada —dijo Ghost, la voz baja, después de un momento—. No hay firma que ocultar, no hay cobertura que sostener. Solo nosotros, caminando hacia adentro sin nada delante.
 
@@ -20,7 +24,17 @@ Eso, de alguna forma, era lo más inquietante de todo — que un lugar donde alg
 
 —Se planeó porque no había otra opción. Eso no es lo mismo que planearlo bien.
 
-Kyle avanzó por los mismos túneles que recordaba de Crota's End — más silenciosos ahora, sin la actividad frenética de una guerra en curso, solo el peso denso y quieto de un lugar que había dejado de necesitar defenderse porque ya no le quedaba nada que un ejército pudiera querer.
+Los primeros túneles no habían cambiado tampoco: piedra picada, húmeda de una humedad que no debería poder existir en un satélite sin una sola gota de agua libre, apenas iluminada por vetas de un musgo bioluminiscente que latía despacio, como algo respirando en su sueño. Kyle avanzó por los mismos pasajes que recordaba de Crota's End — más silenciosos ahora, sin la actividad frenética de una guerra en curso, solo el peso denso y quieto de un lugar que había dejado de necesitar defenderse porque ya no le quedaba nada que un ejército pudiera querer.
+
+El descenso se abrió, más abajo, a Las Lámparas — una sucesión de pasarelas colgantes tendidas sobre un abismo que ni el escáner de Ghost lograba sondear del todo, cada una marcada por una lámpara Colmena distinta, orgánica, suspendida de cadenas de hueso fusionado, ardiendo con una luz verde enferma que no calentaba nada — que existía, nada más, para que algo, en algún punto de esa oscuridad, supiera que el camino todavía estaba ahí. Cada lámpara que dejaban atrás parecía arder un poco más despacio que la anterior, como si el Hellmouth entero estuviera racionando algo — luz, memoria, la energía necesaria para seguir siendo lo que había sido cuando su rey todavía respiraba. El aire olía a piedra vieja y a algo más difícil de nombrar, dulzón y pesado, la misma clase de aroma que Kyle asociaba, sin poder explicar del todo por qué, con las salas donde había visto una vez a una familia entera velar a alguien en la Última Ciudad.
+
+—¿Sientes eso? —preguntó, en voz baja, sin esperar del todo una respuesta.
+
+—Si te refieres a que este lugar se siente de luto —dijo Ghost—, sí. Lo he sentido desde que cruzamos la primera lámpara. No sé si el Hellmouth puede sentir algo en el sentido en que tú lo sientes. Pero si puede, esto es lo más parecido a eso que he registrado nunca.
+
+Al final de la última pasarela, el descenso se abrió sobre el gran portal — un arco tallado en hueso y piedra oscura, más alto que cualquier estructura que hubieran cruzado esa noche, latiendo con la misma cualidad viva-y-muerta que el resto del lugar, como una herida que el Hellmouth entero se negaba a dejar cerrar. Nadie tuvo que decirle a Kyle qué era. Lo supo con el mismo instinto con el que, meses atrás, había sabido que cruzar el umbral del Templo de Crota significaba no volver a ser exactamente quien había sido antes de hacerlo.
+
+Cruzaron.
 
 O eso creía Kyle, hasta que llegó a la cámara.
 
@@ -32,11 +46,21 @@ La sala donde había matado a Crota con su propia espada seguía teniendo la mis
 
 Dos figuras ocupaban el centro — altas, envueltas en un silencio que no era ausencia sino ceremonia, moviéndose alrededor de un punto en el suelo que Kyle reconoció, con un escalofrío que no tenía nada que ver con la temperatura, como el lugar exacto donde el alma suprema de Crota se había extinguido.
 
-—Ir Anûk. Ir Halak —dijo Ghost, la voz cargada de una tensión nueva—. Las Hijas de Oryx. No sabía que también eran sus hermanas.
+No se movían como Custodios, ni como Acólitos, ni como nada que Kyle hubiera aprendido a nombrar en el resto de la Colmena. Se movían como brujas de un cuento que nadie le había contado de niño — encorvadas, deliberadas, cada gesto cargado de una intención que no necesitaba prisa para sentirse peligrosa. Las túnicas que llevaban no se parecían a la armadura del resto de la nave: capas oscuras, bordadas en un patrón que subía y bajaba con cada movimiento, la clase de prenda que no protegía nada físico pero que declaraba, con solo estar puesta, una jerarquía que ningún Acólito del resto del Hellmouth podría reclamar.
+
+—¿Ghost?
+
+—No sé qué son —dijo Ghost, la voz baja—. Pero no son soldados. Nada en cómo se mueven es defensivo.
+
+—Parecen casi gemelas —murmuró Kyle, sin apartar la vista—. La misma altura. El mismo paso. Como si una fuera el eco de la otra.
+
+El canal se abrió, tenue, la señal peleando contra la misma interferencia que parecía crecer cuanto más profundo bajaban.
+
+—No son gemelas —dijo la voz de Eris, fragmentada pero reconocible, aprovechando la única ventana de señal que el Hellmouth parecía dispuesto a concederle todavía—. Son hermanas. Ir Anûk e Ir Halak. Las Hijas de Oryx. No sabía que también compartían sangre con Crota hasta este momento — hasta donde yo pude rastrear, nadie lo sabía.
 
 —¿Qué están haciendo?
 
-—No estoy seguro de que "haciendo" sea la palabra correcta. —Ghost proyectó un escaneo parcial, cauteloso, como si acercarse demasiado con los sensores pudiera equivaler a acercarse demasiado en persona—. Se mueven como quien oficia algo. Un rito, no un ataque.
+—No estoy segura de que "haciendo" sea la palabra correcta. —Algo en la voz de Eris se apagó, como si la información le costara más de lo que dejaba ver—. Se mueven como quien oficia algo. Un rito, no un ataque.
 
 Kyle se quedó en las sombras del corredor, observando.
 
@@ -56,13 +80,11 @@ Su lógica de conquista había construido todo lo que Oryx era. Y aun así, aqu�
 
 ## III. The Other Descent
 
-En algún punto muy distinto del Hellmouth, sin que Kyle lo supiera todavía, otra persona descendía por su propia razón.
-
 Carina no había venido por Crota, ni por Oryx, ni por ninguna de las guerras que el resto del sistema estaba librando en su nombre. Había venido por la Tumba del Mundo — un archivo Colmena, según la inteligencia que había reunido, con registros suficientemente antiguos como para contener algo útil sobre el origen de la corrupción que había matado a Lena.
 
 No necesitaba un módulo de camuflaje.
 
-Se movía por los túneles con el sigilo específico de una Acechadora Nocturna — no tecnología prestada, sino algo propio, paracausal, la clase de vacío que doblaba la atención de cualquier cosa que intentara notarla y la dejaba resbalar hacia otro lado. Hornet flotaba cerca, en silencio, ajustando el rumbo con pequeños murmullos que solo ella podía escuchar.
+Tampoco necesitaba, esta vez, todo el sigilo que normalmente habría empleado para moverse por un lugar como este. El Hellmouth estaba callado. Demasiado callado. Ningún Custodio en las rondas que Carina esperaba encontrar, ningún eco de patrulla, ninguna de las señales de vida hostil que un Mundo Trono extinto debería seguir produciendo por pura inercia. Avanzaba con la cautela profesional de siempre, arma lista, cada paso medido — pero sin la tensión constante de quien espera ser descubierta en cualquier segundo. Ese silencio, lejos de tranquilizarla, le pesaba de una forma distinta: la clase de quietud que no significaba seguridad, sino que algo, en algún punto de esa misma oscuridad, ya se había llevado la atención de todo lo demás. Hornet flotaba cerca, en silencio, ajustando el rumbo con pequeños murmullos que solo ella podía escuchar.
 
 —¿Falta mucho? —preguntó, en voz baja.
 
@@ -72,7 +94,7 @@ Se movía por los túneles con el sigilo específico de una Acechadora Nocturna 
 
 Hornet no discutió eso.
 
-Carina avanzó, sin saber que a menos de un kilómetro en línea recta —aunque "línea recta" fuera, en el Hellmouth, un concepto casi decorativo— otra persona se movía por la misma oscuridad, con una razón distinta, hacia un objetivo que estaba a punto de cruzarse con el suyo sin que ninguno de los dos lo hubiera planeado.
+Carina avanzó, sola con la certeza de que la Tumba, si de verdad contenía lo que esperaba, iba a darle algo que ningún informe de la Vanguardia le había dado todavía: una razón real detrás del nombre que se lo había llevado todo.
 
 ---
 
@@ -206,7 +228,7 @@ En algún punto del Hellmouth, no muy lejos, algo más notó que ya no había na
 
 ## X. What Carina Felt
 
-Carina se detuvo a mitad de paso, la mano de Hornet deteniéndose también, en el mismo instante impreciso.
+Carina se detuvo a mitad de paso, la carcasa de Hornet deteniéndose también, en el mismo instante impreciso.
 
 —¿Sentiste eso?
 
@@ -568,4 +590,12 @@ Pero ya no era solo observación.
 
 **Ajuste central de la reimaginación (2026-08-02), aplicado en las Secciones I, IV, VII, IX y X:** las fuentes originales dependían de un emisor portátil que la reimaginación del 2026-08-01 eliminó por completo (ver Capítulo 12, Sección XI — el módulo se quemó con la nave de Eris, no queda nada que adaptar). Reescrito para que Kyle entre expuesto, sin ningún dispositivo: la Sección I reemplaza el diálogo sobre "emisor estable" por el reconocimiento de que no hay nada que ocultar; la Sección IV convierte la antigua cuenta regresiva del emisor en una decisión genuinamente independiente de Kyle — sin nadie dándole el límite de tiempo, tiene que leerlo él mismo; la Sección VII reemplaza "la falla prevista" del emisor por un cambio interno y ambiguo (algo en su propia relación con la Luz, no un aparato); la Sección IX quita el colapso técnico y lo deja en exposición pura, citando de vuelta la advertencia de Eris del Capítulo 12 ("vas solo, sin nada que te oculte"); la Sección X ajusta la detección de Hornet de "firma tecnológica" a "una presencia... peleando por no ser notada" — Kyle mismo, no un aparato, es lo que casi se delata.
 
-**Pago del mini-arco de Kyle (ver `Plan_TakenKing_Parte1.md`):** la Sección IV es la primera aparición real del hilo "nacimiento de la mente de líder" — sin Eris, sin Cayde, sin Joe (que no entra al Hellmouth), Kyle tiene que decidir solo cuándo actuar, sin ninguna cuenta regresiva externa que decida por él. El costo de Ghost (herido en el Capítulo 12) no reaparece aquí — su siguiente pago vive en capítulos posteriores. La escena con Elsie (Secciones XIX-XXIII) paga la transición 3→4 (Observación→Confianza) de `Guardian_Elsie_Bray.md`, y es donde Kyle empieza a tratarla como confidente activo, no solo presencia doméstica — la busca él, no al revés.*
+**Pago del mini-arco de Kyle (ver `Plan_TakenKing_Parte1.md`):** la Sección IV es la primera aparición real del hilo "nacimiento de la mente de líder" — sin Eris, sin Cayde, sin Joe (que no entra al Hellmouth), Kyle tiene que decidir solo cuándo actuar, sin ninguna cuenta regresiva externa que decida por él. El costo de Ghost (herido en el Capítulo 12) no reaparece aquí — su siguiente pago vive en capítulos posteriores. La escena con Elsie (Secciones XIX-XXIII) paga la transición 3→4 (Observación→Confianza) de `Guardian_Elsie_Bray.md`, y es donde Kyle empieza a tratarla como confidente activo, no solo presencia doméstica — la busca él, no al revés.
+
+**Corrección de continuidad (2026-08-08), a petición del autor — Ghost ya no nombra a las Hermanas al verlas.** La Sección II tenía a Ghost identificando a Ir Anûk e Ir Halak por nombre en el instante de verlas, sin ninguna fuente de esa información — el mismo problema de fondo ya corregido dos veces en el Cap. 12 (Kyle no puede saber nombres que nadie le dio). Reescrito: Kyle y Ghost las ven primero como figuras rituales sin identificar, brujas con túnicas ceremoniales que declaran jerarquía sin necesitar armadura; Kyle nota que parecen casi gemelas; y es **Eris, por un canal de radio breve y frágil** —una ventana de señal que el Hellmouth apenas concede antes de que la interferencia crezca con la profundidad— quien las nombra y las contextualiza como hermanas, no gemelas, hijas de Oryx que además comparten sangre con Crota. Esto además resuelve por qué Eris "no estaba" en la Sección IV cuando Kyle tiene que decidir solo: no es que nunca hubo canal, es que la ventana de señal ya se cerró para entonces, coherente con la interferencia creciente ya establecida en el recorrido de la Sección I.
+
+**Corrección de continuidad (2026-08-08), a petición del autor — Carina todavía no tiene afinidad de Vacío.** La Sección III describía su sigilo como "el sigilo específico de una Acechadora Nocturna... algo propio, paracausal, la clase de vacío que doblaba la atención" — un anacronismo: Carina despierta su afinidad de Vacío recién en el Cap. 14 (`07_The_Second_Seat.md`, en las ruinas del Jardín Negro), varios días después de este capítulo. Corregido: en vez de sigilo paracausal, la sección ahora nota que el Hellmouth está inusualmente callado — sin patrullas, sin el eco de actividad hostil que un Mundo Trono extinto debería seguir produciendo — así que no hace falta el sigilo extremo que ella normalmente emplearía. El silencio se lee como presagio, no como alivio: algo se ha llevado la atención de todo lo demás, coherente con lo que el lector ya sabe por la Sección II (las Hijas oficiando el duelo, la intrusión de Kyle) sin que Carina tenga forma de saberlo todavía.
+
+**Ajuste de transición (2026-08-08), a petición del autor — se quitan los marcadores explícitos de "mientras tanto" entre las líneas Kyle/Carina.** El autor señaló que el corte entre POV se sentía como un ciclo mecánico A-B-A-B, marcado en el propio texto ("en algún punto muy distinto del Hellmouth, sin que Kyle lo supiera todavía..." al abrir la Sección III, y su espejo casi idéntico al cerrarla). Se quitaron ambas líneas — la sección ahora entra directo a la experiencia de Carina, sin anunciar el cambio de hilo, y cierra sobre su propia motivación en vez de la ironía dramática de "otra persona se movía por la misma oscuridad." El título de la sección ("The Other Descent") ya hace ese trabajo de orientar al lector; no hacía falta repetirlo en prosa. **No se tocaron** las transiciones VII→VIII y IX→X, que ya usaban el recurso correcto sin que el autor lo pidiera: una línea ambigua de cierre ("algo, en algún punto de la oscuridad... se detuvo" / "algo más notó que ya no había nada que ocultar, también") que el lector solo termina de entender al entrar a la siguiente sección, en vez de explicárselo de antemano — ese patrón queda como el modelo a seguir si hace falta suavizar más cortes en capítulos futuros.
+
+**Ajuste de entorno (2026-08-08), a petición del autor — la Sección I se expande a un recorrido completo del descenso, con textura de luto.** La apertura original resolvía el trayecto de superficie a cámara en cinco párrafos cortos, casi sin geografía propia. Reescrita para trazar un recorrido real: la superficie lunar sobre la boca del Hellmouth, el Templo de Crota (ya visitado por Kyle en Age I, `10_Chapters/Age_I/Cap_01_A_New_Shape.md`, Sección IV — mencionado y rodeado, no vuelto a cruzar), los túneles de descenso con su musgo bioluminiscente, **Las Lámparas** (nombre nuevo, coherente con la geografía real del Hellmouth de Dark Below/Crota's End — una sucesión de pasarelas colgantes marcadas por lámparas Colmena orgánicas sobre un abismo insondable), y **el gran portal** de hueso y piedra que abre paso a la corte donde Crota cayó. El hilo de luto pedido por el autor —que el aire mismo del Hellmouth se sienta como si todo lo que vive ahí estuviera de duelo por el príncipe caído— corre explícito en toda la sección: el silencio comparado con una habitación conteniendo la respiración a mitad de un velorio, las lámparas ardiendo cada vez más despacio "como si el Hellmouth estuviera racionando... la energía necesaria para seguir siendo lo que había sido cuando su rey todavía respiraba", el aire con un olor que Kyle asocia sin poder explicarlo con salas de velorio en la Última Ciudad, y una línea nueva de Ghost confirmándolo directamente ("si te refieres a que este lugar se siente de luto... sí"). No se tocó ninguna línea de diálogo ni de trama de las Secciones II en adelante — el recorrido nuevo termina exactamente donde empezaba la versión anterior, en el umbral de la cámara del funeral.*

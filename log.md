@@ -4,6 +4,72 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-08-08 (d) | Pase de ajustes del autor sobre Part 01 — Caps. 11, 12 y 13
+
+Continuación directa de la sesión anterior (c). El autor releyó los primeros capítulos de Book 02 ya terminado y trajo una serie de correcciones puntuales, capítulo por capítulo, aplicadas en el momento — no una reescritura de bloque, sino ajustes de precisión sobre texto ya cerrado.
+
+**Cap. 11 — `What_The_Ledger_Kept.md`:** nueva Sección VII, "What Carina Brought Back" — la evacuación del Refugio gana una escena de confrontación colectiva que antes no existía: el reporte de Carina sobre los Dredgen retirándose ante el avance de la Toma, el reclamo del pueblo por el disparo dentro de la clínica (pagando la marca ya sembrada en la Sección I), el "¿dónde están los demás Guardianes?", la defensa dura de Carina, y su línea final cediendo el filo — "un montón de tablas no es su hogar, las personas que tienen al lado sí lo son" — cerrada por el gesto mudo de Teodor que arranca la evacuación de verdad. Cascada de renumeración +1 en toda la segunda mitad del capítulo. Se sumó también el beat de Hornet reproduciendo la transmisión real de Ghost desde Phobos ("Vanguardia, a todos los canales...", cita textual del Cap. 9), atando ambos capítulos en tiempo real.
+
+**Cap. 12 — `The_Dreadnaught_Key.md`:** el más trabajado de la tarde.
+- Eris pasa a guiar la lectura del primer Fragmento Calcificado (antes Kyle lo interpretaba solo) — nombra a Aurash, Xi Ro y Sathona por radio, en tiempo real.
+- La cámara de la batería se expande a una ciudadela de tres alas con corredor de estatuas (semilla para las llaves de King's Fall), cada una con su propio núcleo independiente en vez de conductos alimentando uno distante.
+- La nave de rescate pasa de una "nave de reserva" inventada a **Duality**, la nave propia de Kyle ya sembrada en la Sección I — Cayde y Eris la usan esa noche, no él.
+- Nuevo corte a Oryx observando el escape desde una cámara con vista, calma, sonrisa pasiva, sin ordenar persecución — paga la línea ya escrita "un margen limpio, demasiado limpio."
+- El diagnóstico de la herida de Ghost se movió por completo a la escena con Elsie (ya no se autodiagnostica en la nave) para que el "esto es una cicatriz" de ella no llegue precedido; Ghost le devuelve a Kyle su propia regla del clavo y la esquina torcida del Cap. 8 para justificar por qué la herida nunca se cura.
+- Escena privada nueva Kyle/Ghost, después de que Elsie se va: Ghost alude a lo que vio en el porche: Kyle se hace el loco por completo (ya no admite nada) — sembrado como pago futuro en Book 03, donde Jaden, Carina y hasta los Espectros se lo van a señalar hasta que lo reconozca.
+- Corrección de continuidad: Kyle ya no nombra a Ir Anûk e Ir Halak por su cuenta al recordar su primera visita al Hellmouth (dos beats separados, ambos corregidos).
+- La apertura de Carina con Cayde gana el desalojo forzado como dato concreto y desprecio real hacia "ese tal Oryx" ("me interesa el ángulo correcto para meterle una bala en el cráneo"); se cortó la repetición de la palabra "plan" en el resto del diálogo.
+- Cayde no manda a Carina al Hellmouth (se descartó por romper el diseño de "La Intersección" del Cap. 13 y la propia lógica de Cayde en la misma escena) — en su lugar, un cierre nuevo con Sundance (primera aparición en el vault) donde confía en su instinto sin dirigirla; se cortó una línea que adelantaba de más la importancia futura de Aspect of Glass.
+
+**Cap. 13 — `The_Hellmouth_Descent.md`:**
+- Sección I expandida a un recorrido ambiental completo del descenso — la Luna, el Templo de Crota (mencionado, no cruzado), los túneles, **Las Lámparas** (nombre nuevo, geografía real del Hellmouth de Dark Below), y el gran portal — con el aire entero del lugar sintiéndose de luto por Crota.
+- Corrección de continuidad: Ghost ya no nombra a las Hermanas al verlas en el funeral — ahora se leen primero como brujas con túnicas ceremoniales, Kyle nota que parecen casi gemelas, y es Eris quien las identifica por una ventana de señal frágil que además explica por qué "no estaba" unas secciones después.
+- Corrección de continuidad: Carina todavía no tiene afinidad de Vacío en este punto de la línea de tiempo (la despierta recién en el Cap. 14) — su sigilo paracausal se reemplazó por la nota de que el Hellmouth está sospechosamente callado, sin necesidad de sigilo extremo.
+- Se quitaron los marcadores explícitos de "mientras tanto" entre los hilos de Kyle y Carina (Sección III) para que el corte de POV no se sintiera como un ciclo mecánico A-B-A-B; las transiciones que ya usaban una línea ambigua de cierre (VII→VIII, IX→X) se dejaron intactas como modelo a seguir.
+- Corrección menor: "la mano de Hornet" → "la carcasa de Hornet" (Hornet es un Espectro, no tiene manos).
+
+**Patrón detectado en la sesión, para tener presente en pases futuros:** la mayoría de las correcciones del autor hoy fueron del mismo tipo — un personaje sabiendo, nombrando o reaccionando a algo antes de que la cronología interna se lo permita (Ir Anûk/Ir Halak nombradas de más, dos veces; el Vacío de Carina adelantado; Ghost con mano). Vale la pena, al redactar o revisar escenas nuevas, chequear explícitamente qué sabe cada personaje en ese punto exacto de la línea de tiempo antes de ponerlo en su boca o en su cabeza.
+
+**Sin terminar, continúa en la próxima sesión:** el autor sigue releyendo Part 01 — quedan capítulos posteriores al 13 todavía sin repasar con esta misma pasada de ajustes.
+
+---
+
+## Sesión 2026-08-08 (c) | Reubicación de Jaden a Book 03 + Book 02 recortado a POV estricto de Carina (35 capítulos)
+
+Continuación directa de la sesión anterior (b), misma tarde. El autor pidió, después de ver Book 02 terminado, dos cambios de arquitectura antes de mandarlo a auditoría:
+
+1. **El origen de Jaden se muda a la apertura de Book 03.** El autor fijó la tesis de ese libro (Rise of Iron + Age of Triumph): un *space western* fusionado con filosofía samurái, donde la tecnología deliberadamente NO es la respuesta a SIVA — y quiere que la formación completa de Jaden abra ese libro, no que viva enterrada como capítulo tardío de Book 02.
+2. **Book 02 se queda con la perspectiva estrictamente del lado de Carina** al conocer a Jaden y Atheena — nunca entra en la cabeza de ninguno de los dos por su cuenta.
+3. **El punto de Book 03:** armar la camaradería intermitente entre Kyle y Jaden como amistad genuina, de respeto mutuo a hermandad de armas — todavía sin diseñar más allá de la semilla.
+
+**Creado `11_Books/Book_03_Evolution_Of_Ashes/`** — primera carpeta de ese libro, arquitectura apenas empezada. Prólogo con 3 capítulos, todos reubicados desde Book 02 el mismo día: `The Terrain That Cannot Be Conquered` (Suetake, sin cambios de contenido salvo apertura/cierre re-metadatados), `The Trail of Xur` (ídem, cierre reescrito como puente explícito entre libros), y `The Third Sword` (Dark Drinker) — cuya coda de cierre se reescribió por completo: ya no reúne la trilogía de espadas como cierre de Book 02, ahora nombra el horizonte de Book 03 (los Señores de Hierro, SIVA sin nombrarse todavía) y siembra explícitamente el arco Kyle/Jaden. `00_Book_Map.md` nuevo con la tesis del libro y el resto marcado como pendiente de diseño.
+
+**Book 02 recortado de 38 a 35 capítulos.** Los tres capítulos que quedaron en Part 05 — Aftermath (`What They Found in Exile`, `The False Pretender`, `Just in Time`) se reescribieron por completo para eliminar toda interioridad de Jaden o Atheena: la emboscada en Kepler ahora se vive desde dentro, sin saber quién ayuda hasta que termina (antes alternaba con una escena de Atheena detectando el patrón); las razones de Jaden y Atheena para volver a Sol y enfrentar a Malok ahora se leen en gestos y pausas, no en acceso directo a su interioridad; y el duelo final contra Malok —antes narrado parcialmente desde el pánico interior de Kyle sin Luz, con un fragmento privado de él recordando a Elsie— ahora corre enteramente desde lo que Carina ve y siente desde el margen del combate. `Just in Time` queda como el nuevo capítulo de cierre de Book 02, con un párrafo final nuevo que cierra el libro sobre el propio arco de duelo de Carina.
+
+**Actualizado:** `Book_02.../00_Book_Map.md` y `01_Source_Index.md` (numeración final de 35 capítulos, nota de reubicación), `Book_03.../00_Book_Map.md` (nuevo), `INDEX.md` (ambas entradas actualizadas).
+
+**Pendiente:** anotar la reubicación en `09_Roadmaps/Plan_Jaden_Atheena_Origen.md` y `09_Roadmaps/Plan_Libros_Saga.md` (Book 03 ya no está "sin carpeta"); diseñar el resto de Book 03 (Partes 01 en adelante) cuando le toque turno — el foco inmediato sigue siendo la auditoría de Codex sobre Book 02.
+
+---
+
+## Sesión 2026-08-08 (b) | Book 02 — The King of Shapes queda TERMINADO: 38/38 capítulos
+
+Objetivo explícito del autor: dejar Book 02 completo hoy para pasarlo a auditoría de continuidad/filosofía con Codex. Se redactaron los 17 capítulos que quedaban pendientes, cerrando Parts 02-05 de punta a punta en una sola sesión extendida.
+
+**Part 02 — The Taken War, cerrada (Caps. 24-25):** *The Wounded Wish* (Frente 6 — Oryx hiere a Riven en la Ciudad Ensoñada sin someterla del todo, más el beat de la extracción de la Mente Vex que empieza a cazar las firmas temporales de Elsie) y *Always Eager to Die* (cierre del Frente 5 + Beat B del Frente 6 fusionados — la última conversación entre Oryx y Savathûn, "Sathona", el don de la Mente y el secreto de Riven). Ambas casi verbatim sobre las fuentes ya escritas del roadmap de Guerra de los Poseídos. **7/7.**
+
+**Part 03 — The Kingslayer, cerrada (Caps. 26-30), con dos fusiones de diseño aplicadas al redactar:** *The Ship That Believed It Was a God* (La Entrada, sin cambios) → ***The Ones Who Stayed*** fusiona Los Tótems + El Sacerdote de Guerra en un encuentro compuesto estilo Pantheon (mecánica de wipe compartido), y suma la escena nueva de Carina infiltrándose por separado del fireteam de seis para rematar al Sacerdote con Shadowshot (ajuste de cuentas por el Refugio del Muelle) y despedirse de Kyle consolidando "Chispitas"/"Pistolera" → *Everything Power Leaves Behind* (Golgoroth) → *The King Who Needed Heirs* (Las Hermanas) → ***The Weight of a Wrong Answer*** absorbe combate + duelo contra el Eco + epílogo/pregunta final en un solo capítulo, porque la fuente ya los narraba como arco continuo. Las dos fusiones colapsan Part 03 de 7 a 5 capítulos, cascada de -2 aplicada a Partes 4 y 5. **5/5.**
+
+**Part 04 — The Rightful Pretender, cerrada (Caps. 31-32):** *The Touch of Malice* (post-King's Fall, la palabra "validé", el Toque de Maldad cifrado por firma biométrica) → ***Six Months in Fragments*** adapta la escena ya escrita de Carina sin tocar una línea (regla dura) y le suma dos escenas nuevas: el reencuentro real Kyle/Carina cuando Oryx cae de verdad (los diez beats guionados por el autor, cierre emocional real de la campaña) y el regreso al Refugio del Muelle (Nastia, Teodor, el memorial que Carina todavía no está lista para ver — se paga después, en Red War). **2/2.**
+
+**Part 05 — Aftermath, cerrada (Caps. 33-38), cierre del libro completo:** *The Terrain That Cannot Be Conquered* (origen retrospectivo de Jaden con Suetake, movido aquí desde el Prólogo por ritmo) → *The Trail of Xur* (primera aparición dramatizada de Xûr y Los Nueve) → ***What They Found in Exile*** suma la escena nueva de Carina abriendo en soledad, en un hangar de la Torre, la cajita y la nota que cargaba cerradas desde la evacuación del Refugio — el anillo, la nota de Lena ("me eligió a mí para esto") — antes de partir a Kepler y encontrarse con Jaden y Atheena → *The False Pretender* (el rumor de Malok, el regreso, el fracaso parcial) → *Just in Time* (el duelo ritual, Kyle pierde, Carina remata con el Arma Dorada) → ***The Third Sword*** adapta la forja de Dark Drinker y cierra con una coda nueva que reúne la trilogía de espadas de Taken King (Raze Lighter/Bolt Caster/Dark Drinker) como respuesta distribuida a la pregunta que Oryx dejó abierta al morir. **6/6.**
+
+**Actualizado:** `00_Book_Map.md` (numeración global fija de 38 capítulos, todas las Partes marcadas completas), `01_Source_Index.md` (cruce fuente↔capítulo actualizado para las 17 escenas nuevas), `INDEX.md` (entrada de `Plan_Book02_TheKingOfShapes` marcada libro completo).
+
+**Pendiente real:** auditoría de continuidad/filosofía con Codex sobre el libro completo (no por bloques), seguida de ajuste capítulo por capítulo del autor. Decisión abierta para esa auditoría: si hace falta una Coda después del Cap. 38 o si su cierre nuevo ya cumple esa función hacia Rise of Iron/Wrath of the Machine.
+
+---
+
 ## Sesión 2026-08-08 | Diseño: Kyle perdido en acción en Shadowkeep — retcon completo del puente hacia Beyond Light
 
 Sesión de diseño puro, cero prosa. Arrancó de una pregunta exploratoria del autor (dónde encajaría cronológicamente un evento que expusiera los sentimientos de Elsie por Kyle vía un "lo dan por muerto") y terminó en un retcon deliberado y completo de la ventana Shadowkeep→Beyond Light.

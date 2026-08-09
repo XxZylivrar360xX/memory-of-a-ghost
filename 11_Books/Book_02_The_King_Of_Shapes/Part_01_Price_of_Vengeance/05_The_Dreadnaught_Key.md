@@ -2,7 +2,7 @@
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
-**Protagonistas:** Kyle, Ghost, Cayde-6, Eris Morn, Amanda Holliday, Elsie (breve), Carina (cierre)
+**Protagonistas:** Kyle, Ghost, Cayde-6, Eris Morn, Amanda Holliday, Elsie (breve), Carina (cierre), Sundance (breve)
 **Ventana temporal:** The Taken King — desde los días posteriores a que la Mano del Rey se cerrara sobre el sistema, hasta la primera incursión fallida al Acorazado y su secuela inmediata
 **Lugar:** El claro junto a la cabaña; una instalación olvidada del Cosmódromo; un hangar en los márgenes de la Torre; el Acorazado de Oryx, en órbita sobre Saturno; la cabaña, esa misma noche; el taller de Cayde; su despacho
 
@@ -148,7 +148,7 @@ Fue lo más parecido a una tregua que ninguna de las dos necesitó nombrar en vo
 
 ## IV. The Last Ring
 
-La nave de Eris se deslizó hacia el Acorazado con el motor casi en silencio, el módulo sosteniendo una mentira delicada frente a cada sensor que intentaba confirmar su presencia. Solo Kyle y Ghost iban a bordo — la firma más pequeña que podían permitirse. Cayde y Eris esperaban a distancia, en una nave de reserva, siguiendo la operación por canal.
+La nave de Eris se deslizó hacia el Acorazado con el motor casi en silencio, el módulo sosteniendo una mentira delicada frente a cada sensor que intentaba confirmar su presencia. Solo Kyle y Ghost iban a bordo — la firma más pequeña que podían permitirse. Cayde y Eris esperaban a distancia, a bordo de Duality —ya lista para el salto después de los dos días que Kyle había pasado revisándola nodo por nodo, aunque no fuera a ser él quien la llevara esa noche—, siguiendo la operación por canal.
 
 —Estamos pasando el primer anillo de patrullaje —dijo Ghost, la voz baja—. Ninguna respuesta. Ningún cambio de patrón.
 
@@ -234,19 +234,39 @@ La imagen se rompió tan de golpe como había llegado — sin cierre, sin la cla
 
 Kyle salió de la visión con la respiración más agitada de lo que la quietud de la cámara podía justificar, la roca todavía en la mano, otra vez fría, otra vez solo piedra.
 
-—¿Kyle?
+—¿Kyle? —Ghost, ya cerca, la voz cargando la misma cautela que aplicaba a cualquier cosa que no pudiera escanear.
 
-—Estoy bien. Vi algo. No sé qué. Fragmentos. Un rey. Tres hijas. Un mar que no terminaba nunca. Y algo debajo, en el fondo, esperando.
+—Estoy bien. —No lo estaba del todo, pero era lo más cerca que podía ofrecer todavía—. Vi algo. No sé qué es. Necesito que alguien me ayude a entenderlo.
 
-—Yo no vi nada de eso. Mi escaneo seguía diciendo lo mismo mientras tú lo sostenías: roca vacía. Sigue diciéndolo ahora. Lo que fuera que te mostró, no pasó por ningún sensor que yo tenga. Si tuviera que adivinar, diría que no estaba hecho para mí. Estaba hecho para algo que pudiera sentirlo, no medirlo.
+—Yo no vi nada —dijo Ghost—. Mi escaneo seguía diciendo lo mismo mientras lo sostenías: roca vacía. Sigue diciéndolo ahora. Lo que fuera que te mostró, no pasó por ningún sensor que yo tenga. Estaba hecho para algo que pudiera sentirlo, no medirlo.
 
-—¿Y qué crees que era?
+Kyle abrió el canal que Cayde había dejado colgando en silencio.
 
-Kyle tardó en responder.
+—Eris. ¿Sigues ahí?
 
-—Un principio —dijo, al fin—. Antes de que hubiera un Oryx, hubo alguien que solo tenía hambre, y un mar que no le daba nada más. No sé si eso lo disculpa. No creo que lo disculpe. Pero es distinto de lo que pensaba que iba a encontrar aquí. —Se quedó mirando la piedra, otra vez inerte en su palma—. Un monstruo sin historia. Es más fácil pelear contra eso.
+—Sigo aquí. —La voz llegó de inmediato, como si hubiera estado esperando exactamente esa pregunta—. ¿Qué viste?
 
-Ghost no dijo nada más. Pero registró, con el mismo cuidado meticuloso de siempre, cada palabra que Kyle lograba ponerle a algo que en realidad no tenía palabras propias.
+Lo relató como pudo, sin ningún orden que se sintiera del todo correcto — un rey, viejo, gobernando lo poco que quedaba de un pueblo sobre un mar que no terminaba nunca. Tres hijas de pie junto a él, cada una mirando el agua con una cara distinta. Y debajo, mucho más abajo de donde cualquier luz del rey hubiera llegado, algo enorme, paciente, que llevaba eones esperando exactamente esa clase de hambre.
+
+Eris se quedó en silencio el tiempo suficiente para que Kyle se preguntara si la transmisión se había cortado.
+
+—Ese rey tuvo nombre, alguna vez —dijo, al fin, la voz más baja de lo habitual—. No lo sé, ni falta que hace. Pero las hijas sí. Viste a Aurash antes de que esa palabra significara nada. A Xi Ro. A Sathona. De pie junto a su padre, en un mundo que se ahogaba tan despacio que ninguna de las tres llegó a notar el momento exacto en que dejó de poder salvarse solo.
+
+—¿Y lo de abajo? Lo que esperaba.
+
+—Un Dios Gusano. —Lo dijo sin dramatismo, con la misma precisión clínica que usaba para cualquier otro dato de campo—. Llevan eones haciendo esa misma oferta, en cada mundo lo bastante desesperado para escucharla. No prometen salvación. Prometen que el hambre, al menos, va a dejar de ser un problema sin resolver. —Una pausa—. Lo que viste, Kyle, es el momento antes del trato. El único de toda esta historia en que Oryx, si todavía podemos llamarlo así, no había elegido nada.
+
+—¿Por qué me lo muestra a mí?
+
+—No lo sé. —Fue honesta, sin suavizarlo—. Pero si tuviera que adivinar: porque algo que se convirtió en esto necesita, en algún nivel que ni él mismo puede nombrar, que alguien entienda que no empezó siendo un monstruo. Eso no lo disculpa. —La voz de Eris se endureció lo justo—. Nada de lo que hizo después queda disculpado por lo que fue antes de hacerlo. Pero pelear contra alguien que una vez tuvo miedo del mismo tipo de cosas que vos es distinto a pelear contra un monstruo sin historia.
+
+Kyle se quedó mirando la piedra, otra vez inerte en su palma.
+
+—Un monstruo sin historia habría sido más fácil —dijo, al fin, casi para sí mismo.
+
+—Sí —dijo Eris—. Y ya no tenés esa opción. Bienvenido a por qué esto me toma toda una vida, y todavía no termino de entenderlo yo tampoco.
+
+Ghost no dijo nada más. Pero registró, con el mismo cuidado meticuloso de siempre, cada palabra que dos voces que no eran la suya lograban ponerle a algo que en realidad no tenía palabras propias.
 
 ---
 
@@ -264,35 +284,81 @@ Ghost proyectó un mapa parcial de la estructura circundante — incompleto, per
 
 —Deshabilítenla —dijo Cayde—. Si lo logran, va a abrir una ventana — un radio donde nadie va a poder disparar nada lo bastante grande como para volver a hacer lo que le hizo a la nave. Ahí sí podemos abrir una zona de transmat segura y sacarlos.
 
-La cámara de la batería principal no se parecía a nada que Kyle hubiera visto en tecnología Cabal, Vex o humana — un núcleo pulsante, del tamaño de una casa pequeña, alimentado por conductos que se perdían en la estructura del Acorazado como raíces que hubieran decidido, hace mucho, que la nave entera era su árbol.
+Lo que se abrió frente a ellos, más allá de la puerta que Ghost forzó, no se parecía a nada que Kyle hubiera visto en tecnología Cabal, Vex o humana — no era una sala de máquinas. Era una ciudadela entera, construida dentro del casco de la nave con la clase de escala que solo tenía sentido si quien la había diseñado nunca había considerado que "demasiado grande" fuera una objeción válida.
 
-—No hay guardia visible —dijo Ghost—. Eso no significa que esté desprotegida. Solo significa que no espera visitantes hasta este punto.
+Un corredor se extendía frente a ellos, tallado a ambos lados con estatuas de Colmena —figuras encorvadas, cada una distinta de la anterior, ninguna terminando de sentirse decorativa del todo. Al final, muy lejos todavía, una luz que no era solar ni artificial delineaba la entrada a lo que solo podía ser el corazón de la nave.
+
+—¿Ghost?
+
+—Escaneo piedra. La misma piedra de siempre. —Una pausa, más larga de la que un escaneo simple debería necesitar—. Pero no creo que estén ahí solo para que alguien las mire. Hay algo en la forma en que están dispuestas. Como si esperaran que alguien, algún día, las cargara con algo más que curiosidad.
+
+Ninguno de los dos tuvo tiempo de preguntarse qué significaba eso.
+
+—No hay guardia visible —añadió Ghost—. Eso no significa que esté desprotegida. Solo significa que no espera visitantes hasta este punto.
 
 —Entonces seamos rápidos.
 
-Ghost identificó tres conductos de alimentación primaria, cada uno grueso como el torso de Kyle.
+Ghost identificó tres núcleos de energía distintos, cada uno del tamaño aproximado de una casa pequeña, cada uno anclado en un ala distinta de la ciudadela, alimentando el arma en paralelo.
 
-—Puedo sobrecargar el sistema de regulación. Pero no va a ser silencioso. Cuando el arma pierda estabilidad, todo lo que esté cerca lo va a sentir, incluidos nosotros.
+—No hay un solo corazón que apagar. Son tres, y el arma se sostiene mientras cualquiera de ellos siga en pie. Voy a tener que sobrecargar los tres, uno por uno. No va a ser silencioso. Cuando el primero pierda estabilidad, todo lo que esté cerca lo va a sentir, incluidos nosotros — y va a empeorar con cada uno que apaguemos después.
 
-—Hazlo.
+—Empecemos por el que esté más cerca.
 
-Ghost se conectó al primer conducto. Después al segundo. El núcleo empezó a vibrar en un registro distinto, más alto, más inestable.
+## VII. The Right Wing
 
-—Tercer conducto. Esto es lo que lo apaga del todo, o lo que hace que se vuelva loco. No hay término medio.
+El ala derecha se abría en una sucesión de salas más pequeñas, organizadas con una precisión que no encajaba con la idea que Kyle tenía de la Colmena hasta ese momento — nada fuera de lugar, cada superficie limpia de la pátina de batalla que cubría el resto de la nave, estantes o lo que hacía sus veces dispuestos en un orden que parecía obedecer a un criterio real, aunque ninguno de los dos pudiera adivinar cuál. No era el orden de alguien que no tenía nada que esconder. Era el orden de alguien que sabía exactamente dónde había escondido cada cosa, y necesitaba poder encontrarla otra vez sin dudar.
+
+—Esto no parece un ala militar —dijo Kyle, en voz baja, aunque no había nadie cerca para escucharlo de todas formas.
+
+—No lo es. —Ghost ya localizaba el núcleo, incrustado en la pared del fondo con la misma pulcritud que el resto del espacio—. Sea lo que sea esto, alguien lo cuidó con más atención de la que le dio a cualquier otra parte de la nave que hayamos visto.
+
+Se conectó a él.
+
+El núcleo empezó a vibrar en un registro distinto bajo el contacto de Ghost —apenas perceptible todavía, un temblor bajo que Kyle sintió más en los dientes que en los oídos, y que no se detuvo del todo cuando Ghost se retiró.
+
+—Uno —dijo Ghost—. Faltan dos, y el arma va a sentir cada uno que le saquemos.
+
+## VIII. The Left Wing
+
+El ala izquierda no se molestaba en esconder nada.
+
+El suelo estaba cubierto de escombros que databan de guerras que Kyle no tenía forma de fechar —armaduras rotas fusionadas con la piedra, armas quebradas a mitad de una empuñadura que ya nadie iba a volver a cerrar. En las paredes, talladas con menos cuidado que las estatuas del corredor principal, dos siluetas se repetían una y otra vez, cada una rodeada de su propio campo de destrucción esculpido alrededor —no una batalla, sino la idea misma de la batalla, repetida hasta que dejaba de ser escena y se volvía doctrina.
+
+—Sus hermanas —dijo Kyle, sin necesitar que nadie se lo confirmara.
+
+—Probablemente. —Ghost ya buscaba el segundo núcleo entre los restos, el escáner abriéndose paso entre metal doblado y piedra astillada—. Si el ala de al lado era orden, esta es lo contrario. Todo el peso puesto en la guerra, ninguno en ocultarla.
+
+Lo encontró medio enterrado bajo una placa de armadura que se deshizo en polvo al tocarla, y lo sobrecargó igual que al primero.
+
+—Dos.
+
+El arma entera pareció registrarlo esta vez — un pulso que Kyle sintió en las plantas de los pies cada vez que se detenía más de un segundo, más fuerte que el que había dejado el primer núcleo.
+
+## IX. The Throne Room
+
+El corredor terminó en una cámara que no necesitaba escombros ni ornamento para declarar lo que era.
+
+La luz sola bastaba —dorada, quieta, cayendo desde un punto que ninguno de los dos pudo ubicar del todo, sobre un espacio vacío que de todas formas se sentía ocupado, de la misma forma en que un trono sin nadie sentado sigue siendo, de alguna manera imposible de explicar, un trono. No hacía falta que nadie le dijera a Kyle qué cámara era esta entre las tres. La sabía con el mismo instinto con el que un animal sabe, sin haber visto nunca a un depredador, que un espacio fue diseñado para que algo se sentara en su centro y todo lo demás girara alrededor.
+
+El tercer núcleo estaba ahí, en el centro exacto, tan expuesto como los otros dos habían estado escondidos.
+
+—Este es el último —dijo Ghost—. Con los otros dos ya abajo, esto es lo que lo apaga del todo, o lo que hace que se vuelva loco. No hay término medio.
 
 —Hazlo de todas formas.
 
-El núcleo emitió un sonido que no tenía nombre en ningún idioma que Kyle conociera — parte mecánico, parte orgánico, la clase de ruido que solo produce algo diseñado por una lógica que nunca distinguió del todo entre las dos cosas. Y entonces, con la misma brusquedad con que se había activado el módulo de la nave semanas atrás, se apagó.
+El núcleo frente a ellos emitió un sonido que no tenía nombre en ningún idioma que Kyle conociera —parte mecánico, parte orgánico, la clase de ruido que solo produce algo diseñado por una lógica que nunca distinguió del todo entre las dos cosas. Y entonces, con la misma brusquedad con que se había activado el módulo de la nave semanas atrás, los tres núcleos se apagaron a la vez, como si el último hubiera sido lo único que sostenía a los otros dos en pie.
 
 —Arma deshabilitada. Cayde, ¿lo tienes?
 
 —Lo tengo. Zona de transmat abierta en ese radio. En cuanto terminen lo que sea que vinieron a hacer, avísenme y los sacamos de ahí.
 
+Kyle miró hacia el fondo de la cámara ceremonial, donde la luz dorada se concentraba con más fuerza, y entendió que "lo que vinieron a hacer" todavía no había empezado del todo.
+
 ---
 
-## VII. The Door That Would Not Open
+## X. The Door That Would Not Open
 
-Encontraron la corte del Rey exactamente donde Eris había predicho — una cámara que hacía que todo lo anterior en el Acorazado pareciera un vestíbulo, con un portal en el centro que no parecía tanto una puerta como una herida abierta en la textura misma de la realidad, latiendo con la misma cualidad viva-y-muerta que Kyle había sentido desde el primer paso adentro.
+Encontraron la corte del Rey exactamente donde Eris había predicho — el centro mismo de la cámara ceremonial, más allá de donde la luz dorada terminaba de concentrarse, una cámara que hacía que todo lo anterior en el Acorazado pareciera un vestíbulo, con un portal en el centro que no parecía tanto una puerta como una herida abierta en la textura misma de la realidad, latiendo con la misma cualidad viva-y-muerta que Kyle había sentido desde el primer paso adentro.
 
 —Eso es lo que Eris dijo que buscáramos.
 
@@ -318,7 +384,7 @@ Corrieron. No fue elegante. Fue el sentido más literal de la palabra, dos figur
 
 ---
 
-## VIII. The Wound
+## XI. The Wound
 
 El disparo llegó desde un ángulo que ninguno de los dos había cubierto — un Vandal, ya Poseído, ya vaciado de cualquier cosa que alguna vez lo hubiera hecho un individuo, apostado en una repisa elevada con la paciencia fría de un francotirador que no necesitaba apurarse porque su blanco no tenía dónde esconderse.
 
@@ -338,25 +404,29 @@ Kyle no se detuvo a comprobarlo con los ojos. Corrió con Ghost todavía cerrado
 
 El transmat los tomó a mitad de zancada, arrancándolos del corredor un instante antes de que la formación que los perseguía terminara de cerrar la distancia. Fue un margen limpio. Demasiado limpio, pensaría Kyle mucho después, para una nave que hasta ese momento no había dejado escapar nada por descuido.
 
-En la nave de reserva, con Cayde y Eris todavía procesando que ambos habían vuelto con vida, Ghost hizo lo que ningún Espectro debería tener que hacer frente a su Guardian: admitir un daño que no iba a repararse solo.
+Muy por encima del corredor donde acababan de desaparecer, en una cámara con una vista que ningún mapa del Acorazado registraba porque no existía razón táctica para que existiera —una vista pensada para mirar, no para vigilar—, Oryx observó la nave alejarse contra el fondo de Saturno.
 
-—El giro a la derecha —dijo, probándolo, la carcasa respondiendo con un tirón visible, mecánico, incómodo de ver—. Algo en el impacto dañó el mecanismo de ese lado. Puedo compensar. Puedo girar a la izquierda sin ningún problema. Pero a la derecha, desde ahora, va a sentirse así.
+No hizo ademán de perseguirla. No ordenó que lo hicieran.
 
-—¿Duele?
+Se quedó de pie frente al cristal, o lo que hacía sus veces, algo que dejaba pasar la luz de una forma que ninguna ciencia conocida podía explicar del todo, con la misma calma que había sostenido toda la noche —la mirada tranquila, la sonrisa apenas curvándole el rostro, pasiva, casi indulgente, como quien observa a un insecto encontrar la única grieta que se le había dejado abierta a propósito.
 
-—No sé si "doler" es la palabra correcta para lo que soy. —Lo intentó de nuevo, el mismo tirón interno, la misma corrección automática hacia la izquierda—. Pero se siente mal. Cada vez. Así que probablemente la respuesta es sí, a su manera.
-
-Kyle no dijo que lo sentía. Sabía, por experiencia, que eso no era lo que Ghost necesitaba escuchar en ese momento.
-
-—Vamos a arreglarlo —dijo, en cambio.
-
-—O vamos a aprender a vivir con ello. A veces esas son la misma cosa, dicha distinto.
-
-Desde ese día, cada vez que necesitó girar, Ghost eligió la izquierda.
+Después se dio la vuelta, y la cámara volvió a estar vacía.
 
 ---
 
-## IX. What Elsie Finds
+En Duality, con Cayde y Eris todavía procesando que ambos habían vuelto con vida, Ghost no volvió a mencionar el disparo.
+
+—¿Estás bien? —preguntó Kyle, una vez, mientras la nave alineaba el salto de regreso.
+
+—Funcional. Ya te lo dije.
+
+No fue del todo una mentira. Tampoco fue toda la verdad, y Kyle no tenía todavía ningún motivo para sospechar la diferencia — solo, quizás, la forma en que Ghost se acomodó junto a la ventanilla del lado izquierdo sin que nadie se lo pidiera, un gesto tan pequeño que ni siquiera él mismo lo habría podido explicar si alguien se lo hubiera preguntado esa noche.
+
+Nadie preguntó.
+
+---
+
+## XII. What Elsie Finds
 
 Elsie no supo del Acorazado, ni del arma, ni de la nave que dejó de existir como nave. Se enteró de lo mismo que se había enterado de Phobos: que Kyle había vuelto, que estaba vivo, y que algo en la forma en que cruzó la puerta de la cabaña no terminaba de coincidir con la palabra "bien" que él mismo usó para describirse.
 
@@ -388,11 +458,43 @@ Elsie no encontró nada que pudiera nombrar con precisión técnica — no era s
 
 —Nunca lo había pensado en esos términos —dijo Ghost, al fin—. Pero no está mal dicho.
 
-Kyle no agregó nada. No hacía falta. Elsie no le preguntó qué había pasado adentro del Acorazado, ni exigió los detalles que él todavía no estaba listo para dar. Pero se quedó esa noche con la mano apoyada en la carcasa de Ghost más tiempo del que cualquier examen habría requerido, aprendiendo de memoria la forma exacta de un daño que, a partir de ahora, iba a formar parte de cómo reconocía a los dos con solo mirarlos cruzar una puerta.
+—Entonces no hace falta arreglarlo —añadió, después de un momento, la lente girando hacia Kyle—. Alguien me dijo una vez, no muy lejos de aquí, que ciertas heridas no piden curarse. Que las que uno se gana construyendo algo se quedan, porque son la prueba de que valió la pena el riesgo. No recuerdo bien quién fue. Pero sonaba bastante convencido.
+
+Kyle no tuvo una respuesta lista.
+
+—Eso era distinto —dijo, al fin, sin mucha convicción detrás.
+
+—¿Sí? —Ghost no insistió más allá de la pregunta—. A mí me suena exactamente igual.
+
+Elsie no dijo nada. Pero algo en su expresión —la misma que había tenido meses atrás, escuchando la historia del clavo y la esquina torcida— dejaba claro de qué lado estaba, y no era del de Kyle.
+
+Kyle no agregó nada más. No hacía falta. Elsie no le preguntó qué había pasado adentro del Acorazado, ni exigió los detalles que él todavía no estaba listo para dar. Pero se quedó esa noche con la mano apoyada en la carcasa de Ghost más tiempo del que cualquier examen habría requerido, aprendiendo de memoria la forma exacta de un daño que, a partir de ahora, iba a formar parte de cómo reconocía a los dos con solo mirarlos cruzar una puerta.
+
+Desde esa noche, cada vez que necesitó girar, Ghost eligió la izquierda — pero al menos ya no lo hacía a solas.
+
+Elsie se fue tarde esa noche —más tarde de lo que cualquier visita sin anunciar solía durar—, Any Other Sky perdiéndose otra vez entre los árboles antes de que ninguno de los dos se lo pidiera.
+
+Ghost se quedó flotando cerca de Kyle en el silencio que dejó atrás.
+
+—¿Vas a decir algo? —preguntó Kyle, sin mirarlo, ya sabiendo por el ángulo de la lente que Ghost llevaba un rato queriendo decirlo.
+
+—Solo que la vi mirarte el brazo esa tarde del clavo con el mismo cuidado con el que te miró la carcasa hoy. —Ghost no lo dijo como acusación, ni como broma—. Y que la forma en que tú la miraste a ella, en el porche, no se parecía en nada a "gracias por coserme."
+
+—No sé de qué hablas —dijo Kyle, ya de pie, sacudiéndose de la rodilla un polvo que no necesitaba sacudirse—. Deberíamos revisar los nodos de salto otra vez, ya que estamos despiertos.
+
+—Los revisaste dos veces esta semana.
+
+—Entonces una tercera no hace daño.
+
+Ghost no insistió. Sabía, con la misma certeza con la que sabía leer cualquier otra cosa, que empujar esa noche no iba a conseguir nada — salvo, quizás, que Kyle se cerrara del todo sobre algo que ni siquiera se estaba permitiendo mirar de frente todavía.
+
+—Como quieras —dijo, dejando que el tema se perdiera en la noche sin insistir más.
+
+Kyle se quedó un momento a solas, mirando el punto entre los árboles donde Any Other Sky había desaparecido, y no se permitió, ni siquiera estando solo, ponerle nombre a nada de lo que Ghost acababa de decir.
 
 ---
 
-## X. The Condition
+## XIII. The Condition
 
 —El portal no te rechazó por error —dijo Eris, sin rodeos, en cuanto entró al taller de Cayde, días después—. Y no te rechazó porque le faltara información sobre ti. Te rechazó porque hizo exactamente lo que estaba diseñado para hacer.
 
@@ -424,7 +526,7 @@ Kyle se quedó en silencio un momento, procesando la idea con la misma cautela c
 
 —Volver al Hellmouth. No como conquista esta vez. Como robo. Entrar, tomar lo que necesitas, salir antes de que el resto de lo que vive ahí note que estuviste.
 
-Kyle pensó en Ir Anûk e Ir Halak, en el peso de esa cámara la primera vez que había estado ahí, en lo que ya sabía sobre lo que la Colmena hacía con sus muertos.
+Kyle pensó en el peso de esa cámara la primera vez que había estado ahí — la presión que no dejaba que las heridas cerraran del todo, el alma suprema de Crota ocupando cada rincón del espacio como si no quedara sitio ahí para nada más que él — y en lo que ya sabía sobre lo que la Colmena hacía con sus muertos.
 
 —No va a ser fácil.
 
@@ -432,7 +534,7 @@ Kyle pensó en Ir Anûk e Ir Halak, en el peso de esa cámara la primera vez que
 
 ---
 
-## XI. No Shadow Left to Wear
+## XIV. No Shadow Left to Wear
 
 —Necesitamos algo más pequeño —empezó Cayde, ya con las manos moviéndose hacia el rincón del taller donde solía empezar cualquier problema técnico— para el Hellmouth. Esto se construyó para cubrir una nave entera. El Hellmouth no admite una nave. Admite, con suerte, a una persona moviéndose rápido y—
 
@@ -446,7 +548,7 @@ Cayde se quedó de pie frente a una mesa de trabajo vacía, la primera vez en to
 
 —Entonces entro como soy —dijo Kyle. No sonó a valentía. Sonó a aritmética.
 
-—Ya lo sabías, de todas formas, antes de que llegáramos a esto —dijo Eris—. La primera vez que estuviste en esa cámara, con Ir Anûk e Ir Halak todavía sin nombre para ti, ya sentiste que la Luz se te quedaba corta ahí adentro. Como si el lugar decidiera cuánta te prestaba. Un aparato no iba a cambiar eso. Solo te habría dado la ilusión de haberlo resuelto.
+—Ya lo sabías, de todas formas, antes de que llegáramos a esto —dijo Eris—. La primera vez que estuviste en esa cámara, matando a Crota con su propia espada, ya sentiste que la Luz se te quedaba corta ahí adentro. Como si el lugar decidiera cuánta te prestaba. Un aparato no iba a cambiar eso. Solo te habría dado la ilusión de haberlo resuelto.
 
 Ninguno de los tres lo dijo en voz alta, pero los tres lo entendieron al mismo tiempo: no iba a ser un atraco. Iba a ser Kyle, de pie, visible, dentro del funeral de lo que había matado, robándole el cadáver mientras algo más antiguo que cualquier tecnología decidía si eso contaba como profanación.
 
@@ -472,7 +574,7 @@ Kyle asintió a su espalda, sin saber todavía cuánto de esa advertencia iba a 
 
 ---
 
-## XII. The Pressure of the Living
+## XV. The Pressure of the Living
 
 Cayde no la vio entrar. La escuchó — el paso de alguien que había dejado de caminar como quien pide disculpas por ocupar espacio, y había empezado a caminar como alguien que ya no tenía nada que perder pidiendo demasiado.
 
@@ -480,7 +582,7 @@ Cayde no la vio entrar. La escuchó — el paso de alguien que había dejado de 
 
 —Tienes mi atención completa. —Cayde bajó los pies de la mesa, algo en el tono de Carina cortando cualquier posibilidad de que la broma habitual aterrizara bien—. ¿Qué pasa?
 
-—Lo que pasa es que hay una plaga matando gente en todo el sistema, y la Vanguardia está actuando como si tuviera todo el tiempo del mundo para responder. Vengo de un lugar que ya no existe de la forma en que existía hace dos semanas. Un asentamiento civil. Sin defensa real. Un Dredgen sin Luz, poseído por lo que sea que Oryx está soltando por todo el sistema, entró y se llevó a la única persona que sostenía ese lugar entero. Y cuando pregunté qué estaba haciendo la Vanguardia para cazar al responsable, la respuesta que me dieron fue "estamos trabajando en ello."
+—Lo que pasa es que hay una plaga matando gente en todo el sistema, y la Vanguardia está actuando como si tuviera todo el tiempo del mundo para responder. Vengo de un lugar que ya no existe de la forma en que existía hace dos semanas. Un asentamiento civil. Sin defensa real. Los que sobrevivieron tuvieron que dejar sus propias casas atrás, con lo puesto, porque quedarse dejó de ser algo que nadie pudiera garantizarles. Un Dredgen sin Luz, poseído por lo que sea que ese tal Oryx está soltando por todo el sistema, entró y se llevó a la única persona que sostenía ese lugar entero. No me interesa quién sea ese nombre, ni qué tan viejo, ni qué tan grande dicen que es. Me interesa el ángulo correcto para meterle una bala en el cráneo, como a cualquier otra cosa que decide que la gente que me importa no tiene derecho a seguir respirando. Y cuando pregunté qué estaba haciendo la Vanguardia para cazar al responsable, la respuesta que me dieron fue "estamos trabajando en ello."
 
 —Carina—
 
@@ -492,11 +594,11 @@ Cayde se puso de pie, despacio, el humor completamente ausente de su postura por
 
 —Entonces dame una.
 
-—Tengo un plan. Ya está en marcha. Ya perdimos algo intentándolo. Y no puedo contarte los detalles, no porque no confíe en ti, sino porque cada persona que sabe algo de este plan es una persona que puede delatarlo sin querer, y lo que está en juego no admite ese riesgo.
+—Ya hay algo en marcha. Ya perdimos gente intentándolo. Y no puedo darte los detalles, no porque no confíe en ti, sino porque cada persona que sabe algo de esto es una persona que puede delatarlo sin querer, y lo que está en juego no admite ese riesgo.
 
-—Eso es exactamente lo que dice alguien sin ningún plan real.
+—Eso es lo que dice cualquiera que no tiene nada.
 
-—Lo sé. Sé cómo suena. Y no tengo forma de hacer que suene mejor sin contarte cosas que no puedo contarte todavía.
+—Lo sé. Sé cómo suena. Y no tengo forma de hacer que suene mejor sin decirte cosas que todavía no puedo decirte.
 
 Carina lo miró con la misma precisión con la que leía cualquier habitación, cualquier persona, cualquier mentira a medio construir.
 
@@ -512,7 +614,7 @@ Cayde no tuvo una respuesta que la satisficiera, porque no existía una.
 
 —Mientras tanto la gente sigue muriendo.
 
-—Sí. Mientras tanto la gente sigue muriendo. Las dos cosas son verdad al mismo tiempo: que tengo un plan real, y que ese plan no va a llegar a tiempo para todos los que ya deberíamos haber salvado. No sé cómo hacer que eso te resulte aceptable, Carina. Porque a mí tampoco me lo resulta.
+—Sí. Las dos cosas son verdad al mismo tiempo: que esto va a funcionar, y que no va a llegar a tiempo para todos los que ya deberíamos haber salvado. No sé cómo hacer que eso te resulte aceptable, Carina. Porque a mí tampoco me lo resulta.
 
 Carina se quedó en silencio un momento, la furia todavía presente pero ya sin la misma superficie lisa de antes — algo debajo empezando a asomar, algo que no tenía nada que ver con la estrategia de la Vanguardia.
 
@@ -534,6 +636,20 @@ Cayde no intentó disuadirla.
 
 Carina se fue sin responder a eso. No porque no tuviera nada que decir. Sino porque, por primera vez desde el Refugio del Muelle, no sabía todavía qué forma iba a tomar su propia respuesta — solo que iba a tomar alguna, con o sin el permiso de nadie.
 
+Cuando la puerta se cerró detrás de ella, Cayde se quedó mirándola un momento más de lo que cualquier informe pendiente habría requerido.
+
+—Esta chica es inquieta —dijo, sin que nadie se lo hubiera preguntado—. Me gusta eso en los novatos. Pero hasta yo entiendo que es peligroso.
+
+—De chica a chica —dijo Sundance, la voz baja—, puedo casi asegurarte que Carina no está sufriendo por pérdidas civiles. Créeme. Algo me dice que es más profundo que eso.
+
+Cayde no discutió el punto. Sabía, mejor de lo que había dejado ver frente a ella, exactamente cuánta razón tenía Sundance.
+
+No la había mandado a ningún lado. No podía — decírselo habría sido exactamente el riesgo que acababa de explicarle que no podía correr. Pero conocía esa clase de determinación lo suficiente como para reconocerla sin que nadie se la describiera, y sabía, con la misma certeza con la que sabía leer cualquier otra cosa, que Carina no iba a quedarse esperando en la Torre mientras la cuenta seguía subiendo.
+
+No fue un plan. No fue una orden. Fue, simplemente, la clase de confianza que no necesitaba decirse en voz alta para ser real: que dondequiera que ella decidiera ir a buscar sus propias respuestas, iba a encontrar algo que valiera la pena, con o sin su ayuda.
+
+Volvió a sentarse frente al escritorio vacío, sin ninguna forma de saber todavía cuánta razón tenía.
+
 Cayde se quedó solo en el despacho un momento largo después de que la puerta se cerrara, mirando el punto exacto donde ella había estado parada.
 
 No dijo lo único que la habría dejado sin nada que rebatir: que la mejor forma que Carina buscaba ya existía, real, entera, cargada de razones que ni siquiera él terminaba de entender del todo, estacionada esa misma tarde en un hangar de la Torre al que ella nunca había tenido motivo de acercarse. Que la única llave que de verdad iba a abrir algo no era el módulo que acababa de quemarse en órbita de Saturno, ni el que todavía no existía para el Hellmouth. Era una persona que él conocía y ella no, dueña de una nave que ninguno de los dos sabía todavía que iba a importar.
@@ -544,12 +660,34 @@ Nadie, en ese despacho, en esa tarde, sabía todavía que la llave del Acorazado
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Cayde-6]], [[02_Characters/Eris_Morn]], [[02_Characters/Amanda_Holliday]], [[02_Characters/Elsie]], [[02_Characters/Carina]], [[02_Characters/Oryx]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Throne_Worlds]], [[04_Concepts/Sword_Logic]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TakenKing_ElProblemaDeAcceso]], [[05_Dialogues/Dialogue_Eris/Eris_Cayde_TakenKing_LosLimitesDeLaSombra]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_TakenKing_LaCaceriaYLaHerida]], [[05_Dialogues/Dialogue_Eris/Eris_Guardian_TakenKing_LaCondicion]], [[05_Dialogues/Dialogue_Carina/Carina_Cayde_TakenKing_LaPresionCivil]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/04_What_The_Ledger_Kept]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Cayde-6]], [[02_Characters/Eris_Morn]], [[02_Characters/Amanda_Holliday]], [[02_Characters/Elsie]], [[02_Characters/Carina]], [[02_Characters/Oryx]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Throne_Worlds]], [[04_Concepts/Sword_Logic]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TakenKing_ElProblemaDeAcceso]], [[05_Dialogues/Dialogue_Eris/Eris_Cayde_TakenKing_LosLimitesDeLaSombra]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_TakenKing_LaCaceriaYLaHerida]], [[05_Dialogues/Dialogue_Eris/Eris_Guardian_TakenKing_LaCondicion]], [[05_Dialogues/Dialogue_Carina/Carina_Cayde_TakenKing_LaPresionCivil]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/04_What_The_Ledger_Kept]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/01_The_Ship_That_Believed_It_Was_A_God]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 12 de Part 01 (capítulo local 5), adaptando el Cluster 3 completo de Taken King Parte 1 (seis escenas: `ElProblemaDeAcceso`, `LosLimitesDeLaSombra`, `ElPrimerFragmento`, `LaCaceriaYLaHerida` con su Sección VII, y `LaCondicion`) más el cierre con `LaPresionCivil`. El título del capítulo es irónico a propósito: durante casi todo el capítulo, "la llave" parece ser el módulo, después la esencia de Crota — ninguna de las dos cosas es la respuesta real, que llega recién en el Capítulo 14 con `Aspect of Glass`.
 
-**Ajuste central de la reimaginación (2026-08-01):** la Sección XI reemplaza la construcción del emisor portátil que la escena original de `LaCondicion` dramatizaba (Cayde adaptando el módulo naval a una versión de bolsillo para el Hellmouth). Esa configuración se cae por completo — el hueco de continuidad se resuelve dentro del propio texto: el único módulo que tenían se quemó con la nave de Eris en la Sección IV, así que no queda nada que adaptar. En su lugar, Kyle entra al Hellmouth sin ningún dispositivo, apoyado en un dato ya canon (`Guardian_Carina_TakenKing_LaInterseccion`: el Hellmouth sofoca su Luz) adelantado aquí como algo que Kyle ya sabía por experiencia propia desde Crota's End. La advertencia final de Eris se ajustó de "un emisor que puede fallar" a "sin nada que te oculte" — mismo peso emocional, sin el objeto. El Cluster 3 permanece, en su contenido y su fracaso, exactamente como estaba escrito: lo único que cambia es lo que ese fracaso significa — ningún objeto sustituye a una persona.
+**Ajuste central de la reimaginación (2026-08-01):** la Sección XIV ("No Shadow Left to Wear", renumerada el 2026-08-08 — ver nota abajo) reemplaza la construcción del emisor portátil que la escena original de `LaCondicion` dramatizaba (Cayde adaptando el módulo naval a una versión de bolsillo para el Hellmouth). Esa configuración se cae por completo — el hueco de continuidad se resuelve dentro del propio texto: el único módulo que tenían se quemó con la nave de Eris en la Sección IV, así que no queda nada que adaptar. En su lugar, Kyle entra al Hellmouth sin ningún dispositivo, apoyado en un dato ya canon (`Guardian_Carina_TakenKing_LaInterseccion`: el Hellmouth sofoca su Luz) adelantado aquí como algo que Kyle ya sabía por experiencia propia desde Crota's End. La advertencia final de Eris se ajustó de "un emisor que puede fallar" a "sin nada que te oculte" — mismo peso emocional, sin el objeto. El Cluster 3 permanece, en su contenido y su fracaso, exactamente como estaba escrito: lo único que cambia es lo que ese fracaso significa — ningún objeto sustituye a una persona.
 
-**El cierre (Sección XII) añade un párrafo de cierre nuevo, de narrador omnisciente**, después del final ya escrito de `LaPresionCivil` (que no se toca) — dramatiza en prosa la ironía ya identificada en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`: Cayde no sabe, en el momento en que Carina le exige acción, que la única forma real de entrar al Acorazado está estacionada en un hangar al que ella nunca fue. Ninguno de los personajes lo sabe — el párrafo es deliberadamente omnisciente, dirigido al lector, sin romper la regla dura de que Kyle y Carina siguen sin conocerse hasta el Capítulo 13.
+**El cierre (Sección XV, renumerada el 2026-08-08) añade un párrafo de cierre nuevo, de narrador omnisciente**, después del final ya escrito de `LaPresionCivil` (que no se toca) — dramatiza en prosa la ironía ya identificada en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`: Cayde no sabe, en el momento en que Carina le exige acción, que la única forma real de entrar al Acorazado está estacionada en un hangar al que ella nunca fue. Ninguno de los personajes lo sabe — el párrafo es deliberadamente omnisciente, dirigido al lector, sin romper la regla dura de que Kyle y Carina siguen sin conocerse hasta el Capítulo 13.
 
-**Reestructuración (2026-08-03), a petición del autor — el caballo y la limpieza de armas trasladados al Cap. 8.** El autor señaló que la Sección I original (rutina de preparación + primer contacto con el caballo, expandida el 2026-08-02) le restaba urgencia a un capítulo que necesita construir tensión hacia una infiltración de alto riesgo — dos beats domésticos y lentos compitiendo con la cuenta regresiva de la misión. Ambos beats se movieron a `Part_01_Price_of_Vengeance/01_The_Last_Board.md` (Cap. 8), el último día de calma antes de que la campaña empiece, donde encajan sin fricción: el caballo como nueva Sección IV ("The Apple at the Tree Line", contenido casi verbatim), y la limpieza de armas transformada en una escena nueva de apertura con Banshee-44 en la armería de la Torre ("Another Day at the Office", que además introduce las tres casas armeras Suros/Omolon/Hakke y adelanta el arsenal de Kyle — Predestinador/Martillo Negro/Gjallarhorn — antes de `02_Phobos.md`, ver nota actualizada en el footer de ese capítulo). La Sección I de este capítulo se reescribió como "Two Days With the Casco Open": conserva solo el chequeo técnico de los nodos de salto de Duality y la prueba de La Línea Alterna — la preparación puramente operativa, sin ningún beat doméstico — y entra directo a la Sección II sin la transición que antes llevaba al caballo. El diseño del caballo (`07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo.md`) se actualizó para fijar el primer contacto en el Cap. 8, no aquí.*
+**Reestructuración (2026-08-03), a petición del autor — el caballo y la limpieza de armas trasladados al Cap. 8.** El autor señaló que la Sección I original (rutina de preparación + primer contacto con el caballo, expandida el 2026-08-02) le restaba urgencia a un capítulo que necesita construir tensión hacia una infiltración de alto riesgo — dos beats domésticos y lentos compitiendo con la cuenta regresiva de la misión. Ambos beats se movieron a `Part_01_Price_of_Vengeance/01_The_Last_Board.md` (Cap. 8), el último día de calma antes de que la campaña empiece, donde encajan sin fricción: el caballo como nueva Sección IV ("The Apple at the Tree Line", contenido casi verbatim), y la limpieza de armas transformada en una escena nueva de apertura con Banshee-44 en la armería de la Torre ("Another Day at the Office", que además introduce las tres casas armeras Suros/Omolon/Hakke y adelanta el arsenal de Kyle — Predestinador/Martillo Negro/Gjallarhorn — antes de `02_Phobos.md`, ver nota actualizada en el footer de ese capítulo). La Sección I de este capítulo se reescribió como "Two Days With the Casco Open": conserva solo el chequeo técnico de los nodos de salto de Duality y la prueba de La Línea Alterna — la preparación puramente operativa, sin ningún beat doméstico — y entra directo a la Sección II sin la transición que antes llevaba al caballo. El diseño del caballo (`07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo.md`) se actualizó para fijar el primer contacto en el Cap. 8, no aquí.
+
+**Sexto ajuste (2026-08-08), a petición del autor — Eris pasa a ser la guía del primer fragmento, no Kyle solo.** La Sección V ("What the Fragment Showed") tenía a Kyle interpretando la visión enteramente solo, con Ghost solo confirmando que su escáner no registraba nada. El autor señaló que Eris —ya establecida en el resto del libro como quien traduce lo que la Colmena significa (nombra a Oryx en el Cap. 9, explica la Lógica de la Espada en escenas posteriores)— debía ser quien guía la lectura de este primer fragmento, el que además funda el patrón que el resto de los Fragmentos Calcificados va a repetir en capítulos futuros. Se aprovechó que el canal con Cayde y Eris ya queda abierto al cierre de la Sección IV: Kyle relata lo que vio —un rey, tres hijas, algo enorme esperando debajo del mar— y Eris arma la historia con él en tiempo real, nombrando lo que Kyle no podía nombrar solo: Aurash, Xi Ro y Sathona antes de esos nombres significar nada, su padre gobernando un mundo que se ahogaba, y el Dios Gusano ofreciendo el pacto que todavía no habían aceptado. La línea de cierre de Kyle ("un monstruo sin historia habría sido más fácil") preserva el sentimiento original de la escena, pero ahora llega como conclusión compartida, no como intuición solitaria — y Eris se queda con el peso de la respuesta, no Kyle. Consistente con `02_Characters/Savathun.md` (ya usa "Sathona" en escenas posteriores del libro) y `02_Characters/Oryx.md` (Aurash, el pacto con los Worm Gods nacido de la desesperación por salvar a su pueblo) — ningún nombre ni dato nuevo contradice lo ya fijado, solo lo dramatiza por primera vez en este capítulo.
+
+**Séptimo ajuste (2026-08-08), a petición del autor — la cámara de la batería se expande a una ciudadela de tres alas, más fiel al canon de la Corte de Oryx.** La antigua Sección VI trataba "la batería" como un solo cuarto con tres conductos visibles uno junto al otro, alimentando un núcleo distante. El autor pidió que se sintiera, en cambio, como la Corte de Oryx real (el patio central de King's Fall, con su corredor de estatuas que después funcionan como llaves hacia el Mundo Trono) — masiva, con un corredor de estatuas de Colmena llevando a una cámara central, y dos alas laterales con ambientación propia. Se dividió la sección en cuatro (**VI-IX**, cascada de +3 sobre toda la numeración posterior del capítulo, hasta la XV final): **VI, "The Battery"**, ahora solo abre la ciudadela y planta la primera mención de las estatuas del corredor —Ghost nota que "no están ahí solo para que alguien las mire", sembrando sin resolver la mecánica real de King's Fall (las estatuas que se cargan y se llevan como llaves al Mundo Trono, Part 03 de este libro, todavía sin esa escena escrita) sin adelantarla. **VII, "The Right Wing"** (nueva): salas pequeñas, precisas, limpias de la pátina de batalla del resto de la nave — el orden de alguien que esconde cosas y necesita encontrarlas de nuevo sin dudar; primer núcleo. **VIII, "The Left Wing"** (nueva): suelo cubierto de escombros de guerras sin fecha, y en las paredes dos siluetas repetidas una junto a la otra, cada una con su propio campo de destrucción tallado alrededor — representaciones de las hermanas de Oryx, identificadas por Kyle sin que nadie se lo confirme; segundo núcleo. **IX, "The Throne Room"** (nueva): la cámara ceremonial y monárquica en el centro, donde la luz sola —sin escombro ni ornamento— ya declara que es la sala principal; tercer y último núcleo, el que apaga el arma del todo. Lo que antes era la Sección VII ("The Door That Would Not Open") pasa a ser la **X**, y su apertura se ajustó para ubicar la corte del Rey y el portal más allá de donde termina la luz dorada de la Sala del Trono —el mismo espacio ceremonial, no uno nuevo—, en vez de aparecer sin transición. **Corrección aplicada en el mismo bloque (a petición del autor):** el mecanismo pasó de "tres conductos alimentando un núcleo distante" a **tres núcleos independientes, uno por habitación**, cada uno sostenido dentro de su propio cuarto en vez de vivir escondido en la estructura de la nave — Ghost sobrecarga cada uno directamente donde lo encuentra, y el arma completa se va sintiendo más inestable con cada uno que cae, hasta que el tercero los apaga a los tres a la vez. Ninguna línea de diálogo del mecanismo original (la advertencia de Ghost, la confirmación de Cayde) se perdió — solo se repartió entre las tres cámaras en vez de vivir toda junta en una sola sala.
+
+**Octavo ajuste (2026-08-08), a petición del autor — la nave de rescate pasa a ser Duality, y Oryx observa el escape.** La Sección IV llamaba "nave de reserva" a la nave donde esperaban Cayde y Eris — el autor señaló que sonaba demasiado conveniente, un activo inventado solo para resolver la logística del rescate. Se reemplazó por **Duality**, la nave propia de Kyle, ya presentada en la Sección I de este mismo capítulo (los dos días de chequeo de nodos de salto) — ahora ese chequeo tiene un pago directo: Duality queda lista justo a tiempo, pero es Cayde y Eris quienes la usan esa noche, no Kyle, porque él y Ghost necesitaban la firma más pequeña posible en la nave de Eris. La Sección XI ("The Wound") también gana un corte nuevo, breve, a Oryx: en el instante exacto del transmat que saca a Kyle y Ghost del Acorazado, la escena corta a una cámara con vista al exterior —sin razón táctica para existir, "pensada para mirar, no para vigilar"— donde Oryx observa la nave alejarse contra Saturno con calma, sin ordenar persecución, la sonrisa apenas curvándole el rostro, pasiva, como quien ve a un insecto encontrar la única grieta que se le dejó abierta a propósito. El corte paga, sin explicarla del todo todavía, la línea que ya existía en el texto ("un margen limpio, demasiado limpio, pensaría Kyle mucho después") — el lector ahora sabe lo que Kyle todavía no sabe: que Oryx dejó que escaparan. Coherente con la caracterización ya fijada de Oryx como algo que mide y observa antes que ataca por instinto (ver su trato con Riven en el Cap. 24, "una medición") — no se revela ningún propósito específico detrás de esa indulgencia, queda deliberadamente abierto.
+
+**Noveno ajuste (2026-08-08), a petición del autor — la herida de Ghost deja de autodiagnosticarse en la Sección XI, para que el diagnóstico real de la Sección XII pegue con todo su peso.** La escena en Duality tenía a Ghost explicando el daño con precisión clínica completa apenas minutos después del impacto —qué mecanismo fallaba, que compensaba girando a la izquierda, que "se sentía mal cada vez"— lo cual adelantaba, casi palabra por palabra, el descubrimiento que Elsie hace poco después en la cabaña (Sección XII, "Eso no es cansancio... Eso es una carcasa compensando un daño que no se reparó del todo"). El autor señaló que ese orden no es realista: nadie conoce el alcance completo de un daño así apenas segundos después de sufrirlo, y mucho menos lo anuncia en voz alta con ese detalle. Se reescribió la Sección XI para que Ghost minimice ("Funcional. Ya te lo dije") y el único indicio quede en un gesto no comentado —se acomoda junto a la ventanilla izquierda sin que nadie se lo pida, sin que nadie lo note en el momento—, dejando que sea exclusivamente Elsie, con su ojo entrenado durante una década, quien arme el diagnóstico completo por primera vez. La línea de cierre ("cada vez que necesitó girar, Ghost eligió la izquierda") se movió del final de la Sección XI al final de la Sección XII, ahora con un remate nuevo —"pero al menos ya no lo hacía a solas"— que ata el gesto físico al hecho de que, a partir de esa noche, alguien más lo sabe.
+
+**Décimo ajuste (2026-08-08), a petición del autor — Ghost le devuelve a Kyle su propia línea del clavo y la esquina torcida.** Después de que Elsie diagnostica el daño de Ghost como cicatriz, no como avería, Ghost declina el "vamos a arreglarlo" que Kyle ya había ofrecido reflexivamente, citándole de vuelta —sin nombrarlo del todo, "alguien me dijo una vez, no muy lejos de aquí"— la regla que el propio Kyle estableció en el Cap. 8 (`01_The_Last_Board.md`, Sección V) cuando se negó a que Ghost le curara con Luz el corte del clavo mientras construía el porche: "Porque me lo hice yo. Construyendo esto. No sé explicarlo mejor que eso." Ghost aplica la misma lógica a su propia herida —ganada protegiendo a Kyle, no en combate genérico— y Elsie, que estuvo presente en la escena original y sostuvo la aguja esa tarde, queda del lado de Ghost sin necesitar decirlo en voz alta. Kyle no gana el argumento ("Eso era distinto" / "¿Sí? A mí me suena exactamente igual") — la herida de Ghost, coherente con el resto del libro (`09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`, "Costo de Ghost: su herida mecánica obliga a modificar procedimientos de campo"), nunca se cura del todo, y esta escena es la que explica por qué nadie vuelve a intentarlo en serio.
+
+**Undécimo ajuste (2026-08-08), a petición del autor — Ghost alude, en privado, a los sentimientos de Kyle por Elsie, y Kyle se hace el loco.** Cierre nuevo de la Sección XII, después de que Elsie se va: a solas con Ghost, Kyle le pregunta si va a decir algo, y Ghost responde que sí vio cómo Elsie le miraba el brazo la tarde del clavo con el mismo cuidado con que le miró la carcasa esa noche — y que la forma en que Kyle la miró a ella en el porche "no se parecía en nada a gracias por coserme." Paga en voz alta, por primera vez, el gesto mudo que Ghost ya había hecho en el Cap. 8 (`01_The_Last_Board.md`, Sección V: la lente inclinada diciendo sin palabras "no sabes disimular"). **Ajustado a petición del autor:** la primera versión dejaba a Kyle admitir demasiado ("Todavía no", una respuesta que ya reconocía el punto de Ghost). Corregido para que Kyle se haga el loco de verdad — niega no saber de qué habla, y cambia de tema hacia los nodos de salto de Duality de forma transparentemente evasiva ("Los revisaste dos veces esta semana." / "Entonces una tercera no hace daño") — y Ghost, leyendo que insistir esa noche solo lo haría cerrarse del todo, deja el tema ahí sin presionar. Kyle no se permite, ni a solas, ponerle nombre a lo que Ghost dijo. **Por qué importa el matiz (nota de diseño, no de prosa):** el autor fijó que esta negación completa es la que hace posible una escena futura en Book 03 — una conversación entre Kyle, Jaden y Carina donde hasta los propios Espectros terminan de nombrarlo en voz alta, y Kyle por fin reconoce los mismos detalles que aquí negó (cómo la mira, una taza de té que ella sostiene, las atenciones disfrazadas de formalismo entre los dos) — el momento en que admite, sin anunciarlo como confesión formal, que está enamorado. Ver nota nueva en `11_Books/Book_03_Evolution_Of_Ashes/00_Book_Map.md`, sección "Tesis del arco central — Kyle y Jaden". Se mantiene en registro privado, exclusivamente entre Kyle y Ghost, sin que Elsie lo escuche.
+
+**Duodécimo ajuste (2026-08-08), corrección de continuidad señalada por el autor.** La Sección XIII ("The Condition") tenía a Kyle pensando "en Ir Anûk e Ir Halak" por nombre al recordar su primera visita al Hellmouth (donde mató a Crota, en Age I) — una contradicción directa con la propia Eris, unas líneas después en la misma sección, aclarándole que esa primera vez las Hermanas todavía estaban "sin nombre para ti." Kyle no tiene forma de conocer sus nombres hasta que Eris se los da en esta misma conversación, y no las conoce en persona hasta el Cap. 13 (`06_The_Hellmouth_Descent.md`). Corregido: el recuerdo de Kyle ya no las nombra — en su lugar, recuerda el peso real de esa cámara la primera vez, el alma suprema de Crota ocupando el espacio entero e impidiendo que las heridas cerraran del todo, mismo vocabulario ya fijado en el footer del Cap. 9 (`02_Phobos.md`, "Comparación con el trono de Crota") como la referencia interna que Kyle usa para medir presiones ontológicas de mundos trono. **Corrección del mismo tipo, un beat después (señalada también por el autor):** la línea de Eris que sigue en la Sección XIV ("No Shadow Left to Wear") tenía el mismo problema en sentido inverso — decía que Kyle, en su primera visita a esa cámara, ya sentía la Luz cortarse "con Ir Anûk e Ir Halak todavía sin nombre para ti", dando a entender que las Hermanas ya estaban presentes (aunque sin nombre) durante Crota's End, en Age I. Eso tampoco se sostiene: las Hermanas llegan al Hellmouth a hacer duelo por Crota recién ahora, en Age II, siguiendo a Oryx de vuelta al sistema — no estaban ahí cuando Kyle lo mató. Corregido para que la frase de Eris solo hable de lo que sí es cierto: que el Hellmouth, como Mundo Trono, ya le cortaba la Luz a Kyle desde la primera vez que mató a Crota ahí, sin necesidad de las Hermanas para explicarlo. El primer encuentro real de Kyle con Ir Anûk e Ir Halak, por nombre y en persona, sigue siendo exclusivamente el Cap. 13 (`06_The_Hellmouth_Descent.md`, Sección II).
+
+**Décimo tercer ajuste (2026-08-08), a petición del autor — la apertura de Carina en la Sección XV gana peso concreto y desprecio real hacia Oryx.** Su primera línea a Cayde ahora nombra explícitamente que los sobrevivientes del asentamiento tuvieron que abandonar sus propias casas, no solo que "el lugar ya no existe como antes" — el desalojo forzado como dato concreto, no abstracción. Se cambió "lo que sea que Oryx está soltando" por "lo que sea que **ese tal Oryx** está soltando" — Carina no le concede a ese nombre ningún peso ni respeto, coherente con dónde está parada emocionalmente (furia y duelo crudo, todavía sin la historia completa que Kyle va a aprender del Fragmento en este mismo capítulo). Se sumaron dos frases nuevas que dejan explícito que para ella Oryx no es una figura a temer o estudiar, es un blanco: "No me interesa quién sea ese nombre, ni qué tan viejo, ni qué tan grande dicen que es. Me interesa el ángulo correcto para meterle una bala en el cráneo." Contraste deliberado con la Sección V de este mismo capítulo, donde Kyle —guiado por Eris— aprende a ver a Oryx como algo con historia, no como monstruo sin ella; Carina, en esta escena paralela, todavía no tiene ni el contexto ni el espacio emocional para esa distinción, y el capítulo no se apura a dárselo.
+
+**Décimo cuarto ajuste (2026-08-08), a petición del autor — se corta la repetición de "plan" en el resto del diálogo Cayde/Carina.** El autor señaló que la palabra "plan" se repetía demasiadas veces en pocas líneas ("Tengo un plan"... "sin ningún plan real"... "que tengo un plan real, y que ese plan no va a llegar a tiempo"), dándole al intercambio una sensación de dar vueltas sobre lo mismo. Reescrito para variar el vocabulario sin perder ningún beat: "Ya hay algo en marcha" reemplaza la apertura de Cayde, "Eso es lo que dice cualquiera que no tiene nada" reemplaza la acusación de Carina, y el cierre queda en "que esto va a funcionar, y que no va a llegar a tiempo para todos". Ninguna línea de contenido se perdió — Cayde sigue sin poder dar detalles, sigue sin poder dar un número, y sigue admitiendo que su plan no va a salvar a todos a tiempo. Solo cambia cómo lo dice.
+
+**Décimo quinto ajuste (2026-08-08), a petición del autor — Cayde confía en Carina, sin dirigirla.** El autor propuso que Cayde le dijera a Carina que podía ayudar yendo al Hellmouth — se descartó esa versión porque rompía dos cosas ya fijadas: el diseño de "La Intersección" (Cap. 13, `06_The_Hellmouth_Descent.md`, Sección III), donde Carina baja al Hellmouth por una razón enteramente propia (buscar en la Tumba del Mundo algo sobre lo que corrompió a lo que mató a Lena), sin saber que Kyle está ahí — regla dura protegida en varias notas previas de este libro; y la lógica que el propio Cayde acaba de exponerle a Carina en esta misma escena, negándose a involucrarla porque "cada persona que sabe algo de esto es una persona que puede delatarlo." En su lugar, se agregó un cierre nuevo, después de que Carina se va: Cayde, a solas, reconoce que no la mandó a ningún lado —no podía— pero que confía en su instinto lo suficiente para saber que no se va a quedar esperando, y que "el sistema, en ese sentido, era más pequeño de lo que a veces parecía" — una insinuación deliberada, sin confirmarlo, de que su búsqueda y la de Kyle podrían cruzarse sin que él lo haya planeado. Preserva la coincidencia de "La Intersección" intacta; la confianza de Cayde en Carina queda establecida sin convertirse en instrucción. **Ajustado en el mismo bloque:** la primera versión cerraba con "el sistema, en ese sentido, era más pequeño de lo que a veces parecía" — el autor notó que eso adelantaba de más la importancia futura de Aspect of Glass (Cap. 14, "The Second Seat"), la nave de Carina que termina siendo la respuesta real al título irónico de este mismo capítulo ("la llave" que parece ser el módulo o la esencia de Crota, pero no es ninguna de las dos). Se cortó esa línea — el cierre queda solo en la confianza de Cayde en el criterio de Carina, "con o sin su ayuda", sin insinuar que el sistema vaya a resultar pequeño ni que sus caminos vayan a convertirse en algo más grande. La irrupción real de Aspect of Glass sigue siendo sorpresa completa hasta el Cap. 14.
+
+**Décimo sexto ajuste (2026-08-08), a petición del autor — Sundance entra a la escena, comentando sobre Carina con Cayde.** Primera aparición de Sundance en el vault, el Espectro de Cayde-6. Justo después de que Carina se va, Cayde comenta en voz alta que la chica es inquieta, que le gusta eso en los novatos "pero hasta yo entiendo que es peligroso"; Sundance responde, de Espectra a Guardiana, que está casi segura de que Carina no está sufriendo por pérdidas civiles genéricas — "algo me dice que es más profundo que eso." Cayde no lo discute, dejando implícito que él también sabe, al menos en parte, que hay algo más personal detrás del enojo de Carina (coherente con su línea ya escrita más arriba en la misma escena, "lo que perdiste no tiene arreglo"). El intercambio funciona como intuición dramática — ni Cayde ni Sundance nombran a Lena ni confirman nada — pero le da peso extra al beat de confianza que sigue. Sin ficha propia todavía en `02_Characters/` — personaje menor, sin necesidad de una por ahora.*

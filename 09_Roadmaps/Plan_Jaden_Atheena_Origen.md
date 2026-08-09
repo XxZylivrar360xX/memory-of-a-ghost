@@ -4,9 +4,15 @@
 
 ---
 
-## Nota de ubicación editorial (2026-07-26)
+## Nota de ubicación editorial (2026-07-26, SUPERSEDIDA el 2026-08-08 — ver nota siguiente)
 
-La escena ya escrita `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista` (el origen propio de Jaden con su maestro, distinta del Movimiento III de abajo — ese es Atheena descubriendo la existencia de Suetake por conducta, no la escena del propio Suetake) va a novelizarse como capítulo 1 de **Part 05 — Aftermath** en `11_Books/Book_02_The_King_Of_Shapes/`, justo antes de "The Trail of Xur" (Movimiento V). Se consideró para el Prólogo de ese libro primero, pero se movió aquí por ritmo — ver `00_Book_Map.md` de ese libro.
+La escena ya escrita `Suetake_Jaden_HouseOfWolves_ElTerrenoQueNoSeConquista` (el origen propio de Jaden con su maestro, distinta del Movimiento III de abajo — ese es Atheena descubriendo la existencia de Suetake por conducta, no la escena del propio Suetake) se novelizó como capítulo 1 de **Part 05 — Aftermath** en `11_Books/Book_02_The_King_Of_Shapes/`, justo antes de "The Trail of Xur" (Movimiento V). Se consideró para el Prólogo de ese libro primero, pero se movió aquí por ritmo.
+
+## Reubicación a Book 03 (2026-08-08)
+
+**Cambio de arquitectura mayor, a petición del autor.** Book 02 quedó terminado el 2026-08-08 con una regla dura de perspectiva: nunca entra en la cabeza de Jaden ni de Atheena por su cuenta — todo lo que el lector sabe de ellos pasa por Carina conociéndolos. Eso deja fuera tres piezas que no tienen ninguna escena de Carina: el origen de Jaden con Suetake (arriba), **The Trail of Xur** (Movimiento V) y la forja de **Dark Drinker** (ver Frente 3 más abajo). Las tres se reubicaron el mismo día a la apertura de **Book 03 — Evolution of Ashes** (`11_Books/Book_03_Evolution_Of_Ashes/00_Prologue/`, capítulos 1-3), donde además funcionan como cimiento de la tesis fijada por el autor para ese libro: una reimaginación de Rise of Iron como *space western* fusionado con filosofía samurái, donde la tecnología NO es la respuesta a SIVA, y punto de partida del arco de camaradería intermitente entre Kyle y Jaden — de respeto mutuo a hermandad de armas. Los Movimientos VI-VIII (Carina en Kepler, el regreso, Malok) se quedan en Book 02, reescritos ese mismo día para POV estricto de Carina — ver `Part_05_Aftermath/` de ese libro.
+
+**Consecuencia para los Movimientos IX-XI (pendientes, sin redactar):** viven ahora en Book 03, no en Book 02 — el "reclutamiento para Wrath of the Machine" y el arco de camaradería Kyle/Jaden que este documento ya proyectaba son, en la práctica, el contenido central que Book 03 tiene que diseñar cuando le toque turno.
 
 ## Por qué existe este plan
 

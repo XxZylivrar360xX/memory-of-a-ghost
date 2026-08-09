@@ -58,13 +58,13 @@ No son libros principales de la saga. Quedan listados y reconocidos, fuera de la
 
 - No mueve ni renombra ninguna escena de `05_Dialogues/` ni ninguna Age de `01_Timeline/`.
 - No reemplaza a Book 02 ya diseñado — este documento formaliza el resto de la colección alrededor de un precedente ya fijado.
-- No asigna carpetas ni `00_Book_Map.md` a los libros 00, 01, 03-13 todavía — eso se hace libro por libro, cuando llegue su turno de diseño o redacción, siguiendo el mismo patrón que Book 02.
-- No fija fecha ni orden de redacción entre libros — Book 02 sigue siendo el único en proceso activo de escritura.
+- No asigna carpetas ni `00_Book_Map.md` a los libros 00, 01, 04-13 todavía — eso se hace libro por libro, cuando llegue su turno de diseño o redacción, siguiendo el mismo patrón que Book 02. **Excepción (2026-08-08): Book 03 — Evolution of Ashes ya tiene carpeta y `00_Book_Map.md` propios**, arrancado antes de tiempo porque tres capítulos de formación de Jaden (Suetake, Xûr, Dark Drinker) se reubicaron ahí desde Book 02 el mismo día que ese libro se terminó — ver `11_Books/Book_03_Evolution_Of_Ashes/00_Book_Map.md`. Su Prólogo (3 capítulos) está escrito; el resto del libro sigue sin diseñar.
+- No fija fecha ni orden de redacción entre libros — Book 02 ya está completo (35 capítulos, 2026-08-08) y en proceso de auditoría con Codex; Book 03 tiene apenas su Prólogo escrito. Ninguno de los libros 00, 01, 04-13 tiene fecha de inicio todavía.
 - No revela en los títulos que la respuesta de Kyle es una vida construida; eso se paga leyendo, no en la tabla de contenido.
 
 ## Próximo paso
 
-Ninguno urgente — esta arquitectura es de referencia para cuando se diseñe cada libro nuevo. El trabajo activo sigue siendo Book 02 (`09_Roadmaps/Plan_Book02_TheKingOfShapes.md`), Capítulo 2 del Prólogo en adelante.
+Book 02 quedó completo el 2026-08-08 (35 capítulos) — el trabajo activo inmediato es su auditoría de continuidad/filosofía con Codex, no un libro nuevo. Book 03 (`11_Books/Book_03_Evolution_Of_Ashes/00_Book_Map.md`) tiene su Prólogo escrito por relocalización de material de Jaden, pero su diseño real (estructura de Partes, el arco de camaradería Kyle/Jaden) sigue sin empezar y no es urgente todavía.
 
 ---
 
