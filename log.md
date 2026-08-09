@@ -3400,3 +3400,13 @@ Primera ejecución real de las reglas de `staging_rules/` sobre prosa de Book 02
 **Caps. 23-25, toque ligero o ninguno:** ya calibrados por diseño. El Cap. 23 (Mundo Trono) y el Cap. 24 (Plano Ascendente) tratan sus escenarios como espacios deliberadamente sin física normal — la excepción explícita de la regla 01, no un vacío a llenar; solo se ancló El Faro en el Cap. 23, el único espacio "normal" del capítulo. El Cap. 25 (Oryx/Savathûn) ya sostenía la escena entera en gesto físico y no necesitó cambios.
 
 Ningún diálogo ni hecho de canon se modificó en ningún capítulo — la expansión es enteramente de escenografía, acción física y transición, con nota de calibración al pie de cada archivo tocado. `00_Book_Map.md` actualizado con el resumen del pase. **Con esto, Part 02 queda completa en las tres capas de verificación de Book 02: continuidad/filosofía, calibración de voz, y ahora escenografía.**
+
+## [2026-08-09] expansión completa | Part 03 — The Kingslayer, staging_rules aplicado a los 5 capítulos
+
+Continuación del pase de `staging_rules/` sobre Book 02, ahora sobre Part 03 (King's Fall), a petición del autor.
+
+**Caps. 26, 27, 28, 29 — expandidos:** anclaje físico para cada cámara (el transporte de descenso y la aproximación al Acorazado en el Cap. 26, el Santuario con sus tótems en el Cap. 27, la Celda de Infinito en el Cap. 28, la cámara gemela de Ir Anûk e Ir Halak en el Cap. 29), descripción visual real para los antagonistas que no la tenían (Golgoroth no tenía ni una línea de descripción pese a ser el centro del Cap. 28; las Hijas ganaron descripción consistente con su primera aparición en el Cap. 13), y beats corporales en combates antes resueltos por resumen (las rotaciones 2-3 de Golgoroth, el colapso de las Hijas). El **Cap. 28 fue el más trabajado** — es el que Codex citó explícitamente en ambas reglas, el capítulo más corto medido de todo el libro (~0.7k palabras).
+
+**Cap. 30, sin cambios:** ya era el capítulo más sólido de Part 03 en ambas reglas por diseño — la escala de Oryx, los Ogros, el domo del duelo, cada intercambio de espada, todo ya anclado en cuerpo y espacio sin un solo salto de resumen funcional en sus seis encuentros.
+
+Ningún diálogo ni hecho de canon se modificó en ningún capítulo. `00_Book_Map.md` actualizado con el resumen del pase. **Con esto, Part 03 queda completa en las tres capas de verificación: continuidad/filosofía, calibración de voz, y ahora escenografía — igual que Part 02.**

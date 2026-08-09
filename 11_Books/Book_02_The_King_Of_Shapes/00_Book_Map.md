@@ -216,6 +216,8 @@ Carina y Lena — la ventana de House of Wolves vista desde una vida que todaví
 
 Todas pendientes de ajuste del autor.
 
+**Pase de escenografía completo (2026-08-09):** los 5 capítulos se cotejaron contra `12_Craft_Policies/staging_rules/`. Caps. 26, 27, 28 y 29 expandidos — el Cap. 28 (Golgoroth) era el más citado por la auditoría de Codex en ambas reglas (~0.7k palabras, sin descripción física del monstruo ni de la Celda de Infinito, combate resuelto en un salto directo a "cayó en la cuarta rotación"); los cuatro ganaron anclaje físico de sus cámaras y beats corporales en encuentros antes resueltos por resumen. El Cap. 30 no necesitó cambios — ya era el más sólido del libro en ambas reglas por diseño. Ningún diálogo ni hecho de canon se modificó. Ver nota "Calibración de escenografía" al pie de cada archivo.
+
 ### Part 04 — The Rightful Pretender
 
 **Estado: COMPLETA — 2 de 2 capítulos (31-32), escritos 2026-08-08.**
