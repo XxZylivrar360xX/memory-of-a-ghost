@@ -10,7 +10,7 @@
 
 ## I. What Carina Already Knows How to Do Without Being Asked
 
-En un asentamiento distinto al de la semana anterior, Carina volvía a mover gente hacia transportes que llegaban siempre un poco más tarde de lo que hacía falta.
+El polvo era distinto —más fino, más gris, de un asentamiento minero en vez de agrícola— pero el trabajo era exactamente el mismo. En un asentamiento distinto al de la semana anterior, Carina volvía a mover gente hacia transportes que llegaban siempre un poco más tarde de lo que hacía falta.
 
 No era el mismo lugar. No era la misma gente. Pero el ritmo ya empezaba a sentirse conocido — la lista mental de quién necesitaba ayuda primero, la forma de cargar a un niño con un brazo mientras el otro sostenía un arma, la costumbre reciente y ya demasiado familiar de no preguntarse si esta vez iba a alcanzar el tiempo.
 
@@ -24,9 +24,9 @@ A varios sistemas de distancia, sin saberlo, Kyle estaba a punto de hacer la mis
 
 ## II. Routes of Response, Not Routes of Attack
 
-Elsie tenía la mesa cubierta de proyecciones cuando Kyle llegó, pero no eran las que él esperaba ver.
+La cabaña recibió a Kyle con el mismo olor de siempre — madera, ceniza fría del fuego de la noche anterior, algo cocinándose despacio que nadie había venido a revisar — pero la mesa central, la que normalmente cargaba herramientas o platos a medio lavar, estaba cubierta de proyecciones que Elsie no apagó al oírlo entrar.
 
-—Pensé que ibas a mostrarme dónde atacó —dijo, quitándose el peso de la armadura de los hombros con el cansancio específico de una semana que no había tenido un solo día de verdad tranquilo.
+—Pensé que ibas a mostrarme dónde atacó —dijo, quitándose el peso de la armadura de los hombros con el cansancio específico de una semana que no había tenido un solo día de verdad tranquilo, dejándola caer sobre la silla más cercana en vez de colgarla donde correspondía.
 
 —Ya dejé de mirar eso hace días. —Elsie no apartó los ojos de la proyección—. Mirar dónde atacó Oryx no explica nada. El patrón no está en los objetivos. Está en las respuestas.
 
@@ -42,7 +42,9 @@ Kyle se acercó, sin entender todavía del todo.
 
 ## III. What Ghost Finished Confirming
 
-—Lo comprobé dos veces antes de dejar que Elsie lo dijera en voz alta —dijo Ghost, la voz más baja de lo habitual—. No quería creerlo yo tampoco.
+Ghost había estado flotando cerca de la ventana, quieto, la lente apagada la mayor parte del tiempo que Kyle llevaba ahí — quieto de la forma en que solo se queda quieto cuando algo le pesa. Se acercó a la mesa, iluminándose apenas.
+
+—Lo comprobé dos veces antes de dejar que Elsie lo dijera en voz alta —dijo, la voz más baja de lo habitual—. No quería creerlo yo tampoco.
 
 —¿Confirmar qué?
 
@@ -60,7 +62,7 @@ Kyle se quedó en silencio, el peso de la frase asentándose despacio.
 
 —No —dijo Elsie, con la firmeza específica que reservaba para cuando alguien se equivocaba en algo que de verdad importaba—. Esto no es que Oryx te haya elegido especialmente. Es que encontró el mismo patrón que encontraría en cualquier ruta con suficientes desvíos: suficientes frentes abandonados, suficiente costo repetido siempre en el mismo punto ciego. —Pausa—. Es el punto donde siempre respondes primero.
 
-Kyle miró la proyección un momento más, las líneas de tiempo, los frentes, las decisiones que en su momento se habían sentido como las únicas posibles.
+Kyle apoyó ambas manos sobre el borde de la mesa y miró la proyección un momento más, las líneas de tiempo, los frentes, las decisiones que en su momento se habían sentido como las únicas posibles.
 
 Cuando por fin lo dijo, no sonó a descubrimiento. Sonó a algo que llevaba tiempo esperando ser dicho.
 
@@ -86,13 +88,15 @@ Kyle no tuvo una respuesta lista. No pretendió tenerla.
 
 —Muéstrame el mapa otra vez —dijo, en cambio.
 
-Elsie lo hizo. No le dio instrucciones. No le dijo qué decisión tomar la próxima vez que el patrón volviera a repetirse. Solo le mostró, una vez más, la forma exacta de lo que ya sabía — y aceptó, sin decirlo en voz alta, que no podía controlar lo que él hiciera con esa forma una vez que saliera otra vez a pelear.
+Elsie giró la proyección hacia él una vez más, despacio, la luz azulada moviéndose sobre su cara concentrada. No le dio instrucciones. No le dijo qué decisión tomar la próxima vez que el patrón volviera a repetirse. Solo le mostró, una vez más, la forma exacta de lo que ya sabía — y aceptó, sin decirlo en voz alta, que no podía controlar lo que él hiciera con esa forma una vez que saliera otra vez a pelear.
+
+La noche terminó de caer sobre la cabaña sin que ninguno de los dos encendiera más luz que la de la proyección.
 
 ---
 
 ## VI. What Ghost Carried for Both of Them
 
-Más tarde, cuando Elsie ya se había quedado dormida y Kyle seguía despierto, mirando el fuego sin verlo del todo, Ghost habló, la voz todavía marcada por el tartamudeo mínimo que llevaba desde el Acorazado.
+Más tarde, con la proyección ya apagada y solo el fuego reavivado dando algo de luz a la sala, cuando Elsie ya se había quedado dormida y Kyle seguía despierto, mirando las brasas sin verlas del todo, Ghost habló, la voz todavía marcada por el tartamudeo mínimo que llevaba desde el Acorazado.
 
 —Necesito decirte la parte que no le dije a Elsie completa —dijo—. Seguir el patrón que Oryx te tiende puede salvar una vida real. Inmediata. La que ves frente a ti.
 
@@ -123,3 +127,5 @@ Y que esa certeza, por primera vez, no lo iba a dejar elegir tranquilo nunca má
 *Calibración de voz (auditoría de Codex, 2026-08-09):* la línea de Ghost en la Sección III se recortó — mantiene la confirmación concreta ("los ataques siguieron tus desvíos") y suma su propio temor ("no sé cómo decirte esto"), pero ya no nombra la lógica emocional completa ("tu culpa va a elegir la ruta por él"), que sonaba a narrador temático en su boca. La línea de Elsie en la Sección IV se desplazó de fórmula ("el mismo mecanismo que encontraría en cualquiera que amara lo suficiente...") a datos concretos (rutas, frentes abandonados, costo repetido), dejando "amor" como una sola palabra difícil en vez de explicación del patrón; el mismo ajuste se aplicó a su línea de la Sección V ("sangrar tu amor" → "el orden"). **La línea de Kyle en la Sección IV ("Oryx no está usando mi culpa para castigarme... la está usando para moverme") se revisó y se dejó intacta a propósito** — es el beat guionado explícitamente en el checklist del 2026-07-19 citado arriba, no una improvisación de diálogo; tocarla habría roto una decisión de diseño ya fijada con el autor, no un problema de voz.*
 
 **Calibración de voz — auditoría Part 02 (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** normalizado a `tú` el voseo suelto de Kyle, Elsie y Ghost en las Secciones II, III y V (venía de la fuente casi verbatim, no de una decisión de voz — el resto del vault los trata como hablantes de `tú`). Sección IV, cierre de Elsie: "La palabra que no quiero usar es amor. Pero es esa." se reescribió a "Es el punto donde siempre respondes primero" — todavía muy frontal para su etapa de confianza incipiente en Taken King, aun después del ajuste anterior de la misma línea. Sección VI: el pasaje de Ghost que resumía el dilema completo en una sola intervención simétrica se fragmentó en un intercambio con Kyle, con una autocorrección de Ghost a media frase ("Entonces ganas la posición. —No. No siempre...") antes de llegar a "No hay opción limpia" — conserva esa línea y la lealtad final intactas, pero ya no llega por fórmula perfecta.
+
+**Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):** anclada la cabaña con textura propia al llegar Kyle (olor a madera y ceniza fría, algo cocinándose sin revisar) y su transición a la noche (el fuego reavivado, la luz de la proyección apagándose sola); Ghost gana una entrada física propia en la Sección III (quieto junto a la ventana, iluminándose apenas al hablar) en vez de aparecer solo por diálogo; frases puente entre las 6 secciones reemplazando el corte seco. Ningún diálogo ni hecho de canon se modificó — la escena ya venía calibrada en voz por las auditorías anteriores.
