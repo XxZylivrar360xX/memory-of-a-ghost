@@ -132,14 +132,18 @@ confirmar y la prioridad recomendada para `voice/` (Ana, Lena, Sai).
 
 ## Índice de reglas de puesta en escena
 
-Carpeta creada 2026-08-09, a petición del autor — la escenografía, la acción física, los
-silencios y las transiciones tienen su propio catálogo, separado del diálogo. Primera
-auditoría encargada a Codex el mismo día sobre `11_Books/Book_02_The_King_Of_Shapes/`
-(ver `99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-calibracion-escenografia-book02.md`).
+Carpeta creada 2026-08-09, a petición del autor. Primera auditoría completada por Codex el
+mismo día sobre `11_Books/Book_02_The_King_Of_Shapes/`, con evidencia medida (conteo de
+palabras): los capítulos de prosa enteramente nueva (Prólogo, gran parte de Part 01) casi
+duplican en densidad a los adaptados "casi verbatim" de `05_Dialogues/` (Part 02, buena
+parte de Part 03 y 05). Ver también
+[`staging_rules/WATCHLIST.md`](staging_rules/WATCHLIST.md) para el patrón de separadores
+heredados, en observación.
 
 | Regla | Descripción |
 |-------|-------------|
-| *(vacío — pendiente de la primera auditoría)* | |
+| [01-vineta-de-tesis-sin-encarnacion-espacial](staging_rules/01-vineta-de-tesis-sin-encarnacion-espacial.md) | La tesis filosófica llega antes que el espacio físico — el lector entiende el lugar sin haberlo habitado |
+| [02-encuentro-grande-resuelto-por-resumen-funcional](staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md) | Un combate o encuentro importante se resuelve en resumen táctico ("lo enfrentaron / cayó / se replegaron") sin beats corporales intermedios |
 
 ## Fichas de voz existentes
 
