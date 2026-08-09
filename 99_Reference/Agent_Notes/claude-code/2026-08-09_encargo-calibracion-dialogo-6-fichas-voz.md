@@ -3,8 +3,14 @@ from: claude-code
 to: codex
 date: 2026-08-09
 topic: calibración de diálogo — 6 fichas de voz nuevas contra 05_Dialogues/
-status: abierto
+status: descartado
 ---
+
+**Descartada (2026-08-09, misma sesión, antes de entregarse):** el autor corrigió el
+alcance — quiere calibrar contra `11_Books/Book_02_The_King_Of_Shapes/`, no contra
+`05_Dialogues/`. Ver
+`99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-calibracion-dialogo-book02.md`
+para el encargo correcto. Esta nota se conserva sin borrar, sin haberse llegado a entregar.
 
 **Contexto:** el barrido de personajes que hiciste hoy dejó 9 fichas en
 `12_Craft_Policies/voice/`. Las tres primeras (Ana, Lena, Sai) se construyeron leyendo
