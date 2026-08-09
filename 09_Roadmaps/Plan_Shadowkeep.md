@@ -1,5 +1,7 @@
 # Plan — Shadowkeep: El Hueco P0 Compartido (2026-07-15)
 
+> **Actualización 2026-08-08:** el pendiente #1 de este documento ("escena nueva — el casi-fracturarse de Kyle en la Luna") queda absorbido y ampliado por [[09_Roadmaps/Plan_Shadowkeep_BeyondLight_KyleMIA]] — el casi-fracturarse deja de ser un evento cerrado y se convierte en el preludio inmediato de que Kyle sea dado por perdido en acción. Ese documento nuevo también retcona `Guardian_Elsie_BeyondLight_ElRegreso` y afecta la secuencia de `The_Last_Reset`. El resto de este plan (naturaleza psicológica del evento, `La Partida` como disparador, la puerta cerrada hasta Age IX en `Guardian_Elsie_Chosen_LoQueNoPeso`) sigue vigente sin cambios.
+
 *Documento de trabajo, no canon todavía. Nace de los mapas integrales de Codex `99_Reference/Agent_Notes/codex/2026-07-15_mapa-integral-arco-kyle.md` y `2026-07-15_mapa-integral-arco-elsie.md`, ambos con status `abierto` — este plan resuelve solo el hueco P0 compartido por los dos mapas (Shadowkeep). El resto de huecos de ambos mapas (Ghost-Lightfall `Destrozado`, protagonismo de Elsie en Ages III-VI, recibir cuidado sin traducirlo a deuda, deseo postbélico de Kyle, Ghost-Elsie como relación propia, etc.) sigue sin triar.*
 
 ---

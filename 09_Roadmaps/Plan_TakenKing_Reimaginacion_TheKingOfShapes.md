@@ -36,7 +36,7 @@ El borrador original ubicaba Eirene como planetoide en la órbita interior de So
 - **Eirene es una luna de Saturno**, no un planetoide de la órbita interior. Mantiene todo en el mismo teatro donde ya existe la Batalla de Saturno y el Acorazado, en vez de abrir un segundo frente geográfico separado.
 - **El mundo que ocupa su lugar es Lubrae** (el mundo natal destruido de Rhulk), descartando las otras dos opciones evaluadas — **Fundamento** y **Torobatl** — por razones específicas de este vault, no genéricas:
   - **Fundamento descartado:** ya existe un horizonte de varios libros construido sobre que Savathûn dosifique sus secretos poco a poco (`Plan_Carina_Savathun_Horizonte.md`, la auditoría de re-centrado de Witch Queen todavía sin resolver). Traer Fundamento físicamente a Sol en Taken King le robaría a Witch Queen (Age X) su propia revelación.
-  - **Torobatl descartado:** Caiatl ya tiene presencia sembrada en la cronología (observando en la Gran Inauguración del Torneo IV, Age XI) sin que su arco de la caída de Torobatl/exilio esté definido. Traerlo ahora obliga a fijar esa historia antes de tiempo, con riesgo real de paradoja (Torobatl cae ante Xivu Arath *después* de esta era).
+  - **Torobatl descartado:** Caiatl ya tiene presencia sembrada en la cronología (observando en la Gran Inauguración del Torneo IV, Age XI) sin que su arco de la caída de Torobatl/exilio esté definido. Traerlo ahora obliga a fijar esa historia antes de tiempo, con riesgo real de paradoja (Torobatl cae ante Xivu Arath *después* de esta era). **Actualización 2026-08-08:** ese arco de caída ya tiene fecha y contexto — ver [[09_Roadmaps/Plan_Shadowkeep_BeyondLight_KyleMIA]] (Age VII-VIII, posterior a Taken King como se anticipó aquí). Kyle se entera de lo ocurrido en Torobatl durante su cautiverio en el Black Terrace, Mundo Trono de Xivu Arath. No reabre esta decisión — Torobatl sigue completamente fuera de Taken King.
   - **Lubrae es terreno en blanco** — cero fichas, cero menciones previas en el vault — y encaja con un concepto que ya existe en la cosmología (la bóveda planetaria del Testigo, semilla ya fijada para Beyond Light): un mundo conservado como conclusión no es una regla nueva, es una extensión natural de algo que ya iba a hacer falta.
 - **Dentro de Lubrae: La Desolación del Terror** — la ciudad natal en ruinas de Rhulk.
 - **Dentro de esa ciudad: La Catedral de las Voces** — el lugar donde Rhulk se sometió al Testigo para obtener su forma de Discípulo. Las Voces son testigos mudos de matanzas y guerras desconocidas incluso para el propio Oryx — un catalizador de terror sin resolver, sembrado para expandirse en Sol más adelante (mismo lenguaje mudo que ya usa el vault: el cameo del Winnower en Crota's End, nunca explicado en prosa).
@@ -268,6 +268,16 @@ En el centro de la Desolación — el lugar donde Rhulk se sometió al Testigo p
 
 Pequeños asentamientos civiles (ya fijado 2026-08-01) + puestos de vigilancia de la Vanguardia — ni una gran ciudad, ni una colonia vacía. Suficiente para que la evacuación tenga cuerpos reales, nombres que Carina puede reconocer (encaja con el hilo ya sembrado de que ella conoce gente ahí — ver "Decisiones aún abiertas" abajo), no tantos como para que la escena se vuelva un ejercicio de logística de masas.
 
+### El cierre del mundo — Lubrae se vuelve impatrullable (fijado 2026-08-04)
+
+**Decisión:** después de la Toma, Lubrae no queda solo abandonado o en cuarentena administrativa — empieza a **cerrarse físicamente sobre sí mismo**, derivando hacia una masa planetaria que ningún patrullaje puede sostener. No es un mecanismo nuevo: es el desenlace natural de "los dos soles" ya fijado arriba — un mundo que solo recibe la mitad de la ecuación física que necesita (el sol amarillo, sin el azul/paracausal) y compensa con pulsos gravitacionales y Resonancia cada vez más erráticos. El cierre es esa inestabilidad llevada a su conclusión: el planeta, literalmente, discutiendo con una física que no reconoce hasta perder la discusión.
+
+**Función que resuelve:** explica en la ficción, sin necesidad de una escena dedicada, por qué nadie —ni la Vanguardia, ni Kyle, ni Carina— vuelve a pisar ese mundo hasta que la identidad real de Lubrae se revela en Witch Queen (Age X). En vez de "nadie tuvo tiempo de volver", la razón es concreta: el cuadrante deja de ser navegable.
+
+**Tratamiento (fijado 2026-08-04, a definir con más precisión al redactar):** no se dramatiza como escena propia — compitiría por atención con el clímax real del Cap. 17 (el regicidio incompleto) y rompería la regla ya fijada de que Lubrae funciona como cápsula cerrada que no se filtra a la Parte 2. Se resuelve con una mención breve y discreta, al estilo de un reporte de la Vanguardia post-Toma ("cuadrante restringido, deriva gravitacional no clasificada") — probablemente al cierre del Cap. 17 o en el resumen de estado del Cap. 18, sin verbo alarmista ni explicación técnica. Queda abierto si el autor prefiere, más adelante, una línea dramatizada en primera persona (Kyle o Carina viendo el mundo empezar a cerrarse mientras escapan) en vez de la mención de reporte — decidir al llegar a la redacción de esos capítulos, ambos ya escritos, así que cualquier cambio real ahí sería una inserción, no una reescritura.
+
+**No toca:** ningún capítulo ya escrito (8-19) cambia de contenido con esta decisión — es lore de fondo pendiente de aterrizar como mención mínima, no una revisión de prosa existente.
+
 ---
 
 ## Decisiones fijadas con el autor (2026-08-02)
@@ -280,7 +290,7 @@ Pequeños asentamientos civiles (ya fijado 2026-08-01) + puestos de vigilancia d
 ## Descartado explícitamente
 
 - **Fundamento como mundo físico completo en Sol** — solo el destello mudo dentro de Lubrae, sin desarrollo, sin diálogo explicativo.
-- **Torobatl** — fuera por completo de esta reimaginación. Ninguna mención, ningún cameo.
+- **Torobatl** — fuera por completo de esta reimaginación. Ninguna mención, ningún cameo. Su arco de caída, cuando llegue, pertenece a Age VII-VIII (ver [[09_Roadmaps/Plan_Shadowkeep_BeyondLight_KyleMIA]]), no a Taken King.
 
 ---
 
@@ -292,6 +302,7 @@ Pequeños asentamientos civiles (ya fijado 2026-08-01) + puestos de vigilancia d
 4. **Beat sheet completo de Part 01 en adelante** (ver `05_Working_Roadmap.md`, sección A) — arcos específicos de Kyle, Carina y Elsie durante la crisis de Eirene (secciones B-D de ese mismo documento).
 5. **Expansión de la escena del destierro de Crota** a capítulo o interludio completo (`05_Working_Roadmap.md`, sección E).
 6. **Estructurar en prosa la fusión Tótems/Sacerdote** cuando lleguemos a ese punto de la redacción de King's Fall — decisión de archivo diferida.
+7. **Insertar la mención del cierre de Lubrae** (ver "El cierre del mundo — Lubrae se vuelve impatrullable" arriba) como línea discreta al final del Cap. 17 o en el resumen de estado del Cap. 18 — ambos capítulos ya escritos, así que es una inserción menor, no una reescritura. Decidir también, si el autor lo pide, si merece una línea dramatizada en primera persona en vez de tono de reporte.
 
 ---
 

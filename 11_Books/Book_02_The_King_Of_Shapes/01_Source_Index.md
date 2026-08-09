@@ -44,11 +44,11 @@ Fuente general: `09_Roadmaps/Plan_TakenKing_Parte1.md` (23 escenas, 4 clusters).
 
 Fuente general: `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` (6 frentes).
 
-1. **The War That Did Not Stay in Saturn** — `Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturno`.
-2. **What We Had Already Beaten** — `Guardian_Equipo_GuerraDeLosPoseidos_LoQueYaVencimosRegresa`.
-3. **The Map of Guilt** — `Guardian_Elsie_GuerraDeLosPoseidos_ElMapaDeLaCulpa`.
-4. **A Sword Is Not an Answer** — `Guardian_Eris_TakenKing_LaForja`, `Carina_Eris_GuerraDeLosPoseidos_BoltCaster`, `Guardian_AlakHul_TakenKing_ElOscuroCuchillo`, `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo`.
-5. **The Fold That Resists** — `Mara_Eris_TakenKing_LoQueNingunoModelo`, `Mara_Eris_GuerraDeLosPoseidos_ElPliegueQueResiste`.
+1. **The War That Did Not Stay in Saturn** — `Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturno`. **Escrito** (`Part_02_The_Taken_War/01_The_War_That_Did_Not_Stay_In_Saturn.md`, 2026-08-04), casi verbatim, pendiente de ajuste del autor.
+2. **What We Had Already Beaten** — `Guardian_Equipo_GuerraDeLosPoseidos_LoQueYaVencimosRegresa`. **Escrito** (`Part_02_The_Taken_War/02_What_We_Had_Already_Beaten.md`, 2026-08-04), casi verbatim, pendiente de ajuste del autor.
+3. **The Map of Guilt** — `Guardian_Elsie_GuerraDeLosPoseidos_ElMapaDeLaCulpa`. **Escrito** (`Part_02_The_Taken_War/03_The_Map_Of_Guilt.md`, 2026-08-04), casi verbatim, pendiente de ajuste del autor.
+4. **A Sword Is Not an Answer** — `Guardian_Eris_TakenKing_LaForja`, `Carina_Eris_GuerraDeLosPoseidos_BoltCaster`, `Guardian_AlakHul_TakenKing_ElOscuroCuchillo`, `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo`. **Escrito** (`Part_02_The_Taken_War/04_A_Sword_Is_Not_An_Answer.md`, 2026-08-04), las cuatro fuentes absorbidas casi verbatim, pendiente de ajuste del autor.
+5. **The Fold That Resists** — `Mara_Eris_TakenKing_LoQueNingunoModelo`, `Mara_Eris_GuerraDeLosPoseidos_ElPliegueQueResiste`. **Escrito** (`Part_02_The_Taken_War/05_The_Fold_That_Resists.md`, 2026-08-05), casi verbatim, pendiente de ajuste del autor.
 6. **The Wounded Wish** — `Oryx_Riven_GuerraDeLosPoseidos_LoQueNoTerminoDeSometer`.
 7. **Always Eager to Die** — `Oryx_Savathun_GuerraDeLosPoseidos_SiempreEstoyEntusiasmadoPorMorir`.
 

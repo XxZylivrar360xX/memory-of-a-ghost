@@ -2,7 +2,7 @@
 
 *Estructura literaria aprobada. Fuente de verdad para el orden y el contenido de este libro. Diseño triado con el autor el 2026-07-23 — ver `09_Roadmaps/Plan_Book02_TheKingOfShapes.md` para el detalle completo de la triage, las fricciones resueltas y lo que este libro deliberadamente no toca.*
 
-**Estado: arquitectura fijada; Prólogo completo (7/7 capítulos); Part 01 COMPLETA (interludio + Capítulos 8-18, 11/11).**
+**Estado: arquitectura fijada; Prólogo completo (7/7 capítulos); Part 01 COMPLETA (interludio + Capítulos 8-18, 11/11); Part 02 iniciada (5 de 7 capítulos escritos, 19-23).**
 
 ---
 
@@ -83,14 +83,16 @@ Carina y Lena — la ventana de House of Wolves vista desde una vida que todaví
 **PART 01 — PRICE OF VENGEANCE QUEDA COMPLETA: 11 de 11 capítulos (Caps. 8-18) + el interludio "The Queen Who Would Not Kneel."**
 
 ### Part 02 — The Taken War
-1. **[Cap. 19]** The War That Did Not Stay in Saturn
-2. **[Cap. 20]** What We Had Already Beaten
-3. **[Cap. 21]** The Map of Guilt
-4. **[Cap. 22]** A Sword Is Not an Answer
-5. **[Cap. 23]** The Fold That Resists
-6. **[Cap. 24]** The Wounded Wish
-7. **[Cap. 25]** Always Eager to Die
-**Estado:** capítulos por redactar — todas las escenas fuente ya existen (Guerra de los Poseídos, 6 frentes, completa desde 2026-07-19).
+1. **[Cap. 19]** The War That Did Not Stay in Saturn — adapta `Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturno` (Frente 1) casi verbatim. **Estado: escrito** (`Part_02_The_Taken_War/01_The_War_That_Did_Not_Stay_In_Saturn.md`, 2026-08-04), pendiente de ajuste del autor.
+2. **[Cap. 20]** What We Had Already Beaten — adapta `Guardian_Equipo_GuerraDeLosPoseidos_LoQueYaVencimosRegresa` (Frente 2) casi verbatim. **Estado: escrito** (`Part_02_The_Taken_War/02_What_We_Had_Already_Beaten.md`, 2026-08-04), pendiente de ajuste del autor.
+3. **[Cap. 21]** The Map of Guilt — adapta `Guardian_Elsie_GuerraDeLosPoseidos_ElMapaDeLaCulpa` (**Frente 4** del roadmap, no el 3 — ver nota de mapa abajo). **Estado: escrito** (`Part_02_The_Taken_War/03_The_Map_Of_Guilt.md`, 2026-08-04), casi verbatim, pendiente de ajuste del autor.
+4. **[Cap. 22]** A Sword Is Not an Answer — adapta `Guardian_Eris_TakenKing_LaForja`, `Carina_Eris_GuerraDeLosPoseidos_BoltCaster`, `Guardian_AlakHul_TakenKing_ElOscuroCuchillo`, `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo` (**Frente 3** del roadmap — la forja de Raze Lighter y Bolt Caster). **Estado: escrito** (`Part_02_The_Taken_War/04_A_Sword_Is_Not_An_Answer.md`, 2026-08-04), 11 secciones, casi verbatim, pendiente de ajuste del autor.
+5. **[Cap. 23]** The Fold That Resists — adapta `Mara_Eris_TakenKing_LoQueNingunoModelo` + `Mara_Eris_GuerraDeLosPoseidos_ElPliegueQueResiste` (Frente 5, parte 1). **Estado: escrito** (`Part_02_The_Taken_War/05_The_Fold_That_Resists.md`, 2026-08-05), casi verbatim, pendiente de ajuste del autor.
+6. **[Cap. 24]** The Wounded Wish — adapta `Oryx_Riven_GuerraDeLosPoseidos_LoQueNoTerminoDeSometer` (Frente 6, Beat A + beat intermedio).
+7. **[Cap. 25]** Always Eager to Die — adapta `Oryx_Savathun_GuerraDeLosPoseidos_SiempreEstoyEntusiasmadoPorMorir` (cierre fusionado del Frente 5 + Frente 6 Beat B).
+**Estado:** Caps. 19-23 escritos (2026-08-04/05); Caps. 24-25 por redactar — todas las escenas fuente ya existen (Guerra de los Poseídos, 6 frentes, completa desde 2026-07-19).
+
+**Nota de mapa (2026-08-04, corrección):** el orden de capítulos de Part 02 **no sigue el orden numérico de los 6 frentes del roadmap** — está reordenado a propósito por secuencia narrativa. El Cap. 21 adapta el Frente 4 (el mapa de culpa de Kyle) y el Cap. 22 adapta el Frente 3 (la forja), invertidos porque el propio roadmap fija que "Kyle llega a la forja ya contaminado por la pregunta de Oryx" — el Frente 4 tiene que leerse antes que el Frente 3 aunque su número sea mayor. Verificado cruzando `01_Source_Index.md` con `Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`. El resto del orden (Caps. 23-25) sí sigue la secuencia cronológica de los Frentes 5-6 tal como los fija el roadmap.
 
 ### Part 03 — The Kingslayer
 1. **[Cap. 26]** The Ship That Believed It Was a God

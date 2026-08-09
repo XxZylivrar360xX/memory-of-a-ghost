@@ -254,7 +254,7 @@ Desde el otro lado del porche, Ghost giró la lente el ángulo exacto que solo p
 
 Elsie no se lo discutió. Terminó de cerrar la herida con puntadas rápidas y precisas, mucho más limpias que las que Kyle llevaba intentando los últimos minutos, el tipo de trabajo que no necesitaba Luz para ser exacto. Kyle no supo decir en qué momento exacto había terminado — entre el cabello atrapando la luz y el ceño fruncido sobre su brazo se le había ido el rato entero sin registrar ni el último tirón de la aguja ni, ahora que lo pensaba, el dolor del clavo que media hora antes le había parecido tan real. Se dejó hacer sin la rigidez de las primeras veces que la había dejado acercarse tanto — otra cosa, como el cabello y la luz, que se le estaba volviendo ordinaria sin que pudiera señalar el momento exacto en que había empezado a serlo.
 
-—Eres un Guardian raro —dijo, sin levantar la vista del antebrazo—. La mayoría no dedicaría ni una tarde a algo que la Luz resuelve en un segundo. Tú llevas semanas en esto.
+—Eres un Guardian peculiar —dijo, sin levantar la vista del antebrazo—. La mayoría no dedicaría ni una tarde a algo que la Luz resuelve en un segundo. Tú llevas semanas en esto.
 
 —Meses, en realidad.
 
@@ -272,7 +272,27 @@ Se quedó un rato más de lo que cualquier nota pendiente de cerrar justificaba,
 
 ---
 
-## VI. The Phobos Call
+## VI. What She Carried Back
+
+Elsie se levantó antes de que nadie tuviera que decírselo.
+
+No era una costumbre que hubiera decidido en algún momento concreto — era, simplemente, la forma en que sabía estar en cualquier lugar que no fuera completamente suyo: llegar, quedarse el tiempo justo para que la visita tuviera sentido, irse antes de que alguien tuviera que preguntarse en voz alta cuánto tiempo pensaba quedarse. Kyle no se lo pidió. Nunca se lo pedía. Eso, de alguna forma, hacía que fuera más fácil hacerlo.
+
+Any Other Sky seguía donde lo había dejado, al borde del claro, medio escondido entre los primeros árboles — verde oliva y cobre bajo la luz baja de la tarde, las líneas angulares afiladas como algo que hubiera preferido ser un arma antes que un vehículo, un par de luces rojas parpadeando despacio en el chasis mientras esperaba. Nunca le había explicado a nadie el nombre. Nadie se lo había preguntado tampoco, aunque a veces sospechaba que Ghost, si se lo permitiera, tendría una teoría lista sobre por qué una viajera entre líneas de tiempo terminaría bautizando lo único que era completamente suyo con la promesa implícita de que siempre había otro cielo esperando, en algún otro lugar, si este dejaba de servir.
+
+El kit de sutura ya guardado, la nota sobre el patrón de los Guardianes que curaban con las manos todavía sin una sola palabra escrita encima. Iba a tener que inventar algo que poner ahí, ahora que la excusa había cumplido su función y ya no le quedaba ningún dato real que anotar.
+
+Antes de subir, se permitió mirar atrás una vez.
+
+El porche seguía ahí, la esquina torcida, Kyle todavía de pie donde lo había dejado, más pequeño con la distancia pero reconocible incluso así. No se preguntó por qué había mirado. Llevaba meses sin preguntarse por qué hacía la mitad de las cosas que hacía cerca de él.
+
+El sparrow arrancó, y el bosque dio paso, unos minutos después, a la claridad distinta de la Ciudad en el horizonte — el sitio donde de verdad tenía que estar, o donde llevaba el tiempo suficiente fingiendo que tenía que estar como para que ya no importara mucho la diferencia.
+
+No era que no quisiera quedarse. Era que quedarse todavía no era una categoría que supiera cómo sostener sin que se le rompiera algo en las manos.
+
+---
+
+## VII. The Phobos Call
 
 Ghost se iluminó de golpe, la lente virando hacia un punto que no estaba en la habitación, antes de que ninguno de los dos terminara de disfrutar el silencio.
 
@@ -325,4 +345,10 @@ Con este traslado, el Cap. 12 queda enteramente dedicado a la urgencia de la mis
 - **El Martillo Negro** (púrpura): esta vez Banshee no propone nada — deja que Kyle mire el chasis oscuro, la veta de luz enferma verde esmeralda y las incrustaciones de quitina (estética Colmena, coherente con el origen ya fijado en las profundidades de Crota's End) y lo nombre él mismo, por instinto — un rifle de precisión bautizado "martillo" porque en sus manos aplasta cualquier cosa igual.
 - **Gjallarhorn** (dorado): a diferencia de los otros dos, esta vez Banshee lo reconoce de inmediato por reputación — pregunta de dónde lo sacó, menciona a **Feizel Crux** (forjó los primeros seis, se dice que solo tres siguen enteros) y se sorprende de que Kyle llevara "la piedra en bruto" encriptada en el cinturón sin decodificar.
 
-Los orígenes de cada arma (Falla de los Oráculos/Bóveda de Cristal, profundidades de Crota's End, compra a Xûr por veintitrés monedas extrañas) **no cambiaron** — siguen siendo los mismos ya fijados en `02_Phobos.md`; lo que cambió es que ahora el nombrado ocurre en pantalla, en esta escena, en vez de darse por sentado como ya resuelto antes de que el capítulo empezara. Ficha de `02_Characters/Banshee-44.md` actualizada con el detalle de las tres decodificaciones.*
+Los orígenes de cada arma (Falla de los Oráculos/Bóveda de Cristal, profundidades de Crota's End, compra a Xûr por veintitrés monedas extrañas) **no cambiaron** — siguen siendo los mismos ya fijados en `02_Phobos.md`; lo que cambió es que ahora el nombrado ocurre en pantalla, en esta escena, en vez de darse por sentado como ya resuelto antes de que el capítulo empezara. Ficha de `02_Characters/Banshee-44.md` actualizada con el detalle de las tres decodificaciones.
+
+**Nueva Sección VI, "What She Carried Back" (2026-08-04), a petición del autor — el regreso de Elsie, nunca mostrado hasta ahora.** Insertada entre la Sección V ("Elsie's Opinion") y la que era la Sección VI ("The Phobos Call", renumerada a VII). POV Elsie: se levanta y se va antes de que nadie tenga que pedírselo — no por rechazo, sino porque es la única forma que sabe de estar en un lugar que todavía no es completamente suyo. Sube a su sparrow, bautizado **Any Other Sky** (verde oliva y cobre, líneas angulares, acentos de luz roja — ver referencia visual en `99_Reference/vehiculos/Elsie_Sparrow_Any_Other_Sky.jpg`), primera vez que el vehículo aparece nombrado y descrito en el vault. Antes de despegar se permite mirar atrás una sola vez, sin preguntarse por qué — y en el vuelo de vuelta hacia la Ciudad, la sección deja fijado en prosa, por primera vez, el patrón completo de la Etapa 3 — Observación de `Guardian_Elsie_Bray.md`: en esta ventana, ella siempre se va.
+
+**Corrección de geografía (2026-08-04), a petición del autor, para que quede fijado sin ambigüedad de cara a capítulos futuros.** La cabaña vive en el sector forestal al pie de una cresta, entre la Ciudad y el territorio abierto (fijado en `10_Chapters/Age_I/Cap_01_A_New_Shape.md`: "sector forestal, cresta este"). El campamento improvisado de Elsie vive **a las afueras de la Torre** (fijado en el frontmatter de `05_Dialogues/Dialogue_Elsie/Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir.md`). Son dos sitios distintos, no contiguos — ella no camina de uno a otro, vuela. Corregida en cascada la Sección VII de `02_Phobos.md` ("The Tent Outside the City"), que decía "a poca distancia" de forma ambigua (podía leerse como distancia desde la cabaña); ahora dice explícitamente "a las afueras de la Torre."
+
+**Ajuste de prosa (2026-08-04), a petición del autor, tras una lectura crítica de la Sección VI.** La sección repetía la idea de que Elsie se analiza a sí misma con vocabulario casi sinónimo tres veces en pocos párrafos ("dato" / "catalogar... patrón" / "categoría"). Se recortó la instancia del medio ("y catalogar esa omisión, también, empezaba a sentirse como parte del patrón"), que además interrumpía el único momento puramente visual de la sección (Elsie mirando el porche) con una vuelta a la abstracción. Quedan dos instancias — la que abre la sección y la que la cierra — en vez de tres golpes seguidos del mismo recurso.*

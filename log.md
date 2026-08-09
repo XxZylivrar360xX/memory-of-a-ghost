@@ -4,6 +4,36 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-08-08 | Diseño: Kyle perdido en acción en Shadowkeep — retcon completo del puente hacia Beyond Light
+
+Sesión de diseño puro, cero prosa. Arrancó de una pregunta exploratoria del autor (dónde encajaría cronológicamente un evento que expusiera los sentimientos de Elsie por Kyle vía un "lo dan por muerto") y terminó en un retcon deliberado y completo de la ventana Shadowkeep→Beyond Light.
+
+**El hallazgo que abrió el retcon:** al investigar dónde encajaba la idea, aparecieron cuatro escenas ya escritas y terminadas que cubrían exactamente esa ventana (`Guardian_Elsie_Shadowkeep_LaPartida`, `The_Last_Reset`, `Guardian_Elsie_BeyondLight_ElRegreso`, `Guardian_Elsie_BeyondLight_ElNombre`) con una versión incompatible: ahí es **Elsie** quien se va sin explicación al inicio de Shadowkeep, no Kyle quien desaparece. El autor, informado del choque, eligió expresamente el retcon completo sobre preservar lo ya escrito.
+
+**Documento nuevo:** `09_Roadmaps/Plan_Shadowkeep_BeyondLight_KyleMIA.md` — cronología reconciliada de 14 pasos. Resumen de las piezas fijadas:
+
+- **La Partida se conserva intacta.** Kyle queda solo con Ghost como único ancla durante el resto de Shadowkeep y Season of the Dawn — deterioro psicológico gradual, ya no un evento de una sola noche.
+- **El MIA:** después de Season of the Dawn, en una Pirámide bajo la Luna. Nezarec habla solo en la cabeza de Jaden ("¿Eso creen?"), explosión colosal, la Pirámide se desactiva por completo salvo una grieta de luz que cae justo sobre Ghost — petrificado en Estasis, vivo pero inmóvil. Sin rastro de Kyle; única evidencia, el Predestinador partido a la mitad (pago del arma nombrada por Banshee en el Cap. 8 de Book 02). Jaden se derrumba llorando; Carina se queda con los ojos húmedos sin llorar del todo — asimetría deliberada.
+- **Ripple sobre personajes secundarios:** Zavala, Ikora, Saint, Osiris, Shaxx, Aunor, Amanda se enteran; Zavala el más golpeado (pierde a su arma más letal), semilla explícita de su amistad futura con Kyle.
+- **El Black Terrace (lore nuevo):** Mundo Trono de Xivu Arath en el Plano Ascendente, donde por orden del Testigo se conduce poder hacia los restos de Nezarec en el mundo material, preparando su renacimiento en Lightfall. Kyle sobrevive ahí seis a nueve meses, mortal y sin Luz — sin Ghost, sin resurrección. El costo de esa experiencia no se resuelve al rescatarlo: se cobra a lo largo de todo el año de Beyond Light. Explica dos hilos futuros: cómo Kyle sabe qué le pasó a **Torobatl** (el mundo natal Cabal, cúspide de su imperio, la herida más profunda de Caiatl — **ya existía como concepto en el vault**, descartado el 2026-08-01 como reemplazo de Eirene/Lubrae precisamente por no tener arco de caída definido; esta sesión le da ese arco, sin fricción con la decisión anterior) y por qué siente el llamado de la pirámide de Rhulk en Witch Queen (Age X) — sensibilidad receptora a entidades malignas adquirida en el Mundo Trono.
+- **El puente Black Terrace→Europa, resuelto:** Kyle escapa robando una nave pirámide — la misma que canónicamente se estrella en Europa y da origen al Zigurat de Beyond Light. Conecta el retcon con lore ya existente del canon de Beyond Light en vez de inventar un mecanismo aislado.
+- **El funeral de Saint:** ceremonia sin cuerpo, ambientada con la estética de los Corredores del Tiempo/Season of the Dawn (referencia visual, no ventana temporal literal) — razonable, no prematura, dados los seis a nueve meses de silencio. Elsie llega justo a tiempo para el funeral, no antes; ahí siente el vacío por primera vez sin poder administrarlo.
+- **El arco de huida de Elsie (pieza central de la sesión):** para enterrar otra vez sus sentimientos, se plantea "investigar" qué le pasó a Kyle explorando líneas temporales — arma de doble filo, excusa consciente de investigación, motivo real de no dejarlo ir. Es una recaída reconocida en el hábito de su era como "Guardiana del Mapa" (`Lost_Guardians/`). Esto resulta ser, textualmente, el motor psicológico que le faltaba al Capítulo 20 de Age VIII ("The Eye of Savathûn"), ya escrito en esqueleto desde antes sin que nadie hubiera fijado por qué Elsie "intenta comprender si la diferencia está en Kyle" — ahora tiene causa concreta.
+- **El encuentro dramatizado con un Kyle alterno, identificado:** `El_Ultimo_Guardian.md`, ya existente — no una pieza nueva. Su propia nota final ("años después, en Europa, Elsie escuchará una voz...") ya apuntaba a `The_Last_Reset` sin que nadie hubiera dicho por qué la visita ocurre justo antes; ahora lo tiene. Se le agregó una nota narrativa nueva (sin tocar la prosa ya escrita) fijando dos capas: para Elsie, reconoce a Kyle en los ojos del hombre viejo y siente, por primera vez en sus viajes, esperanza personal de que su Kyle siga vivo (no la lectura filosófica de siempre); para el Kyle viejo de esa línea, es su despedida de la mujer que amó antes de su encuentro con el Winnower — encuentro que **no se dramatiza como escena nueva**, ya está implícito en el final ya escrito del archivo.
+- **El Regreso, reescrito** de "ella llega a una pelea Vex en curso" a el hallazgo real — "Llegas tarde" se conserva con otro peso. Ghost se reactiva solo hasta que Kyle es encontrado, no antes.
+- **El Nombre**, cambios mínimos — el "Kyle" final queda más motivado.
+- **Escena nueva fijada en diálogo:** Kyle le pregunta a Saint por qué le organizó un funeral en vida; Saint responde "Porque eres mi amigo" — sin más justificación.
+
+**También editado:** `06_Timeline_Archives/El_Ultimo_Guardian.md` (dos notas narrativas nuevas añadidas al footer, prosa original intacta) y `09_Roadmaps/Plan_Shadowkeep.md` (nota puntero añadida al inicio, señalando que su pendiente #1 queda absorbido por el plan nuevo, sin borrar nada de lo fijado el 2026-07-15).
+
+**Pendiente, explícitamente aplazado por el autor para la próxima sesión:** el orden exacto entre el MIA de Kyle y el fallo del reinicio de Elsie en `The_Last_Reset` — si se entera antes o después, y dónde cae esa escena respecto al funeral y a `El_Ultimo_Guardian`.
+
+**Pendiente menor (no bloqueante):** cuándo/cómo se entera Kyle exactamente de lo de Torobatl; el detalle del robo y vuelo de la nave pirámide; la distribución exacta en capítulos del tramo de búsqueda de Elsie (ya fijado que tendrá espacio propio). Tareas de mantenimiento sin decisión pendiente: completar formalmente la sección de `Plan_Shadowkeep.md` cuando esto cierre del todo, y sembrar la conexión Rhulk/Age X cuando le toque turno de diseño.
+
+**Sin fecha de redacción fijada** — Book 02 sigue activo y Rise of Iron/Nemo sigue marcado como prioridad antes de abrir este hilo en prosa.
+
+---
+
 ## Sesión 2026-08-04 | Cap. 8 — escenografía de la cabaña, apariencia de Kyle y Elsie, y la llegada de Elsie reencuadrada
 
 Continuación directa de la sesión anterior sobre `01_The_Last_Board.md`. El autor pidió enriquecer la Sección V ("Elsie's Opinion") con escenografía y apariencia física, calibradas contra `02_Characters/Elsie.md` y las imágenes de referencia en `99_Reference/apariencias_personajes/` (`elsie.png`, `elsie_kyle.png`, `kyle.png`, `kyle_vestimenta_canon.png`).
@@ -22,6 +52,80 @@ Continuación directa de la sesión anterior sobre `01_The_Last_Board.md`. El au
 - **Gjallarhorn** (dorado): esta vez sí sorprende a Banshee, que lo reconoce de inmediato por reputación, pregunta de dónde lo sacó, menciona a **Feizel Crux** (forjó los primeros seis, se dice que solo tres siguen enteros) y se asombra de que Kyle llevara "la piedra en bruto" sin decodificar en el cinturón.
 
 Los orígenes de cada arma no cambiaron (siguen siendo los mismos ya fijados en `02_Phobos.md`) — lo que cambió es que el nombrado ahora ocurre en pantalla. `02_Characters/Banshee-44.md` actualizada con el detalle de las tres decodificaciones.
+
+---
+
+## Sesión 2026-08-04 (continuación) | Arranque de la Part 02 — Cap. 19, "The War That Did Not Stay in Saturn"
+
+Nueva sesión, mismo día. El autor pidió empezar la Parte 2 de Book 02 (*The Taken War*). Revisado `00_Book_Map.md` y `Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md`: los 6 frentes de la Guerra de los Poseídos ya estaban completos en `05_Dialogues/` desde 2026-07-19, sin novelar todavía. Se confirmó con el autor arrancar redactando el Cap. 19 directamente (regla del libro: una sesión = un capítulo).
+
+**Escrito:** `Part_02_The_Taken_War/01_The_War_That_Did_Not_Stay_In_Saturn.md` — Capítulo 19 del libro (Cap. 1 local de Part 02), adaptando casi verbatim `Elsie_Guardian_GuerraDeLosPoseidos_LaGuerraQueNoSeQuedaEnSaturno` (Frente 1 del roadmap), mismo tratamiento que recibió Phobos con su fuente. Seis secciones con títulos en inglés (POV Elsie como hilo conector): la Torre descubre que la retirada de Oryx no significó margen; Elsie detecta la guerra como red de provocaciones ligada a la memoria de quienes responden, sin nombrarla todavía como la gramática completa de Oryx (eso lo paga el Cap. 21, ver corrección abajo); el daño de Ghost pasa de cicatriz privada a variable táctica real; Petra sostiene el Arrecife sin saber que la ausencia de Mara es una operación oculta; Carina evacúa civiles con cuidado explícito de no convertir cada rostro en sustituto de Lena. Único añadido real sobre la fuente: la línea de apertura retoma el cierre del Cap. 18 ("La Parte 1 de esta guerra había terminado. La guerra, no.") para puentear el corte entre Partes.
+
+**Documentos actualizados:** `00_Book_Map.md` (Cap. 19 marcado escrito, estado del libro), `01_Source_Index.md` (Frente 1 marcado absorbido), `INDEX.md` (entrada de `Plan_Book02_TheKingOfShapes` actualizada al estado real: Part 01 completa, Part 02 iniciada).
+
+**Pendiente:** Caps. 20-25 de Part 02 (Frentes 2-6), cada uno su propia sesión.
+
+**Continuación misma sesión — diseño puro, cero prosa: el cierre de Lubrae.** El autor preguntó cómo afecta Lubrae a la Parte 2 (respuesta: casi nada — Guerra de los Poseídos y King's Fall siguen intactos en el Acorazado, "sin tocar una línea", según el propio roadmap de reimaginación) y después propuso una idea nueva: que el mundo mismo empiece a cerrarse físicamente, volviéndose una masa planetaria impatrullable. Sumada a `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, sección "Diseño de lugar — Lubrae", nueva entrada **"El cierre del mundo — Lubrae se vuelve impatrullable"**: se lee como desenlace natural del mecanismo de los "dos soles" ya fijado (el planeta compensando la ausencia del sol azul/paracausal con pulsos gravitacionales cada vez más erráticos), y resuelve de forma diegética por qué nadie vuelve a Lubrae hasta Witch Queen. Tratamiento recomendado: mención breve tipo reporte de la Vanguardia, no escena dramatizada — para no competir con el clímax del Cap. 17 ni romper la regla de que Lubrae es cápsula cerrada frente a la Parte 2. Queda como pendiente de inserción menor en el Cap. 17 o 18 (ambos ya escritos, sin tocar hoy). Sin cambios de prosa en esta sesión.
+
+**Continuación misma sesión — Cap. 20, "What We Had Already Beaten".** El autor preguntó por qué Crota específicamente aparece como enemigo reciclado en el Frente 2, dado que ya murió en Age I. Se aclaró que la fuente ya resolvía esto con cuidado: no es una resurrección, es un eco vacío armado con el residuo dejado en la misma cámara del Hellmouth donde Kyle tomó la esencia de Crota semanas antes (Cap. 12-13), imitando la coreografía más fácil de su primer combate — Oryx usando la culpa/memoria de Kyle como arma, sembrando directo el Cap. 21. Con eso resuelto, se redactó el capítulo.
+
+**Escrito:** `Part_02_The_Taken_War/02_What_We_Had_Already_Beaten.md` — Capítulo 20 del libro (Cap. 2 local de Part 02), adaptando casi verbatim `Guardian_Equipo_GuerraDeLosPoseidos_LoQueYaVencimosRegresa` (Frente 2). Eris fija el lenguaje ("usos", no "regresos"); la Primera Escuadra pelea en pares contra ecos vaciados de Crota, Ta'aurc y Zydron; cierra con el primer ladrillo de confianza a distancia entre los seis, eco deliberado del trío Carina/Jaden/Atheena en Kepler. Único añadido real: línea de apertura puente con el cierre del Cap. 19.
+
+**Corrección de numeración detectada al escribir:** las notas de footer del Cap. 19 y de este capítulo decían que el pago del "mapa de culpa" de Kyle ocurría en el Cap. 22 — incorrecto. Cruzando `01_Source_Index.md` contra el roadmap se confirmó que el orden de capítulos de Part 02 **invierte a propósito los Frentes 3 y 4**: el Cap. 21 (`The Map of Guilt`) adapta el Frente 4, y el Cap. 22 (`A Sword Is Not an Answer`) adapta el Frente 3 (la forja) — invertido porque el roadmap exige que Kyle llegue a la forja ya contaminado por la pregunta de Oryx. Corregido en los footers de los Caps. 19 y 20, y en `00_Book_Map.md` (fuentes y nota de mapa añadidas para los Caps. 21-25, con el reparto Frente→Capítulo completo).
+
+**Documentos actualizados:** `00_Book_Map.md`, `01_Source_Index.md`, `INDEX.md`.
+
+**Continuación misma sesión — Cap. 21, "The Map of Guilt".** Redactado sin fricciones adicionales.
+
+**Escrito:** `Part_02_The_Taken_War/03_The_Map_Of_Guilt.md` — Capítulo 21 del libro (Cap. 3 local de Part 02), adaptando casi verbatim `Guardian_Elsie_GuerraDeLosPoseidos_ElMapaDeLaCulpa` (Frente 4). Resuelve la decisión pendiente heredada desde `Plan_TakenKing_Parte1.md`: el beat exacto donde Kyle entiende que Oryx usa su culpa como arma, no como castigo — la frase funcional ("la está usando para moverme") llega tal como se guionó. Carina aparece en el frente civil paralelo sin cruzarse con Kyle (Sección I), coherente con que ninguno de los dos tríos se entera del otro todavía. Cierra con Ghost sosteniendo, de noche, que no hay opción limpia entre seguir el patrón de Oryx o ignorarlo. Sin añadidos de prosa — solo traducción de títulos de sección al inglés.
+
+**Documentos actualizados:** `00_Book_Map.md` (Cap. 21 marcado escrito, estado del libro), `01_Source_Index.md`, `INDEX.md`.
+
+**Continuación misma sesión — Cap. 22, "A Sword Is Not an Answer".** El capítulo más largo de Part 02 hasta ahora: absorbe cuatro fuentes completas en vez de una, mismo tratamiento que recibió el Cap. 12 (`The Dreadnaught Key`) con el Cluster 3 de Part 01.
+
+**Escrito:** `Part_02_The_Taken_War/04_A_Sword_Is_Not_An_Answer.md` — Capítulo 22 del libro (Cap. 4 local de Part 02), 11 secciones, adaptando casi verbatim `Guardian_AlakHul_TakenKing_ElOscuroCuchillo` (Sección I), `Guardian_Ecthar_TakenKing_ElPortadorDelEscudo` (Sección II), `Guardian_Eris_TakenKing_LaForja` (ya escrita desde Parte 1, sin tocar una línea, dividida en Secciones III-VI con títulos nuevos) y `Carina_Eris_GuerraDeLosPoseidos_BoltCaster` (Secciones VII-XI). Kyle enfrenta a Alak-Hul (fuerza sin pregunta, encerrado por seguir las reglas demasiado bien) y a Ecthar (devoción sin identidad, custodiando un núcleo que nunca fue reclamado — el de Nokris, que Kyle nunca llega a saber), y Eris forja la Raze Lighter con ambos componentes: Oscuridad redirigida por intención Solar, no arma más fuerte sino decisión. El mismo día, Eris forja Bolt Caster para Carina a partir de un fragmento del Kell de Nada que Petra contuvo en el Arrecife — origen deliberadamente distinto en estructura (un solo componente, una sola pregunta) para no calcar la fórmula de Kyle. Sin añadidos de prosa — texto íntegro de las cuatro fuentes, solo títulos de sección traducidos y `LaForja` subdividida.
+
+**Documentos actualizados:** `00_Book_Map.md` (Cap. 22 marcado escrito, estado del libro), `01_Source_Index.md`, `INDEX.md`.
+
+**Pendiente:** Caps. 23-25 de Part 02, cada uno su propia sesión. Próximo: Cap. 23, "The Fold That Resists" (Frente 5, parte 1 — Mara escondida en el Mundo Trono).
+
+---
+
+## Sesión 2026-08-05 | Cap. 23, "The Fold That Resists"
+
+Continuación de la Part 02. Se detectó que la fuente `Mara_Eris_TakenKing_LoQueNingunoModelo` (cuarta y última escena del Cluster 1 de Part 01) seguía sin dramatizar en el libro — el propio Cap. 18 la había dejado explícita como pendiente ("Mara todavía esperando en el Mundo Trono, todavía sin dramatizar en tiempo real"), y el roadmap de Guerra de los Poseídos la retoma como cimiento directo del Frente 5. Se confirmó que el Cap. 23 era el lugar correcto para dramatizarla junto con `Mara_Eris_GuerraDeLosPoseidos_ElPliegueQueResiste`, que continúa directamente de ella.
+
+**Escrito:** `Part_02_The_Taken_War/05_The_Fold_That_Resists.md` — Capítulo 23 del libro (Cap. 5 local de Part 02), 7 secciones, adaptando casi verbatim ambas fuentes. Mara despierta dentro del Mundo Trono de Oryx inmediatamente después de la Batalla de Saturno, entiende que el lugar no es un sitio sino un argumento hecho arquitectura, y encuentra un pliegue donde resistir sin ser "reescrita". Eris y Osiris, en el Faro, cargan la ironía de haber diseñado un arma (Kyle) sin saber que también diseñaban una llave. Semanas después, dentro de la Guerra de los Poseídos, Mara sigue resistiendo sin ganar terreno; la tesorería registra a Kyle como "variable no resuelta", nunca como heredero; Eris y Osiris reciben indicios insuficientes para actuar; Ir Anûk e Ir Halak pasan como presión doctrinal, sin combate; Oryx se prepara para ganar, no para perder. Añadido real: un párrafo de apertura y una línea de cierre en cursiva que marcan explícitamente para el lector que este capítulo corre en paralelo, por debajo de todo lo vivido por Kyle en los Caps. 19-22, no después — las Secciones I-II ocurren antes incluso del Cap. 19.
+
+**Documentos actualizados:** `00_Book_Map.md` (Cap. 23 marcado escrito, estado del libro), `01_Source_Index.md`, `INDEX.md`.
+
+**Pendiente:** Caps. 24-25 de Part 02. Próximo: Cap. 24, "The Wounded Wish" (Frente 6 — Oryx y Riven en la Ciudad Ensoñada, la extracción de Quria).
+
+---
+
+## Sesión 2026-08-04 (continuación) | Cap. 8 — el regreso de Elsie (Sección VI nueva) y corrección de geografía cabaña/campamento
+
+Nueva sesión, mismo día. El autor pidió trabajar la columna Kyle/Elsie de Book 02 (a partir del handoff de Codex `99_Reference/Agent_Notes/codex/2026-08-04_handoff-book02-kyle-elsie-beats.md`, 10 beats propuestos a lo largo de todo el libro) capítulo por capítulo, empezando por enriquecer lo ya escrito en Part 01 antes de tocar capítulos futuros. Sobre el Cap. 8, el autor lo consideraba sólido salvo un hueco: nunca se ve a Elsie irse, y en esta era ella "siempre se va, no se queda".
+
+**Escrito:** nueva Sección VI, "What She Carried Back" (`01_The_Last_Board.md`), insertada entre "Elsie's Opinion" (V) y "The Phobos Call" (renumerada a VII) — POV Elsie: se levanta antes de que nadie tenga que pedírselo, sube a su sparrow —bautizado **Any Other Sky**, primera vez que aparece nombrado y descrito en el vault (verde oliva y cobre, líneas angulares, acentos de luz roja; referencia visual del autor en `99_Reference/vehiculos/Elsie_Sparrow_Any_Other_Sky.jpg`)—, mira atrás una sola vez sin preguntarse por qué, y vuela de regreso hacia la Ciudad. Fija en prosa, por primera vez, el patrón completo de la Etapa 3 — Observación de `Guardian_Elsie_Bray.md`: ella nunca se queda.
+
+**Corrección de geografía, a petición del autor.** Al discutir la escena, el autor notó que nunca se había fijado con claridad dónde está la cabaña respecto al campamento de Elsie y a la Última Ciudad. Verificado: la cabaña vive en el sector forestal al pie de una cresta, entre la Ciudad y el territorio abierto (`10_Chapters/Age_I/Cap_01_A_New_Shape.md`, "sector forestal, cresta este"); el campamento de Elsie vive a las afueras de la Torre (ya fijado en el frontmatter de `05_Dialogues/Dialogue_Elsie/Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir.md`). Son dos sitios distintos y no contiguos — ella vuela entre ambos, no camina. Corregido en cascada: `02_Phobos.md`, Sección VII, decía "a poca distancia" (ambiguo, podía leerse como distancia desde la cabaña) — ahora dice explícitamente "a las afueras de la Torre".
+
+**Documentos actualizados:** `01_The_Last_Board.md` (prosa + nota de footer), `02_Phobos.md` (una línea de prosa + nota de footer).
+
+**Pendiente / siguiente en la sesión:** revisar en el mismo formato los Caps. 9 (*Phobos*), 13 (*The Hellmouth Descent*) y 18 (*The Flank She Could Not Hold*) — columna Kyle/Elsie, uno a la vez, a petición del autor.
+
+**Continuación misma sesión — modo plan y pase de textura del Cap. 9.** Entramos en plan mode para organizar el resto del pase sobre los Caps. 9, 13 y 18 (plan guardado en `C:\Users\avada\.claude\plans\mighty-sniffing-sunbeam.md`). Releídos los tres capítulos completos: a diferencia del Cap. 8, ninguno tiene un hueco estructural — los tres ya cumplen el beat que el handoff de Codex les asigna. Se acordó un pase de textura ligero y opcional, capítulo por capítulo, borrador primero, edición después.
+
+**Cap. 9 (`02_Phobos.md`, Sección VII):** añadido un párrafo corto justo después de que Elsie sienta a Kyle a distancia calculada en el catre — cómo lo lee sin moverse del sitio, anclado en el rasgo ya fijado en `Elsie.md` ("Movimiento": deja de girar la cabeza y mueve solo los ojos cuando algo le importa de verdad). Cambio mínimo, no estructural.
+
+**Pendiente:** Cap. 13 (`06_The_Hellmouth_Descent.md`) y Cap. 18 (`11_The_Flank_She_Could_Not_Hold.md`), mismo pase.
+
+**Continuación misma sesión — Cap. 13 revisado, sin cambios.** Releída completa la Sección XIX de `06_The_Hellmouth_Descent.md`: a diferencia de lo previsto en el plan, ya tiene anclaje espacial y físico (descripción de la tienda, el sonido de los pasos de Kyle antes de verlo, "se sentó frente a ella, en el mismo lugar de siempre") — sin fisura real de textura. A petición del autor, se dejó intacto y se saltó directo al Cap. 18.
+
+**Cierre del pase — Cap. 18 (`11_The_Flank_She_Could_Not_Hold.md`).** Único de los tres con una laguna real: el primer encuentro cara a cara entre Elsie y Carina era casi enteramente diálogo, sin ninguna descripción física de ninguna de las dos. Añadidos dos párrafos breves, sin tocar el diálogo ya aprobado: Sección I, Carina descrita desde el POV de Elsie (cabello oscuro, piel morena, el ángulo divertido en los ojos, coherente con `Carina.md`); Sección II, Elsie descrita desde el POV de Carina (cabello rizado rojo apagado, la quietud entrenada, coherente con `Elsie.md`), cerrando con una línea de ironía dramática ("No tenía, todavía, ningún motivo para sospechar cuántos, exactamente") — juega con lo que el lector ya sabe sin que ningún personaje lo diga en voz alta.
+
+**Con esto, el pase de textura Kyle/Elsie sobre Part 01 queda cerrado:** Cap. 8 (Sección VI nueva + geografía fijada), Cap. 9 (párrafo de lectura física), Cap. 13 (revisado, sin cambios), Cap. 18 (apariencia física en el primer encuentro con Carina). Los 6 beats futuros de Part 02-05 del handoff de Codex (Cap. 21 "The Map of Guilt", Cap. 33 "The Touch of Malice", etc.) quedan fuera de alcance de esta sesión, para cuando se empiece a redactar esa Parte. Plan de la sesión guardado en `C:\Users\avada\.claude\plans\mighty-sniffing-sunbeam.md`.
 
 ---
 

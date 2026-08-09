@@ -8,3 +8,6 @@ Thumbs.db
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+
+# ── EPUB/PDF build output (regenerable con tools/epub-build/build_epub.py) ──
+tools/epub-build/output/

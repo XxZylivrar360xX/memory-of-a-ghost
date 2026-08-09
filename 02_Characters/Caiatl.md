@@ -92,6 +92,12 @@ Eso la convierte en una de las figuras más resilientes de toda la saga.
 
 ---
 
+# Torobatl (sembrado, sin dramatizar — 2026-08-08)
+
+El mundo de origen Cabal, cúspide de su imperio, cae ante Xivu Arath en Age VII-VIII — la herida más profunda de Caiatl, todavía sin arco propio escrito. Kyle se entera de lo ocurrido ahí durante su cautiverio en el Black Terrace (Mundo Trono de Xivu Arath), donde desarrolla sensibilidad receptora a entidades malignas. Ver [[09_Roadmaps/Plan_Shadowkeep_BeyondLight_KyleMIA]] para el diseño completo — pendiente todavía cuándo y cómo esto llega a Caiatl misma, y si Kyle es quien se lo cuenta.
+
+---
+
 # What Caiatl Represents
 
 Ontológicamente, Caiatl representa:

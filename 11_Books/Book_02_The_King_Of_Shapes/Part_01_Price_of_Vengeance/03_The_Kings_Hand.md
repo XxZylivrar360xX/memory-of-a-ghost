@@ -328,7 +328,7 @@ No se detuvo a mirarla. No todavía.
 
 Al otro extremo del cuarto, junto a la mesa de curaciones volcada, Teodor se había arrastrado sobre lo que le quedaba de cuerpo funcional —las piernas que ya no obedecían del todo, el único brazo bueno haciendo el trabajo de dos— hasta cubrir a Nastia con la espalda entera, la única armadura que todavía podía ofrecerle. La niña lloraba contra su pecho sin gritar, como si algo en ella hubiera aprendido, en los últimos treinta segundos, que gritar solo servía para llamar la atención de lo que fuera que estuviera de pie en medio del cuarto.
 
-Y en medio del cuarto, entre Lena y los dos que todavía respiraban, había un Dredgen que ya no era del todo un Dredgen.
+Y en medio del cuarto, entre Lena y los otros dos inocentes, había un Dredgen que ya no era del todo un Dredgen.
 
 El cuerpo conservaba la forma —la capa deshilachada, la armadura ensamblada de piezas que nunca debieron combinarse entre sí, el peso torcido de alguien que llevaba años durmiendo a la intemperie. Pero donde debía haber un rostro, o al menos una máscara, o siquiera la sugerencia de unos ojos, solo había una luz blanca que temblaba sin ritmo, como una vela que el viento no terminaba nunca de apagar. No era el vacío cansado y resignado que Carina había visto antes en otros Dredgen sin Luz —esa clase de nada que ya no esperaba nada de nadie. Esta latía. Se encendía y se apagaba a un pulso que no correspondía a ningún cuerpo vivo, y con cada resurgimiento parecía un grado más hambrienta que el anterior, un cascarón vacío que en algún momento reciente había aprendido a tener sed.
 
