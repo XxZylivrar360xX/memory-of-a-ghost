@@ -150,4 +150,17 @@ vault, sección "Pendiente real de Book 02").
   biblia nueva pide — una derrota que él mismo podría reconocer como prueba legítima sin
   que eso signifique que se equivocó de raíz. Ninguna opción se aplicó todavía; requiere
   decisión del autor, no ajuste unilateral.
-- **Estado:** flag abierto, sin resolver.
+- **Actualización 2026-08-09 (post-auditoría):** corrió
+  `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-book02-completo.md`, pero el encargo
+  original (`99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-auditoria-book02-completo.md`,
+  punto 5) solo pedía chequear "lenguaje prohibido contra Oryx" (evitar
+  matar/terminar/derrotar definitivamente) — no incluía contrastar `Oryx.md` ni este capítulo
+  contra la biblia de personaje nueva, porque el encargo se escribió antes de que esa biblia
+  y `voice/oryx.md` existieran en el vault. Codex sí encontró, por su cuenta, un hallazgo
+  adyacente (severidad media): Cap. 30/32 usa "Oryx estaba muerto, de verdad" — demasiado
+  definitivo, sugiere suavizarlo a "había caído en su propio Mundo Trono" o similar. Ese
+  hallazgo ataca el mismo síntoma desde el ángulo de redacción, pero no resuelve la tensión
+  de fondo (el cierre de `Oryx.md` y la falta de un beat de aceptación digna en Cap. 30). La
+  auditoría de punta a punta ya corrió; este hallazgo específico sigue sin auditar.
+- **Estado:** flag abierto, sin resolver — pendiente un encargo de seguimiento a Codex o
+  decisión directa del autor.
