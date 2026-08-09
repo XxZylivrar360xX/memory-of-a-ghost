@@ -227,6 +227,8 @@ Todas pendientes de ajuste del autor.
 
 Ambas pendientes de ajuste del autor.
 
+**Pase de escenografía completo (2026-08-09):** Cap. 31 recibió un toque ligero (anclaje mínimo a la apertura, el resto de su escasez es deliberada — refleja el estado de Kyle esa noche). Cap. 32 quedó sin cambios de prosa — sus Secciones I-IX están protegidas por regla dura ("no se toca ni una línea") y las Secciones X-XI (prosa nueva) ya estaban bien ancladas. Ningún diálogo ni hecho de canon se modificó.
+
 ### Part 05 — Aftermath
 
 **Estado: COMPLETA — 3 de 3 capítulos (33-35), escritos y reescritos 2026-08-08. Cierra el libro completo.**
@@ -238,6 +240,8 @@ Ambas pendientes de ajuste del autor.
 3. **[Cap. 35]** Just in Time — adapta `Carina_Guardian_TakenKing_JustoATiempo` (Movimiento VIII, el duelo y la muerte de Malok). **Reescrito 2026-08-08** — el pánico de Kyle sin Luz y su procesamiento posterior del duelo, antes narrados desde su interioridad, ahora corren desde lo que Carina ve y siente desde afuera del combate. Suma un párrafo de cierre nuevo que cierra el libro sobre el propio arco de duelo de Carina. **Estado: escrito** (`Part_05_Aftermath/03_Just_In_Time.md`). **Con la reubicación de "The Third Sword" a Book 03, este capítulo cierra Book 02 — The King of Shapes.**
 
 Todas pendientes de ajuste del autor.
+
+**Pase de escenografía completo (2026-08-09):** Cap. 33 y Cap. 34 expandidos (Kepler ganó textura física en ambos capítulos; el sitio del encuentro con Malok, antes sin descripción, se ancló; el Cap. 34 fue el citado explícitamente por la auditoría de Codex para la regla 02). Cap. 35 recibió solo un toque ligero al santuario final — el duelo contra Malok ya tenía beats corporales sólidos por diseño. Ningún diálogo ni hecho de canon se modificó. **Con esto cierra el pase de `staging_rules/` sobre Parts 02-05 (Caps. 19-35) — Book 02 queda revisado en sus tres capas: continuidad/filosofía, calibración de voz, y escenografía.**
 
 **Nota de ubicación (2026-07-26):** el Capítulo 1 es deliberadamente retrospectivo — su ventana temporal (House of Wolves) es anterior a toda la campaña de Taken King que ya se contó en Parts 01-04. Se coloca aquí, no en orden cronológico estricto, porque es el punto donde Jaden se vuelve protagonista real por primera vez (Movimientos V-VIII de `09_Roadmaps/Plan_Jaden_Atheena_Origen.md`) — funciona como capítulo de origen justo antes de que el libro empiece a centrarlo, mismo recurso que ya usa el Prólogo con Carina al abrir el libro completo.
 

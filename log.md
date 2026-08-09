@@ -3410,3 +3410,15 @@ Continuación del pase de `staging_rules/` sobre Book 02, ahora sobre Part 03 (K
 **Cap. 30, sin cambios:** ya era el capítulo más sólido de Part 03 en ambas reglas por diseño — la escala de Oryx, los Ogros, el domo del duelo, cada intercambio de espada, todo ya anclado en cuerpo y espacio sin un solo salto de resumen funcional en sus seis encuentros.
 
 Ningún diálogo ni hecho de canon se modificó en ningún capítulo. `00_Book_Map.md` actualizado con el resumen del pase. **Con esto, Part 03 queda completa en las tres capas de verificación: continuidad/filosofía, calibración de voz, y ahora escenografía — igual que Part 02.**
+
+## [2026-08-09] expansión completa | Part 04 y Part 05, staging_rules aplicado — Book 02 queda con el pase completo
+
+Cierre del pase de `staging_rules/` sobre Book 02, cubriendo Parts 04 y 05 (Caps. 31-35) a petición del autor.
+
+**Cap. 31 (Touch of Malice):** toque ligero — anclaje mínimo a la apertura de la Sección I (el promontorio a las afueras de la Ciudad); el resto de la escasez del capítulo es deliberada, refleja el estado de Kyle esa noche. **Cap. 32 (Six Months in Fragments):** sin cambios de prosa — Secciones I-IX protegidas por regla dura ("no se toca ni una línea"), Secciones X-XI ya bien ancladas.
+
+**Cap. 33 (What They Found in Exile) y Cap. 34 (The False Pretender):** ambos expandidos. Kepler ganó textura física propia en los dos capítulos (tiendas remendadas, terreno rocoso, fogata, la luz gris constante); el sitio del encuentro con Malok, antes sin ninguna descripción, se ancló (restos calcinados del Cosmódromo, chatarra humeante). El Cap. 34 fue el que Codex citó explícitamente por la regla 02 (el combate contra Malok comprimido a tres frases en la versión original) — el combate ya traía beats corporales de una revisión anterior y se dejó intacto.
+
+**Cap. 35 (Just in Time), cierre del libro:** toque ligero — textura física añadida al santuario final. El duelo contra Malok ya era sólido por diseño (la precisión de sus ataques, el muro de energía, la Luz de Kyle fallando, el punto que encuentra Jaden) sin un solo salto de resumen funcional.
+
+Ningún diálogo ni hecho de canon se modificó en ningún capítulo. `00_Book_Map.md` actualizado con el resumen de ambas Partes. **Con esto, el pase de `staging_rules/` sobre Book 02 queda completo: los 17 capítulos de Parts 02-05 (Caps. 19-35) revisados y, donde hacía falta, expandidos — el Prólogo y Part 01 (Caps. 1-18 + interludio) quedaron fuera a propósito, eran la referencia de alta densidad que originó la auditoría, no el problema que corregía. Book 02 — The King of Shapes queda con sus tres capas de verificación completas de punta a punta: continuidad/filosofía, calibración de voz, y escenografía.**
