@@ -32,6 +32,8 @@ Continuación directa de la sesión anterior (c). El autor releyó los primeros 
 
 **Sin terminar, continúa en la próxima sesión:** el autor sigue releyendo Part 01 — quedan capítulos posteriores al 13 todavía sin repasar con esta misma pasada de ajustes.
 
+**Pendiente nuevo, para la próxima sesión:** Víctor va a compartir la estructura de la carpeta "IA-policies" que preparó Farid, para estudiar cómo armar algo similar para este vault (probablemente políticas/reglas de uso de IA aplicadas a este proyecto, todavía sin ver el contenido real). Sin alcance ni prioridad fijados todavía — depende de lo que traiga.
+
 ---
 
 ## Sesión 2026-08-08 (c) | Reubicación de Jaden a Book 03 + Book 02 recortado a POV estricto de Carina (35 capítulos)
