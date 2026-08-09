@@ -200,7 +200,11 @@ Disparó.
 
 La bala cruzó la cámara con la velocidad de algo que ya sabía adónde iba y perforó el corazón de Oryx en el centro exacto.
 
-El grito de Oryx fue sordo — no de dolor sino de comprender que la ecuación que había creído infalible tenía una variable que no había contemplado. Después el silencio. Y después la oscuridad comenzó a cristalizar su cuerpo desde adentro hacia afuera, lento, como si el universo estuviera haciendo el trabajo con cuidado, convirtiendo a Oryx en algo que ya no era ni vivo ni muerto sino pasado.
+Oryx no gritó al principio.
+
+Inclinó la cabeza, apenas, con la quietud antigua de algo que no suplicaba ni perdonaba, sino que medía el tamaño exacto de la demostración. La ecuación que había creído infalible tenía una variable que no había contemplado. No una excepción sentimental. Una forma de fuerza que había sobrevivido a la prueba dentro de su propio trono.
+
+Después llegó el sonido —sordo, inmenso, no de dolor sino de reconocimiento violento—, y después la oscuridad comenzó a cristalizar su cuerpo desde adentro hacia afuera, lento, como si el universo estuviera haciendo el trabajo con cuidado, convirtiendo a Oryx en algo que ya no era ni vivo ni muerto sino pasado.
 
 El cuerpo flotó hacia atrás.
 

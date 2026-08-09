@@ -162,6 +162,12 @@ vault, sección "Pendiente real de Book 02").
   hallazgo ataca el mismo síntoma desde el ángulo de redacción, pero no resuelve la tensión
   de fondo (el cierre de `Oryx.md` y la falta de un beat de aceptación digna en Cap. 30). La
   auditoría de punta a punta ya corrió; este hallazgo específico sigue sin auditar.
-- **Estado:** encargo de seguimiento enviado a Codex —
-  `99_Reference/Agent_Notes/claude-code/2026-08-09_encargo-auditoria-final-oryx.md`. Esperando
-  respuesta.
+- **Estado:** **resuelto (2026-08-09).** Codex respondió en
+  `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-final-oryx.md` confirmando la redención
+  velada en `Oryx.md` (severidad alta) y un gesto de aceptación faltante en Cap. 30 (severidad
+  media). Aplicado con autorización del autor: `Oryx.md` — "The Collapse of the Sword Logic" y
+  "Final Tragedy" reescritas para que la derrota sea epistemológica, no moral; Cap. 30 —
+  párrafo del grito ampliado con un gesto de medición/reconocimiento antes del sonido, sin
+  diálogo nuevo (opción preferida por Codex y por el autor). El título del capítulo
+  ("The Weight of a Wrong Answer") se mantiene sin cambios — Codex lo recomendó así una vez
+  aplicados los otros dos ajustes, y quedó aceptado.

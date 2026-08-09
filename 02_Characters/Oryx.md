@@ -442,18 +442,25 @@ y al mismo tiempo profundamente fascinante.
 
 El verdadero jaque mate del Guardián no es destruir a Oryx físicamente.
 
-Es obligarlo a enfrentar la contradicción central de su existencia:
+Es obligarlo a enfrentar una variable que su sistema no había sabido medir:
 
-> Si solo aquello que domina merece existir…
-> 
-> entonces el amor, la compasión y el sacrificio jamás deberían sobrevivir.
-> 
-> Y aun así… existen.
+> Si solo aquello que domina merece existir,
+>
+> entonces el amor, la compasión y el sacrificio deberían ser lastres que vuelven débil a quien los conserva.
+>
+> Y aun así, frente a él, sobreviven como fuerza organizada.
 
-Por primera vez desde Aurash…  
-Oryx duda.
+Por primera vez desde Aurash,
+Oryx encuentra una coordenada que su mapa no contiene.
 
-Y esa duda destruye el fundamento completo de su identidad.
+No abandona la Lógica de la Espada.
+
+La aplica contra sí mismo con la misma severidad con que la aplicó contra todo lo demás:
+si una forma lo derrota dentro de su propio trono, esa forma ha demostrado algo real.
+
+Lo intolerable no es morir.
+
+Lo intolerable es que la demostración sea legítima y, aun así, no quepa entera dentro de la respuesta que construyó durante milenios.
 
 ---
 
@@ -461,16 +468,22 @@ Y esa duda destruye el fundamento completo de su identidad.
 
 Oryx jamás fue simplemente monstruo.
 
-Fue alguien tan aterrado por el sinsentido del sufrimiento…  
+Fue alguien tan aterrado por el sinsentido del sufrimiento
 que eligió convertir violencia en religión para sobrevivir emocionalmente.
 
-El Guardián finalmente le demuestra algo que jamás pudo aceptar:
+Pero su tragedia final no es que, en el fondo, quisiera ser corregido por amor.
 
-> El universo no necesita justificar dolor mediante dominación para que la existencia tenga significado.
+Es más dura que eso:
 
-Y en el fondo…
+> Oryx podía aceptar una derrota legítima.
+>
+> No podía imaginar que esa derrota proviniera de vínculos que su filosofía había clasificado como debilidad.
 
-parte de Oryx siempre quiso que eso fuera verdad.
+El Guardián no lo redime.
+
+Lo contradice.
+
+Y Oryx, hasta el final, sigue siendo lo bastante fiel a su propia ley como para entender que una contradicción demostrada en su Mundo Trono no puede descartarse solo porque lo destruya.
 
 ---
 
