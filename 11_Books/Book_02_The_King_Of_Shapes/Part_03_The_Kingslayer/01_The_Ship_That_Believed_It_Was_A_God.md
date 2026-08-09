@@ -14,9 +14,11 @@ Ellos no sabían nada de esa conversación. No sabían cuántas guerras acababan
 
 ## I. What the Ship Declares
 
+El transporte vibraba con la frecuencia baja y constante de los motores forzados a máxima potencia, seis asientos dispuestos en dos filas frente a frente, cada Guardian ya con el arma asegurada al pecho, la luz interior reducida al mínimo para no competir con lo que se veía a través del cristal de proa.
+
 El Acorazado no era simplemente grande.
 
-Era grande de la forma en que son grandes las cosas que llevan suficiente tiempo creyendo que merecen el espacio que ocupan. Cada ángulo comunicaba algo — no diseñado para impresionar sino para declarar. Este barco era el argumento hecho materia: el más fuerte merece existir, y quien construyó esto lleva milenios siendo el más fuerte.
+Era grande de la forma en que son grandes las cosas que llevan suficiente tiempo creyendo que merecen el espacio que ocupan. Crecía en la ventana con cada segundo que pasaba, tragándose primero las estrellas detrás, después el borde curvo de Saturno, hasta que no quedó nada en el cristal que no fuera casco oscuro y las venas de luz enferma que recorrían su superficie como algo respirando muy despacio. Cada ángulo comunicaba algo — no diseñado para impresionar sino para declarar. Este barco era el argumento hecho materia: el más fuerte merece existir, y quien construyó esto lleva milenios siendo el más fuerte.
 
 Tiago leyó los datos sin apartar los ojos de la estructura.
 
@@ -46,7 +48,7 @@ Esa intención no había nacido en este transporte. Había nacido semanas atrás
 
 ## III. What Kyle Carried Into the Descent
 
-Kyle miró el Acorazado mientras descendían.
+El transporte se sacudió al entrar en la sombra del casco, la luz natural de Saturno cortándose de golpe, reemplazada por el resplandor verdoso y enfermo que emanaba de la piel misma de la nave. Kyle miró el Acorazado mientras descendían.
 
 Pensó en la Bóveda — habían llegado sin saber exactamente qué encontrarían. Pensó en la Cripta — habían llegado a enfrentar algo específico pero sin entender completamente su escala.
 
@@ -60,6 +62,8 @@ Kyle no sabía todavía qué responderle a esa idea.
 
 Pero por primera vez no entraban a sobrevivir un argumento ajeno. Entraban a discutirlo — con la intención que Joe acababa de nombrar, ganada en semanas de pelear separados y aprender, sin verse, que el otro iba a estar exactamente donde tenía que estar. No era todavía una respuesta. Era, por fin, la disposición a presentarse a la pregunta en vez de esperar a que la pregunta los encontrara.
 
+El transporte se acopló con un golpe metálico seco que resonó por todo el casco, seguido del siseo de la escotilla igualando presión. Los seis se pusieron de pie a la vez, sin necesitar coordinarlo, el peso de la armadura y el arma ya asentado en el cuerpo de cada uno.
+
 Entraron.
 
 ---
@@ -68,3 +72,5 @@ Entraron.
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/07_Always_Eager_To_Die]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/02_The_Ones_Who_Stayed]], [[00_Biblia/KingsFall_HerenciaOculta]]*
 
 *Nota narrativa: Capítulo 26 del libro (Capítulo 1 de Part 03), "The Ship That Believed It Was a God", adapta completo `Guardian_Equipo_KingsFall_01_LaEntrada`, casi verbatim. Único añadido real: el párrafo de apertura, que ancla la transición directa desde el cierre del Cap. 25 (el instante exacto en que la escuadra cruza el umbral mientras Oryx se queda solo con Savathûn ya idos) y un párrafo en la Sección II que conecta explícitamente la intención de Joe con su origen real en el desgaste fragmentado del Frente 2 de Guerra de los Poseídos — ya presente como nota de viñeta en la fuente, aquí llevado a la prosa del capítulo. Abre Part 03 — The Kingslayer.*
+
+*Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`, capítulo citado explícitamente en la auditoría por la regla 01):* añadido el transporte de descenso como espacio físico propio (vibración de los motores, la luz interior reducida, los seis ya armados), el crecimiento del Acorazado en la ventana durante la aproximación (tragándose las estrellas, después Saturno), el corte de luz al entrar en la sombra del casco, y el acople físico al final (golpe metálico, siseo de presión, los seis de pie a la vez) — antes el capítulo saltaba directo de la reflexión filosófica a "Entraron." sin ningún momento físico de llegada. Codex lo señaló como umbral defendible por su brevedad; se mantiene corto a propósito (no es la incursión real, es el tránsito hacia ella) pero ya no es enteramente abstracto. Ningún diálogo ni hecho de canon se modificó.*
