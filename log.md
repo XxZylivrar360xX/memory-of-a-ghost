@@ -3390,3 +3390,13 @@ Codex confirmó la percepción del autor con evidencia medida: los capítulos de
 ## [2026-08-09] decisión de proceso | Craft Policies — quién ejecuta las expansiones de staging_rules
 
 El autor preguntó quién decide y ejecuta las expansiones de prosa que salgan de `staging_rules/`: Claude Code o Codex vía incubadora. Respuesta fijada en `12_Craft_Policies/README.md`, sección "Auditorías de Codex": la división ya establecida del proyecto aplica sin cambios — Codex detecta y cataloga (Editorial de Postproducción), Claude Code ejecuta la prosa (peso dramático). El rol de incubadora de Codex es para ideas narrativas nuevas sin desarrollar, no para pulir escenas que ya son canon y ya pasaron auditoría de continuidad — un hallazgo confirmado de `staging_rules/` no es una idea a incubar.
+
+## [2026-08-09] expansión completa | Part 02 — The Taken War, staging_rules aplicado a los 7 capítulos
+
+Primera ejecución real de las reglas de `staging_rules/` sobre prosa de Book 02, capítulo por capítulo, a petición del autor — arrancando por Part 02 (no el Prólogo, que ya era la referencia de alta densidad).
+
+**Caps. 19-22, expandidos de verdad:** cada uno ganó anclaje físico concreto al abrir sus secciones (sala de mando de la Torre, sala de análisis de Elsie, Cosmódromo, Arrecife, asentamientos sin nombre, la cabaña, la Celda Sin Sol, la cámara de Ecthar, el taller de Eris — ninguno tenía descripción física propia antes), beats de acción durante combates que antes se resolvían en una sola frase de resumen (el eco de Crota en el Cap. 20, Alak-Hul y Ecthar en el Cap. 22), y frases puente entre secciones reemplazando el corte seco del `---`. El Cap. 22 fue el más trabajado — es el que la auditoría de Codex citó explícitamente por ambas reglas.
+
+**Caps. 23-25, toque ligero o ninguno:** ya calibrados por diseño. El Cap. 23 (Mundo Trono) y el Cap. 24 (Plano Ascendente) tratan sus escenarios como espacios deliberadamente sin física normal — la excepción explícita de la regla 01, no un vacío a llenar; solo se ancló El Faro en el Cap. 23, el único espacio "normal" del capítulo. El Cap. 25 (Oryx/Savathûn) ya sostenía la escena entera en gesto físico y no necesitó cambios.
+
+Ningún diálogo ni hecho de canon se modificó en ningún capítulo — la expansión es enteramente de escenografía, acción física y transición, con nota de calibración al pie de cada archivo tocado. `00_Book_Map.md` actualizado con el resumen del pase. **Con esto, Part 02 queda completa en las tres capas de verificación de Book 02: continuidad/filosofía, calibración de voz, y ahora escenografía.**
