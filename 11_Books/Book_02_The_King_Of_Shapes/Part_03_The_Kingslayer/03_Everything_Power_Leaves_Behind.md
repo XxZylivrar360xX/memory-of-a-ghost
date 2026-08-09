@@ -10,6 +10,8 @@
 
 Con Carina de regreso en la Torre y el Santuario en silencio detrás de ellos, el equipo avanzó hacia la siguiente cámara — la primera de las tres que ella no iba a ver por dentro.
 
+La Celda de Infinito se abrió ante ellos como un pozo invertido: paredes que se curvaban hacia adentro y hacia arriba, perdiéndose en una oscuridad sin techo visible, el suelo cubierto de una capa fina de ceniza que crujía bajo cada paso. Y en el centro, encadenado a la arquitectura misma de la cámara por grilletes del tamaño de un Guardian entero, Golgoroth — una masa de carne y hueso Colmena mucho más grande que cualquier cosa que hubieran enfrentado hasta ahora, la piel agrietada en placas que supuraban una luz apagada, los ojos —demasiados, distribuidos sin simetría por el cráneo deforme— ya fijándose en ellos desde el momento en que cruzaron el umbral.
+
 Golgoroth no tenía filosofía.
 
 Tenía hambre.
@@ -48,11 +50,17 @@ En los diez segundos pensó en Golgoroth — en lo que era, en lo que representa
 
 —Rotación —dijo Angie.
 
-Kyle cedió la mirada. El siguiente la tomó.
+Kyle cedió la mirada, dando dos pasos atrás mientras el peso de la atención se soltaba de golpe, dejándolo momentáneamente sin aire. Tiago ocupó su lugar sin vacilar, el cuerpo entero tensándose en el instante en que los ojos deformes de Golgoroth giraron hacia él.
+
+La segunda rotación costó más. Golgoroth rugió cuando el daño empezó a acumularse en serio, un sonido que vibró en el pecho de todos antes de llegar a los oídos, y el suelo de ceniza tembló bajo el impacto de un brazo descomunal buscando aplastar a quien estuviera más cerca. Kevin rodó fuera del alcance por centímetros, la risa nerviosa que soltó al ponerse de pie de nuevo la única señal de lo cerca que había estado.
+
+Angie tomó la mirada en la tercera rotación, la voz todavía firme al contar el tiempo para sí misma en susurros mientras el resto golpeaba desde los flancos, el aire cargado de polvo y ceniza removida por cada impacto.
+
+—Rotación —dijo, cediendo a su vez, la voz un poco más tensa que antes.
 
 ## III. What Kevin Leaves Instead
 
-Golgoroth cayó en la cuarta rotación.
+Golgoroth cayó en la cuarta rotación, el cuerpo entero colapsando hacia adelante contra sus propias cadenas con un estruendo que hizo temblar la ceniza suspendida en el aire de toda la cámara.
 
 No ante una fuerza superior — ante coordinación, ante la decisión repetida de que uno absorbiera para que los demás pudieran actuar, ante el principio exactamente opuesto al que Golgoroth encarnaba.
 
@@ -78,3 +86,5 @@ La segunda grieta tomó forma.
 *Conecta con: [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/02_The_Ones_Who_Stayed]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/04_The_King_Who_Needed_Heirs]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_Memorial_01_Kevin]], [[00_Biblia/KingsFall_HerenciaOculta]]*
 
 *Nota narrativa: Capítulo 28 del libro (Capítulo 3 de Part 03), "Everything Power Leaves Behind", adapta completo `Guardian_Equipo_KingsFall_04_Golgoroth`, casi verbatim. Único añadido real: el párrafo de apertura, que marca que Carina ya no está presente —regla dura de `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, ella no participa en Golgoroth, las Hijas ni Oryx.*
+
+*Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`, capítulo citado explícitamente por ambas reglas — el más corto de Part 03 en la medición de Codex, ~0.7k palabras):* añadida la Celda de Infinito como espacio físico (paredes curvadas sin techo visible, ceniza en el suelo) y a Golgoroth mismo una descripción física real (tamaño, placas agrietadas, ojos múltiples sin simetría) — antes el monstruo central del capítulo no tenía ni una línea de descripción visual. La secuencia de rotaciones, antes resuelta en un salto directo de "Kyle aguantó... Rotación" a "Golgoroth cayó en la cuarta rotación", ganó las rotaciones 2 y 3 con beats corporales concretos (el rugido, el suelo temblando, Kevin esquivando por centímetros, el polvo en el aire) — aplicando directamente la regla 02. Ningún diálogo ni hecho de canon se modificó.*
