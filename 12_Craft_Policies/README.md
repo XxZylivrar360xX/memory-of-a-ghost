@@ -173,6 +173,7 @@ heredados, en observación.
 | Lena | `original_renewed_fate` | [voice/lena.md](voice/lena.md) — médica de campo; lee por síntoma físico y patrón observado |
 | Mara Sov | `canon_directo` | [voice/mara-sov.md](voice/mara-sov.md) — Arquitecta y Deudora; convierte amor en estrategia |
 | Oryx | `canon_directo` | [voice/oryx.md](voice/oryx.md) — Rey, Navegante y Padre; siempre busca una respuesta |
+| Osiris | `canon_readaptado` | [voice/osiris.md](voice/osiris.md) — mente que busca más allá del borde; respuestas como forma de cuidado y riesgo |
 | Petra Venj | `canon_directo` | [voice/petra-venj.md](voice/petra-venj.md) — Responsabilidad operativa; lidera mirando dos veces antes de ordenar |
 | Primera Escuadra | `original_renewed_fate` | [voice/primera-escuadra.md](voice/primera-escuadra.md) — gramática colectiva de "nadie vuelve solo" como práctica, no lema |
 | Resner | `original_renewed_fate` | [voice/resner.md](voice/resner.md) — disciplina silenciosa; la posición correcta como voz |
