@@ -53,13 +53,13 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** una carta reescrita "mil veces" pidiéndole a Carina compartir su camino, y un
   anillo dentro de una cajita de terciopelo — Lena nunca llegó a entregarla.
 - **Se revela en:** Carina encuentra, abre y lee la carta completa, y ve el anillo, en
-  Cap. 34 (*What They Found in Exile*) — el "primer golpe": lee la nota, abre la cajita,
+  Cap. 35 (*What They Found in Exile*) — el "primer golpe": lee la nota, abre la cajita,
   formula internamente "Me eligió a mí para esto", pero no responde. Cierra la cajita, guarda
   ambas cosas, y se las lleva sin decírselo a nadie. La respuesta real (ponerse el anillo,
   decir en voz alta "quiero compartir tu camino") ocurre muchos libros después, en
   `05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta` (ver
   `02_Characters/Lena.md`).
-- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 34 — ya leyó el contenido completo
+- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 35 — ya leyó el contenido completo
   dentro de este libro; lo que no ha hecho todavía es responder.
 - **Quién NO debe saberlo/insinuarlo todavía:** nadie más del elenco sabe que la caja existe
   hasta que Carina decida compartirlo (no ocurre dentro de Book 02).
@@ -68,7 +68,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Líneas o gestos prohibidos antes del reveal:** Carina no puede ponerse el anillo ni
   confirmar su respuesta en voz alta ("quiero compartir tu camino") en ningún capítulo de
   este libro ni de los libros intermedios antes de Post Final Shape. Citar o parafrasear el
-  contenido de la carta sí está permitido a partir del Cap. 34 — ya ocurrió en prosa ahí.
+  contenido de la carta sí está permitido a partir del Cap. 35 — ya ocurrió en prosa ahí.
 - **Estado:** parcial — encontrada y leída, no respondida.
 
 ---
@@ -97,7 +97,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** los apodos que Kyle y Carina se dan mutuamente, nacidos de Stormcaller (Cap.
   15) y de la puntería exacta de Carina (Cap. 14).
 - **Se revela en:** sembrados en Caps. 14-15, consolidados y pagados como cierre emocional
-  en Caps. 27 y 32.
+  en Caps. 29 y 34.
 - **Quién ya lo sabe:** Kyle y Carina, desde que se los dan.
 - **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban
   ignorar, es una revelación que se paga por completo dentro del mismo libro.
@@ -160,19 +160,20 @@ vault, sección "Pendiente real de Book 02").
   matar/terminar/derrotar definitivamente) — no incluía contrastar `Oryx.md` ni este capítulo
   contra la biblia de personaje nueva, porque el encargo se escribió antes de que esa biblia
   y `voice/oryx.md` existieran en el vault. Codex sí encontró, por su cuenta, un hallazgo
-  adyacente (severidad media): Cap. 31/33 (numeración vigente tras la expansión de King's Fall
-  del 2026-08-10 — Cap. 30/32 al momento de la auditoría) usa "Oryx estaba muerto, de verdad"
+  adyacente (severidad media): Cap. 32 (numeración vigente tras la expansión de King's Fall y
+  la integración de la escena puente de Part 02, ambas del 2026-08-10 — Cap. 30 al momento de
+  la auditoría original, 2026-08-09) usa "Oryx estaba muerto, de verdad"
   — demasiado definitivo, sugiere suavizarlo a "había caído en su propio Mundo Trono" o
   similar. Ese hallazgo ataca el mismo síntoma desde el ángulo de redacción, pero no resuelve
   la tensión de fondo (el cierre de `Oryx.md` y la falta de un beat de aceptación digna en
-  Cap. 31). La auditoría de punta a punta ya corrió; este hallazgo específico sigue sin
+  Cap. 32). La auditoría de punta a punta ya corrió; este hallazgo específico sigue sin
   auditar.
 - **Estado:** **resuelto (2026-08-09).** Codex respondió en
   `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-final-oryx.md` confirmando la redención
-  velada en `Oryx.md` (severidad alta) y un gesto de aceptación faltante en Cap. 31 (antes
-  Cap. 30 — severidad media). Aplicado con autorización del autor: `Oryx.md` — "The Collapse
+  velada en `Oryx.md` (severidad alta) y un gesto de aceptación faltante en Cap. 32 (antes
+  Cap. 31, y antes de eso Cap. 30 — severidad media). Aplicado con autorización del autor: `Oryx.md` — "The Collapse
   of the Sword Logic" y "Final Tragedy" reescritas para que la derrota sea epistemológica, no
-  moral; Cap. 31 —
+  moral; Cap. 32 —
   párrafo del grito ampliado con un gesto de medición/reconocimiento antes del sonido, sin
   diálogo nuevo (opción preferida por Codex y por el autor). El título del capítulo
   ("The Weight of a Wrong Answer") se mantiene sin cambios — Codex lo recomendó así una vez
