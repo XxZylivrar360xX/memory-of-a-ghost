@@ -1,6 +1,6 @@
 # Plan — Adaptación de Katabasis (canon Presage) al horizonte Carina/Savathûn
 
-*Adaptación del lore canónico de Destiny recogido en `99_Reference/md_canon_lore/Katabasis_Contexto_Canonico_Destiny.md` (misión Presage, Temporada de los Elegidos). Cero prosa. Complementa `09_Roadmaps/Plan_Carina_Savathun_Horizonte.md` (Etapa 3, mecanismo de la Noche Eterna) y `07_Unsorted_Ideas/Semillas_2026-07-29.md` #1. El nombre en Book 02 usa la grafía "Catabasis" (ya en prosa, Cap. 6); este documento usa "Katabasis" solo al citar el canon original.*
+*Adaptación del lore canónico de Destiny recogido en `99_Reference/md_canon_lore/Katabasis_Contexto_Canonico_Destiny.md` (misión Presage, Temporada de los Elegidos). Cero prosa. Complementa `09_Roadmaps/Plan_Carina_Savathun_Horizonte.md` (Etapa 3, mecanismo de la Noche Eterna; **Etapa 0, sumada 2026-08-09**, el Dredgen deudor que Catabasis lleva al Refugio) y `07_Unsorted_Ideas/Semillas_2026-07-29.md` #1. El nombre en Book 02 usa la grafía "Catabasis" (ya en prosa, Cap. 6); este documento usa "Katabasis" solo al citar el canon original.*
 
 ---
 
@@ -34,7 +34,9 @@ Katabasis pasa años operando fuera de la jurisdicción de la Ciudad — cacerí
 
 Esto explica, sin necesitar más mecanismo, **cómo existen las grabaciones que Kyle y Carina encuentran en la futura misión del Glikon**: no son vigilancia, ni espionaje — son los registros privados y compulsivos de un hombre que documenta todo porque ya no confía en su propia memoria (coherente con su rasgo canon: *"se pregunta si un Guardian realmente vuelve siendo la misma persona después de cada resurrección"*).
 
-**Pendiente de decidir:** ¿Lena sabía que hablaba con un Cazador, o él nunca reveló qué era? ¿Cuántas veces se cruzan? ¿Hay algo que Lena le dice a él que después, indirectamente, vuelve a Carina — un eco de "El asesinato de Roger Ackroyd", del mismo modo en que ese libro ya se sembró como método de lectura de Carina en el Cap. 5?
+**Resuelto en parte (2026-08-09, idea del autor) — al menos un cruce concreto queda fijado, dentro de ese mismo tramo de exilio y antes de que Carina llegue al Refugio (Lena ya lleva su clínica cuatro años sostenida sola para entonces, ver `02_Characters/Lena.md`):** Catabasis lleva herido a la clínica a otro Dredgen sin Luz — un antiguo Portalúz, ya mortal, que arrastra su propia manía silenciosa sobre una deuda que no puede pagar (un hueso de Ahamkara nunca devuelto tras un trato que le salvó la vida — ver `09_Roadmaps/Plan_Carina_Savathun_Horizonte.md`, Etapa 0). Lena lo trata sin entender lo que está viendo — solo anota, en su cuaderno de cuentas, un hombre que desvaría sobre algo que le debe a alguien. Ese mismo Dredgen es, años después, el que Savathûn posee para matarla — el trato del hueso finalmente cobrándose, disfrazado dentro de la corrupción que Oryx trae consigo sin saberlo. Catabasis no está presente esa noche (eso sigue sin cambios, ver "Orden cronológico resultante" abajo) — su parte ya terminó años antes, sin saber lo que había sembrado al llevarlo ahí. Nombre del Dredgen: pendiente, no es Vale (ver nota de continuidad en `Plan_Carina_Savathun_Horizonte.md`, Etapa 0).
+
+**Pendiente de decidir:** ¿Lena sabía que Catabasis era un Cazador, o él nunca reveló qué era? ¿Cuántas veces se cruzan Catabasis y Lena, más allá de este episodio? ¿Hay algo que Lena le dice a él que después, indirectamente, vuelve a Carina — un eco de "El asesinato de Roger Ackroyd", del mismo modo en que ese libro ya se sembró como método de lectura de Carina en el Cap. 5? ¿Catabasis llega a notar, en el momento, la manía del otro Dredgen por los Ahamkara, o solo lo recuerda como "otro roto más" hasta mucho después?
 
 ---
 
@@ -56,11 +58,11 @@ Esto explica, sin necesitar más mecanismo, **cómo existen las grabaciones que 
 ## Orden cronológico resultante (dentro de este vault)
 
 1. **Twilight Gap** (mucho antes de Age I) — Katabasis pierde a Gilgamesh en el caos, sobrevive huyendo, nunca se perdona.
-2. **Años de exilio de frontera** (entre Twilight Gap y House of Wolves) — cacerías, contrabando, trabajos aislados. En algún punto de esta ventana, cruza con Lena en el Refugio del Muelle, posiblemente más de una vez.
+2. **Años de exilio de frontera** (entre Twilight Gap y House of Wolves) — cacerías, contrabando, trabajos aislados. En algún punto de esta ventana, cruza con Lena en el Refugio del Muelle, posiblemente más de una vez. **En algún momento dentro de esta misma ventana (fijado 2026-08-09):** lleva herido a la clínica al Dredgen deudor — el mismo que años después mata a Lena (ver `Plan_Carina_Savathun_Horizonte.md`, Etapa 0). Catabasis no lo vuelve a ver después de esto; no tiene forma de saber, en su momento, qué va a hacer ese hombre.
 3. **Reclutamiento por Calus** — se convierte en una de las Sombras del Emperador, en algún momento antes de House of Wolves, Año 2.
 4. **House of Wolves, Año 2 (Book 02, Cap. 6)** — un Legionario de Calus lo busca sin descripción exacta, confunde a Carina con él, siembra el misterio.
 5. **Taken King (Age II)** — Lena muere. Katabasis no está cerca cuando ocurre, y tarda en enterarse.
-6. **Red War (Age V), a petición del autor (2026-08-02)** — para entonces ya se enteró, por una vía todavía sin fijar (rumor, un contacto viejo de contrabando, un registro que cruza sin querer). Deja un collar con una Vara de Asclepio en el memorial de Lena en el Refugio del Muelle, sin revelarse — nadie en el Refugio sabe quién lo dejó, ni siquiera Carina, que lo ve ahí durante su propia visita sin Luz (`08_Core_Relationships/Carina_Lena.md`, Etapa 7; `09_Roadmaps/Plan_RedWar_Carina.md`, Movimiento 2). El símbolo médico, no militar, es deliberado — lo único que puede ofrecerle a una sanadora que nunca llegó a conocer del todo.
+6. **Red War (Age V), a petición del autor (2026-08-02)** — para entonces ya se enteró, probablemente reconociendo al Dredgen deudor en algún reporte o rumor sobre el ataque al Refugio (la vía exacta sigue sin fijar del todo, pero ahora tiene un candidato natural: el propio hombre que él trató). Deja un collar con una Vara de Asclepio en el memorial de Lena en el Refugio del Muelle, sin revelarse — nadie en el Refugio sabe quién lo dejó, ni siquiera Carina, que lo ve ahí durante su propia visita sin Luz (`08_Core_Relationships/Carina_Lena.md`, Etapa 7; `09_Roadmaps/Plan_RedWar_Carina.md`, Movimiento 2). El símbolo médico, no militar, es deliberado — lo único que puede ofrecerle a una sanadora que nunca llegó a conocer del todo.
 7. **En algún punto posterior** (sin fecha fijada — probablemente cerca de la ventana real de *Presage*, Temporada de los Elegidos, más adelante en la cronología del vault) — la expedición de la Glykon Volatus, la comunión de Calus, la tragedia completa del canon.
 8. **La misión del Glikon** (Kyle + Carina, fecha todavía sin fijar, ver `Plan_Carina_Savathun_Horizonte.md`) — encuentran los restos, el arma, y las grabaciones con la voz de Lena. Si el pago se calibra bien, este es también el momento en que Carina puede llegar a atar el collar sin nombre del memorial a Catabasis, años después de haberlo visto.
 
@@ -68,12 +70,13 @@ Esto explica, sin necesitar más mecanismo, **cómo existen las grabaciones que 
 
 ## Pendientes reales
 
-1. Decidir cuántas veces Katabasis y Lena se cruzan, y qué tan bien se conocían — determina cuánto duele lo que Carina escuche después.
+1. Decidir cuántas veces Katabasis y Lena se cruzan, y qué tan bien se conocían — determina cuánto duele lo que Carina escuche después. **Parcialmente resuelto (2026-08-09):** al menos un cruce queda fijado — Catabasis lleva al Dredgen deudor herido a la clínica, antes de Carina. Falta decidir si hay más encuentros directos entre Catabasis y Lena, más allá de ese episodio.
 2. Decidir si Lena sabía que era un Guardian/Cazador, o si él ocultó incluso eso.
 3. Fijar una fecha aproximada para la tragedia de la Glykon dentro de la cronología del vault (probablemente cerca de la temporada real, pero eso implica varias eras después de Witch Queen — revisar contra `01_Timeline/`).
 4. Confirmar el nombre en español de Dead Man's Tale si el vault ya tradujo otras armas exóticas, o dejarlo en inglés como el resto de nombres de armas ya usados (La Última Palabra sí se tradujo; revisar consistencia).
 5. Decidir si el nombre correcto a usar en prosa de aquí en adelante es "Catabasis" (ya en Cap. 6) o si se corrige a "Katabasis" (grafía oficial) — recomendación: mantener "Catabasis" en este vault, ya está en prosa publicada, y la nota de origen del canon puede documentar la diferencia sin que afecte el texto.
-6. **Nuevo (2026-08-02):** decidir por qué vía se entera Katabasis de la muerte de Lena antes de Red War — sin esto, el collar en el memorial no tiene causa. Y decidir si Carina llega a atar ese collar a Catabasis en algún punto (la misión del Glikon es el candidato natural) o si queda como misterio nunca resuelto ni para ella ni para el lector.
+6. **Actualizado (2026-08-09):** la vía por la que Katabasis se entera antes de Red War ya tiene candidato natural — reconoce al Dredgen deudor (que él mismo llevó a curar) en algún relato del ataque al Refugio. Falta decidir el detalle exacto (¿un reporte de la Vanguardia? ¿un rumor de los mismos círculos de contrabando?). Sigue pendiente si Carina llega a atar ese collar a Catabasis en algún punto (la misión del Glikon es el candidato natural) o si queda como misterio nunca resuelto ni para ella ni para el lector.
+7. **Nuevo (2026-08-09):** nombre de trabajo para el Dredgen deudor, y cuánto llega a saber Catabasis de su manía por los Ahamkara en el momento de curarlo (¿la nota como rareza sin más, o algo en ella ya le inquieta?).
 
 ---
 

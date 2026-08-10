@@ -70,6 +70,18 @@ van en `revelations/Book_XX_Titulo.md`.
 
 ---
 
+## La deuda que nadie vio (verdadero origen de la muerte de Lena)
+
+- **Qué es:** el Dredgen que mata a Lena en Taken King (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`, ya publicado) no fue poseído por Oryx —fue Savathûn, cobrando una deuda vieja de un trato con hueso de Ahamkara nunca pagado, usando la corrupción Taken que se filtra con la llegada del Rey como cobertura. Motivo: mover en paralelo dos piezas de largo plazo — el patrón de duelo de Carina que la lleva a Escuadra Cero, y (vía la caída del puesto de Vesta, `02_Characters/Riven.md`) la herida que Oryx se lleva de Riven y que Forsaken cobra en la corrupción de Uldren y la muerte de Cayde. Diseño completo en [[09_Roadmaps/Plan_Carina_Savathun_Horizonte]] (Etapa 0) y [[09_Roadmaps/Plan_Katabasis_Adaptacion]] (la escena previa del Dredgen herido, curado por Lena antes de Carina).
+- **Se revela en:** Book 08, Labyrinth of Lies (Witch Queen) — misma escena de nombramiento de la Etapa 4 (Cap. 27/28, capítulo exacto sin fijar), como segundo golpe después del nombramiento de Malok.
+- **Quién ya lo sabe (desde cuándo):** Savathûn siempre. Nadie más del elenco.
+- **Quién NO debe saberlo/insinuarlo todavía:** Carina no debe sospechar, en ninguna escena anterior a Witch Queen, que la muerte de Lena fue algo distinto de "corrupción Taken genérica que llegó con Oryx" — incluye todas las escenas ya publicadas de `Dialogue_Carina/` y Book 02, que se mantienen exactamente como están. Kyle tampoco debe conectar la caída de Vesta con nada más que la ofensiva de Oryx.
+- **Foreshadowing ya sembrado:** ninguno todavía en prosa — la mania del Dredgen sobre un hueso/deuda, si se escribe la escena previa con Catabasis y Lena (`Plan_Katabasis_Adaptacion.md`), sería el primer sembrado real.
+- **Líneas o gestos prohibidos antes del reveal:** cualquier personaje —incluida Carina— nombrando a Savathûn en relación con la muerte de Lena antes de Witch Queen; cualquier escena que explique la caída de Vesta como algo más que mala suerte táctica.
+- **Estado:** sembrado (diseño fijado en el roadmap, cero prosa).
+
+---
+
 ## The Lord of Every Nothing (antagonista coda post-Final Shape)
 
 - **Qué es:** la vacante del trono que Kyle rechazó tras el Final Shape; los Poseídos sin

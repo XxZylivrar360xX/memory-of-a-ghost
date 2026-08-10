@@ -1,6 +1,6 @@
 # Plan — Horizonte de némesis Carina/Savathûn
 
-*Roadmap consolidado. Reúne y triage tres notas dispersas nunca cerradas del todo con el autor: `99_Reference/Agent_Notes/codex/2026-07-18_incubadora-carina-savathun-malok.md` (las cinco etapas originales), `99_Reference/Agent_Notes/codex/2026-07-18_auditoria-witchqueen-carina-savathun.md` (viabilidad de Witch Queen) y `07_Unsorted_Ideas/Semillas_2026-07-29.md` #1 (Catabasis, sembrada en Book 02 Cap. 6). Triado con el autor el 2026-07-29. Las notas de origen quedan marcadas `consolidado aquí`, no se borran.*
+*Roadmap consolidado. Reúne y triage tres notas dispersas nunca cerradas del todo con el autor: `99_Reference/Agent_Notes/codex/2026-07-18_incubadora-carina-savathun-malok.md` (las cinco etapas originales), `99_Reference/Agent_Notes/codex/2026-07-18_auditoria-witchqueen-carina-savathun.md` (viabilidad de Witch Queen) y `07_Unsorted_Ideas/Semillas_2026-07-29.md` #1 (Catabasis, sembrada en Book 02 Cap. 6). Triado con el autor el 2026-07-29. Las notas de origen quedan marcadas `consolidado aquí`, no se borran. **Etapa 0 sumada el 2026-08-09** (idea del autor): la verdad retroactiva detrás de la muerte de Lena — complementa `09_Roadmaps/Plan_Katabasis_Adaptacion.md` (la escena previa del Dredgen deudor) y `02_Characters/Riven.md` (la caída de Vesta, sin tocar ese archivo).*
 
 ---
 
@@ -13,6 +13,34 @@ La rivalidad no es fuerza contra fuerza. Es **manipulación contra intimidad**.
 - Savathûn sobrevive volviéndose incomprensible. Carina sobrevive dejando que alguien la comprenda, aunque eso la vuelva vulnerable.
 
 El filo de Savathûn contra Carina: *"tú también sobrevives contando versiones convenientes de la verdad; la diferencia es que todavía finges que lo haces por amor."*
+
+---
+
+## Etapa 0 — Taken King: La deuda que nadie vio (verdad retroactiva, revelada en Witch Queen)
+
+**Estado: conceptual, idea del autor (2026-08-09). Cero prosa — esta etapa reescribe la causa de una muerte ya publicada sin tocar ni una línea de la prosa existente.**
+
+Oryx nunca poseyó al Dredgen que mató a Lena. Nunca supo que el Refugio del Muelle existió — eso **sigue siendo literalmente cierto** después de esta etapa, y no se toca (ver "Lo que esto NO toca", abajo). La corrupción Taken que se filtra con la llegada del Rey (`02_Characters/Lena.md`, "La muerte") es real y es la cobertura perfecta: le da a Savathûn, que comparte con su hermano el poder de Tomar, la ventana exacta para cobrar una deuda vieja sin que Oryx intervenga ni se entere. Un rey entero empujando su peso contra la realidad es ruido de sobra para esconder un solo trato cobrándose en silencio.
+
+**El trato original (mucho antes de Taken King):** el Dredgen que mata a Lena fue, alguna vez, un Portalúz. Perdió su Luz — el cómo queda pendiente de diseño — y en el momento de morir hizo un trato con un hueso de Ahamkara: un deseo, a cambio de sobrevivir. Sobrevivió. Nunca devolvió el hueso. Lo escondió en un castillo viejo en las montañas del norte — nombre de trabajo **Warlords Ruin**, sin desarrollar todavía como locación propia del vault — y pasó años ahí, cada vez más hundido en una manía silenciosa sobre lo que le debía a algo que ya no podía nombrar en voz alta.
+
+**El cruce con Catabasis y Lena, antes de Carina:** en algún punto de esos mismos años, ya errante, el Dredgen cruza camino con Catabasis (ver `09_Roadmaps/Plan_Katabasis_Adaptacion.md`, sección "La conexión con Lena" — desarrollo completo de esta escena ahí, no aquí). Catabasis lo lleva herido al Refugio del Muelle — sin Luz, es mortal, puede sangrar como cualquiera — y Lena lo trata sin juzgarlo, igual que trata a todo el mundo. No sabe qué está viendo. Solo anota, en su cuaderno de cuentas, un hombre que desvaría sobre una deuda que no puede pagar.
+
+**Por qué lo hace — la doble inversión de largo plazo:** Savathûn no cobra la deuda por rencor ni por hambre inmediata. La cobra porque necesita dos piezas en movimiento, mucho antes de que ninguna de las dos personas involucradas sepa que está siendo movida:
+1. **Carina.** La muerte de Lena es lo que empuja a Carina a moverse antes de dejar que algo eche raíz — el mismo patrón que, años después, la lleva a Kyle y a Escuadra Cero (ver `08_Core_Relationships/Carina_Lena.md`, Etapa 4 — sin tocar, esa lectura del duelo sigue intacta y sigue siendo la versión que Carina misma vive; esto solo cambia la causa detrás de la mano que apretó el gatillo, no lo que la pérdida significó).
+2. **Kyle, vía Riven.** En paralelo, Savathûn facilita —sin que Oryx lo sepa, sin que sea un trato consciente de su parte— la caída del puesto de Vesta que le abre a Oryx el único vector de aproximación a la Atalaya (`02_Characters/Riven.md`, sección "Relationship with Oryx" — esa página queda intacta, "fijada" por el autor; esta etapa solo propone una causa no revelada para algo que esa página ya deja sin explicar). La herida que Oryx se lleva de Riven ahí es la semilla de la corrupción de Uldren que Forsaken termina de cobrar — la muerte de Cayde, incluida.
+
+Ninguna de las dos cosas hace "más débil" a nadie en el momento. Al contrario: es cálculo de siglos. Savathûn necesita a Kyle y a Carina completos, forjados por pérdida real, para cuando llegue Final Shape y necesite que ambos puedan pararse a su lado sin romperse (Etapa 5, abajo). Oryx fue el vehículo y la excusa perfecta para mover ambas piezas a la vez, en la misma semana, sin ensuciarse las manos con ninguna.
+
+**El pago — Witch Queen (Book 08, Labyrinth of Lies), en la misma escena de nombramiento de la Etapa 4:**
+
+> Savathûn: "Oh, Carina querida... si yo no hubiera poseído a aquel Dredgen esa fatídica y dramática noche, me pregunto si nos hubiéramos siquiera conocido." *(ríe, maléfica)*
+
+**Nota técnica:** no hace falta Quria ni ningún intermediario Vex. Savathûn ya comparte con Oryx la capacidad de Tomar por derecho propio — el mecanismo es enteramente suyo.
+
+**Pendiente real, esta etapa completa:** nombre de trabajo para el Dredgen (**no es Vale** — personaje completamente distinto, ver nota abajo); diseño de la escena Catabasis/Lena/Dredgen (vive en `Plan_Katabasis_Adaptacion.md`); mecanismo concreto de cómo Savathûn facilita la caída de Vesta sin dejar rastro que Petra o Mara puedan detectar después; decidir si el propio Kyle o Carina llegan a atar estas dos cosas entre sí en algún momento, o si el lector es el único que arma el patrón completo.
+
+**Nota de continuidad (no confundir):** existe ya, sin resolver, un Guardian-sin-nombre de trabajo "Vale" (`02_Characters/El_Guardian_Sin_Nombre.md`) que también deriva hacia el camino Dredgen — historia distinta, entra al círculo de confianza de Kyle en Age I y lo traiciona filtrando inteligencia. El Dredgen de esta etapa no tiene nombre todavía y es una persona distinta; el autor decidirá su nombre cuando le llegue la inspiración, igual que con Vale.
 
 ---
 
@@ -87,10 +115,12 @@ Primer encuentro directo entre Carina y Savathûn, en persona — cae después d
 > Carina: "Y volvería a hacerlo."
 > Savathûn: "No lo dudo. Esa es la parte que me gusta de ti."
 
+**Segundo golpe, en la misma escena (Etapa 0, sumada 2026-08-09):** justo cuando Carina cree haber sostenido el primer golpe, Savathûn suelta la línea sobre Lena — ver Etapa 0 arriba para el mecanismo completo. El orden importa: el nombramiento de Malok es el golpe que Carina esperaba poder recibir; el de Lena es el que la desarma, porque nunca supo que había algo ahí que recibir.
+
 **Orden de triage por capítulo (Age X, ya con arquitectura previa en `01_Timeline/Age_X_The_Scarlet_Revelation.md`):**
 1. **Cap. 26, The Throne World** — reencuadrar `01_TheArrival` y `02_TheInvestigation`: Carina detecta que el Mundo Trono no es solo fortaleza, es autobiografía armada. `03_TheGhosts` se mantiene Kyle/Ghost, intocable. En paralelo, Kyle empieza a sentir que algo en la Pirámide lo observa — siembra Vow sin desplazar el eje de Carina.
 2. **Cap. 27, The Betrayal Beneath Betrayal** — `04_Communion` y `06_TheCunning` reencuadrables; `05_TheMirror` se mantiene Kyle/Oryx intocable, pero gana una escena hermana o bloque paralelo para Carina/Lena/Malok.
-3. **Cap. 28, The Altar of Reflection** — reencuadrar `07_TheLastChance` y `08_TheRitual`: Carina llega al nombramiento directo de Savathûn y queda con una deuda emocional incompleta cuando el Testigo interviene.
+3. **Cap. 28, The Altar of Reflection** — reencuadrar `07_TheLastChance` y `08_TheRitual`: Carina llega al nombramiento directo de Savathûn (Malok, y ahora también Lena — Etapa 0) y queda con una deuda emocional incompleta cuando el Testigo interviene.
 4. **Vow of the Disciple** — no se toca. `ElUmbral` y `ElDiscipulo` siguen siendo Kyle-céntricos; Rhulk responde a él, no a Carina.
 
 **Enlaces pendientes sin resolver:** `Guardian_Savathun_WitchQueen_LaVerdad` y `Guardian_Ghost_WitchQueen_LaCrisis`, citados en `Age_X_The_Scarlet_Revelation.md` pero no localizados como archivos — decidir si son escenas nuevas, nombres antiguos, o reemplazos de las ya numeradas, antes de escribir el Cap. 26.
@@ -119,6 +149,9 @@ Si Savathûn participa en la coalición contra el Testigo, Carina debe aceptar c
 - Savathûn como antagonista compleja — nunca villana plana, nunca reducida a manipuladora sin motivación propia.
 - Que Carina "supere" a Lena — nunca. Solo deja de llegar tarde una vez (Malok), y rechaza un sustituto una vez (Noche Eterna). El duelo no se resuelve, se sigue cargando.
 - `The_Lord_of_Every_Nothing` y su coda post-Final Shape, exclusivamente Kyle-céntrica.
+- **(Etapa 0)** "Oryx nunca supo que el Refugio del Muelle existió" — sigue siendo cierto al pie de la letra. La corrupción que se filtra con su llegada es la cobertura de Savathûn, no una acción suya.
+- **(Etapa 0)** La escena ya publicada de la muerte de Lena (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`) — ni una línea se toca. Esta etapa cambia la causa detrás de la posesión, nunca lo que Carina vivió, vio o hizo esa mañana.
+- **(Etapa 0)** `02_Characters/Riven.md`, sección "Relationship with Oryx" — ya "fijada" por el autor. Esta etapa no la reescribe; solo propone, en un documento aparte, una causa no revelada para la caída de Vesta que esa página ya deja sin explicar.
 
 ---
 
@@ -129,6 +162,10 @@ Si Savathûn participa en la coalición contra el Testigo, Carina debe aceptar c
 3. Confirmar los dos enlaces pendientes de Witch Queen antes de tocar el Cap. 26.
 4. Decidir si la misión del Glikon (pago de Catabasis, `Semillas_2026-07-29.md`) ocurre *antes* de la Noche Eterna (Carina ya sospecha algo de Catabasis cuando lo ve reflejado en la simulación) o *después* (la Noche Eterna sucede primero, y el Glikon es lo que finalmente explica de dónde salió la información real que la simulación tenía). Recomendación: **después** — mantiene la Noche Eterna como un horror sin explicación por más tiempo, y el Glikon se vuelve la resolución retrospectiva de dos misterios a la vez, no solo uno.
 5. Actualizar `02_Characters/Savathun.md` y `02_Characters/Carina.md` con referencias cruzadas a este roadmap, una vez que la primera escena de la Etapa 3 o 4 se escriba (regla de Codex: personajes se actualizan después del triage de escenas, no antes).
+6. **(Etapa 0, nuevo)** Nombre de trabajo para el Dredgen deudor — pendiente de inspiración del autor, igual que Vale.
+7. **(Etapa 0, nuevo)** Diseñar la escena Catabasis/Lena/Dredgen previa a Carina — vive en `Plan_Katabasis_Adaptacion.md`, sección "La conexión con Lena".
+8. **(Etapa 0, nuevo)** Fijar el mecanismo concreto de cómo Savathûn facilita la caída de Vesta sin que Petra, Mara o el propio Oryx puedan rastrearla después.
+9. ~~(Etapa 0, nuevo) Registrar esta revelación en `12_Craft_Policies/revelations/SAGA_LEVEL.md`~~ — **hecho (2026-08-09)**, entrada "La deuda que nadie vio" ya en el ledger de nivel saga. Actualizar el "Se revela en" ahí una vez que el capítulo exacto de Witch Queen se fije.
 
 ---
 

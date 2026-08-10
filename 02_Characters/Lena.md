@@ -42,6 +42,8 @@ El mismo día que Oryx llega al sistema (Taken King, Age II) — un Dredgen sin 
 
 La muerte es deliberadamente anticlimática: un disparo limpio, sin dolor, sin ninguna despedida. Ver [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]].
 
+*Nota de continuidad (2026-08-09, spoiler de diseño — no debe informar ninguna escena anterior a Witch Queen): la causa real detrás de la posesión no es Oryx. Ver [[09_Roadmaps/Plan_Carina_Savathun_Horizonte]], Etapa 0 — revelación reservada para Book 08. Nada de la escena de la muerte, ni de este resumen, cambia.*
+
 ## Lo que dejó
 
 El cuaderno de cuentas, con su última entrada sin terminar — una revisión médica prometida a un niño que ya nunca va a hacer. Los instrumentos finos de su oficio, dejados para quien tome la clínica después. La taza de té que usaba para servirle a Carina sin preguntar, que Carina no puede tocar durante años — dejada exactamente donde estaba.
