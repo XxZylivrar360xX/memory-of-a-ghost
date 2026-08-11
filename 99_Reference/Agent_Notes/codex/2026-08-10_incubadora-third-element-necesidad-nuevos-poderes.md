@@ -43,6 +43,29 @@ VI. **Llamado de la Luz/el Viajero, sin exposicion.** La escena puede sugerir qu
 
 VII. **Pago en Eirene.** En Eirene, los nuevos despertares deben ayudar solo lo suficiente para que la derrota sea mas cruel: hacen mejor las cosas, entienden mas rapido, salvan algunos margenes, y aun asi la escala de Oryx los rebasa. Eso refuerza la tesis: no era incompetencia, era escala.
 
+**Escena ejecutable para "Chispitas" — propuesta de Victor (2026-08-10):**
+
+Referencia visual: mapa de Crisol de Destiny 1 **Vigilancia Ciega / Blind Watch**, en Bahia Meridiana, Marte. Ubicacion: techo de un rascacielos abandonado. Visibilidad media por neblina arenosa. Luz brillante rojiza, sombras marcadas, zonas de poca luz y luces de azotea parpadeando.
+
+Funcion: mover el nacimiento de "Chispitas" de una tormenta generica a una escena con lugar, fracaso, humor y aprendizaje. Kyle no obtiene Stormcaller porque "la tormenta lo toca"; lo obtiene porque intenta alcanzar/controlar el Arco de forma incorrecta, falla de manera pequena y visible, y Carina le da la correccion exacta desde su experiencia con Bladedancer.
+
+Orden de movimientos sugerido para Claude Code:
+
+1. Despues de la escala en Freehold/Jardin Negro, Kyle y Carina terminan en la azotea abandonada de Vigilancia Ciega. La ubicacion sirve como punto alto para revisar lecturas, calibrar `Aspect of Glass`, mirar tormentas/anomalias o esperar una ventana de despegue hacia Eirene.
+2. El entorno reacciona antes que Kyle: nubes cercanas cargadas, luces de la azotea parpadeando, antenas muertas vibrando, neblina rojiza iluminada por electricidad lejana. El lugar debe sentirse marciano y tactico, no romantizado.
+3. Kyle intenta invocar Arco como si fuera Solar/Vacio: extendiendo la mano, buscando tomar el poder, forzando una respuesta. El resultado es minimo y anticlimatico: un par de chispas pequenas en los dedos, suficiente para que las luces cercanas tartamudeen y para que Ghost se alarme un poco, pero no una Super.
+4. Kyle lo intenta una segunda vez. Vuelve a fallar: mas chispitas, quizas un olor a ozono, nada heroico. Carina se rie disimuladamente, no para burlarse cruelmente, sino porque ve a alguien tratando una tormenta como si fuera una cerradura.
+5. Carina le corrige el enfoque: que no intente alcanzar el poder de Arco; que deje que ocurra al reves. No se trata de sujetar la tormenta, sino de dejar que fluya por la Luz del Viajero sin interponer todo su control encima. Debe sonar a Carina: practica, seca, con humor, no como maestra espiritual.
+6. Kyle prueba de nuevo. Esta vez no empuja. Respira, abre margen, deja pasar. Las nubes reaccionan de verdad, las luces de la azotea se apagan y vuelven, la energia lo atraviesa sin destruirlo. Ahi nace Stormtrance/Stormcaller en estado crudo: no dominio total, sino primer contacto real.
+7. Carina remata con "Chispitas" precisamente porque vio los dos intentos pateticos antes del logro. El apodo nace con peso y ligereza a la vez: nombra el fracaso pequeno que abrio la puerta al poder enorme. Kyle puede protestar; ella debe dejar claro que el nombre sobrevive porque el momento lo merece.
+
+Notas de ejecucion:
+
+- Mantener **Stormtrance**, no Chaos Reach.
+- Evitar que Carina parezca saber teoria de Arco mejor que un Arcstrider por exposicion. Ella habla desde Bladedancer: no controlar tanto como dejar pasar por el cuerpo sin romperse.
+- El humor no debe trivializar el despertar. La risa disimulada funciona porque humaniza el fracaso; el logro posterior debe sentirse fisico y peligroso.
+- Este beat puede pagar mejor el apodo "Chispitas" que la version actual, porque el nombre ya no describe solamente electricidad: describe el primer intento torpe de Kyle antes de aprender a dejar de forzar.
+
 **Estado:** incubando.
 
 **Severidad editorial:** media-alta. No rompe canon, pero explica una friccion de causalidad importante: por que Marte ocurre, por que esos poderes despiertan justo ahi, y por que `The Third Element` pertenece a la columna de la guerra y no solo al sistema de apodos.
