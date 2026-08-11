@@ -29,6 +29,23 @@ cambia su lenguaje corporal según con quién habla.)
 (Con quién comparte más escenas y en qué se diferencia su voz de la de esa persona, para
 que las dos no se vuelvan intercambiables en un diálogo rápido.)
 
+## Bajo presión (opcional)
+(Solo completar con evidencia real de 2+ escenas ya escritas — no inventar. Dejar fuera
+la subsección entera, o las líneas sueltas que no tengan evidencia, antes que rellenar
+por simetría con otras fichas. Usada por `dialogue-vitalizer` para decidir cómo cambia
+el habla del personaje en momentos de fricción, no solo en calma.)
+- **Enfadado:** (qué cambia en su forma de hablar — no qué siente)
+- **Asustado:** (qué cambia)
+- **Herido:** (qué cambia)
+- **Afectuoso:** (cómo expresa afecto — qué hace en vez de decir)
+- **Avergonzado:** (cómo intenta ocultarlo)
+- **Mintiendo:** (qué cambia en su lenguaje o comportamiento — si es detectable)
+- **Relación con el silencio:** (cuándo lo llena y cuándo lo permite)
+- **Arma conversacional preferida:** (sarcasmo, autoridad, precisión, silencio,
+  preguntas, provocación, intelectualización, humor, amenaza, literalidad — la que de
+  verdad usa, no una lista completa)
+- **Evasión típica:** (cómo evita responder algo que no quiere responder)
+
 ## Ejemplos: línea real buena vs. línea genérica a evitar
 - ✅ "..." (de qué escena)
 - ❌ "..." (por qué es genérica — qué patrón de `dialogue_rules/` repite)

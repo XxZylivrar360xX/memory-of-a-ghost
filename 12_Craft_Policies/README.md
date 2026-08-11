@@ -84,6 +84,21 @@ En caso de conflicto:
 4. Si un beat quedó sin anclar espacialmente, sin acción física o sin transición, y ese
    vacío se repite dos veces o más — documentarlo como regla nueva en `staging_rules/`.
 
+## Dialogue Vitalizer — editor de segunda pasada (2026-08-10)
+
+Herramienta operativa que consume este mecanismo en vez de duplicarlo: agente
+`.claude/agents/dialogue-vitalizer.md` + Skill `.claude/skills/dialogue-vitalization/`.
+Revisa diálogo ya escrito (nunca redacta prosa nueva) para eliminar líneas
+intercambiables entre personajes, hedging editorial dejado en el manuscrito ("A o B",
+"[alternative]") y patrones típicos de escritura de IA (exposición disfrazada,
+lenguaje terapéutico, simetría de turnos). Lee `voice/`, `dialogue_rules/`,
+`staging_rules/`, `revelations/` y `milestones/` en ese orden de precedencia antes de
+tocar una línea; nunca sustituye a este mecanismo, solo lo aplica. Dos modos: `audit`
+(solo diagnóstico, no escribe archivos) y `vitalize` (entrega versión reescrita como
+texto; edita el archivo original solo si se pide explícitamente). Invocar con
+`Agent(subagent_type: "dialogue-vitalizer")` o pidiendo "audita/vitaliza el diálogo de
+[escena]".
+
 ## Auditorías de Codex — integración directa autorizada
 
 Codex es el auditor natural de este mecanismo: continuidad y patrones son su rol ya fijado
