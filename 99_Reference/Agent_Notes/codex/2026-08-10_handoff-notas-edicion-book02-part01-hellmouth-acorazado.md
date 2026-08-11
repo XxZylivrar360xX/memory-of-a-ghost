@@ -83,6 +83,20 @@ status: abierto
 
 **Valor editorial:** esto resolveria tres fricciones a la vez: llena el vacio del Cap. 14, prepara Eirene antes de que Petra/Vesta lo nombre en Cap. 16, y refuerza que Oryx no actua como monstruo reactivo sino como rey que ya esta ordenando el tablero.
 
+## Paquete C2 — Elsie / adelanto emocional antes de tiempo
+
+**Nota de Victor 9:** hay un momento donde la prosa enuncia que Elsie se preocupa por "el hombre que ama" o equivalente. Eso adelanta demasiado la trama romantica.
+
+**Anclaje actual:** `Part_01_Price_of_Vengeance/05_The_Dreadnaught_Key.md`, linea 455. La formulacion exacta encontrada es: "la persona que ella amaba". No aparece como dialogo de otro personaje ni como lectura externa; aparece en narracion pegada a la percepcion de Elsie mientras toca la carcasa herida de Ghost.
+
+**Por qué importa:** Book 02 debe estar todavia en etapa de Observacion/Confianza temprana para Kyle/Elsie. El vault ya protege que Kyle no pueda nombrar todavia lo que siente, y que Elsie no cruce a una autoconciencia romantica limpia en esta ventana. Esta frase rompe esa reserva porque convierte el subtexto en certeza narratorial desde Elsie.
+
+**Recomendación:** reemplazar la idea por cuidado, miedo o valor reconocido sin nombrar amor romantico. El beat que debe sobrevivir es: Elsie entiende que Ghost se interpuso entre el disparo y Kyle, y que esa herida es una cicatriz ganada protegiendolo. Lo que debe retirarse es la etiqueta "amaba". Alternativas de direccion, no prosa final: "alguien a quien ya no sabia mirar como variable de campo", "la persona que se habia vuelto demasiado importante para medir en frio", "Kyle", o simplemente "el Guardian" si se quiere mantener distancia.
+
+**Severidad:** media-alta.
+
+**¿Canon bloqueado?:** no bloquea estructura, pero si bloquea la calibracion emocional fina de la relacion Kyle/Elsie en Book 02.
+
 ## Paquete D — repeticion de dialogos
 
 **Nota de Victor 6:** variar lineas repetidas casi identicas: "Gracias", "Aun no me las des", "No se explicarlo".
