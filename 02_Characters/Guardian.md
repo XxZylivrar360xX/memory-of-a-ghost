@@ -257,6 +257,8 @@ Sino porque acepta partes de sí mismo que otros rechazan.
 
 Kyle es Hechicero — la clase diseñada para sostener a otros. Las primeras semanas no lo sabe. No hay "clase predilecta" todavía, solo instinto: combate cuerpo a cuerpo, agresión cruda, la reacción de un cuerpo que no confía en nada todavía (ver "La Primera Resurrección" — instinto puro de supervivencia en la Biblioteca Ishtar). La ironía fundacional: nace en la clase que cura y protege, y tarda años en descubrir que esa opción existe.
 
+También es Hechicero en el sentido más peligroso y más útil de la palabra: quiere entender cómo funciona el mundo en el que vive. No colecciona teoría por vanidad; observa, prueba, compara, vuelve a mirar cuando una regla no encaja. Esa curiosidad lo acerca, incómodamente, al eco de Oryx como Navegante — alguien que explora leyes ontológicas hasta encontrar una ruta. La diferencia es la dirección moral: Oryx comprende para someter y demostrar; Kyle comprende para orientar una decisión sin perder humanidad.
+
 **Voidwalker (Vacío) — la subclase de casa.** Nova Bomb encaja con la agresión inicial: burst, no control. Es lo que usa cuando todavía no tiene nada que proteger más que a sí mismo.
 
 **Stormcaller (Arco) — Taken King.** Después de Crota, cuando la venganza de Oryx lo obliga por primera vez a cargar consecuencias sobre otros y no solo sobre sí mismo, Stormtrance es poder sin filtro — no elegido con calma, descargado. Se convierte, literalmente, en la tormenta; no dirige el poder, lo padece.

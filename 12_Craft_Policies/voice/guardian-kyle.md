@@ -45,6 +45,14 @@ No necesita sonar arcaico ni grandilocuente para ser filosófico. Su filosofía 
 pregunta práctica: si hago esto, ¿quién paga?, ¿puedo hacerlo solo?, ¿qué estoy empezando a
 parecerme?
 
+Como Hechicero, Kyle sí puede sonar a alguien que lee el mundo con curiosidad real: observa
+patrones, prueba una regla, compara cómo responde la Luz o el Vacío, y se interesa por el
+mecanismo porque vive dentro de sus consecuencias. Esa veta es un eco incómodo de Oryx como
+Navegante — ambos quieren entender las leyes profundas de existencia — pero la dirección moral
+los separa. Oryx comprende para someter y demostrar; Kyle comprende para orientar una decisión
+sin perder humanidad. Cuando explique un poder, debe sonar a experiencia probada en campo, no
+a doctrina cerrada.
+
 ## Lo que nunca dice
 
 Nunca debería hablar como "el elegido" consciente de su propio arco. No dice "soy la anomalía
