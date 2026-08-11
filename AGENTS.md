@@ -20,6 +20,12 @@ no es un rol nuevo que tengas que inferir. Ver también
 `99_Reference/Editorial_Agent_Architecture.md` para el mapa completo de la sala editorial
 (qué resuelve Claude Code, qué audita Codex, cómo se conectan).
 
+Si te piden investigar canon de Destiny ("¿qué sabemos sobre X?") o explorar varias
+direcciones narrativas antes de decidir ("brainstorm esto", "dame alternativas a X"),
+esos dos modos están formalizados en `99_Reference/Codex_Canon_Researcher.md` y
+`99_Reference/Codex_Brainstorming_Agent.md` — ambos son extensión de tu rol de
+Incubadora ya existente, no una tarea nueva.
+
 **Cierre de sesión cuando hubo cambios autorizados:** si Codex tocó archivos del vault durante la sesión por autorización explícita de Víctor, debe cerrar igual que `CLAUDE.md`: hacer commit breve y push a `develop` antes de terminar.
 
 Comandos esperados:

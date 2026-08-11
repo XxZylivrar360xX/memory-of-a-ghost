@@ -128,6 +128,12 @@ ese dominio.
 ### 4.1 Idea nueva
 
 Ya documentado completo en `Development_Workflow.md` § Secuencia — no se duplica aquí.
+Para preguntas de canon de Destiny o que requieren explorar varias direcciones antes de
+decidir, esta etapa se apoya en dos roles de Codex, formalizados 2026-08-10:
+`Codex_Canon_Researcher.md` (¿qué sabemos?) y `Codex_Brainstorming_Agent.md` (¿qué
+podríamos hacer?) — ambos anteceden a esta arquitectura editorial, no forman parte de
+ella: la sala editorial (este documento) transforma y audita prosa ya escrita; esos dos
+roles exploran antes de que exista prosa.
 
 ### 4.2 Escena nueva
 
@@ -303,4 +309,4 @@ momento.
 
 ---
 
-*Conecta con: [[AGENTS.md]], [[99_Reference/Development_Workflow]], [[99_Reference/Codex_Brief]], [[99_Reference/Agent_Notes/README]], [[12_Craft_Policies/README]]*
+*Conecta con: [[AGENTS.md]], [[99_Reference/Development_Workflow]], [[99_Reference/Codex_Brief]], [[99_Reference/Agent_Notes/README]], [[12_Craft_Policies/README]], [[99_Reference/Codex_Canon_Researcher]], [[99_Reference/Codex_Brainstorming_Agent]]*

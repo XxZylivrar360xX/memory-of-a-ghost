@@ -171,6 +171,33 @@ Esqueleto de nota de incubadora (reemplaza al de auditoría en estas notas):
 
 Si la escala es **evento**, el `Cimiento propuesto` debe incluir un **Orden sugerido de movimientos** (lista numerada/romana de los beats que la pieza recorre, con fricciones y decisiones ya resueltas por movimiento) — así Claude Code redacta en su propia sesión sin tener que diseñar la estructura en vivo. La nota de hoy sobre la primera noche de Kyle/Elizabeth (`2026-07-12_incubadora-primera-noche-kyle-elizabeth.md`) es el ejemplo de referencia del nivel de detalle esperado.
 
+### Formalización del rol (2026-08-10) — Canon Researcher y Brainstorming Agent
+
+El esqueleto simple de arriba (`Idea / Anclajes / Fricciones / Cimiento propuesto /
+Estado`) sigue siendo el formato por defecto para ideas de escena única. Para dos
+situaciones específicas existe ahora un procedimiento más riguroso, documentado aparte
+por tamaño:
+
+- **La pregunta depende de canon de Destiny externo** ("¿qué sabemos realmente sobre
+  X?") → `99_Reference/Codex_Canon_Researcher.md`. Disciplina de evidencia obligatoria
+  (`CONFIRMED / STRONGLY IMPLIED / PLAUSIBLE INFERENCE / COMMUNITY-FAN INTERPRETATION /
+  UNKNOWN / RENEWED FATE ONLY`) — nunca mezclar canon de Bungie con interpretación ni
+  con lo que ya decidió Renewed Fate. Modos: investigación de personaje/lugar/
+  facción/concepto, `canon gap analysis`, `compare canon vs renewed fate`, `verify canon
+  basis [archivo]`.
+- **La pregunta necesita explorar varias direcciones narrativas antes de decidir**
+  ("brainstorm esto", "dame alternativas a X", "¿qué pasa si hacemos X?") →
+  `99_Reference/Codex_Brainstorming_Agent.md`. Única fase del pipeline donde mostrar
+  alternativas es correcto — 3 a 5 direcciones realmente distintas, cada una con Destiny
+  Test, Canon Pressure, consecuencias y coste. Nunca canoniza ninguna opción.
+
+Orden recomendado cuando ambas aplican: **Canon Research → Gap Analysis → Brainstorming
+→ nota de incubadora (esqueleto de arriba) → triage de Víctor.** El resultado final,
+sea cual sea el camino, sigue viviendo en `99_Reference/Agent_Notes/codex/` con el mismo
+frontmatter y el mismo flujo de triage — estos dos documentos no crean una carpeta ni un
+flujo nuevo, solo un procedimiento interno más estricto para preguntas Destiny-heavy o
+genuinamente multi-opción.
+
 ---
 
 ## Cómo entregar hallazgos
@@ -185,4 +212,4 @@ Claude Code revisa esa carpeta, decide qué aplicar, y cierra el hilo marcando `
 
 ---
 
-*Conecta con: [[99_Reference/Development_Workflow]], [[99_Reference/Agent_Notes/README]], [[99_Reference/Editorial_Agent_Architecture]] (mapa de agentes/modos, 2026-08-10), [[99_Reference/ChatGPT_Editor_Brief]] (brief original, deprecado)*
+*Conecta con: [[99_Reference/Development_Workflow]], [[99_Reference/Agent_Notes/README]], [[99_Reference/Editorial_Agent_Architecture]] (mapa de agentes/modos, 2026-08-10), [[99_Reference/Codex_Canon_Researcher]], [[99_Reference/Codex_Brainstorming_Agent]], [[99_Reference/ChatGPT_Editor_Brief]] (brief original, deprecado)*
