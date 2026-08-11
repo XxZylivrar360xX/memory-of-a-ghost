@@ -92,6 +92,7 @@ Notas de ejecucion:
 - Evitar Estasis: detenerse no significa congelar ni imponer quietud absoluta; significa crear el silencio necesario para comprender antes de soltar.
 - La frase de Kyle debe respetar `12_Craft_Policies/voice/guardian-kyle.md`: no cerrar como ensayo universal si puede cerrar como decision concreta. La idea puede ser profunda, pero debe salir de una necesidad de campo.
 - Este momento debe reforzar `02_Characters/Carina.md`: "Shadowshot no es solo control de area: es la misma habilidad que usa para encontrar que conecta a las personas, aplicada al espacio de batalla."
+- Matiz de Kyle fijado por Victor: debe dar vibra de Hechicero que lee e investiga como funciona el mundo en el que vive. Su explicacion del Vacío no sale de autoridad academica ni de superioridad sobre Carina, sino de curiosidad practicada: observa, prueba, compara, se interesa por las reglas del universo porque vive dentro de ellas. Esto es ironicamente un eco de Oryx como Navegante/explorador de leyes ontologicas, pero no una equivalencia moral. Oryx comprende para someter y demostrar; Kyle comprende para orientar una decision sin perder humanidad.
 
 **Estado:** incubando.
 
