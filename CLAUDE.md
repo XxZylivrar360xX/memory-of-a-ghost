@@ -127,6 +127,16 @@ Ver `11_Books/README.md`.
 reveló o pagó; documentar como regla nueva cualquier patrón de diálogo o de puesta en escena
 (beats vacíos, sin acción física, sin transición) repetido 2+ veces.
 
+**Después de un borrador, si algo se siente genérico:** hay especialistas de segunda pasada
+en `.claude/agents/` — `dialogue-vitalizer` (diálogo intercambiable/hedging),
+`scene-doctor` (¿la escena cambia algo?), `subtext-editor` (narración+diálogo dicen lo
+mismo), `prose-degenericizer` (narración con muletillas de IA). Mapa completo, cuándo usar
+cada uno y por qué **no** son compuerta obligatoria (son *symptom-driven*, no automáticos)
+en `99_Reference/Editorial_Agent_Architecture.md`. Si una pregunta necesita anclarse en
+canon real de Destiny o explorar varias direcciones antes de decidir, esos dos modos viven
+en Codex (`99_Reference/Codex_Canon_Researcher.md`, `99_Reference/Codex_Brainstorming_Agent.md`)
+— pedírselo a Codex, o aplicar la misma disciplina de evidencia si no está disponible.
+
 ## EPUB Build (`11_Books/`)
 
 Cada vez que se escribe o edita un capítulo dentro de `11_Books/` — al cerrar la sesión, o al terminar/tocar un capítulo — correr:
