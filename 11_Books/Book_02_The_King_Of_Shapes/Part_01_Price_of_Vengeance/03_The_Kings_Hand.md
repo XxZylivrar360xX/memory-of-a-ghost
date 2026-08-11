@@ -402,7 +402,7 @@ Esa última imagen de Lena era exclusivamente suya.
 
 Pasó un tiempo que nadie midió antes de que alguien se acercara por detrás.
 
-Hornet no necesitó leer ningún ángulo para saber que ese silencio no se parecía a ninguno de los que llevaba años vigilando junto a Carina. No había amenaza escondida en los bordes de la habitación, ningún patrón roto que corregir con una advertencia a tiempo. Solo un peso que él no sabía cómo aliviar, y la misma economía de siempre pidiéndole que no gastara palabras en algo que no pudiera cargar de verdad.
+Hornet no necesitó leer ningún ángulo para saber que ese silencio no se parecía a ninguno de los que había aprendido a vigilar junto a Carina. No había amenaza escondida en los bordes de la habitación, ningún patrón roto que corregir con una advertencia a tiempo. Solo un peso que él no sabía cómo aliviar, y la misma economía de siempre pidiéndole que no gastara palabras en algo que no pudiera cargar de verdad.
 
 Había, además, algo que Hornet no iba a nombrar esa tarde ni ninguna otra: la clínica también había sido, en su propia medida, un lugar suyo. Lena era la única persona del Refugio que le hablaba a él directamente, sin pasar primero por Carina —un buenas tardes que no pedía nada a cambio, una pregunta sobre el clima que no escondía otra pregunta detrás—, la misma cortesía exacta que ella regalaba a todo el mundo, y que Hornet, sin decírselo nunca a nadie, había llegado a esperar. Ese duelo también era suyo. Lo sintió completo, en el mismo instante en que lo sintió Carina, con el mismo peso exacto. Y decidió, sin necesitar decidirlo del todo, que el suyo podía esperar. El de ella, no.
 

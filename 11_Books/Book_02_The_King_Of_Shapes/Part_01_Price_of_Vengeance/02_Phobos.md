@@ -124,7 +124,7 @@ No abandonado — vacío de una forma distinta, más precisa. Las luces seguían
 
 No era la respuesta de Ghost. Kyle lo conocía lo suficiente para saber que Ghost no decía "nada" cuando encontraba algo — lo decía cuando encontraba algo y decidía, en ese instante, que todavía no sabía cómo nombrarlo.
 
-Kyle avanzó con el arma en alto, no porque esperara un blanco inmediato sino porque el instinto llevaba años entrenado para no confiar en espacios que se sentían así de quietos.
+Kyle avanzó con el arma en alto, no porque esperara un blanco inmediato sino porque el instinto ya había aprendido a no confiar en espacios que se sentían así de quietos.
 
 Encontró el primer indicio en la tercera cámara: una armadura Cabal, vacía, doblada sobre sí misma de una forma que ningún cuerpo vivo o muerto podía doblarse — como si algo hubiera extraído lo que la llenaba sin necesitar romper el contenedor.
 

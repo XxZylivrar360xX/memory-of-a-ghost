@@ -104,7 +104,7 @@ El rito de las Hijas no terminó pronto.
 
 Kyle esperó todo lo que pudo permitirse esperar. Nadie le dijo cuánto tiempo era ese. No había ninguna cuenta regresiva parpadeando en la voz de Ghost, ningún dispositivo fallando para decidir por él el momento exacto en que la espera dejaba de ser prudencia y empezaba a ser indecisión. Tenía que decidirlo solo, con lo que veía: el patrón de las Hijas sin señal de terminar, la misma patrulla de Custodios pasando dos veces ya por el mismo punto, la certeza incómoda de que cuanto más tiempo se quedara parado ahí, más probable era que algo —una Colmena, el propio Hellmouth, algo sin nombre todavía— terminara notándolo de todas formas.
 
-Nadie iba a tomar esa decisión por él. Eris no estaba. Cayde no estaba. Ni siquiera Ghost, que llevaba años dándole opiniones que sonaban a órdenes solo porque Kyle había aprendido a escucharlas así, tenía una respuesta lista esta vez.
+Nadie iba a tomar esa decisión por él. Eris no estaba. Cayde no estaba. Ni siquiera Ghost, que llevaba desde el primer día dándole opiniones que sonaban a órdenes solo porque Kyle había aprendido a escucharlas así, tenía una respuesta lista esta vez.
 
 —No podemos esperar a que terminen —dijo, al fin.
 
@@ -296,7 +296,7 @@ El Guardian se giró, el arma a medio alzar por puro reflejo, y se detuvo cuando
 
 —Esa es Ultima Palabra.
 
-Ella no pareció sorprendida de que la reconociera. Su mirada bajó, apenas un segundo, hacia el arma que Kyle llevaba al costado — un cañón pesado, la superficie marcada por años de uso que ningún acabado de fábrica lograba disimular.
+Ella no pareció sorprendida de que la reconociera. Su mirada bajó, apenas un segundo, hacia el arma que Kyle llevaba al costado — un cañón pesado, la superficie marcada por meses de uso brutal que ningún acabado de fábrica lograba disimular.
 
 —Y ese es el Predestinador. —Algo cruzó su expresión, rápido, casi divertido pese al momento—. El sistema es más pequeño de lo que pensaba.
 
@@ -346,7 +346,7 @@ Subieron. Los dos Ogros seguían abajo, las miradas de vacío deshaciendo piedra
 
 —A la izquierda —dijo ella—, y agáchense en tres, dos—
 
-Un grupo de Acólitos apareció desde un recodo que ninguno de los dos Guardianes había visto. Ella los desarmó antes de que Kyle terminara de procesar la amenaza — no con fuerza bruta, sino con la clase de precisión quirúrgica de alguien que había pasado años aprendiendo exactamente dónde golpear para que el resto del problema se resolviera solo.
+Un grupo de Acólitos apareció desde un recodo que ninguno de los dos Guardianes había visto. Ella los desarmó antes de que Kyle terminara de procesar la amenaza — no con fuerza bruta, sino con la clase de precisión quirúrgica de alguien que había convertido cada patrulla solitaria en una lección sobre dónde golpear para que el resto del problema se resolviera solo.
 
 —Impresionante —dijo Ghost, sin poder evitarlo.
 

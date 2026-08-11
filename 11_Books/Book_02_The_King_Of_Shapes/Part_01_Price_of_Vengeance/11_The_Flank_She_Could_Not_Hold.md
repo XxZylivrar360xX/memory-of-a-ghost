@@ -12,7 +12,7 @@
 
 Elsie llegó al hangar con la misma urgencia contenida de siempre — no corriendo, nunca corriendo, pero tampoco caminando con la calma que fingía cuando alguien más miraba.
 
-Kyle estaba de pie, hablando con una Cazadora que Elsie no reconocía. Cabello oscuro, recogido sin ninguna ceremonia. Piel morena. Un ángulo divertido instalado de forma permanente en el rincón de los ojos que no tenía nada que ver con el humor real del momento — la clase de cara que sugería años enteros de práctica en hacer exactamente esto, y disfrutarlo, incluso con el equipo todavía sucio de lo que fuera que acababan de sobrevivir juntos. Algo en la forma en que los dos se paraban —ni cerca ni lejos, la distancia exacta de dos personas que acababan de aprender a confiar la vida al otro sin haber aprendido todavía a confiar el resto— le dijo más que cualquier informe.
+Kyle estaba de pie, hablando con una Cazadora que Elsie no reconocía. Cabello oscuro, recogido sin ninguna ceremonia. Piel morena. Un ángulo divertido instalado de forma permanente en el rincón de los ojos que no tenía nada que ver con el humor real del momento — la clase de cara que sugería demasiada práctica reciente en hacer exactamente esto, y disfrutarlo, incluso con el equipo todavía sucio de lo que fuera que acababan de sobrevivir juntos. Algo en la forma en que los dos se paraban —ni cerca ni lejos, la distancia exacta de dos personas que acababan de aprender a confiar la vida al otro sin haber aprendido todavía a confiar el resto— le dijo más que cualquier informe.
 
 —Elsie.
 
@@ -76,7 +76,7 @@ No preguntó lo obvio. No hacía falta — Carina reconocía esa forma de parars
 
 Kyle no dijo nada, pero tampoco apartó la mirada.
 
-Carina asintió — y por un instante algo cruzó su expresión que todavía no tenía nombre: la certeza silenciosa de haber visto, en un hombre que ni siquiera se había mirado a sí mismo, algo que le iba a tomar años más admitir en voz alta.
+Carina asintió — y por un instante algo cruzó su expresión que todavía no tenía nombre: la certeza silenciosa de haber visto, en un hombre que ni siquiera se había mirado a sí mismo, algo que le iba a tomar mucho más admitir en voz alta.
 
 —Entonces me alegra haber ayudado a que volviera —dijo, en lugar de decir lo que había visto.
 
@@ -102,7 +102,7 @@ Lo que Elsie no dijo, ni a Kyle ni a Carina, en ese hangar iluminado por las luc
 
 No lo mencionó. No era el momento, y una parte de ella —la parte que llevaba toda la vida decidiendo qué guardarse y qué compartir— ya había decidido que ese precio le pertenecía solo a ella, al menos por ahora.
 
-Pero esa noche, sola en su campamento, con el fuego pequeño ardiendo cerca de la entrada como siempre, Elsie sintió, por un instante que no controló del todo, el peso de una vida que no era la suya asomándose desde algún borde de su propia memoria — una Elsie que nunca llegó a Age II, una Elsie que perdió a Kyle en algún invierno que la Elsie real nunca vivió, pidiendo, sin voz propia, que alguien la escuchara aunque fuera solo un segundo.
+Pero esa noche, sola en su campamento, con el fuego pequeño ardiendo cerca de la entrada como siempre, Elsie sintió, por un instante que no controló del todo, el peso de una vida que no era la suya asomándose desde algún borde de su propia memoria — una Elsie que nunca llegó a ver esta guerra, una Elsie que perdió a Kyle en algún invierno que la Elsie real nunca vivió, pidiendo, sin voz propia, que alguien la escuchara aunque fuera solo un segundo.
 
 Cerró los ojos.
 

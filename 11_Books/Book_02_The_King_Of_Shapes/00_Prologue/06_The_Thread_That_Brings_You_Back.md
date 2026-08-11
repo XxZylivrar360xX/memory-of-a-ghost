@@ -84,7 +84,7 @@ Atacó en la misma frase.
 
 ## III. What the Axe Found
 
-No hubo tiempo para el giro, para el abanico, para ninguna de las coreografías que Carina llevaba años puliendo hasta volverlas instinto. Apenas hubo tiempo de ver el hacha completar el arco antes de que se hundiera, limpia y entera, justo en el centro del pecho — el sol de Osiris, las alas cosidas a ambos lados, todo el diseño partido en dos con el mismo sonido seco con el que se parte una rama gruesa.
+No hubo tiempo para el giro, para el abanico, para ninguna de las coreografías que Carina había pulido a fuerza de patrullas y rondas hasta volverlas instinto. Apenas hubo tiempo de ver el hacha completar el arco antes de que se hundiera, limpia y entera, justo en el centro del pecho — el sol de Osiris, las alas cosidas a ambos lados, todo el diseño partido en dos con el mismo sonido seco con el que se parte una rama gruesa.
 
 Cayó. El mundo se volvió blanco por un momento y después rojo, el mismo rojo del suelo marciano, solo que más caliente.
 

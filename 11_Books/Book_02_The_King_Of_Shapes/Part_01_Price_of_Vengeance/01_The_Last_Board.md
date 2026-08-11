@@ -34,7 +34,7 @@ Kyle sonrió y se llevó la mano al cinturón, donde tres engramas colgaban suje
 
 —Necesitaba que alguien les echara un vistazo antes de que los vuelva a usar.
 
-Banshee se quedó quieto un momento, la mirada recorriendo los tres engramas con algo que no era exactamente sorpresa — más parecido al reconocimiento lento de alguien que llevaba suficientes años decodificando cosas para saber, de un vistazo, cuáles no iban a resultar en nada de catálogo.
+Banshee se quedó quieto un momento, la mirada recorriendo los tres engramas con algo que no era exactamente sorpresa — más parecido al reconocimiento lento de alguien que había decodificado suficientes rarezas para saber, de un vistazo, cuáles no iban a resultar en nada de catálogo.
 
 Tomó el primer engrama púrpura y lo hizo girar entre los dedos hasta que la estructura cedió, descomponiéndose en luz y después en peso real — un cañón de mano de líneas angulares, casi cristalinas, el metal grabado con una geometría que no terminaba de repetirse nunca del mismo modo dos veces.
 
@@ -180,7 +180,7 @@ Ghost no dijo nada al respecto. Ninguno de los dos lo mencionó otra vez en todo
 
 ## V. Elsie's Opinion
 
-La cabaña se alzaba al fondo del claro con la misma solidez tosca que tenía desde Age I — troncos oscurecidos por los años, el techo a dos aguas cubierto de musgo en el lado que nunca veía el sol de la tarde, la chimenea de piedra que Kyle nunca había tenido que tocar porque alguien, mucho antes que él, la había construido para durar más que cualquiera de sus dueños. Las ventanas, angostas y bajas, dejaban pasar la luz de esa hora en franjas doradas que caían justo sobre el porche recién terminado — madera clara, todavía sin curtir, una cicatriz reciente que aún no había aprendido a confundirse con el resto de la piel de la casa.
+La cabaña se alzaba al fondo del claro con la misma solidez tosca que tenía desde que Kyle la encontró en sus primeros meses como Guardián — troncos oscurecidos por el clima, el techo a dos aguas cubierto de musgo en el lado que nunca veía el sol de la tarde, la chimenea de piedra que Kyle nunca había tenido que tocar porque alguien, mucho antes que él, la había construido para durar más que cualquiera de sus dueños. Las ventanas, angostas y bajas, dejaban pasar la luz de esa hora en franjas doradas que caían justo sobre el porche recién terminado — madera clara, todavía sin curtir, una cicatriz reciente que aún no había aprendido a confundirse con el resto de la piel de la casa.
 
 Kyle dio un paso atrás para mirar el trabajo completo — el porche entero, por fin unido de punta a punta, todavía oliendo a madera recién cortada, el barniz esperando para el fin de semana siguiente. Llevaba puesta solo la cota que iba debajo de la armadura completa — sin la túnica de hechicero, sin ningún distintivo encima, nada del peso ceremonial que cargaba en combate —, el material ajustado y ligero contra el cuerpo, las mangas subidas hasta el codo y el aserrín pegado al sudor de los antebrazos. Era, de las pocas versiones de sí mismo que existían, la que menos se parecía al Guardian que la Ciudad conocía.
 

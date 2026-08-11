@@ -46,7 +46,7 @@ Carina se giró desde el depósito, los brazos todavía cargados.
 
 —¿Qué clase de lugar?
 
-—El primero que me cambió. —Kyle no ofreció más al principio, y después, viendo que ella no iba a llenar el silencio por él, siguió—. Antes de Crota. Antes de Atheon, incluso. Entré solo, Age I, cuando todavía no sabía nada de lo que era. Maté algo que llevaba ahí más tiempo del que el sistema solar lleva teniendo esta forma. El Viajero lo sintió. Fue la primera vez que alguien en la Torre me miró como si yo fuera un dato que no encajaba en ningún modelo que tuvieran.
+—El primero que me cambió. —Kyle no ofreció más al principio, y después, viendo que ella no iba a llenar el silencio por él, siguió—. Antes de Crota. Antes de Atheon, incluso. Entré solo, cuando todavía llevaba muy poco tiempo siendo Guardián y no sabía casi nada de lo que era. Maté algo que llevaba ahí más tiempo del que el sistema solar lleva teniendo esta forma. El Viajero lo sintió. Fue la primera vez que alguien en la Torre me miró como si yo fuera un dato que no encajaba en ningún modelo que tuvieran.
 
 —Nunca me contaste eso.
 
@@ -88,7 +88,7 @@ Fue en el centro de lo que una vez había sido una cámara — el corazón exact
 
 —¿Carina?
 
-No respondió de inmediato. Se había quedado quieta, la mirada fija en un punto vacío del espacio, el mismo tipo de pausa que Kyle reconoció, con un escalofrío tardío, como el eco de la suya propia años atrás.
+No respondió de inmediato. Se había quedado quieta, la mirada fija en un punto vacío del espacio, el mismo tipo de pausa que Kyle reconoció, con un escalofrío tardío, como el eco de la suya propia cuando el mundo todavía era más grande que sus respuestas.
 
 —Hay algo aquí —dijo ella, al fin, la voz distinta, más baja, como si viniera de un lugar que todavía no había terminado de encontrar—. No como una amenaza. Como... una pregunta que alguien dejó sin cerrar.
 
@@ -156,7 +156,7 @@ Kyle se quedó mirando el cielo, los relámpagos partiendo la oscuridad en fracc
 
 —No.
 
-—Se siente como esto. —Señaló la tormenta con la barbilla, sin apartar los ojos de ella—. La misma energía, solo que corriendo por mi cuerpo en vez de por el cielo. No la controlo tanto como la dejo pasar a través de mí sin que me destruya en el proceso. Los primeros años pensé que la controlaba. Ahora creo que solo aprendí a no estorbarle el camino.
+—Se siente como esto. —Señaló la tormenta con la barbilla, sin apartar los ojos de ella—. La misma energía, solo que corriendo por mi cuerpo en vez de por el cielo. No la controlo tanto como la dejo pasar a través de mí sin que me destruya en el proceso. Al principio pensé que la controlaba. Ahora creo que solo aprendí a no estorbarle el camino.
 
 Kyle se quedó en silencio, algo en la frase asentándose en un lugar que no esperaba que aterrizara tan directo.
 

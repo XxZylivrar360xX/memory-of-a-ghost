@@ -50,7 +50,7 @@ Joe tenía razón. El eco repetía una coreografía de manual, la primera lecci�
 
 Se movieron sin necesitar coordinarlo en voz alta — Joe cubriendo el ángulo que el Guardian dejaba abierto cada vez que la espada del eco caía, el Guardian respondiendo con el mismo golpe que ya conocía de memoria, un paso por delante de una coreografía que el eco no sabía improvisar. No hubo sorpresas. El eco atacaba, ellos ya sabían la respuesta, y la distancia entre el ataque y la respuesta se fue acortando hasta que apenas quedó espacio para que el eco terminara un solo movimiento completo. Derrotaron al eco sin ceremonia — más rápido, de hecho, que la primera vez, porque esta versión no tenía la sorpresa ni la escala del original, solo la forma. Cuando cayó, no quedó nada que enterrar, ni funeral que oficiar. Solo una quietud vacía donde un instante antes había habido movimiento, y el eco de los propios pasos volviendo a ser lo único que llenaba la cámara.
 
-—¿Estás bien? —preguntó Joe, después, sin la urgencia de mando, solo la de alguien que llevaba años sabiendo cuándo hacer esa pregunta.
+—¿Estás bien? —preguntó Joe, después, sin la urgencia de mando, solo la de alguien que había aprendido rápido cuándo hacer esa pregunta.
 
 —No lo sé todavía. —El Guardian no apartó la vista del espacio vacío—. Pero gracias por decirlo antes de que yo tuviera que averiguarlo solo.
 

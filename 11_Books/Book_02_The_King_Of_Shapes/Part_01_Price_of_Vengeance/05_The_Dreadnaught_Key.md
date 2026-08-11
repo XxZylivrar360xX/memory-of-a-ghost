@@ -68,7 +68,7 @@ La superficie tenía marcas de desgaste, pero no de daño — el tipo de deterio
 
 —Podemos intentarlo. Pero no va a ser encenderlo y listo. Vamos a tener que entenderlo primero. Adaptarlo. Y probablemente romper algo en el proceso de averiguar qué parte no debíamos romper.
 
-Cargaron el módulo de vuelta a la nave en un silencio que Kyle había aprendido, con los años, a no llenar innecesariamente cuando era Cayde quien lo sostenía.
+Cargaron el módulo de vuelta a la nave en un silencio que Kyle ya había aprendido a no llenar innecesariamente cuando era Cayde quien lo sostenía.
 
 —¿Por qué esto? —preguntó, al fin—. Podrías haber mandado a un equipo técnico. No tenías que venir tú.
 

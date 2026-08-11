@@ -102,7 +102,7 @@ Carina lo miró.
 
 —Entonces nos equivocamos juntos, y lidiamos con eso juntos también. —Carina lo miró, algo más serio en la expresión que la vez anterior que había dicho esas mismas palabras—. No es la primera vez que te digo esto. Va a seguir siendo cierto las veces que haga falta repetirlo.
 
-Kyle asintió. No era el vínculo de años que había visto entre Joe y Angie, entre Kevin y el resto de la Primera Escuadra. Era otra cosa — más nueva, más frágil, construida con la urgencia específica de dos personas que no tenían el lujo de construirla despacio, y que de todas formas ya habían decidido que iba a bastar.
+Kyle asintió. No era el vínculo ya asentado que había visto entre Joe y Angie, entre Kevin y el resto de la Primera Escuadra. Era otra cosa — más nueva, más frágil, construida con la urgencia específica de dos personas que no tenían el lujo de construirla despacio, y que de todas formas ya habían decidido que iba a bastar.
 
 ---
 
@@ -240,7 +240,7 @@ El Guardian no lo negó.
 
 ## XII. The Unclaimed Treasury
 
-Carina se quedó viendo cómo la Primera Escuadra se reunía a la distancia — Joe, Angie, Kevin, Resner, Tiago, todos con la clase de familiaridad calmada que solo se construye después de años de confiar la vida al otro sin necesitar pensarlo.
+Carina se quedó viendo cómo la Primera Escuadra se reunía a la distancia — Joe, Angie, Kevin, Resner, Tiago, todos con la clase de familiaridad calmada que solo se construye después de suficientes misiones confiando la vida al otro sin necesitar pensarlo.
 
 No sintió celos.
 
