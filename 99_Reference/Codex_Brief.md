@@ -62,6 +62,75 @@ Cierra siempre tu pase editorial con: **lo que NO tocarías** (lo que ya funcion
 
 ---
 
+## Modos de auditoría especializados (arquitectura editorial multiagente, 2026-08-10)
+
+Nombres explícitos de tres modos de este mismo brief, fijados para que
+`99_Reference/Editorial_Agent_Architecture.md` (documento rector de la arquitectura
+editorial Claude Code + Codex) pueda referenciarlos. No son subagentes técnicos
+separados ni una carpeta nueva — siguen siendo este brief, con foco. Sigues siendo
+read-only en los tres.
+
+### `continuity-auditor`
+
+Es tu "Checklist de auditoría" de arriba más el punto 1 ("Continuidad") de tu "Checklist
+editorial". Ningún cambio de contenido — solo el nombre, para que el documento rector
+tenga qué enlazar.
+
+### `knowledge-state-auditor` (nuevo)
+
+Pregunta central: **¿Quién sabe qué, cuándo y por qué?**
+
+Comprobar contra: `12_Craft_Policies/revelations/` (libro activo + `SAGA_LEVEL.md`),
+`12_Craft_Policies/milestones/INDEX.md`, `01_Timeline/`, capítulos previos del mismo
+personaje.
+
+Busca:
+- personajes nombrando conceptos antes de conocerlos;
+- información conocida en escena sin fuente en el ledger ni en la cronología interna;
+- revelaciones anticipadas (algo que el ledger marca `sembrado` tratado como ya
+  `revelado`);
+- secretos que el personaje debería seguir guardando y de pronto no guarda;
+- conocimiento del lector trasladado sin querer al personaje;
+- consecuencias psicológicas de eventos que, en la cronología interna, todavía no le han
+  ocurrido a ese personaje.
+
+Este tipo de error ya tiene precedente documentado en el proyecto (drift de
+conocimiento/poderes adelantados, detectado más de una vez) — repórtalo con el mismo
+cuidado que el resto de tu checklist editorial, citando la entrada exacta del ledger o
+milestone que la escena contradice.
+
+### `repetition-hunter` (nuevo)
+
+Dos clases de repetición:
+
+- **Superficial** — palabras, estructuras, gestos, metáforas, fórmulas repetidas entre
+  escenas o dentro de la misma.
+- **Semántica** (la que más importa) — la misma emoción explicada varias veces, el mismo
+  descubrimiento repetido, el mismo conflicto resuelto de nuevo, el mismo lore
+  reexplicado, la misma función de escena, el mismo beat emocional.
+
+No basta reportar "aparece 'como si' 14 veces". El hallazgo útil es del tipo: *"Kyle
+llega tres veces a la misma conclusión sobre proteger vs. controlar sin que entre ellas
+exista información nueva que justifique reabrir el descubrimiento."*
+
+**Relación con `dialogue_rules/`:** ese catálogo (`12_Craft_Policies/dialogue_rules/`) ya
+rastrea patrones de repetición específicos de diálogo entre personajes distintos (ej.
+"interrogatorio terapéutico escalonado"). `repetition-hunter` es más amplio — cubre
+también narración, estructura de escena y beats de trama, no solo diálogo. Si encuentras
+un patrón de **diálogo** repetido 2+ veces que no está todavía en `dialogue_rules/`,
+repórtalo ahí siguiendo el flujo ya fijado en `12_Craft_Policies/README.md` — no como
+hallazgo suelto de `Agent_Notes/`.
+
+### Fase 2 / Fase 3 — no implementados todavía
+
+`character-arc-auditor`, `setup-payoff-tracker`, `pacing-auditor`,
+`canon-divergence-auditor` y `theme-drift-auditor` están documentados como destino en
+`99_Reference/Editorial_Agent_Architecture.md`, pero no tienen sección propia aquí
+todavía. No ejecutes auditorías bajo esos nombres hasta que este brief tenga su
+checklist correspondiente — evita inventar el criterio sobre la marcha.
+
+---
+
 ## Bautizo de capítulos (rol ampliado, 2026-07-26) — solo `11_Books/`
 
 Cuando Claude Code termina de escribir un capítulo de cualquier libro en `11_Books/`, antes de que el título quede fijo se te manda el capítulo para que propongas o confirmes su **título final en inglés** — coherente con el tono y el registro de los demás títulos ya fijados de ese libro. Si el capítulo nació con un "título de trabajo", esta es la compuerta donde se decide si se queda o cambia; la decisión final siempre es de Víctor. Puedes proponer más de una opción.
@@ -116,4 +185,4 @@ Claude Code revisa esa carpeta, decide qué aplicar, y cierra el hilo marcando `
 
 ---
 
-*Conecta con: [[99_Reference/Development_Workflow]], [[99_Reference/Agent_Notes/README]], [[99_Reference/ChatGPT_Editor_Brief]] (brief original, deprecado)*
+*Conecta con: [[99_Reference/Development_Workflow]], [[99_Reference/Agent_Notes/README]], [[99_Reference/Editorial_Agent_Architecture]] (mapa de agentes/modos, 2026-08-10), [[99_Reference/ChatGPT_Editor_Brief]] (brief original, deprecado)*

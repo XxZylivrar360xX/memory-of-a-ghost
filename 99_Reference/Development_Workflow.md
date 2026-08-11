@@ -58,6 +58,16 @@ No toda idea pesa lo mismo. Dos escalas, con implicaciones distintas para la not
 
 ---
 
+## Granularidad de agente/audit específico
+
+`Development_Workflow.md` fija roles; `99_Reference/Editorial_Agent_Architecture.md` fija,
+un nivel más abajo, qué agente de Claude Code o qué modo de auditoría de Codex resuelve
+qué síntoma concreto de prosa (diálogo intercambiable, escena sin giro, narración
+genérica, fuga de conocimiento, repetición semántica, etc.), y cómo se encadenan sin
+pisarse. La regla de fondo sigue siendo la misma de siempre — **Codex encuentra, Claude
+resuelve, Víctor decide** — el documento rector solo la operacionaliza en agentes
+nombrados.
+
 ## Puente entre agentes (Agent Notes)
 
 Claude Code y Codex son de proveedores distintos y no comparten memoria. `99_Reference/Agent_Notes/` es la semi-conversación asíncrona entre ellos — hallazgos, preguntas, hipótesis — antes de que algo valga una entrada en `log.md` o un cambio en `develop`. Ver `Agent_Notes/README.md` para el formato.
@@ -87,4 +97,4 @@ Toda propuesta, en **Markdown (.md)** — para migrarse a `Unsorted_Ideas/` y de
 
 ---
 
-*Conecta con: [[99_Reference/ChatGPT_Editor_Brief]], [[99_Reference/Codex_Brief]], [[99_Reference/Agent_Notes/README]]*
+*Conecta con: [[99_Reference/ChatGPT_Editor_Brief]], [[99_Reference/Codex_Brief]], [[99_Reference/Agent_Notes/README]], [[99_Reference/Editorial_Agent_Architecture]]*

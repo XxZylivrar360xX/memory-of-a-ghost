@@ -99,6 +99,15 @@ texto; edita el archivo original solo si se pide explícitamente). Invocar con
 `Agent(subagent_type: "dialogue-vitalizer")` o pidiendo "audita/vitaliza el diálogo de
 [escena]".
 
+**Actualización 2026-08-10 — sala editorial completa:** el Dialogue Vitalizer ahora es
+uno de cuatro especialistas de Claude Code (junto a `scene-doctor`, `subtext-editor`,
+`prose-degenericizer`) y trabaja junto a modos de auditoría nuevos de Codex
+(`knowledge-state-auditor`, `repetition-hunter`, además del `continuity-auditor` ya
+existente). Mapa completo, precedencia y pipelines en
+`99_Reference/Editorial_Agent_Architecture.md` — este mecanismo (`12_Craft_Policies/`)
+sigue siendo la infraestructura de conocimiento que todos consumen, sin cambios en su
+propia estructura.
+
 ## Auditorías de Codex — integración directa autorizada
 
 Codex es el auditor natural de este mecanismo: continuidad y patrones son su rol ya fijado

@@ -14,6 +14,12 @@ Tu rol es **auditor de consistencia de solo lectura**. Lee completo, en este ord
 
 **Restricción dura, válida en toda sesión aunque el prompt no la repita:** no edites ni crees archivos fuera de `99_Reference/Agent_Notes/codex/`, salvo que Víctor te lo pida explícitamente en esa sesión. Tus hallazgos son propuestas, no cambios directos al vault.
 
+Si te piden un modo de auditoría específico (continuity, knowledge-state, repetition,
+u otro), ese modo vive dentro de `Codex_Brief.md` § "Modos de auditoría especializados" —
+no es un rol nuevo que tengas que inferir. Ver también
+`99_Reference/Editorial_Agent_Architecture.md` para el mapa completo de la sala editorial
+(qué resuelve Claude Code, qué audita Codex, cómo se conectan).
+
 **Cierre de sesión cuando hubo cambios autorizados:** si Codex tocó archivos del vault durante la sesión por autorización explícita de Víctor, debe cerrar igual que `CLAUDE.md`: hacer commit breve y push a `develop` antes de terminar.
 
 Comandos esperados:
@@ -35,6 +41,12 @@ git push origin develop
 
 Lee `CLAUDE.md` (raíz). Tu rol de "Coherencia y Desarrollo" está descrito en `99_Reference/Development_Workflow.md`.
 
+Para tareas editoriales de segunda pasada (diálogo, estructura de escena, subtexto,
+prosa genérica) tienes subagentes especializados en `.claude/agents/` — ver
+`99_Reference/Editorial_Agent_Architecture.md` §1 para cuál corresponde a cada síntoma.
+No los ejecutes en cascada por defecto: diagnostica primero, elige el especialista que
+el síntoma pide, y detente ahí.
+
 **`09_Roadmaps/`** guarda los checklists/beat-roadmaps de eventos ya confirmados con Víctor pero todavía no redactados en prosa (documentos `Plan_*.md`). Nace del triage de una nota de incubadora de Codex — el patrón es: leer la incubadora, afinar el checklist de beats con Víctor, fijarlo ahí, y solo después escribir la escena. No confundir con `07_Unsorted_Ideas/` (ideas crudas sin triar) ni con `99_Reference/Agent_Notes/codex/` (incubadoras sin resolver). Ver `09_Roadmaps/README.md`.
 
 **Cierre de sesión:** sigue el protocolo de `CLAUDE.md`: si tocaste archivos del vault, commitea y pushea a `develop` antes de cerrar la sesión, salvo conflicto remoto o dirty worktree ajeno que requiera decisión de Víctor.
@@ -49,4 +61,4 @@ Lee `CLAUDE.md` y `99_Reference/Development_Workflow.md` antes de actuar — ese
 
 ---
 
-*Conecta con: [[99_Reference/Development_Workflow]], [[99_Reference/Codex_Brief]], [[99_Reference/Agent_Notes/README]], [[09_Roadmaps/README]]*
+*Conecta con: [[99_Reference/Development_Workflow]], [[99_Reference/Codex_Brief]], [[99_Reference/Agent_Notes/README]], [[09_Roadmaps/README]], [[99_Reference/Editorial_Agent_Architecture]]*
