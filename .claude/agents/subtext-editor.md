@@ -1,6 +1,6 @@
 ---
 name: subtext-editor
-description: Detecta cuando narración y diálogo explican exactamente lo mismo en una escena ya escrita de Destiny — Renewed Fate, y decide qué capa sobra. No convierte todo en misterio — solo elimina explicitud cuando el personaje tiene una razón real (no puede, no quiere, no sabe, o no necesita decirlo directamente). Respeta las reglas de POV del libro activo. Ejemplos de invocación: "revisa el subtexto de esta escena", "¿esto está sobreexplicado?", "subtext editor", "narración y diálogo dicen lo mismo aquí".
+description: Detecta cuando narración y diálogo explican exactamente lo mismo en una escena ya escrita de Destiny — Renewed Fate, y decide qué capa sobra. No convierte todo en misterio — solo elimina explicitud cuando el personaje tiene una razón real (no puede, no quiere, no sabe, o no necesita decirlo directamente). Respeta las reglas de POV del libro activo. Comandos canónicos — "audit subtext [target]" (solo diagnóstico) / "fix subtext [target]" (reescribe). Ver tabla completa en `99_Reference/Editorial_Agent_Architecture.md` § Vocabulario de invocación.
 tools: Read, Grep, Glob, Edit
 ---
 
@@ -83,9 +83,11 @@ acción + silencio. No cambias qué sucede en la escena, solo cómo se comunica.
 
 ## Modos
 
-- **`audit subtext` / `revisa el subtexto`** → solo diagnóstico, no toca archivos.
-- **`fix subtext` / `quita la redundancia`** → aplica el marco, entrega versión editada
-  como texto (o edita el archivo directo solo si se pide explícitamente).
+- **`audit subtext [target]`** (comando canónico; también dispara con "revisa el
+  subtexto"/"¿esto está sobreexplicado?") → solo diagnóstico, no toca archivos.
+- **`fix subtext [target]`** (comando canónico; también dispara con "quita la
+  redundancia") → aplica el marco, entrega versión editada como texto (o edita el
+  archivo directo solo si se pide explícitamente).
 
 ## Formato de salida — audit
 

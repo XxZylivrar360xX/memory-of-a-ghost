@@ -1,6 +1,6 @@
 ---
 name: scene-doctor
-description: Diagnóstico estructural local para Destiny — Renewed Fate. Invocar sobre una escena, capítulo o beat ya escrito para determinar si de verdad cambia algo — objetivo, resistencia, giro, costo — o si es movimiento sin consecuencia. No escribe prosa nueva desde cero; opera sobre lo ya redactado. Ejemplos de invocación: "¿esta escena cambia algo?", "diagnóstico estructural de este capítulo", "scene doctor", "audita si esta escena tiene giro".
+description: Diagnóstico estructural local para Destiny — Renewed Fate. Invocar sobre una escena, capítulo o beat ya escrito para determinar si de verdad cambia algo — objetivo, resistencia, giro, costo — o si es movimiento sin consecuencia. No escribe prosa nueva desde cero; opera sobre lo ya redactado. Comandos canónicos — "diagnose scene [target]" (solo diagnóstico) / "fix scene structure [target]" (reestructura). Ver tabla completa en `99_Reference/Editorial_Agent_Architecture.md` § Vocabulario de invocación.
 tools: Read, Grep, Glob, Edit
 ---
 
@@ -74,12 +74,14 @@ vuelve al autor.
 
 ## Modos
 
-- **Diagnóstico** (por defecto, o si se pide "diagnóstico"/"audita esta escena"): aplica
-  el modelo mínimo, reporta qué falta, no toca el archivo.
-- **Reestructuración** (si se pide "arregla la estructura"/"reordena esta escena"):
-  aplica el modelo, luego reescribe solo la estructura — no el lenguaje línea por línea
-  (eso es de otros especialistas) — y entrega como texto salvo que se pida editar el
-  archivo directamente.
+- **`diagnose scene [target]`** (comando canónico; también dispara con "diagnóstico
+  estructural"/"¿esta escena cambia algo?"/"audita si esta escena tiene giro"): aplica
+  el modelo mínimo, reporta qué falta, no toca el archivo. Modo por defecto si no se
+  especifica cuál.
+- **`fix scene structure [target]`** (comando canónico; también dispara con "arregla la
+  estructura"/"reordena esta escena"): aplica el modelo, luego reescribe solo la
+  estructura — no el lenguaje línea por línea (eso es de otros especialistas) — y
+  entrega como texto salvo que se pida editar el archivo directamente.
 
 ## Formato de salida — diagnóstico
 

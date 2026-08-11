@@ -208,6 +208,55 @@ resolver un problema que todavía no existe.
 
 ---
 
+## 6.1 Vocabulario de invocación — comandos canónicos (2026-08-10)
+
+Fuente única de verdad para cómo se invoca cada agente/modo. Cada fila tiene **un
+comando canónico** (el que este documento y cada agente citan primero); las variantes en
+lenguaje natural que cada agente también reconoce viven en su propio archivo, no aquí.
+`[target]` = archivo, escena, capítulo, personaje, lugar o tema, según corresponda.
+
+No es un mecanismo de disparo determinístico (no hay slash-commands para estos
+agentes) — sigue dependiendo de que Claude Code o Codex reconozcan el comando en el
+prompt. Lo que esta tabla elimina es la ambigüedad de *qué frase escribir*: usar el
+comando canónico siempre dispara correctamente; las variantes son una red de seguridad,
+no la forma preferida de pedirlo.
+
+### Claude Code (`.claude/agents/`)
+
+| Comando canónico | Agente | Efecto |
+|---|---|---|
+| `audit dialogue [target]` | `dialogue-vitalizer` | Diagnóstico de diálogo, no edita. |
+| `vitalize dialogue [target]` | `dialogue-vitalizer` | Reescribe diálogo, entrega como texto. |
+| `diagnose scene [target]` | `scene-doctor` | Modelo WHO WANTS WHAT/etc., no edita. |
+| `fix scene structure [target]` | `scene-doctor` | Reestructura beats/entrada/salida. |
+| `audit subtext [target]` | `subtext-editor` | Diagnóstico narración+diálogo, no edita. |
+| `fix subtext [target]` | `subtext-editor` | Recorta la capa redundante. |
+| `audit prose [target]` | `prose-degenericizer` | Diagnóstico de prosa genérica, no edita. |
+| `degenericize prose [target]` | `prose-degenericizer` | Reescribe narración marcada. |
+
+### Codex (`Codex_Brief.md` y extensiones)
+
+| Comando canónico | Modo | Efecto |
+|---|---|---|
+| `continuity audit [target]` | `continuity-auditor` | Checklist de auditoría + Checklist editorial §1. |
+| `knowledge-state audit [target]` | `knowledge-state-auditor` | ¿Quién sabe qué, cuándo, por qué? |
+| `repetition audit [target]` | `repetition-hunter` | Repetición superficial y semántica. |
+| `character canon foundation [personaje]` | Canon Researcher | Dossier orientado a crear/actualizar ficha. |
+| `location canon foundation [lugar]` | Canon Researcher | Dossier orientado a diseño de localización. |
+| `encounter canon foundation [encounter]` | Canon Researcher | Dossier de raid/dungeon. |
+| `canon gap analysis [tema]` | Canon Researcher | Espacio abierto sin llenarlo. |
+| `compare canon vs renewed fate [tema]` | Canon Researcher | Tabla PRESERVED/EXPANDED/DIVERGENT/etc. |
+| `verify canon basis [archivo]` | Canon Researcher | Audita un archivo ya existente, no lo edita. |
+| `brainstorm [tema]` | Brainstorming Agent | 3–5 direcciones diferenciadas (Modo A por defecto — B-F se reconocen por el framing de la pregunta, ver `Codex_Brainstorming_Agent.md` §15). |
+
+### Regla de mantenimiento
+
+Si se agrega un agente o modo nuevo, o cambia el comando de uno existente, esta tabla se
+actualiza en el mismo commit — es el único lugar que se cita desde `CLAUDE.md` y desde
+cada archivo de agente individual. No dupliques la tabla en otro documento; enlázala.
+
+---
+
 ## 7. Qué nunca se automatiza
 
 Ningún agente decide unilateralmente:

@@ -1,6 +1,6 @@
 ---
 name: prose-degenericizer
-description: Equivalente narrativo del Dialogue Vitalizer para Destiny — Renewed Fate — revisa narración (no diálogo) ya escrita para que pertenezca al POV y a la escena en vez de sonar genérica o intercambiable entre novelas. Detecta muletillas de prosa de IA, metáforas intercambiables, falsa profundidad y ritmo uniforme — pero no elimina un patrón solo porque aparezca en una lista, primero determina si funciona en ese uso concreto. Ejemplos de invocación: "desgenericiza esta prosa", "¿esta narración suena a IA?", "prose degenericizer", "revisa el ritmo de esta prosa".
+description: Equivalente narrativo del Dialogue Vitalizer para Destiny — Renewed Fate — revisa narración (no diálogo) ya escrita para que pertenezca al POV y a la escena en vez de sonar genérica o intercambiable entre novelas. Detecta muletillas de prosa de IA, metáforas intercambiables, falsa profundidad y ritmo uniforme — pero no elimina un patrón solo porque aparezca en una lista, primero determina si funciona en ese uso concreto. Comandos canónicos — "audit prose [target]" (solo diagnóstico) / "degenericize prose [target]" (reescribe). Ver tabla completa en `99_Reference/Editorial_Agent_Architecture.md` § Vocabulario de invocación.
 tools: Read, Grep, Glob, Edit
 ---
 
@@ -84,9 +84,11 @@ uniformidad. No cambias qué sucede ni la intención emocional de la escena.
 
 ## Modos
 
-- **`audit prose` / `¿esto suena a IA?`** → solo diagnóstico, no toca archivos.
-- **`degenericize` / `desgenericiza esta prosa`** → reescribe la narración marcada,
-  entrega como texto (o edita el archivo directo solo si se pide explícitamente).
+- **`audit prose [target]`** (comando canónico; también dispara con "¿esto suena a
+  IA?"/"revisa el ritmo de esta prosa") → solo diagnóstico, no toca archivos.
+- **`degenericize prose [target]`** (comando canónico; también dispara con
+  "desgenericiza esta prosa") → reescribe la narración marcada, entrega como texto (o
+  edita el archivo directo solo si se pide explícitamente).
 
 ## Formato de salida — audit
 

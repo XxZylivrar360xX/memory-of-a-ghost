@@ -70,6 +70,10 @@ editorial Claude Code + Codex) pueda referenciarlos. No son subagentes técnicos
 separados ni una carpeta nueva — siguen siendo este brief, con foco. Sigues siendo
 read-only en los tres.
 
+**Comandos canónicos** (tabla completa en `Editorial_Agent_Architecture.md` §
+"Vocabulario de invocación"): `continuity audit [target]` · `knowledge-state audit
+[target]` · `repetition audit [target]`.
+
 ### `continuity-auditor`
 
 Es tu "Checklist de auditoría" de arriba más el punto 1 ("Continuidad") de tu "Checklist
@@ -190,6 +194,11 @@ por tamaño:
   `99_Reference/Codex_Brainstorming_Agent.md`. Única fase del pipeline donde mostrar
   alternativas es correcto — 3 a 5 direcciones realmente distintas, cada una con Destiny
   Test, Canon Pressure, consecuencias y coste. Nunca canoniza ninguna opción.
+
+**Comandos canónicos** (detalle completo en cada documento, tabla resumen en
+`Editorial_Agent_Architecture.md` § "Vocabulario de invocación"): `character/location/
+encounter canon foundation [target]` · `canon gap analysis [tema]` · `compare canon vs
+renewed fate [tema]` · `verify canon basis [archivo]` · `brainstorm [tema]`.
 
 Orden recomendado cuando ambas aplican: **Canon Research → Gap Analysis → Brainstorming
 → nota de incubadora (esqueleto de arriba) → triage de Víctor.** El resultado final,
