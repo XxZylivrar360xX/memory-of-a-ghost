@@ -150,41 +150,131 @@ Carina no preguntó más, aunque algo en su expresión —rápido, controlado, c
 
 ---
 
-## VII. Pistolera
+## VII. The Wreck
 
-Se sentaron a descansar en un tramo del corredor que Hornet había confirmado, dos veces, como razonablemente seguro — el tipo de pausa que ninguno de los dos habría admitido necesitar en voz alta, pero que los dos cuerpos exigían de todas formas.
+El corredor se rompía, literalmente, unos metros más adelante — no una puerta, no una intersección planeada, sino el punto exacto donde algo enorme había atravesado el casco del Acorazado desde afuera y se había quedado ahí, fundido a medias con la arquitectura Colmena que había intentado, sin éxito, cerrarse sobre la herida.
 
-Kyle la observó limpiar La Última Palabra, un ritual mecánico que hacía sin pensar, las manos moviéndose por una rutina más vieja que la conversación que estaban teniendo. Cuando un grupo pequeño de Acólitos los encontró minutos después, ella respondió con el mismo gesto de siempre — el giro, el abanico de tres tiros, cada bala exactamente donde tenía que estar — y volvió a guardar el arma como quien termina una frase que ya había dicho mil veces.
+—Eso es Cabal —dijo Ghost, la lente ya fija en la proa deformada que sobresalía de la pared, el metal rojo y dorado apenas reconocible bajo capas de la misma corrosión oscura que cubría el resto del lugar—. Una nave de guerra. Grande. No sé cómo terminó aquí adentro, pero no fue en un aterrizaje planeado.
 
-—Nunca fallas —dijo Kyle, no como pregunta.
+—Alguien la estrelló —dijo Hornet, ya escaneando—, o algo la arrastró. Las lecturas de impacto no coinciden con un choque simple.
 
-Carina se quedó quieta un segundo de más.
+Carina se acercó al casco partido, la mano apoyada un momento en el metal frío antes de asomarse por la grieta.
 
-—Eso no es cierto.
+—Hay algo adentro.
 
-—Lo parece.
+Lo que quedaba del puente Cabal era una cápsula de metal retorcido, casi irreconocible bajo el peso del tiempo. Pero en el centro, todavía encendida con una luz débil, tercamente insistente, una consola sobrevivía — no Cabal en su totalidad, sino algo que alguien, en algún punto, había conectado a un dispositivo Ascendente y nunca había desconectado.
 
-—Parece —repitió ella, la voz un grado más baja de lo que había estado un momento antes—. En toda mi vida, he fallado un disparo. Uno. —No dio más contexto. No dijo cuándo, ni contra quién, ni qué había costado—. Así que no. No es que nunca falle. Es que la mayoría de las veces no importa lo suficiente como para que alguien lo note si fallo.
+—Eso no debería tener carga —dijo Ghost, después de un momento, algo tenso ya en la voz—. No después de tanto tiempo. Algo la está alimentando.
 
-Kyle no supo qué había tocado, exactamente. Solo vio que algo en ella se había cerrado un instante, rápido, y que ella no iba a abrirlo de nuevo esa tarde.
+Lo vieron los tres al mismo tiempo: enredado en el cableado detrás de la consola, casi invisible entre el metal retorcido, un nudo de tejido oscuro, palpitante, que no era Cabal ni Colmena ni ninguna otra cosa que Kyle supiera nombrar de un vistazo — un nodo Poseído, pequeño, quieto, prendido a la fuente de poder como algo que llevaba ahí más tiempo del que cualquiera de ellos quería calcular.
 
-—Pistolera —dijo, de todas formas, con el tono ligero de quien todavía no sabe que acaba de rozar algo—. Es lo que eres. Casi siempre.
+—No se ha movido —dijo Hornet, la voz bajando a un susurro puramente táctico—. Todavía.
 
-Carina lo miró, y algo en su cara se movió entre dos direcciones a la vez — la mitad divertida por el apodo, la mitad todavía procesando lo que él no sabía que había dicho.
+Kyle ya tenía el Predestinador a medio alzar, el reflejo de siempre — ver algo Poseído, quitarlo de en medio — cuando notó que Carina no había hecho el mismo movimiento. Tenía la mano cerca de Última Palabra, pero no la había desenfundado.
 
-—Casi siempre —repitió, sin corregirlo más—. Me sirve.
+—¿Qué esperas?
 
-No le contó la historia completa. No le dijo el nombre de la persona que ese único disparo fallido no había alcanzado a salvar. Pero algo en el silencio que siguió —más largo de lo que la pausa necesitaba— le confirmó a Kyle, sin palabras, que la persona con la que estaba caminando por este lugar imposible había perdido a alguien, de una forma que todavía no había terminado de sanar.
+—A que dispararle deje de ser lo peor que podemos hacer.
+
+---
+
+## VIII. Pistolera
+
+—Explícate —dijo Kyle, sin bajar el arma, pero sin disparar tampoco.
+
+—Esa cosa lleva ahí tanto tiempo que se volvió parte del circuito —dijo Ghost, leyendo lo mismo que Carina parecía haber leído medio segundo antes—. Si la matamos mal, el sistema entero podría leerlo como una interrupción de energía y apagarse por seguridad. O peor: como un intento de intrusión, y avisar a algo en algún otro punto del Acorazado de que hay alguien aquí adentro.
+
+—Entonces la dejamos.
+
+—No podemos dejarla tampoco —dijo Hornet—. Cada segundo que sigue prendida ahí, nos está leyendo a nosotros tanto como nosotros a ella. No sé cuánto tiempo tenemos antes de que decida que valemos la pena reportar.
+
+Carina no se movió. Observaba el nodo con la misma quietud elegida que aplicaba a cualquier terreno que todavía no había terminado de entender.
+
+—Ghost, ¿puedes sacar la lectura completa de la consola sin tocar el nodo?
+
+—Puedo intentarlo. Va a ser lento.
+
+—Hazlo lento, entonces.
+
+Ghost proyectó una línea fina de luz hacia la consola, el escaneo avanzando en fracciones tan pequeñas que Kyle apenas podía notar el progreso entre un parpadeo y el siguiente. El nodo seguía prendido, inmóvil, ajeno — hasta que no lo estuvo. Un solo hilo de tejido oscuro se desprendió del cableado, deslizándose hacia el borde de la consola con la lentitud deliberada de algo que empezaba, apenas, a notar que no estaba solo.
+
+—Se está moviendo —dijo Hornet.
+
+—Todavía no —dijo Carina, la mano ya cerrada del todo alrededor de Última Palabra, el cañón todavía bajo.
+
+—Carina—
+
+—Todavía no.
+
+El hilo se estiró más, la consola parpadeando, la proyección apenas empezando a formarse en el aire sobre ella — una red de líneas incompletas, Saturno a medio dibujar, el nombre de una luna que todavía no terminaba de aparecer.
+
+—Ahora —dijo Ghost—. Tengo lo que necesito. Lo que quede después de esto ya no importa.
+
+Un solo disparo.
+
+Última Palabra no sonó como un arma que decide sobre una amenaza genérica. Sonó exactamente una vez, en el instante exacto en que el hilo terminaba de desprenderse del cableado y todavía no había alcanzado nada más que pudiera dañar — cortando el nodo justo en el punto donde seguía conectado a la consola, sin tocar el resto del sistema, sin darle tiempo a nada a leer la interrupción como otra cosa que un accidente de circuito viejo.
+
+—Eso —dijo Ghost, después de un momento, la voz todavía ajustándose— fue exactamente lo que hacía falta. Ni un centímetro más.
+
+Kyle bajó el arma, sin haber disparado ni una vez.
+
+—Podrías haberlo matado hace un minuto entero.
+
+—Podría. —Carina ya guardaba Última Palabra, el gesto tan mecánico como siempre—. No habría servido de nada. Un nodo muerto en el momento equivocado nos habría costado el mapa, la salida limpia, o las dos cosas.
+
+Kyle la miró un momento, algo asentándose despacio, no como una idea completa sino como el borde de una.
+
+—No es que nunca falles —dijo, al fin, más para sí mismo que para ella—. Es que sabes exactamente qué bala vale la pena gastar, y cuál no.
+
+Carina no respondió de inmediato.
+
+—Pistolera —dijo Kyle, con el mismo tono ligero de siempre, sin saber todavía que acababa de nombrar algo que no era puntería.
+
+Ella lo miró, algo en su cara moviéndose entre dos direcciones a la vez — media sonrisa, medio un peso que no tenía nada que ver con el nodo ni con el mapa.
+
+—Me sirve —dijo, sin corregirlo, sin aceptarlo del todo tampoco.
+
+El silencio que siguió duró un segundo más de lo que la escena necesitaba. Kyle no supo qué había tocado, exactamente. Solo vio que algo en ella se había cerrado, rápido, en el mismo instante en que se había abierto.
 
 No preguntó.
 
 Ella tampoco ofreció.
 
-Siguieron caminando.
+Se acercaron juntos a leer, por fin, el mapa completo.
 
 ---
 
-## VIII. The Second Fragment — Sisters
+## IX. The Map
+
+—No es un mapa Cabal —dijo Ghost, estudiando la proyección ya completa—. Es una superposición. Alguien montó lectura Ascendente sobre navegación imperial, hace mucho tiempo, y nunca la desmontó.
+
+La red de líneas no se parecía a ningún mapa que Kyle hubiera visto antes — no coordenadas ni rutas limpias, sino algo más parecido a una malla de tensiones, anclas y puntos de presión, distribuidos alrededor de una forma que tardó un momento en reconocer como Saturno y sus lunas.
+
+—No puedo leer la mitad de esto —dijo Hornet—. El lenguaje Ascendente no es algo que yo procese bien. Pero esto de aquí —marcó un punto, una de las lunas menores, insistente, repetido en la proyección más veces que cualquier otro punto del mapa— aparece una y otra vez. Como si algo, en algún momento, hubiera decidido que ahí converge todo lo demás.
+
+—Eirene —dijo Carina, reconociendo el nombre antes de que nadie lo dijera en voz alta—. Ahí es donde está Vesta. Donde están los refugiados.
+
+Nadie respondió de inmediato.
+
+—No sé qué significa —dijo Ghost, al fin—. No sé si es un objetivo, una fecha, o solo un punto que a alguien le pareció importante hace mucho tiempo. Pero no me gusta cuántas veces se repite.
+
+Kyle miró la proyección un momento más, tratando de encontrarle una lectura menos inquietante y sin conseguirlo.
+
+—Entonces no es solo Oryx reaccionando a lo que le hicimos —dijo—. Ya estaba mirando hacia algún lado antes de que yo bajara al Hellmouth.
+
+—Un rey no espera a que lo ataquen para mover sus piezas —dijo Hornet—. Eso sería jugar a la defensiva. Nada en esto —señaló el resto del mapa, la escala completa de la proyección— se ve defensivo.
+
+Carina no dijo nada durante un momento largo, la vista fija en el punto marcado, en el nombre que acababa de decir en voz alta sin planearlo.
+
+—Tengo que ir para allá de todas formas —dijo, al fin—. Con esto o sin esto.
+
+—Entonces no vas a ir sola —dijo Kyle.
+
+Ghost registró la proyección completa antes de que la consola, agotada esta vez de verdad, perdiera la última carga que le quedaba y la imagen se apagara para siempre, dejando solo el metal frío y la pregunta que ninguno de los tres sabía todavía cómo responder del todo.
+
+---
+
+## X. The Second Fragment — Sisters
 
 El segundo fragmento apareció mucho después, casi al final del tramo que Hornet había planeado como límite razonable para un solo día — apenas visible, encajado en una grieta que ningún ojo humano habría notado sin buscarla a propósito.
 
@@ -214,49 +304,29 @@ Kyle no tuvo una respuesta para eso. Guardó la piedra —fría otra vez, otra v
 
 ---
 
-## IX. What the Wreck Remembered
+## XI. What the Ship Carried Out
 
-El corredor se rompía, literalmente, unos metros más adelante — no una puerta, no una intersección planeada, sino el punto exacto donde algo enorme había atravesado el casco del Acorazado desde afuera y se había quedado ahí, fundido a medias con la arquitectura Colmena que había intentado, sin éxito, cerrarse sobre la herida.
+Salir costó más que entrar.
 
-—Eso es Cabal —dijo Ghost, la lente ya fija en la proa deformada que sobresalía de la pared, el metal rojo y dorado apenas reconocible bajo capas de la misma corrosión oscura que cubría el resto del lugar—. Una nave de guerra. Grande. No sé cómo terminó aquí adentro, pero no fue en un aterrizaje planeado.
+A dos corredores del punto de atraque, un grupo de Poseídos —Acólitos, Custodios, algo más grande detrás que ninguno de los cuatro se detuvo a identificar del todo— les cerró el paso, y durante los siguientes minutos Kyle hizo lo que sabía hacer: Alborada, el Predestinador, cada blanco cayendo exactamente donde tenía que caer. Carina cubría el flanco que él dejaba, el abanico de tres tiros abriendo espacio cada vez que alguno amenazaba con rodearlos.
 
-—Alguien la estrelló —dijo Hornet, ya escaneando—, o algo la arrastró. Las lecturas de impacto no coinciden con un choque simple.
+Ganaron cada intercambio. Uno por uno, cada Poseído que se les puso enfrente terminó en el suelo, sin excepción.
 
-Carina se acercó al casco partido, la mano apoyada un momento en el metal frío antes de asomarse por la grieta.
+—Deberíamos tener espacio ya —dijo Kyle, después del quinto grupo, algo en su propia voz más cansado de lo que el esfuerzo físico explicaba del todo.
 
-—Hay algo adentro.
+—No lo tenemos —dijo Hornet—. Cuento el mismo número de firmas que hace diez minutos. Distintas. Pero el mismo número.
 
-Lo que quedaba del puente Cabal era una cápsula de metal retorcido, casi irreconocible bajo el peso del tiempo y de lo que fuera que hubiera terminado con la tripulación mucho antes de que Kyle naciera. Pero en el centro, todavía encendida con una luz débil, tercamente insistente, una consola sobrevivía — no Cabal en su totalidad, sino algo que alguien, en algún punto, había conectado a un dispositivo Ascendente y nunca había desconectado.
+—¿Nos está mandando más?
 
-—No es un mapa Cabal —dijo Ghost, después de un momento—. Es una superposición. Alguien montó lectura Ascendente sobre navegación imperial. No sé quién, ni cuándo.
+—No estoy seguro de que "mandar" sea la palabra —dijo Ghost, la voz baja—. Es más como... redirigir. Cada vez que matamos algo aquí, algo más se mueve para ocupar el hueco, desde algún otro punto del Acorazado. No estamos vaciando el lugar. Estamos empujando agua.
 
-La proyección que se alzó sobre la consola no se parecía a ningún mapa que Kyle hubiera visto antes — no líneas ni coordenadas, sino algo más parecido a una red de tensiones, anclas y puntos de presión distribuidos alrededor de una forma que tardó un momento en reconocer como Saturno y sus lunas.
+Kyle bajó el arma un segundo, el pasillo por fin despejado, y sintió, por primera vez desde que había vuelto a poner un pie en el Acorazado, que ganar la pelea no era lo mismo que ganar terreno.
 
-—No puedo leer la mitad de esto —dijo Hornet—. El lenguaje Ascendente no es algo que yo procese bien. Pero esto de aquí —marcó un punto, una de las lunas menores, insistente, repetido en la proyección más veces que cualquier otro punto del mapa— aparece una y otra vez. Como si algo, en algún momento, hubiera decidido que ahí converge todo lo demás.
+—Entonces esto no se resuelve matando más rápido.
 
-—Eirene —dijo Carina, reconociendo el nombre antes de que nadie lo dijera en voz alta—. Ahí es donde está Vesta. Donde están los refugiados.
+—No —dijo Carina, ya moviéndose de nuevo hacia la salida, la voz tan práctica como siempre, pero algo en ella de acuerdo con la misma inquietud—. Se resuelve de otra forma. Todavía no sé cuál.
 
-Nadie respondió de inmediato.
-
-—No sé qué significa —dijo Ghost, al fin—. No sé si es un objetivo, una fecha, o solo un punto que a alguien le pareció importante hace mucho tiempo. Pero no me gusta cuántas veces se repite.
-
-Kyle miró la proyección un momento más, tratando de encontrarle una lectura menos inquietante y sin conseguirlo.
-
-—Entonces no es solo Oryx reaccionando a lo que le hicimos —dijo—. Ya estaba mirando hacia algún lado antes de que yo bajara al Hellmouth.
-
-—Un rey no espera a que lo ataquen para mover sus piezas —dijo Hornet—. Eso sería jugar a la defensiva. Nada en esto —señaló el resto del mapa, la escala completa de la proyección— se ve defensivo.
-
-Carina no dijo nada durante un momento largo, la vista fija en el punto marcado, en el nombre que acababa de decir en voz alta sin planearlo.
-
-—Tengo que ir para allá de todas formas —dijo, al fin—. Con esto o sin esto.
-
-—Entonces no vas a ir sola —dijo Kyle.
-
-Ghost registró la proyección completa antes de que la consola, agotada, perdiera la última carga que le quedaba y la imagen se apagara por última vez, dejando solo el metal frío y la pregunta que ninguno de los tres sabía todavía cómo responder del todo.
-
----
-
-## X. What the Ship Carried Out
+Ninguno de los dos tuvo una respuesta mejor que ofrecer. Siguieron caminando.
 
 Salieron del Acorazado antes de que la luz cambiara del todo, Hornet marcando la ruta de regreso con la misma precisión silenciosa de la entrada.
 
@@ -278,4 +348,6 @@ Ninguno de los dos dijo, todavía, cuánto de lo que acababan de ver iban a tard
 
 **Fragmentos Calcificados dramatizados (Fase I de `Plan_FragmentosCalcificados_LibrosDelDolor.md`):** Fragmento III ("The Oath", Mausoleo/caverna Aroma del Gusano — las tres hermanas juran venganza, conocimiento y algo sin nombre) y Fragmento VI ("Sisters", túneles inferiores de la Ruptura — la infancia consumida reparando la Aguja). Selección deliberada: ambos sobre las tres hermanas antes de convertirse en Oryx/Savathûn/Xivu Arath, sin nombrarlas ni asignar el juramento a una hermana específica — mantiene la ambigüedad ya usada en el resto del vault para lore de Fundamento. **Decisión de diseño:** Carina no recibe visión propia de los fragmentos (pregunta que `Plan_FragmentosCalcificados_LibrosDelDolor.md` dejaba explícitamente abierta) — solo Kyle las recibe, ella lee su reacción después, igual que Ghost en el Capítulo 12. Se deja la puerta abierta, sin cerrarla, para una futura conexión Carina/Savathûn (`Plan_Carina_Savathun_Horizonte.md`) sin adelantarla aquí.
 
-**Origen de "Pistolera" (Sección VII), según el diseño fijado en `Semillas_2026-08-02_Apodos_ChispitasPistolera.md`:** Kyle nota que Carina casi nunca falla un disparo y se lo dice sin saber lo que toca; ella responde con la verdad exacta pero sin contexto — "he fallado un disparo, uno" — sin nombrar el disparo del Capítulo 10 (la bruma, el Dredgen, la clínica) ni a Lena. El apodo nace en tono ligero; el peso queda enteramente del lado del lector y de Carina, tal como pedía la semilla. Blade Barrage no se menciona en esta escena — queda disponible para una futura conversación más profunda entre ellos, no gastado aquí.*
+**Origen de "Pistolera" — revisado 2026-08-10 (Secciones VII-IX), según la incubadora de Codex `2026-08-10_incubadora-pistolera-apodo-con-peso.md` (Variante A + toque de C):** reemplaza el disparador original de la semilla del 2026-08-02 ("nunca fallas" tras un abanico de tres tiros contra Acólitos genéricos). El apodo ahora nace de que Carina *no* dispara cuando el blanco obvio se lo pide — un nodo Poseído fundido a la consola Cabal/Ascendente que sostiene el mapa hacia Eirene — y solo toma el tiro exacto, un segundo antes de que deje de servir, para cortar la conexión sin perder la lectura. Kyle nombra el juicio, no la puntería: "sabes exactamente qué bala vale la pena gastar, y cuál no." Se preserva intacto el resto del diseño original: Carina no cuenta la historia completa, no se nombra a Lena, Blade Barrage sigue sin gastarse aquí, y el silencio que seguía a "Pistolera" en la versión anterior ahora cae después del apodo mismo, con la misma función — confirmar sin explicar que hay una bala que todavía pesa. El hallazgo del mapa hacia Eirene (antes una sección aparte, "What the Wreck Remembered") queda fusionado en esta misma secuencia — la consola ya no se activa sola: el mapa se gana exactamente por la contención de Carina, no por casualidad.
+
+**Fracaso táctico contra la red de Poseídos (Sección XI), según la incubadora de Codex `2026-08-10_incubadora-third-element-necesidad-nuevos-poderes.md`, paso I:** al salir, Kyle y Carina ganan cada intercambio individual contra un grupo de Poseídos y aun así no ganan terreno — Hornet nota que el número de firmas no baja, Ghost lo nombra "estamos empujando agua". La conclusión no se verbaliza como "necesitamos otro poder"; queda como inquietud sin resolver ("esto no se resuelve matando más rápido... se resuelve de otra forma, todavía no sé cuál"), preparando causalmente el desvío a Freehold y el Jardín Negro en el Capítulo 15.*

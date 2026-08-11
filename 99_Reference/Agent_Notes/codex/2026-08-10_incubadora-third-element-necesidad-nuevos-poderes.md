@@ -3,8 +3,10 @@ from: codex
 to: victor
 date: 2026-08-10
 topic: incubadora third element necesidad nuevos poderes
-status: abierto
+status: resuelto (2026-08-10)
 ---
+
+**Resolución (Claude Code, 2026-08-10):** ejecutada siguiendo la puesta en escena específica que Víctor agregó a este archivo (líneas 48-98) — Vigilancia Ciega en Bahía Meridiana, los dos intentos fallidos de Kyle antes de lograr Arco, y la escena espejo del Vacío de Carina con el dron Cabal corrompido y la línea de Kyle sobre atar los hilos sueltos. Una primera versión (poderes naciendo en combate contra Vex Poseídos dentro del Jardín Negro, siguiendo instrucción directa de Víctor en el chat antes de que él agregara esta puesta en escena más detallada) se escribió y se descartó por completo tras confirmar con el autor cuál de las dos quería — el Jardín Negro volvió a su forma original sin combate (Secciones III-V). Detalle completo en `log.md`, sesión "2026-08-10 (f)", entrada revisada. Pasos I, III y VII del cimiento original quedaron aplicados en el Cap. 14 y en la estructura general; pasos IV-VI se resolvieron con la puesta en escena de Víctor, no con el cimiento genérico original. Fricciones respetadas: no suena a Estasis, Carina no llega a Nightstalker completa, Stormtrance no resuelve nada por sí sola, la Luz no habla ni entrega poder por tutorial, el rastro de Vesta hacia Eirene queda intacto.
 
 **Idea:** La llegada a Marte/Freehold en `The Third Element` necesita estar preencausada por un fracaso funcional previo: Kyle y Carina descubren que sus herramientas solares habituales no bastan contra la nueva gramática de Oryx. No porque la Luz Solar sea debil, sino porque esta guerra no se resuelve solo con matar mas fuerte: los Poseidos y la preparacion de Eirene exigen interrupcion, anclaje, contencion y limpieza rapida de campo. Ese hueco abre la necesidad de nuevos poderes: el futuro Shadowshot de Carina como atar/debilitar alrededor de un punto, y Stormtrance de Kyle como descarga para limpiar rapidamente enemigos distribuidos. La pregunta de fondo no debe ser "como ganan otro poder", sino si la Luz/el Viajero esta respondiendo a una necesidad concreta antes de que ellos sepan nombrarla.
 

@@ -10,7 +10,7 @@
 
 ## I. Freehold's Ledger
 
-Aterrizaron en Freehold porque la lista de suministros de Aspect of Glass había dejado de ser una sugerencia y se había vuelto un problema real — filtros de aire, cargas de repuesto, algo para las manos de Kyle, que llevaban dos incursiones cargando heridas pequeñas que nadie se había detenido a curar del todo.
+Aterrizaron en Freehold porque la lista de suministros de Aspect of Glass había dejado de ser una sugerencia y se había vuelto un problema real — filtros de aire, cargas de repuesto, algo para las manos de Kyle, que llevaban dos incursiones cargando heridas pequeñas que nadie se había detenido a curar del todo. Ninguno de los dos lo dijo en voz alta, pero la parada también servía para otra cosa: un día entero sin tener que ganar la misma pelea contra la misma red que se rearmaba sola, sin importar cuánto mataran.
 
 —Todavía sorprende que esto siga en pie —dijo Kyle, mirando el complejo médico que Carina y Hornet habían asegurado meses atrás, la arquitectura de Edad de Oro conviviendo, incómoda pero funcional, con la marca de territorio Cabal que Marte llevaba encima.
 
@@ -132,69 +132,77 @@ Salieron del Jardín caído en silencio, ninguno de los dos con una explicación
 
 ---
 
-## VI. The Storm
+## VI. Blind Watch
 
-La tormenta que Carina había anunciado llegó antes de lo previsto, alcanzándolos a mitad de camino de vuelta a Freehold — el cielo marciano, ya de por sí extraño, cerrándose en un tono de óxido oscuro atravesado por relámpagos que no seguían ningún patrón que Ghost pudiera predecir con certeza.
+Encontraron el punto alto que Hornet había marcado desde el aire — un rascacielos de la Edad de Oro, mitad esqueleto, mitad ruina, la fachada corroída por décadas de arena y ocupación Cabal. Vigilancia Ciega, decían los pocos registros que Freehold todavía conservaba de la zona, aunque nadie recordaba ya por qué.
 
-—Esta es la tercera esta semana con esta intensidad —dijo Hornet, leyendo algo en su propio escaneo—. Exactamente el patrón del que hablábamos en Freehold. Sea lo que sea lo que el Acorazado está removiendo, no se está quedando quieto en un solo lugar.
+—Punto alto, línea de vista limpia hasta la tormenta que se está formando al oeste, y suficiente distancia de Freehold para que nadie nos vea calibrar nada que no debería estar calibrando —dijo Hornet, ya asentando Aspect of Glass en lo que quedaba de la azotea—. Sirve.
 
-—Deberíamos refugiarnos de todas formas —dijo Ghost—. Entender el patrón no es lo mismo que estar a salvo de él.
+La neblina rojiza se arrastraba baja sobre el techo, iluminada de a ratos por relámpagos todavía lejanos. Antenas muertas, dobladas en ángulos que ningún viento normal explicaba, vibraban cada vez que el aire cargado pasaba entre ellas — un zumbido bajo, casi musical, que no se detenía. Las pocas luces de emergencia que le quedaban al edificio parpadeaban sin ritmo, como si no terminaran de decidir si seguir encendidas.
 
-Se guarecieron bajo el saliente de una estructura Cabal en ruinas, lo bastante cerca de Freehold para ver sus luces parpadeando en la distancia, lo bastante lejos para que la tormenta se sintiera como algo privado, exclusivo de los dos.
+—Esto no se siente a clima normal —dijo Kyle, mirando las nubes cargadas acercándose despacio desde el oeste.
 
-Kyle se quedó mirando el cielo, los relámpagos partiendo la oscuridad en fracciones de segundo que dejaban, cada vez, una silueta distinta grabada en la retina.
+—No lo es —confirmó Ghost—. Mismo patrón que reportó Freehold. Se está formando más rápido de lo que debería.
 
-—Nunca me había gustado esto —dijo—. La electricidad. Siempre se sintió como algo que no elegía nada, que solo iba adonde el camino era más fácil.
-
-—Esa es la parte que a mí me gusta —dijo Carina, sentándose cerca, todavía con la mano derecha algo rígida, el recuerdo del Jardín todavía fresco en los dedos—. No elige. No calcula. Solo se descarga, entera, en el sitio exacto donde ya no puede contenerse más.
+Tenían tiempo — el suficiente para revisar lecturas, calibrar lo que hiciera falta calibrar, esperar la ventana de despegue hacia Eirene. Kyle se quedó mirando la tormenta un momento más de lo necesario.
 
 ---
 
-## VII. The Lesson She Did Not Mean to Give
+## VII. Two Small Failures
 
-—¿Sabes qué se siente cuando invoco mi Bladedancer? —preguntó Carina, después de un momento, mirando otro relámpago partir el cielo en dos.
+—¿Vas a intentarlo? —preguntó Carina, sin levantar la vista del panel que estaba revisando.
 
-—No.
+—¿Intentar qué?
 
-—Se siente como esto. —Señaló la tormenta con la barbilla, sin apartar los ojos de ella—. La misma energía, solo que corriendo por mi cuerpo en vez de por el cielo. No la controlo tanto como la dejo pasar a través de mí sin que me destruya en el proceso. Al principio pensé que la controlaba. Ahora creo que solo aprendí a no estorbarle el camino.
+—Lo que sea que llevas mirando en esa tormenta los últimos cinco minutos.
 
-Kyle se quedó en silencio, algo en la frase asentándose en un lugar que no esperaba que aterrizara tan directo.
+Kyle no lo negó. Extendió la mano hacia el cielo cargado, buscando el mismo eco que había sentido en el Jardín — nada tan claro como una petición, más como intentar agarrar algo por el borde equivocado. Cerró el puño alrededor de la Luz de la misma forma en que siempre había cerrado el puño alrededor de Alborada o del Vacío: tirando, exigiendo, forzando una respuesta.
 
-No fue una lección. Carina no se lo dijo pensando que le enseñaba nada — era solo una observación, dicha en voz alta porque el cielo se lo pedía. Pero Kyle sintió, mientras la tormenta seguía descargándose sin ningún patrón que la excusara, algo en su propio pecho respondiendo a la misma frecuencia, como si llevara toda su vida cargando una versión de esa misma energía sin haber tenido nunca el lugar correcto, ni la persona correcta al lado, para dejarla salir.
+Un par de chispas le recorrieron los dedos. Nada más. Las luces de emergencia más cercanas tartamudearon un segundo y volvieron a su parpadeo normal.
+
+—Eso fue... algo —dijo Ghost, con la cautela de quien no sabe todavía si alarmarse.
+
+Kyle lo intentó otra vez, el mismo gesto, un poco más de fuerza detrás. El resultado fue casi idéntico — más chispas, un olor tenue a algo quemándose que no debería estar ahí, nada que se pareciera remotamente a lo que había sentido en el Jardín.
+
+Carina no dijo nada al principio. Después no pudo evitarlo del todo: una risa corta, contenida, que se le escapó antes de que pudiera decidir si debía dejarla salir.
+
+—¿Te estás riendo de mí?
+
+—Un poco. —No sonó a disculpa—. Estás tratando una tormenta como si fuera una cerradura. Como si hubiera un truco de muñeca correcto y solo necesitaras encontrarlo.
 
 ---
 
-## VIII. Stormcaller
+## VIII. What She Meant By Letting It Pass
 
-No lo decidió.
+—Entonces dime cuál es el truco.
 
-Eso fue lo primero que notó, después, cuando intentó reconstruir el momento y no pudo encontrar el punto exacto donde había elegido hacer lo que hizo: no hubo cálculo, ni la pausa de costumbre antes de extender la mano hacia la Luz. Solo la tormenta, y algo en Kyle que dejó de resistirse a parecerse a ella.
+—No es un truco. —Carina se acercó, la vista todavía en la tormenta, no en él—. No agarres la tormenta. Deja que pase. No sujetes el Vacío ni la Luz del Viajero con todo tu control encima, como si fueran algo que hay que dominar antes de que te domine a ti. Solo ábrete. Deja que encuentre el camino que ya sabe.
 
-La energía lo recorrió entero, sin filtro, sin la calidez controlada de Alborada ni la agresión fría del Vacío — algo más crudo, más eléctrico, que no le preguntó permiso antes de correr por sus brazos y salir disparado hacia el cielo abierto en un arco que se fundió, por un instante imposible de medir, con el propio relámpago que lo había provocado.
+—Eso no suena a instrucción real.
+
+—No lo es. —Se encogió de hombros—. Es lo más cerca que tengo. Con mi Bladedancer nunca aprendí a controlarla del todo. Aprendí a dejar de estorbarle el paso.
+
+Kyle cerró los ojos esta vez. No extendió la mano. No tiró de nada. Se quedó quieto, respirando, dejando que el mismo cosquilleo de antes subiera por sus brazos sin ir a buscarlo.
+
+Esta vez no se detuvo en las puntas de los dedos.
+
+La energía lo recorrió entero, sin filtro, sin la calidez controlada de Alborada ni la agresión fría del Vacío — algo más crudo, más eléctrico, que encontró la tormenta misma y se fundió con ella por un instante imposible de medir. Las nubes reaccionaron de verdad esta vez: un relámpago cayó más cerca de lo que ningún relámpago debería caer sin motivo, y las luces de la azotea se apagaron enteras un segundo antes de volver, todas a la vez.
 
 —¡Kyle! —Ghost, la voz partida entre alarma y algo que no era del todo miedo.
 
-Cuando terminó, Kyle se quedó de pie, temblando, la piel todavía cargada con algo que tardó varios segundos en apagarse del todo.
+Cuando terminó, Kyle se quedó de pie, temblando, la piel todavía cargada con algo que tardó varios segundos en apagarse.
 
-—¿Qué fue eso? —preguntó, con la misma pregunta exacta que le había hecho a Carina una hora antes.
+—¿Qué fue eso? —preguntó, mirándose las manos.
 
-—No lo sé —dijo Ghost—. Pero no era Solar. Y no era Vacío.
-
-—Arco —dijo Carina, de pie, mirándolo con algo parecido al reconocimiento—. Acabas de encontrar tu tercer elemento.
-
-Kyle se miró las manos, todavía sintiendo el eco de algo que no había elegido y que, de todas formas, se sentía más honesto que la mitad de las cosas que sí elegía.
-
-—No lo controlé —dijo—. Para nada.
-
-—Nadie controla una tormenta la primera vez. —Carina se acercó, algo en su expresión suavizado por primera vez desde que habían salido del Jardín—. Se descarga entera, en el sitio exacto donde ya no puede contenerse más. Ya te lo dije.
+—Arco —dijo Carina, de pie, mirándolo con algo parecido al reconocimiento—. Esta vez de verdad.
 
 ---
 
 ## IX. Chispitas
 
-Se quedaron ahí un momento más, la tormenta empezando por fin a ceder, los relámpagos cada vez más espaciados sobre el cielo de óxido oscuro.
+Se quedaron ahí un momento más, la tormenta todavía descargándose a lo lejos, más contenida ahora que antes de que Kyle la tocara.
 
-—Eso podría haberte matado —dijo Ghost, ya con la voz de vuelta a algo parecido a la normalidad—. Descargar poder sin filtro, sin entrenamiento, en medio de una tormenta real.
+—Eso podría haberte matado —dijo Ghost, la voz de vuelta a algo parecido a la normalidad—. Dos intentos fallidos y un tercero sin ningún control real.
 
 —Podría —admitió Kyle—. No lo hizo.
 
@@ -204,13 +212,89 @@ Carina lo miró de arriba abajo, con la misma precisión evaluadora que aplicaba
 
 —¿Perdón?
 
-—Te acabas de convertir, literalmente, en la tormenta. —Se cruzó de brazos, la sonrisa quedándose—. Alguien tenía que ponerle nombre a eso, y no vas a hacerlo tú mismo. Chispitas.
+—Te vi fallar dos veces intentando forzarlo, y una vez logrando que pasara por dejar de intentarlo. —Se cruzó de brazos, la sonrisa quedándose—. Alguien tenía que ponerle nombre a eso, y no vas a hacerlo tú mismo. Te acabas de convertir, literalmente, en la tormenta. Chispitas.
 
 —Eso no suena a un apodo que sobreviva el resto de la guerra.
 
-—Sobrevivirá exactamente porque no suena a nada que tú elegirías. —Carina ya se movía hacia Freehold, el paso ligero por primera vez en todo el día—. Vamos. Todavía tenemos que averiguar qué fue lo que se despertó ahí abajo. Y ninguno de los dos va a hacerlo con la ropa empapada.
+—Sobrevivirá exactamente porque no suena a nada que tú elegirías. —Carina ya se movía de vuelta hacia el borde de la azotea, el paso ligero por primera vez en todo el día—. Ahora vamos a averiguar qué hacer con lo mío.
 
-Kyle la siguió, la piel todavía cosquilleando con algo que no tenía nombre propio hacía menos de una hora, y que ahora, de la peor manera posible, ya lo tenía.
+---
+
+## X. The Shape That Wouldn't Fall
+
+—Algo se movió abajo —dijo Hornet, el escáner ya orientado hacia el borde del techo—. Un solo blanco. Cabal, o lo que queda de algo Cabal.
+
+Un dron de vigilancia ascendía despacio desde los pisos inferiores, la carcasa oxidada, corrompida por la misma veta oscura que llevaban semanas viendo en todo el sistema — atraído, quizás, por la descarga que acababa de sacudir el edificio entero.
+
+Carina no dudó. Última Palabra, un disparo limpio, directo al núcleo expuesto.
+
+El dron se tambaleó. No cayó.
+
+—Otra vez —dijo, y disparó una segunda vez, el mismo punto exacto.
+
+Volvió a tambalearse. Volvió a enderezarse, la corrupción recomponiéndolo antes de que terminara de caer del todo.
+
+—El cuerpo no es el problema —dijo Hornet—. Sigue recibiendo algo de otro lado. No puedo ubicar la fuente.
+
+Carina bajó el arma un segundo, algo en su expresión más cerca de la frustración que del miedo.
+
+—Le estoy dando exactamente donde tengo que darle. Y no alcanza.
+
+---
+
+## XI. Tie the Loose Threads
+
+Kyle se acercó, todavía con el eco de la tormenta cosquilleándole en los brazos.
+
+—Yo hice lo mismo hace un minuto. Intenté forzarlo.
+
+—Esto no es lo mismo.
+
+—Es exactamente lo mismo. —Se quedó mirando el dron, la forma en que se recomponía cada vez—. No puedes consumir algo sin entenderlo primero. Eso es lo que el Vacío quiere de ti. No la fuerza. La comprensión.
+
+Carina no respondió de inmediato, la vista fija en el dron.
+
+—Detente —dijo Kyle, más despacio—. Antes de disparar otra vez. Mira qué lo sostiene, no solo dónde le duele.
+
+Ella se detuvo. Miró.
+
+—Ata los hilos sueltos primero —dijo Kyle, dejando un espacio entre cada frase, sin prisa por llenarlo—. Y entonces suelta.
+
+—¿Y después qué?
+
+—Dale una dirección. —La miró—. La tuya. No la del arma. La tuya.
+
+Carina cerró la mano — no alrededor de Última Palabra esta vez, sino en el aire, buscando el mismo ángulo que había encontrado en el Jardín sin buscarlo.
+
+Esta vez lo buscó a propósito.
+
+---
+
+## XII. What Held It Together
+
+El hilo violeta-oscuro respondió más rápido de lo que ella esperaba, como si hubiera estado esperando que alguien por fin le preguntara bien. No se enroscó alrededor del dron. Se estiró más allá de él, hacia un punto en el aire que ningún sensor de Hornet había marcado — una conexión tensa, casi invisible, entre el dron y algo más profundo en el edificio que seguía alimentándolo.
+
+Carina tiró.
+
+El hilo se cortó. El dron, sin nada más que lo sostuviera desde abajo, cayó de una vez y no volvió a moverse.
+
+Se quedó con la mano todavía en el aire, respirando fuerte, algo entre el asombro y el agotamiento cruzándole la cara.
+
+—No estaba disparándole al cuerpo correcto —dijo, casi para sí misma—. Nunca lo estuve.
+
+—Pistolera —dijo Kyle, en voz baja, no como el apodo de siempre sino como algo más cerca de un eco—. Acabas de convertir una bala en dirección.
+
+Carina lo miró, algo filoso y ligero a la vez en la expresión.
+
+—No le pongas nombre a esto tampoco. —Bajó la mano, el temblor todavía ahí—. Todavía no.
+
+Se quedaron ahí un momento más, el edificio otra vez en silencio, la tormenta cediendo por fin de verdad.
+
+—Deberíamos volver —dijo Hornet—. Freehold, después Eirene. Todavía tenemos ese mapa que descifrar.
+
+Ninguno de los dos se movió de inmediato. Los dos cargaban, sin decirlo, algo nuevo que ninguno sabía todavía cómo nombrar del todo — y por primera vez en todo el día, ninguno tenía prisa por hacerlo.
+
+Bajaron de Vigilancia Ciega juntos, la tormenta apagándose despacio a sus espaldas.
 
 ---
 
@@ -220,8 +304,6 @@ Kyle la siguió, la piel todavía cosquilleando con algo que no tenía nombre pr
 
 **El Jardín Negro (Secciones III-V), a petición del autor.** Verificado antes de escribir: Kyle ya tiene una historia mayor y muy establecida ahí (`10_Chapters/Age_I/Cap_01_A_New_Shape.md`, Sección X-XII) — entró solo en Age I, mató al Mente Jardín, "el Jardín Negro había caído", el Viajero pulsó, la Ciudad lo sintió. Confirmado con el autor: no es el Jardín activo de antes — son sus ruinas caídas, la misma cámara donde el Mente cayó, ahora colapsada y silenciosa, con resonancia residual de Oscuridad/Vacío que ningún colapso terminó de apagar. Kyle vuelve por primera vez desde entonces, y por primera vez no solo — el peso de ese regreso está en las Secciones II-III. **Origen del Vacío de Carina:** decisión fijada con el autor — esto es el despertar crudo y sin nombre, no el Shadowshot formado y nombrado que ya vive fijado en Season of the Seraph (Age XII, `Carina.md`, batalla sobre la Tierra, "Síguelo"). Mismo patrón que Kyle con Stormtrance/Chaos Reach: el despertar llega primero, sin control ni nombre; el dominio nombrado llega años después. `02_Characters/Carina.md` corregida en la misma sesión — la nota anterior sobre el desbloqueo decía "House of Wolves" por error heredado de una fase de diseño anterior a que la muerte de Lena quedara fijada en Taken King; corregida para apuntar aquí.
 
-**El origen de Stormcaller/"Chispitas" (Secciones VI-IX)**, según el diseño ya fijado en `Semillas_2026-08-02_Apodos_ChispitasPistolera.md`: la tormenta en Freehold, Carina comparando la energía de la tormenta con la de su propio Bladedancer sin intención de enseñarle nada, y Kyle encontrando su tercer elemento sin decidirlo. Confirmado y protegido: **Chaos Reach no aparece** — sigue reservada para el punto de quiebre futuro en Forsaken (ver `Guardian.md`). El apodo nace en el mismo tono ligero que pedía la semilla original.
+**Columna vertebral añadida (2026-08-02, misma sesión):** el Jardín Negro y la tormenta comparten causa. Ghost detecta, en los registros de Freehold, una lectura anómala en el sector del Jardín Negro y un patrón de tormentas eléctricas triplicado desde que el Acorazado llegó a Saturno; ambas cosas quedan explícitamente enlazadas como síntomas de la misma perturbación — la sola presencia de Oryx en el sistema ya está despertando puntos de Oscuridad/Luz que se creían cerrados, mucho antes de que Eirene sea arrancada de su lugar en el Cap. 16. Esto convierte la visita al Jardín de un impulso personal puro a una mezcla de deber y necesidad no confesada del todo ("no es solo deber lo que me está llevando hasta ahí"). Nunca se explica más de lo necesario — el vínculo queda dicho una vez, sin insistir, coherente con el registro "mudo" que el vault ya usa para lore que se paga después.
 
-**Columna vertebral añadida (2026-08-02, misma sesión):** las dos revelaciones ya no son coincidencias sueltas — comparten causa. Ghost detecta, en los registros de Freehold, una lectura anómala en el sector del Jardín Negro y un patrón de tormentas eléctricas triplicado desde que el Acorazado llegó a Saturno; ambas cosas quedan explícitamente enlazadas como síntomas de la misma perturbación — la sola presencia de Oryx en el sistema ya está despertando puntos de Oscuridad/Luz que se creían cerrados, mucho antes de que Eirene sea arrancada de su lugar en el Cap. 16. Esto convierte la visita al Jardín de un impulso personal puro a una mezcla de deber y necesidad no confesada del todo ("no es solo deber lo que me está llevando hasta ahí"), y la tormenta deja de ser clima al azar para volverse la misma perturbación expresándose distinto. Nunca se explica más de lo necesario — el vínculo queda dicho una vez, sin insistir, coherente con el registro "mudo" que el vault ya usa para lore que se paga después.
-
-**Orden de las dos revelaciones, decisión de esta sesión:** el despertar de Carina ocurre primero (Jardín Negro), la tormenta después — permite que la frase de Carina sobre su Bladedancer ("no la controlo tanto como la dejo pasar a través de mí") llegue ya cargada con lo que acaba de descubrir sobre sí misma horas antes, sin que ella lo note conscientemente. Ninguna de las dos revelaciones se nombra como "enseñanza" — ambas llegan como observación entre dos personas que todavía no saben del todo qué son la una para la otra.*
+**Revisión 2026-08-10 — reescritura completa de Secciones VI-XII (Blind Watch / Vigilancia Ciega), capítulo pasa de IX a XII secciones.** Origen: dos incubadoras de Codex sobre la necesidad de nuevos poderes, más una puesta en escena muy específica que el autor agregó directamente al archivo de la incubadora (`99_Reference/Agent_Notes/codex/2026-08-10_incubadora-third-element-necesidad-nuevos-poderes.md`, líneas 48-98) mientras una primera versión de este capítulo ya estaba escrita con los poderes naciendo en combate contra Vex Poseídos dentro del Jardín Negro. Esa primera versión se descartó por instrucción explícita del autor a favor de esta — confirmado con él antes de reescribir, para no adivinar mal dos veces. El Jardín Negro (Secciones III-V) vuelve a su forma original del 2026-08-02, sin combate: Carina siente el hilo de Vacío sin nombre, a solas, sin que nada la amenace. Después, en la azotea de **Vigilancia Ciega** (Bahía Meridiana, Marte — referencia visual al mapa de Crisol de Destiny 1, ya sin función de Crisol en este vault), Kyle intenta invocar Arco por la fuerza dos veces y falla (Sección VII); Carina lo corrige — no agarrar la tormenta, dejarla pasar — y al tercer intento, sin forzar nada, nace Stormtrance de verdad (Sección VIII); Carina lo nombra "Chispitas" justo porque vio los dos intentos torpes antes del logro (Sección IX). Como espejo inverso, un dron Cabal corrompido por la misma infección Poseída resiste el fuego de Última Palabra sin caer (Sección X) — Kyle, que acaba de aprender a no forzar el Arco, le devuelve la lección a Carina fragmentada en frases cortas, no como discurso: detente, mira qué lo sostiene, ata los hilos sueltos, y entonces suelta — dale una dirección, la tuya (Sección XI). Carina encuentra y corta la conexión real que sostenía al dron, no el cuerpo (Sección XII); Kyle dice "Pistolera" como eco del apodo ya nacido en el Cap. 14, no como bautismo nuevo, y ella se niega a nombrar esto todavía — mismo gesto que ya usó en la Sección V. **Reglas duras preservadas:** Chaos Reach no aparece; Carina no llega a Shadowshot/Nightstalker formado (sigue reservado a Season of the Seraph); no hay lenguaje de Estasis (detenerse no es congelar); los "hilos" son conexiones tácticas percibidas por el Vacío, no el tejido universal de Strand; la Luz no habla ni entrega poder por recompensa — responde a una necesidad que los dos sienten antes de saber nombrarla. El diseño original del 2026-08-02 (Jardín antes que tormenta, ninguna revelación nombrada como "enseñanza") queda intacto en su forma, aunque el mecanismo de la tormenta cambió de "le pasa a Kyle" a "Kyle aprende a dejar que le pase".*
