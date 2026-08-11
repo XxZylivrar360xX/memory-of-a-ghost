@@ -66,6 +66,33 @@ Notas de ejecucion:
 - El humor no debe trivializar el despertar. La risa disimulada funciona porque humaniza el fracaso; el logro posterior debe sentirse fisico y peligroso.
 - Este beat puede pagar mejor el apodo "Chispitas" que la version actual, porque el nombre ya no describe solamente electricidad: describe el primer intento torpe de Kyle antes de aprender a dejar de forzar.
 
+**Escena ejecutable para el despertar crudo del Vacío de Carina — propuesta de Victor (2026-08-10):**
+
+Funcion: crear un espejo inverso de "Chispitas". Kyle aprende Arco cuando deja de alcanzar/controlar la tormenta; Carina toca el Vacío cuando deja de intentar matar el problema y entiende que primero debe detenerse, comprender que sostiene al enemigo, atar los hilos sueltos y soltar con direccion propia. Esto prepara Shadowshot sin volverlo Shadowshot completo.
+
+Orden de movimientos sugerido para Claude Code:
+
+1. Ubicar la escena despues del intento/logro de Kyle con Arco o en una anomalia inmediatamente posterior en Marte. El entorno puede seguir siendo Bahia Meridiana/Freehold/Vigilancia Ciega, pero el foco debe cambiar de electricidad a espacios entre enemigos: sombras marcadas, zonas de poca luz, cables/antenas/hilos fisicos del rascacielos como eco visual.
+2. Presentar un problema que Solar no resuelve: enemigos Poseidos o un nodo/ancla menor que no cae de forma estable aunque Carina acierte. El disparo pega; el patron sigue. La leccion es tactica, no moral: el blanco visible no es lo que sostiene el campo.
+3. Carina intenta resolverlo como Pistolera: precision, rapidez, La Ultima Palabra o Arma Dorada. Funciona contra cuerpos, no contra conexiones. Esto no debe sentirse como incompetencia; debe sentirse como que su herramienta correcta encontro una guerra escrita en otro idioma.
+4. Kyle, que acaba de aprender con Arco que forzar el poder era parte del problema, le devuelve una intuicion desde su experiencia con Vacío. No le ensena Shadowshot; le ofrece una forma de mirar. Debe hablar menos como maestro y mas como alguien que reconoce un error porque el tambien lo acaba de cometer.
+5. Linea/intencion propuesta por Victor para Kyle, a adaptar sin volverla discurso demasiado largo:
+
+   "No, sin practica. Muchos creen que el Vacío solo es consumir, como si fuera casi profano, algo que devora cosas. Pero es mas complejo. No puedes consumir sin antes comprender. Y si quieres comprender, tienes que detenerte, atar los hilos sueltos y entonces soltar. Darle al Vacío una direccion. Tu direccion. En una sentencia."
+
+6. Ajuste de voz recomendado: conservar el contenido, pero fragmentarlo con accion y respiracion. Kyle puede decirlo en tres o cuatro intervenciones breves mientras Carina observa el campo. La palabra "sentencia" funciona si queda como imagen puntual, no como cierre grandilocuente.
+7. Carina no responde aceptando la teoria. Responde haciendo. Se queda quieta, mira lo que no habia mirado, detecta los hilos/conexiones entre enemigos o entre el nodo y el campo. El Vacío aparece como tiron, tension, espacio que cede, no como flecha formada.
+8. El gesto final no debe ser Shadowshot completo: puede ser una hebra violeta cruda alrededor de un punto, un disparo de La Ultima Palabra hacia el espacio entre blancos, o una sombra tensa que debilita a los enemigos por un segundo. Lo importante es que por primera vez Carina entiende que no estaba buscando el cuerpo correcto, sino el punto que lo ataba a todo lo demas.
+9. Kyle no bautiza el poder. Si usa "Pistolera", debe ser como eco del apodo ya resignificado: no porque ella dispare bien, sino porque acaba de convertir una bala en direccion. Carina puede contestar con humor seco para evitar catarsis: no esta lista para nombrarlo.
+
+Notas de ejecucion:
+
+- Mantener el despertar como **Vacío crudo y sin nombre**. No usar "Shadowshot", "Nightstalker" ni terminologia de subclase en dialogo.
+- Evitar que esto parezca Hebra/Strand antes de tiempo. Aunque se hable de "hilos", aqui no son el tejido universal de Strand; son conexiones tacticas percibidas por el Vacío: anclas, dependencias, puntos de sujecion.
+- Evitar Estasis: detenerse no significa congelar ni imponer quietud absoluta; significa crear el silencio necesario para comprender antes de soltar.
+- La frase de Kyle debe respetar `12_Craft_Policies/voice/guardian-kyle.md`: no cerrar como ensayo universal si puede cerrar como decision concreta. La idea puede ser profunda, pero debe salir de una necesidad de campo.
+- Este momento debe reforzar `02_Characters/Carina.md`: "Shadowshot no es solo control de area: es la misma habilidad que usa para encontrar que conecta a las personas, aplicada al espacio de batalla."
+
 **Estado:** incubando.
 
 **Severidad editorial:** media-alta. No rompe canon, pero explica una friccion de causalidad importante: por que Marte ocurre, por que esos poderes despiertan justo ahi, y por que `The Third Element` pertenece a la columna de la guerra y no solo al sistema de apodos.
