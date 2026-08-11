@@ -30,7 +30,7 @@ El descenso se abrió, más abajo, a Las Lámparas — una sucesión de pasarela
 
 —¿Sientes eso? —preguntó, en voz baja, sin esperar del todo una respuesta.
 
-—Si te refieres a que este lugar se siente de luto —dijo Ghost—, sí. Lo he sentido desde que cruzamos la primera lámpara. No sé si el Hellmouth puede sentir algo en el sentido en que tú lo sientes. Pero si puede, esto es lo más parecido a eso que he registrado nunca.
+—Algo distinto. —Ghost tardó en encontrar la palabra, y no sonó del todo satisfecho con la que encontró—. No hay firma de combate. No hay patrulla activa donde debería haberla, y las que sí hay se mueven raro, como si tuvieran otro trabajo que hacer y esto les estorbara. Es una quietud con intención detrás. No sé todavía de qué clase.
 
 Al final de la última pasarela, el descenso se abrió sobre el gran portal — un arco tallado en hueso y piedra oscura, más alto que cualquier estructura que hubieran cruzado esa noche, latiendo con la misma cualidad viva-y-muerta que el resto del lugar, como una herida que el Hellmouth entero se negaba a dejar cerrar. Nadie tuvo que decirle a Kyle qué era. Lo supo con el mismo instinto con el que, meses atrás, había sabido que cruzar el umbral del Templo de Crota significaba no volver a ser exactamente quien había sido antes de hacerlo.
 
@@ -60,7 +60,7 @@ El canal se abrió, tenue, la señal peleando contra la misma interferencia que 
 
 —¿Qué están haciendo?
 
-—No estoy segura de que "haciendo" sea la palabra correcta. —Algo en la voz de Eris se apagó, como si la información le costara más de lo que dejaba ver—. Se mueven como quien oficia algo. Un rito, no un ataque.
+—No lo sé. —La honestidad, en la voz de Eris, sonaba casi como una disculpa—. Nunca vi a la Colmena moverse así. No es formación de guerra, no es patrón de caza. Obsérvalas antes de decidir nada. Si me equivoco adivinando desde aquí arriba, el que paga eres tú, no yo.
 
 Kyle se quedó en las sombras del corredor, observando.
 
@@ -206,51 +206,61 @@ No corrieron, en el sentido en que un cuerpo mortal corre. Se movieron, y el esp
 
 ## IX. The Closing Exit
 
-—Tenemos compañía —dijo Ghost, la voz tensa—. Las Hijas. Se están moviendo hacia aquí, rápido, y no vienen a completar un rito.
+—Tenemos compañía —dijo Ghost, la voz tensa—. Las Hijas. Se mueven hacia acá, rápido, y no vienen a terminar un rito.
 
 —¿La ruta de salida?
 
-—Comprometida. —Ghost proyectó un mapa parcial, cada vez más incompleto conforme el propio Hellmouth parecía reorganizarse contra ellos—. El pasaje por el que entramos está cerrándose, literal o figurativamente, no puedo confirmar cuál. Y no tenemos nada que perder ocultándonos mejor, porque nunca hubo nada que ocultar.
+—Comprometida. —Ghost proyectó lo que le quedaba de mapa, cada vez más incompleto, como si el propio Hellmouth se estuviera reorganizando en tiempo real contra ellos—. El pasaje por el que entramos se está cerrando, literal o figurativamente, no puedo confirmar cuál. Y ya no hay nada que ocultar, porque nunca hubo nada que ocultar.
 
-Kyle sintió el peso familiar de una decisión que no tenía una buena opción entre las disponibles.
+Kyle sintió el peso familiar de una decisión sin ninguna opción buena entre las disponibles.
 
 —Entonces buscamos otra salida.
 
-—No hay otra salida marcada.
+Ghost se detuvo en un único trazo del mapa que ninguno de los dos había considerado hasta ese momento: una espiral de escalones de piedra negra, suspendida en el aire sin ningún soporte visible, ascendiendo desde el borde de la cámara hacia las cámaras superiores del Hellmouth. Hacia el templo.
 
-—Entonces la hacemos.
+—¿Recuerdas que acordamos no ir por el templo de Crota?
 
-No hubo ningún parpadeo que marcara el momento, ninguna cobertura que colapsara, porque nunca hubo ninguna que sostener. Solo la certeza, ya del todo confirmada, de que las Hijas sabían exactamente dónde estaba parado — la misma certeza que Eris le había dejado, semanas atrás, en un hangar que ahora se sentía a un sistema entero de distancia: *vas solo, sin nada que te oculte.*
+—Lo recuerdo.
 
-En algún punto del Hellmouth, no muy lejos, algo más notó que ya no había nada que ocultar, también.
+—Es la única ruta que queda. Sube junto al borde de la corte, cruza por debajo de las cámaras altas, y sale a la superficie por algún punto que ni siquiera Eris llegó a mapear del todo. No puedo prometerte que no atraviese nada que preferirías evitar.
+
+Kyle miró la espiral. Ascendía hacia la oscuridad como si nunca terminara, cada escalón tallado con la misma piedra viva-y-muerta del resto del lugar.
+
+—No teníamos otra opción cuando decidimos rodear el rito. Tampoco la tenemos ahora.
+
+—Entonces subimos por donde no queríamos subir.
+
+En algún punto del Hellmouth, no muy lejos, algo más notó, también, que ya no había nada que ocultar.
 
 ---
 
 ## X. What Carina Felt
 
-Carina se detuvo a mitad de paso, la carcasa de Hornet deteniéndose también, en el mismo instante impreciso.
+Carina y Hornet ya llevaban minutos moviéndose por las criptas — el mismo laberinto de fosas y pasadizos que, según los registros que había reunido, terminaba en la Tumba del Mundo — cuando Hornet se detuvo a mitad de paso.
 
-—¿Sentiste eso?
+—¿Qué?
 
-—Algo se quebró —dijo Hornet—. Una presencia, cerca. Muy cerca, para lo que consideraríamos "cerca" en un lugar de este tamaño.
+—Algo se quebró. Cerca. Demasiado cerca para lo que consideraríamos "cerca" en un lugar de este tamaño.
 
 —¿Nuestra?
 
-—No. Y no es tecnología tampoco — no hay ninguna firma que colapsar. Es algo vivo, peleando por no ser notado, y perdiendo esa pelea de la peor forma posible.
+—No. Y no es tecnología — no hay firma que colapsar. Es algo vivo, peleando por no ser notado, y perdiendo esa pelea de la peor forma posible.
 
-Carina no necesitó que nadie le explicara lo que eso significaba. Cualquier cosa lo bastante desesperada para intentar pasar inadvertida en el Hellmouth y fallar de forma tan ruidosa estaba, en ese preciso momento, en peor posición que ella.
+Carina no necesitó que nadie le tradujera lo que eso significaba. Consultó la ruta que Hornet ya le había marcado hacia la Tumba: el pasadizo que buscaban corría, según el escaneo, casi pegado a la base de una escalera que subía hacia las cámaras del templo — la misma zona de donde venía la perturbación.
 
-Debajo de la lectura de Hornet, algo más — algo que ningún instrumento habría podido registrar. Un tirón, suave pero constante, hacia abajo, hacia las profundidades del Hellmouth, como si algo ahí quisiera que ella bajara con la misma certeza con la que una aguja encuentra el norte. No la asustó. La orientó. Era, sin que pudiera explicar por qué, la brújula más clara que tenía en un lugar donde todo lo demás se sentía perdido.
+—Está en el camino.
 
-—Eso que sientes no es una guía —dijo Hornet, la voz tensa, leyéndola sin que ella dijera una palabra—. O si lo es, no sabemos de quién es. No seas temeraria.
+—Está prácticamente encima del camino —corrigió Hornet—. Podemos rodearlo. Añade quince, veinte minutos.
 
-—Nunca lo soy —dijo Carina, ya orientándose hacia donde el tirón se sentía más fuerte—. Solo tengo prisa.
+—O podemos averiguar qué es antes de que decida rodearnos a nosotros.
 
-—La Tumba puede esperar.
+—Eso no es lo mismo que ayudar a un desconocido.
 
-—¿Vamos a ayudar a un desconocido?
+—No dije que fuera a ayudarlo. —Carina ya se movía hacia la escalera, el sigilo de siempre reemplazado por una velocidad más directa—. Dije que quiero saber qué está pasando lo bastante cerca de mi ruta como para que me importe si sale mal.
 
-—Vamos a averiguar qué está pasando lo bastante cerca de mí como para que me importe si sale mal. —Carina ya se movía, el sigilo de siempre reemplazado por una velocidad más directa—. Es la misma cosa, dicho distinto.
+—Es la misma cosa, dicho distinto.
+
+—Entonces deja de discutirla y cúbreme.
 
 ---
 
@@ -258,9 +268,13 @@ Debajo de la lectura de Hornet, algo más — algo que ningún instrumento habr�
 
 El Guardian ya había intentado lo obvio. Extendió la mano hacia la Luz, buscando el calor familiar de Alborada, las alas que habían resuelto la mitad de sus peores momentos — y no encontró nada, solo el peso de una Oscuridad tan densa que se sentía física, como si el Hellmouth entero hubiera cerrado el puño alrededor de él. Probó con la Bomba Nova, buscando el vacío en vez del fuego, y el resultado fue el mismo: ningún destello, ninguna respuesta, solo la certeza aplastante de estar completamente solo dentro de su propio cuerpo, sin nada más que ese cuerpo con qué pelear.
 
-—Perdimos toda cobertura —dijo Ghost, la voz tensa por encima del ruido creciente del Hellmouth despertando alrededor de ellos—. Las Hijas están cerca. Muy cerca. Y no tenemos ruta de salida marcada. Y tu Luz no responde — no sé explicarte por qué, solo que no está ahí ahora mismo, cuando más la necesitas.
+—Perdimos toda cobertura —dijo Ghost, la voz tensa por encima del ruido creciente del Hellmouth despertando alrededor de ellos—. Y no soy solo yo. Todo lo que normalmente puedo darte — lectura de ángulos, margen calculado, tu Luz respondiendo cuando la llamas — el Hellmouth se lo está comiendo entero. No sé explicarte por qué, solo que no está ahí ahora mismo, cuando más la necesitas.
 
-El Guardian no se detuvo a lamentar la situación. La analizó, buscando cualquier ángulo que la desesperación no hubiera terminado de cerrar todavía, y no encontró ninguno que no involucrara enfrentar a las Hijas directamente — una pelea que ni él ni Ghost creían poder ganar, y mucho menos sobrevivir el tiempo suficiente para escapar después.
+Subieron los primeros escalones de la espiral con la Colmena ya detrás de ellos — no las Hijas todavía, sino la patrulla que habían dejado atrás como advertencia. Dos Ogros se detuvieron al pie de la escalera, y sus ojos, un único punto de vacío hundido en cada frente, empezaron a arder con la misma luz enferma que iluminaba el resto del Hellmouth.
+
+—Cúbrete —dijo Ghost, y la primera mirada de vacío cruzó el aire donde Kyle había estado un segundo antes, deshaciendo la piedra que golpeó en su lugar.
+
+El Guardian no se detuvo a lamentar la situación. La analizó, buscando cualquier ángulo que la desesperación no hubiera cerrado todavía, y no encontró ninguno que no involucrara subir más rápido de lo que un cuerpo debería poder subir escaleras de piedra Colmena, con una pareja de Ogros disparando muerte concentrada desde abajo.
 
 —Necesitamos otra salida.
 
@@ -268,33 +282,49 @@ El Guardian no se detuvo a lamentar la situación. La analizó, buscando cualqui
 
 —Entonces necesitamos que aparezca una.
 
-Fue en ese instante, con la certeza fría de que la situación no tenía una solución propia, que la solución llegó de todas formas — no desde donde él la esperaba, sino desde una sombra en el corredor lateral que ninguno de los dos había notado hasta que decidió dejarse notar.
+Fue en ese instante, con la certeza fría de que la situación no tenía una solución propia, que la solución llegó de todas formas — no desde donde él la esperaba, sino desde un pasadizo lateral, a medio tramo de la escalera, que ninguno de los dos había notado hasta que alguien decidió dejarse notar.
 
 ---
 
 ## XII. The First Encounter
 
-El corredor lateral no era un pasillo, no en el sentido en que la palabra promete algo recto. Era una grieta entre pilares de piedra Colmena, angosta, envuelta en la misma niebla verde que parecía brotar de cada superficie del Hellmouth, tan espesa que apagaba los bordes de las cosas antes de que la vista terminara de definirlas. Una silueta se separó de esa niebla, entre dos columnas, con la clase de calma que solo tenían las personas que llevaban demasiado tiempo ahí abajo como para sobresaltarse con una sombra más.
+Dos siluetas salieron del pasadizo — una Cazadora, con la clase de calma que solo tenían las personas que llevaban demasiado tiempo operando sin nadie más en quien apoyarse; un Espectro pegado a su hombro, el ojo ya barriendo la escalera, la patrulla, la ruta.
 
-—Muévanse —dijo una voz que ninguno de los dos reconoció, sin presentación, sin preámbulo—. Hay una ruta al este que ustedes no pueden ver desde donde están parados. Yo sí.
+—Muévanse —dijo ella, sin presentación, sin preámbulo—. Hay un tramo al este que ustedes no pueden ver desde donde están parados. Yo sí.
 
-El Guardian se giró, el arma a medio alzar por puro reflejo, y se detuvo cuando vio de quién se trataba: una Cazadora, sola, con la clase de calma que solo tenían las personas que llevaban mucho tiempo operando sin nadie más en quien apoyarse.
+El Guardian se giró, el arma a medio alzar por puro reflejo, y se detuvo cuando la vio de cerca por primera vez: la funda al muslo, medio abierta por el movimiento, dejando ver la culata gastada de un revólver que reconoció antes de terminar de procesar el resto de ella.
+
+—Esa es Ultima Palabra.
+
+Ella no pareció sorprendida de que la reconociera. Su mirada bajó, apenas un segundo, hacia el arma que Kyle llevaba al costado — un cañón pesado, la superficie marcada por años de uso que ningún acabado de fábrica lograba disimular.
+
+—Y ese es el Predestinador. —Algo cruzó su expresión, rápido, casi divertido pese al momento—. El sistema es más pequeño de lo que pensaba.
 
 —¿Quién eres?
 
-—Alguien que estaba en el vecindario equivocado en el momento correcto. —No sonaba a broma, aunque tenía la estructura de una—. ¿Prefieres las presentaciones completas o prefieres seguir vivo los próximos cinco minutos? Porque solo tenemos tiempo para una de las dos cosas.
+—Alguien en el vecindario equivocado en el momento correcto. —No sonaba a broma, aunque tenía la estructura de una—. ¿Prefieres las presentaciones completas o prefieres seguir vivo los próximos cinco minutos? Porque solo alcanza el tiempo para una de las dos cosas.
 
 Ghost se interpuso, un movimiento pequeño, protector, el tipo de gesto que hacía sin necesitar pensarlo.
 
 —¿Cómo sabemos que podemos confiar en ti?
 
-La Cazadora lo miró — el primer momento, para ella, de ver realmente al Espectro del Guardian, no solo su silueta genérica en la distancia.
+—No lo saben. —La misma honestidad directa de todo lo demás que había dicho—. Yo tampoco sé si puedo confiar en ustedes, y aun así estoy aquí, ofreciendo la única salida que veo. Eso va a tener que bastar.
 
-—No lo saben —dijo, con la misma honestidad directa de todo lo demás que había dicho—. Pero yo tampoco sé si puedo confiar en ustedes, y aun así estoy aquí, ofreciendo la única salida que veo. Eso tendrá que bastar por ahora.
+Ella alzó Ultima Palabra, no hacia ellos, sino hacia el tramo de escalera por el que acababan de subir, cubriendo el ángulo que ninguno de los dos había pensado en cubrir.
 
-Hornet se asomó desde detrás de ella, callado, evaluando a Ghost con la misma cautela con la que Ghost la evaluaba a ella.
+—¿Eres Dredgen? —preguntó, sin apartar la vista del ángulo, la pregunta tan práctica como cualquier otra cosa que hubiera dicho.
 
-—Hola —dijo Hornet, al fin, con una brevedad que no invitaba a más—. Vamos a tener que confiar los cuatro en algo, en los próximos minutos. Empecemos por no dispararnos entre nosotros.
+—¿Qué? No.
+
+—Bien. Con eso basta por ahora.
+
+—Yo diría que depende del día —dijo Ghost—. Hay veces que sí tiene el mal genio de uno.
+
+—Ahora no, Ghost.
+
+Hornet se asomó desde detrás de ella, callado, evaluando a Ghost con la misma cautela con la que Ghost lo evaluaba a él.
+
+—Hola —dijo, al fin, con una brevedad que no invitaba a más—. Vamos a tener que confiar los cuatro en algo, en los próximos minutos. Empecemos por no dispararnos entre nosotros.
 
 —De acuerdo con eso —dijo Ghost.
 
@@ -304,23 +334,49 @@ No fue una amistad. No fue ni siquiera confianza todavía. Fue, simplemente, el 
 
 ## XIII. The Joint Ascent
 
-La ruta que la Cazadora conocía no era fácil, pero era real — un pasaje que su sigilo paracausal había detectado semanas atrás, explorando el mismo territorio por razones que no tenían nada que ver con la cámara de Crota.
+La ruta que ella conocía no era fácil, pero era real — un tramo lateral que Hornet había registrado semanas atrás, escaneando el mismo territorio por razones que no tenían nada que ver con la cámara de Crota, y que nunca había sido pensado para sacar a dos Guardianes perseguidos al mismo tiempo.
 
-—A la izquierda —dijo ella, moviéndose con una fluidez que no dependía de ningún módulo, ninguna tecnología que pudiera fallar en el peor momento posible—. Y agáchense en tres, dos—
+—No va a aguantar el peso de los cuatro si nos quedamos parados —dijo Hornet, la voz baja, midiendo cuánto valía la pena decir—. Quince metros más arriba el escalón se vuelve puente. No sé cuánto tiempo va a sostenerse ahí. No lo he probado con carga extra.
 
-Un grupo de Acólitos apareció desde un recodo que ninguno de los dos Guardianes había visto.
+—¿Cuánto es "no sé"? —preguntó Ghost.
 
-Ella los desarmó antes de que el Guardian terminara de procesar la amenaza — no con fuerza bruta, sino con la clase de precisión quirúrgica de alguien que había pasado años aprendiendo exactamente dónde golpear para que el resto del problema se resolviera solo.
+—Lo bastante como para que no debamos quedarnos a comprobarlo.
+
+Subieron. Los dos Ogros seguían abajo, las miradas de vacío deshaciendo piedra cada pocos segundos, cada vez más cerca del ángulo correcto.
+
+—A la izquierda —dijo ella—, y agáchense en tres, dos—
+
+Un grupo de Acólitos apareció desde un recodo que ninguno de los dos Guardianes había visto. Ella los desarmó antes de que Kyle terminara de procesar la amenaza — no con fuerza bruta, sino con la clase de precisión quirúrgica de alguien que había pasado años aprendiendo exactamente dónde golpear para que el resto del problema se resolviera solo.
 
 —Impresionante —dijo Ghost, sin poder evitarlo.
 
 —Sobreviviente —corrigió ella—. Hay una diferencia, pero agradezco el cumplido de todas formas.
 
-El Guardian cubrió el flanco que ella dejaba abierto al moverse tan rápido, sin que nadie se lo pidiera, leyendo el ritmo de su avance con la misma velocidad con la que ella leía el terreno. No coordinaban con palabras. No tenían tiempo, ni el vínculo todavía construido, para coordinar así.
+—El Predestinador tiene mejor alcance que eso —dijo Kyle, cubriendo el flanco que ella dejaba abierto al moverse tan rápido—. Si me dejas un segundo de ángulo limpio.
 
-Nadie se lo había pedido. Carina registró eso en algún rincón de la cabeza que todavía no había terminado de procesar el resto del combate: la última vez que había estado tan segura de poder cubrir cada ángulo ella sola había sido desde una grúa, semanas atrás, y el ángulo que no cubrió esa vez le había costado lo que más le importaba en el sistema. Esta vez, sin que ella lo pidiera ni lo planeara, alguien más estaba cubriendo el que ella dejaba.
+—No hay segundos de ángulo limpio aquí arriba. Solo los que te robas.
 
-Coordinaban con instinto puro, dos sistemas separados encontrando, sin planearlo, la forma de funcionar como uno solo por el tiempo mínimo indispensable.
+—Entonces róbame uno.
+
+Fue entonces — a mitad de un giro, cubriendo el hueco que ella dejaba, sin que nadie se lo pidiera — que Kyle sintió algo ceder en el pecho: no la fuerza completa de siempre, no las cuatro alas enteras de Alborada, sino una grieta, apenas suficiente, en la Oscuridad que lo había tenido con el puño cerrado desde que cruzó el gran portal.
+
+—Ghost.
+
+—Lo siento. —La voz de Ghost sonaba tan insegura como Kyle se sentía—. No es todo. Pero es algo.
+
+No hubo tiempo para preguntarse por qué ahora, ni de dónde. El Guardian extendió la mano hacia esa grieta y la Luz respondió — incompleta, dolorosa, apenas dos alas donde debería haber cuatro — lo suficiente para cerrar la distancia hacia los dos Custodios que les cerraban el último tramo antes del puente y terminar con ellos antes de que la Luz volviera a apagarse.
+
+Detrás de él, tres disparos sonaron casi como uno solo — el abanico completo de Ultima Palabra, cada bala encontrando el mismo blanco antes de que el primero terminara de caer, cubriéndole la espalda sin que él tuviera que pedirlo ni ella tuviera que anunciarlo.
+
+—Bonitas alas —dijo ella, ya moviéndose otra vez.
+
+—Bonita puntería.
+
+—La tuya no está mal, para alguien sin Luz hasta hace diez segundos.
+
+Coordinaban con instinto puro, dos sistemas separados encontrando, sin planearlo, la forma de funcionar como uno solo por el tiempo mínimo indispensable. Carina registró eso en algún rincón de la cabeza que todavía no había terminado de procesar el resto del combate: la última vez que había estado tan segura de poder cubrir cada ángulo ella sola había sido desde una grúa, semanas atrás, y el ángulo que no cubrió esa vez le había costado lo que más le importaba en el sistema. Esta vez, sin que ella lo pidiera ni lo planeara, alguien más estaba cubriendo el que ella dejaba.
+
+Nadie se lo había pedido.
 
 ---
 
@@ -329,6 +385,14 @@ Coordinaban con instinto puro, dos sistemas separados encontrando, sin planearlo
 Emergieron del abismo del Hellmouth juntos, la luz gris del exterior golpeándolos con la brusquedad de algo que ninguno de los dos había esperado volver a ver tan pronto.
 
 Se detuvieron, ambos respirando con la agitación específica de quien acaba de sobrevivir algo que no debería haber sobrevivido, y por un momento ninguno dijo nada — solo el silencio compartido de dos personas evaluando, en tiempo real, si el otro había sido tan útil como acababa de parecer o si la adrenalina estaba exagerando el recuerdo.
+
+Más abajo, en la ladera, algo en el aire tembló — no como calor, no como polvo, sino como si un espacio entero hubiera decidido, por un instante, dejar de estar seguro de su propia forma. Ghost giró la lente hacia allí antes de que Kyle terminara de notarlo.
+
+—Eso no es camuflaje normal —dijo Ghost, la voz bajando a registro técnico puro, el miedo reciente todavía filtrándose por debajo—. Un módulo estándar oculta una firma. Eso está haciendo que el casco entero decida, cada pocos segundos, qué forma tener. No sé qué tecnología hace eso.
+
+—No es tecnología, exactamente —dijo Hornet, sin más explicación, mientras la nave terminaba de asentarse en la ladera, el casco todavía indeciso entre dos superficies distintas.
+
+Kyle no preguntó más. Guardó la imagen, sin comentarla, de la misma forma en que había guardado la frase de Ghost sobre las llaves y los tronos — para pensarla después, cuando hubiera tiempo de pensar en algo que no fuera sobrevivir el resto de la noche.
 
 —Gracias —dijo el Guardian, al fin—. En serio.
 
@@ -518,7 +582,7 @@ Elsie no respondió de inmediato. No porque no supiera qué decir, sino porque l
 
 —¿Por qué lo preguntas?
 
-—No sé qué pensaba Oryx antes de esto. —Kyle miró el fuego, sin verlo del todo—. Pero maté a Crota porque tenía que hacerlo, y ahora hay gente muriendo en todo el sistema que ni siquiera sabe que existo. No sé cómo se llega de ahí a esto. Solo sé que él llegó, y que yo sigo pensando que si no lo arreglo yo, nadie más lo va a hacer.
+—Maté a Crota porque tenía que hacerlo. Eso lo tengo claro. —Kyle miró el fuego, sin verlo del todo—. Lo que no tengo tan claro es esto otro: cada vez que algo se resiste, cada vez que un enemigo no se dobla como debería, hay una parte de mí que empieza a pensar que el problema no es la pelea. Es que todavía no encontré la forma correcta de obligarlo a doblarse. Como si proteger a alguien y someter a lo que sea que lo amenaza terminaran siendo, en el fondo, la misma orden con nombres distintos.
 
 —No se lo preguntarías a la Vanguardia.
 
@@ -540,7 +604,7 @@ Elsie consideró la pregunta con la misma seriedad con la que consideraba todo l
 
 —¿Cómo lo sabes?
 
-—Porque Oryx nunca se detuvo a hacerse esta pregunta. —Elsie lo miró directamente, sin nada calculado en la mirada—. Toda su filosofía se construyó sobre la certeza absoluta de que tenía razón. Tú acabas de venir hasta aquí, de noche, a preguntarle a alguien más si te estás perdiendo. Eso no es lo que hace un hombre que ya decidió que su lógica es la única verdad. Es exactamente lo contrario.
+—Porque Oryx dejó de hacerse esa pregunta hace mucho tiempo. —Elsie lo miró directamente, sin nada calculado en la mirada—. Para él, someter y proteger terminaron siendo la misma orden, y dejó de necesitar comprobar la diferencia entre las dos. Tú todavía la compruebas. Todavía te detienes a preguntarte si lo que sientes cuando algo se dobla ante ti es alivio de haber protegido lo que sea que estabas protegiendo, o es solo el gusto de haber ganado. Eso no te vuelve inocente. Te vuelve alguien que todavía puede notar la diferencia, antes de perderla del todo.
 
 —Pero está aquí por Crota. —No lo dijo como pregunta—. Por su hijo.
 

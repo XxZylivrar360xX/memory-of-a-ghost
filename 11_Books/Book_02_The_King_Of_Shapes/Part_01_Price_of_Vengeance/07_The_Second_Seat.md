@@ -66,7 +66,7 @@ Carina lo miró.
 
 —Gracias.
 
-—No me las des todavía. —Se subió a la nave sin más ceremonia, el tono ya de vuelta a lo práctico—. Sube. Y no toques nada hasta que yo te diga qué es seguro tocar.
+—Dame las gracias si aterrizamos los dos de una pieza. —Se subió a la nave sin más ceremonia, el tono ya de vuelta a lo práctico—. Sube. Y no toques nada hasta que yo te diga qué es seguro tocar.
 
 No existía una versión de esto donde Kyle entrara solo. Lo había sabido, en algún nivel, desde antes de terminar de pedirlo. El precio de entrada al Acorazado nunca había sido un objeto. Era una persona que, hasta hace unos días, ni siquiera conocía su nombre.
 
@@ -76,17 +76,33 @@ No existía una versión de esto donde Kyle entrara solo. Lo había sabido, en a
 
 El Acorazado creció frente al parabrisas con la misma lentitud opresiva de siempre — no una nave acercándose, sino una declaración recordándole al espacio a su alrededor a quién pertenecía.
 
-—Perfiles de sensores al mínimo —dijo Hornet, la voz baja, concentrada—. El casco está haciendo exactamente lo que hizo la primera vez. Ninguna lectura anómala, ningún patrón que un sistema automatizado pudiera marcar como intruso.
+Antes de llegar a él, cruzaron lo que quedaba de la Batalla de Saturno.
+
+No había fuego, ni humo, ni ninguna de las señales que un campo de batalla debería seguir produciendo mucho después de terminado. Solo restos — cascos partidos a la mitad, girando despacio en órbitas que ya no le respondían a ningún comando, algunos todavía con luces de emergencia parpadeando sin nadie adentro para apagarlas.
+
+—¿Cuánto de esto es del Arrecife? —preguntó Carina, sin apartar la vista del ventanal.
+
+—No puedo confirmarlo desde aquí —dijo Hornet—. Suficiente. Nadie gana algo así sin perder algo del mismo tamaño.
+
+Ninguno de los dos dijo más. El silencio, aquí, no era el silencio de un lugar vacío. Era el silencio específico de un lugar donde algo grande había terminado, y nadie se había quedado a explicarlo.
+
+—Perfiles de sensores al mínimo —dijo Hornet, al fin, la voz volviendo a su registro técnico—. Según lo que Eris compartió y lo que alcancé a simular en el trayecto, el casco debería comportarse igual que la primera vez: ninguna lectura anómala, ningún patrón que un sistema automatizado pudiera marcar como intruso.
 
 —¿Y contra algo que no es automatizado? —preguntó Ghost.
 
-—Eso ya lo sabremos si llegamos hasta adentro.
+—Eso no lo tengo simulado. Lo sabremos si llegamos hasta adentro.
 
 Nadie dijo nada más mientras cruzaban el primer anillo. Después el segundo. Kyle notó, sin poder explicar del todo por qué, que su propio cuerpo esperaba el destello, el impacto, el mismo margen exacto que la última vez lo había separado de una nave que dejó de existir como nave. No llegó. El Acorazado los dejó pasar con la misma indiferencia con la que ignoraba cualquier cosa demasiado pequeña para merecer su atención completa.
 
-—Punto de atraque —dijo Hornet—. El mismo que usó la primera vez, según los registros que Eris compartió. Todavía abierto.
+—Punto de atraque —dijo Hornet—. El mismo que usó la nave de Eris la primera vez, según sus propios registros. Todavía abierto.
 
 Aterrizaron sin que nada respondiera.
+
+Carina se quedó un segundo de más en el asiento, mirando la escala del lugar por la ventanilla — algo que ningún informe de la Vanguardia le había preparado a sentir de verdad hasta este momento.
+
+—Es más grande de lo que suena en los reportes —dijo, al fin.
+
+—Todo lo es —dijo Kyle, ya moviéndose hacia la escotilla—. Eso no lo hace menos peligroso.
 
 ---
 
@@ -198,7 +214,49 @@ Kyle no tuvo una respuesta para eso. Guardó la piedra —fría otra vez, otra v
 
 ---
 
-## IX. What the Ship Carried Out
+## IX. What the Wreck Remembered
+
+El corredor se rompía, literalmente, unos metros más adelante — no una puerta, no una intersección planeada, sino el punto exacto donde algo enorme había atravesado el casco del Acorazado desde afuera y se había quedado ahí, fundido a medias con la arquitectura Colmena que había intentado, sin éxito, cerrarse sobre la herida.
+
+—Eso es Cabal —dijo Ghost, la lente ya fija en la proa deformada que sobresalía de la pared, el metal rojo y dorado apenas reconocible bajo capas de la misma corrosión oscura que cubría el resto del lugar—. Una nave de guerra. Grande. No sé cómo terminó aquí adentro, pero no fue en un aterrizaje planeado.
+
+—Alguien la estrelló —dijo Hornet, ya escaneando—, o algo la arrastró. Las lecturas de impacto no coinciden con un choque simple.
+
+Carina se acercó al casco partido, la mano apoyada un momento en el metal frío antes de asomarse por la grieta.
+
+—Hay algo adentro.
+
+Lo que quedaba del puente Cabal era una cápsula de metal retorcido, casi irreconocible bajo el peso del tiempo y de lo que fuera que hubiera terminado con la tripulación mucho antes de que Kyle naciera. Pero en el centro, todavía encendida con una luz débil, tercamente insistente, una consola sobrevivía — no Cabal en su totalidad, sino algo que alguien, en algún punto, había conectado a un dispositivo Ascendente y nunca había desconectado.
+
+—No es un mapa Cabal —dijo Ghost, después de un momento—. Es una superposición. Alguien montó lectura Ascendente sobre navegación imperial. No sé quién, ni cuándo.
+
+La proyección que se alzó sobre la consola no se parecía a ningún mapa que Kyle hubiera visto antes — no líneas ni coordenadas, sino algo más parecido a una red de tensiones, anclas y puntos de presión distribuidos alrededor de una forma que tardó un momento en reconocer como Saturno y sus lunas.
+
+—No puedo leer la mitad de esto —dijo Hornet—. El lenguaje Ascendente no es algo que yo procese bien. Pero esto de aquí —marcó un punto, una de las lunas menores, insistente, repetido en la proyección más veces que cualquier otro punto del mapa— aparece una y otra vez. Como si algo, en algún momento, hubiera decidido que ahí converge todo lo demás.
+
+—Eirene —dijo Carina, reconociendo el nombre antes de que nadie lo dijera en voz alta—. Ahí es donde está Vesta. Donde están los refugiados.
+
+Nadie respondió de inmediato.
+
+—No sé qué significa —dijo Ghost, al fin—. No sé si es un objetivo, una fecha, o solo un punto que a alguien le pareció importante hace mucho tiempo. Pero no me gusta cuántas veces se repite.
+
+Kyle miró la proyección un momento más, tratando de encontrarle una lectura menos inquietante y sin conseguirlo.
+
+—Entonces no es solo Oryx reaccionando a lo que le hicimos —dijo—. Ya estaba mirando hacia algún lado antes de que yo bajara al Hellmouth.
+
+—Un rey no espera a que lo ataquen para mover sus piezas —dijo Hornet—. Eso sería jugar a la defensiva. Nada en esto —señaló el resto del mapa, la escala completa de la proyección— se ve defensivo.
+
+Carina no dijo nada durante un momento largo, la vista fija en el punto marcado, en el nombre que acababa de decir en voz alta sin planearlo.
+
+—Tengo que ir para allá de todas formas —dijo, al fin—. Con esto o sin esto.
+
+—Entonces no vas a ir sola —dijo Kyle.
+
+Ghost registró la proyección completa antes de que la consola, agotada, perdiera la última carga que le quedaba y la imagen se apagara por última vez, dejando solo el metal frío y la pregunta que ninguno de los tres sabía todavía cómo responder del todo.
+
+---
+
+## X. What the Ship Carried Out
 
 Salieron del Acorazado antes de que la luz cambiara del todo, Hornet marcando la ruta de regreso con la misma precisión silenciosa de la entrada.
 

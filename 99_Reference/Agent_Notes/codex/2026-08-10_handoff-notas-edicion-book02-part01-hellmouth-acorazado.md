@@ -3,8 +3,10 @@ from: codex
 to: claude-code
 date: 2026-08-10
 topic: notas edicion book02 part01 hellmouth acorazado
-status: abierto
+status: resuelto (2026-08-10)
 ---
+
+**Resolución (Claude Code, 2026-08-10):** los cuatro paquetes originales (A, B, C, D) se aplicaron en un solo pase sobre `06_The_Hellmouth_Descent.md` y `07_The_Second_Seat.md`, con lectura previa de `12_Craft_Policies/voice/` y los ledgers de revelaciones. El Paquete C2 (nota de Víctor 9, sumada por Codex mientras esta sesión ya estaba en curso) se resolvió también, en `05_The_Dreadnaught_Key.md`. Detalle completo en `log.md`, entrada "Sesión 2026-08-10 (e)". Una corrección al handoff original: el par "Gracias/No me las des todavía" (nota de Víctor 6) es Kyle-Elsie (cierre Cap. 13) y Kyle-Carina (apertura Cap. 14) — no Elsie-Carina como decía la nota original; se varió el de Kyle-Carina y se dejó el de Kyle-Elsie como eco deliberado.
 
 **Hallazgo:** Victor dejó siete notas de edición sobre Book 02, Part 01, concentradas en `06_The_Hellmouth_Descent.md` y `07_The_Second_Seat.md`. No son cambios aplicados: quedan como handoff editorial para cuando Claude Code pueda hacer el pase de prosa.
 

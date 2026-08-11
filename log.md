@@ -4,6 +4,29 @@ Bitácora de trabajo por sesión. Registra qué se hizo, qué se creó o modific
 
 ---
 
+## Sesión 2026-08-10 (e) | Pase editorial sobre Caps. 13-14 (Hellmouth/Acorazado) a partir de handoff de Codex
+
+Codex dejó un handoff (`99_Reference/Agent_Notes/codex/2026-08-10_handoff-notas-edicion-book02-part01-hellmouth-acorazado.md`) con siete notas de edición de Víctor sobre `06_The_Hellmouth_Descent.md` y `07_The_Second_Seat.md`, más una nota de repetición de diálogo detectada por el propio Codex. Se verificaron los anclajes contra el texto real (todos correctos, salvo un detalle: el par "Gracias/No me las des todavía" es Kyle-Elsie y Kyle-Carina, no Elsie-Carina como decía el handoff) y se aplicaron los cuatro paquetes completos en un solo pase, con lectura previa de `12_Craft_Policies/voice/` (Kyle, Ghost, Carina, Elsie, Hornet), los ledgers de revelaciones (Book 02 + SAGA_LEVEL) y `milestones/INDEX.md`.
+
+**Paquete A — Hellmouth (Cap. 13):**
+- Secciones I-II: se rebajó la certeza inicial de Ghost y de Eris sobre lo que está pasando en la cámara de Crota — ya no llegan sabiendo que es un duelo/rito; Kyle lo entiende de forma gradual, observando, tal como pidió Víctor (opción 1, no se retiró el beat).
+- Secciones IX-XIV reescritas: la salida ya no es "corren mientras el Hellmouth despierta" sino una ruta forzada por la espiral de escaleras hacia el templo (línea de Ghost pedida por Víctor: "¿Recuerdas que acordamos no ir por el templo de Crota?"), con Ogros disparando miradas de vacío en el ascenso. El encuentro con Carina deja de ser deus ex machina: ella y Hornet ya estaban cruzando las criptas rumbo a la Tumba del Mundo cuando la perturbación de Kyle queda literalmente en su ruta — no "sintió un tirón místico y vino a salvarlo". Se sumó el reconocimiento de armas (Última Palabra / Predestinador), el intercambio "¿Eres Dredgen?" pedido verbatim, y Kyle recuperando Luz parcial (dos alas de Alborada) a mitad del ascenso mientras Carina cubre con el abanico de tres tiros — la variedad de tensión pedida (orientación, lectura mutua, confianza bajo información incompleta) en vez de repetir el pulso de persecución anterior. Se corrigió también el "sigilo paracausal" de Carina (todavía no tiene afinidad de Vacío en este punto) por conocimiento de terreno de Hornet.
+- Sección XIV: sembrada la semilla visual del casco cambiante de Aspect of Glass (Ghost notando que "no es camuflaje normal"), resolviendo de paso el Paquete C nota 5 sin necesidad de una inserción aparte.
+
+**Paquete B — tiranía de rol (Cap. 13, Secciones XXI-XXII):** la pregunta de Kyle y la respuesta de Elsie se afinaron para girar explícitamente alrededor de confundir proteger con someter/dominar, no solo culpa por consecuencias.
+
+**Paquete C — Acorazado (Cap. 14):**
+- Sección IV: Hornet ya no habla desde memoria propia del primer viaje ("el casco está haciendo exactamente lo que hizo la primera vez") sino desde simulación/registros de Eris; se sumó la llegada a los restos de la Batalla de Saturno y la reacción de Carina/Hornet a la escala del Acorazado — sin conectar todavía la luz verde del Prólogo con ningún nombre (esa atadura sigue reservada al Cap. 16, según el ledger).
+- Nueva Sección IX, "What the Wreck Remembered": una nave Cabal estrellada dentro del Acorazado con una consola híbrida Cabal/Ascendente que proyecta un mapa parcial de tensiones alrededor de Saturno — Eirene marcada como convergencia repetida. No se nombra "Lubrae" ni se explica la Toma planetaria; el rastro de refugiados de Vesta en el Cap. 16 queda intacto como motivo humano de Carina, y este mapa como motivo estratégico paralelo.
+
+**Paquete D — repetición de diálogo:** variado el "Gracias / No me las des todavía" de Kyle-Carina (Cap. 14) a "Dame las gracias si aterrizamos los dos de una pieza", dejando el de Kyle-Elsie (Cap. 13) como el eco deliberado. También se varió "No sé explicarlo mejor que eso" de Carina en `08_The_Third_Element.md` (primer despertar de su Vacío) a "No tengo una palabra mejor todavía", dejando la de Kyle en `01_The_Last_Board.md` sin tocar.
+
+**Paquete C2 — adelanto emocional de Elsie (nota de Víctor 9, sumada por Codex al handoff mientras esta sesión ya estaba en curso):** en `05_The_Dreadnaught_Key.md`, línea 455, "la persona que ella amaba" (narración pegada a la percepción de Elsie, tocando la carcasa herida de Ghost) adelantaba demasiado la trama romántica para la etapa de Observación/Confianza temprana en que debe estar Kyle/Elsie en Book 02. Reemplazada por "alguien que ella ya no sabía mirar del todo como una variable de campo más" — conserva el beat (Ghost se interpuso, cicatriz ganada protegiendo a Kyle) sin nombrar amor romántico, reutilizando el vocabulario analítico ya fijado en `12_Craft_Policies/voice/elsie-bray.md` ("variable" entre sus términos propios).
+
+**Verificación de cierre:** `build_epub.py` corrió limpio (dos veces — la segunda tras el ajuste del Paquete C2); se descomprimió el EPUB resultante y se confirmó que no quedaron wikilinks ni bloques de cierre (`*Conecta con:`, `*Pilares activos:`) colados en `EPUB/text/`. Handoff de Codex marcado como resuelto, incluyendo la nota 9.
+
+---
+
 ## Sesión 2026-08-08 (d) | Pase de ajustes del autor sobre Part 01 — Caps. 11, 12 y 13
 
 Continuación directa de la sesión anterior (c). El autor releyó los primeros capítulos de Book 02 ya terminado y trajo una serie de correcciones puntuales, capítulo por capítulo, aplicadas en el momento — no una reescritura de bloque, sino ajustes de precisión sobre texto ya cerrado.

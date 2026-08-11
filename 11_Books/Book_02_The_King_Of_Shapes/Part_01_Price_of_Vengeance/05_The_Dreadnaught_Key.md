@@ -452,7 +452,7 @@ Se acercó a Ghost de todas formas, con la misma atención clínica que aplicaba
 
 —Adelante.
 
-Elsie no encontró nada que pudiera nombrar con precisión técnica — no era su campo, y lo sabía. Lo que encontró fue otra cosa: la certeza, física, innegable bajo sus dedos, de que aquello no había sido un desgaste acumulado ni una falla de mantenimiento. Había sido un instante, uno solo, en el que algo se había interpuesto entre un disparo y la persona que ella amaba, y se había quedado con el costo para que él no tuviera que cargarlo.
+Elsie no encontró nada que pudiera nombrar con precisión técnica — no era su campo, y lo sabía. Lo que encontró fue otra cosa: la certeza, física, innegable bajo sus dedos, de que aquello no había sido un desgaste acumulado ni una falla de mantenimiento. Había sido un instante, uno solo, en el que algo se había interpuesto entre un disparo y alguien que ella ya no sabía mirar del todo como una variable de campo más, y se había quedado con el costo para que él no tuviera que cargarlo.
 
 —Esto no es una avería —dijo, en voz baja, más para sí misma que para cualquiera de los dos—. Esto es una cicatriz.
 
