@@ -252,23 +252,41 @@ Por un instante — real, medible, casi cruel en lo breve que fue — el cielo d
 
 —¡Lo logramos! —gritó alguien, en algún canal abierto.
 
+Carina ya corría hacia el siguiente grupo de refugiados, la voz ronca de gritar direcciones, cuando lo sintió — el mismo peso que llevaba minutos rondando el aire, ahora demasiado cerca para seguir siendo solo una sensación.
+
 Duró menos de diez segundos.
 
 El Acorazado no respondió con retirada.
 
-Respondió en persona.
+Respondió en persona — y no vino solo.
 
-El aire sobre el ancla caída se abrió — no como la fisura que Kyle forzaría después con la esencia de Crota, sino como algo que no necesitaba forzar nada, una puerta que llevaba toda la vida siendo suya. Y Oryx cruzó.
+El aire sobre el ancla caída se abrió, y por la misma abertura, junto a Oryx, se derramó algo más: una marea de lacayos Poseídos, docenas, cayendo sobre el puerto desde un ángulo que ninguna evacuación había considerado cubrir, directo hacia la gente que todavía esperaba su turno de escapar — hacia Carina, hacia Elsie, hacia cualquier cosa que todavía respirara sin ser suya.
+
+—¡Carina! —gritó Elsie, ya moviéndose hacia ella antes de terminar de calcular la ruta.
+
+Oryx no se detuvo a mirar la marea que acababa de soltar. Cruzó directo hacia Kyle, y el suelo bajo los dos cedió en el mismo instante en que su mano se cerró sobre el hombro de Kyle — no una grieta forzada, sino el mismo colapso que ya llevaba toda la escena royendo los cimientos de Eirene, encontrando por fin el punto exacto donde ceder.
+
+—¡Kyle!
+
+El grito de Elsie se cortó a mitad de la palabra, tragado por la distancia que se abrió entre un segundo y el siguiente — Kyle y Oryx cayendo hacia una oscuridad que ningún mapa de Eirene registraba, mientras arriba la marea de lacayos ya rompía sobre Carina en números que ni su Luz ni su puntería iban a poder cubrir solas.
+
+Elsie no llegó a decidir entre los dos. El cuerpo lo decidió por ella — más cerca de Carina, con la marea ya encima de las dos, sin ningún camino limpio hacia el punto donde Kyle acababa de desaparecer.
+
+—¡Hornet, cúbreme la izquierda! —gritó Carina, ya disparando—. ¡Elsie, no puedes bajar ahí, no todavía!
+
+—¡Lo sé! —La voz de Elsie se quebró en algo que no era solo esfuerzo físico—. Lo sé.
 
 ---
 
 ## XII. The Sword Logic, Asked in Person
 
-No llegó como la sombra prestada de Phobos, ni como la voluntad fragmentada que había hablado a través de Avarra. Llegó entero — la armadura oscura, la corona de huesos curvos, una hoja negra ya en la mano, sin reflejo, como si hubiera decidido hacía mucho que la luz no tenía nada que aportarle.
+Cayeron juntos, aunque solo uno de los dos lo sintiera como caída.
 
-Los pocos civiles que quedaban cerca del ancla no lo vieron llegar. Lo sintieron, la misma forma en que un cuarto entero siente cuándo algo enorme acaba de entrar, y corrieron sin que nadie tuviera que decirles por qué.
+El espacio que los recibió no pertenecía a Eirene — piedra que no era piedra, un techo que Kyle no alcanzaba a distinguir del todo aunque no hubiera oscuridad suficiente para justificar no verlo, la misma clase de geometría imposible que ya conocía del Hellmouth y del Acorazado. Arriba, muy arriba, el ruido de la pelea seguía llegando, amortiguado, como si el lugar mismo hubiera decidido cuánto de eso merecía la pena dejar pasar.
 
-—El que mató a Crota —dijo Oryx, la voz llenando la plaza entera sin necesitar volumen—. Cazándolo a través de sombras prestadas mientras yo medía lo que era. Hallazgo interesante, encontrarlo aquí, sobre la tumba de mi guardiana fallida.
+Oryx lo soltó.
+
+—El que mató a Crota —dijo, la voz llenando el espacio entero sin necesitar volumen—. Cazándolo a través de sombras prestadas mientras yo medía lo que era. Hallazgo interesante, encontrarlo aquí, sobre la tumba de mi guardiana fallida.
 
 —No es tu tumba —dijo Kyle, el Predestinador todavía en la funda, sin sentir, por primera vez en mucho tiempo, que un arma de fuego fuera la respuesta correcta—. Es de la gente que vivía aquí.
 
@@ -344,7 +362,11 @@ Kyle no tuvo aire para responder nada de eso.
 
 ## XIV. The Thread That Held
 
-Carina no llegó a pensar en un plan.
+Elsie, cubierta de corrupción ajena hasta los codos, abrió el primer hueco real en la marea desde que había empezado.
+
+—¡Ve! —gritó—. ¡Yo los sostengo!
+
+Carina no se lo hizo repetir. Saltó hacia la abertura por donde Kyle y Oryx habían caído sin saber qué iba a encontrar del otro lado, y no llegó a pensar en un plan antes de aterrizar.
 
 Lo que quedaba de los últimos minutos —Avarra, el ancla, Yeva perdida en algún corredor que no había alcanzado a abrir a tiempo, cada segundo que le había costado no ser suficiente— se convirtió, de golpe, en una sola pregunta sin palabras: *¿qué sostiene esto?*
 
@@ -375,6 +397,8 @@ El hilo se cortó solo, incapaz de sostener por más tiempo algo de esa escala. 
 No los persiguió.
 
 No hizo falta. Ya sabía, con la misma certeza fría con la que sabía todo lo demás, que Eirene entera iba a terminar siendo suya de todas formas.
+
+Carina encontró el mismo hueco por el que había saltado y trepó de vuelta a la superficie con Kyle a cuestas y Hornet abriéndole camino, los brazos temblando por el esfuerzo — justo a tiempo para encontrar a Elsie todavía de pie entre los últimos lacayos caídos, y el cielo entero terminando de decidir que ya no era un cielo confiable.
 
 Las naves que habían empezado a despegar se inmovilizaron en el cielo, congeladas en un instante que ningún motor podía explicar. Las rutas de escape que un segundo antes existían dejaron de existir, no destruidas sino borradas, como si nunca hubieran sido reales.
 
@@ -510,4 +534,6 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 **Extensión del duelo, a petición del autor (2026-08-12).** Ritmo del combate ampliado en tres puntos: (1) el falso hueco que Kyle cree ver ya no termina en un choque de hojas — Oryx atrapa el filo de Filo Cero directamente con el puño, deteniéndolo en seco; el propio filo le corta la palma hasta el hueso y no reacciona en absoluto — la sangre es de Oryx, no de Kyle, un hilo oscuro y espeso que le escurre por el puño y gotea por la hoja de Kyle hacia su empuñadura mientras Oryx ni siquiera baja la vista a mirarlo. El terror aquí no es el dolor de Kyle — es la indiferencia total de Oryx al suyo propio. (2) Oryx se yergue sobre él con las alas —no de carne, ausencia con forma de alas— abiertas a los costados, tapando la luz física de Eirene antes de decir la línea ya fijada ("Sostienes acero sin historia..."). (3) Tras el fallo de la Luz ("Aquí no..."), Kyle intenta dos ataques torpes y desesperados, ambos desviados sin esfuerzo; al tercero, Oryx responde con un solo tajo de su hoja —nombrada aquí por primera y única vez en el capítulo, **Willbreaker**, sin que ningún personaje llegue a conocer el nombre— que parte a Filo Cero en tres pedazos. El golpe que sigue y lo lanza varios metros deja de ser fuerza física y pasa a ser una descarga de energía Poseída, coherente con la corrupción que ya lleva semanas extendiéndose por el sistema. Sección XIV ajustada en el mismo pase para anclar el origen del Vacío formado de Carina en la urgencia de salvar "a un hermano Portaluz" antes que en cualquier lectura romántica — mismo mecanismo, motivación más amplia.
 
-**Autocrítica y pase de staging (2026-08-12, misma sesión).** Primera versión de la Sección XIII resolvía el duelo por resumen funcional ("el tercer golpe... el cuarto...") — patrón ya catalogado en `12_Craft_Policies/staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md`. Reescrita siguiendo la receta de esa regla (entrada, lectura errónea, adaptación, costo físico visible, decisión, consecuencia): se añadió una falsa abertura que Kyle cree ver y no existe, texturas físicas concretas (armadura chispeando, caer sobre la rodilla buena, la hoja rota volando en dos giros), sin cambiar el resultado. También se corrigió una repetición de frase de Elsie ("algo en su rostro cediendo a...") casi idéntica a una ya existente en la Sección V, a 80 líneas de distancia.*
+**Autocrítica y pase de staging (2026-08-12, misma sesión).** Primera versión de la Sección XIII resolvía el duelo por resumen funcional ("el tercer golpe... el cuarto...") — patrón ya catalogado en `12_Craft_Policies/staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md`. Reescrita siguiendo la receta de esa regla (entrada, lectura errónea, adaptación, costo físico visible, decisión, consecuencia): se añadió una falsa abertura que Kyle cree ver y no existe, texturas físicas concretas (armadura chispeando, caer sobre la rodilla buena, la hoja rota volando en dos giros), sin cambiar el resultado. También se corrigió una repetición de frase de Elsie ("algo en su rostro cediendo a...") casi idéntica a una ya existente en la Sección V, a 80 líneas de distancia.
+
+**Reubicación del duelo dentro de la evacuación activa (2026-08-12), a petición del autor.** El duelo ya no ocurre en una plaza relativamente despejada después de que Avarra cae — Avarra sigue derrotada antes de este punto, sin cambios en las Secciones IX-X, pero la "presión mayor" que el Acorazado envía a continuación ahora tiene dos frentes, no uno: Oryx cruza en persona **y** una marea de lacayos Poseídos se derrama por la misma abertura, directo sobre el punto de evacuación donde Carina y Elsie siguen trabajando. Oryx no se detiene a mirar la marea — va directo por Kyle, y el suelo cede bajo los dos en el mismo instante en que lo sujeta, dejándolos caer a un nivel inferior que no pertenece a Eirene (misma familia de arquitectura imposible que el Hellmouth y el Acorazado). Elsie grita "¡Kyle!" pero no llega — la marea ya está sobre Carina, y por cercanía física se queda a cubrirla a ella, no a él; se lo dice ella misma en voz alta ("No puedes bajar ahí, no todavía" / "Lo sé"), para que la decisión no se sienta como abandono sino como el único cálculo posible en el segundo que tenían. El duelo (Secciones XII-XIII) ocurre así aislado y a oscuras, con el ruido de la pelea de arriba llegando amortiguado — y cuando Elsie por fin abre un hueco real en la marea, es ella quien manda a Carina hacia Kyle ("¡Ve! ¡Yo los sostengo!") en vez de que Carina lo decida sola. Se añadió también el regreso físico a la superficie (Carina trepando con Kyle a cuestas y Hornet abriendo camino) antes de retomar "las naves inmovilizadas", que en la versión anterior llegaba sin transición de vuelta desde el nivel inferior. Sin cambios en Yeva, en la mecánica del ancla, ni en el resultado del duelo.*

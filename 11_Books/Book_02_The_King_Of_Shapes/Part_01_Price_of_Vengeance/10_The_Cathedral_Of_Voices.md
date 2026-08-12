@@ -3,36 +3,78 @@
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
 **Protagonistas:** Kyle, Ghost, Carina, Hornet, Elsie, Oryx
-**Ventana temporal:** The Taken King — horas después de la caída de Eirene
-**Lugar:** El Mundo Cadáver (Grimworld) — La Desolación del Terror, la Catedral de las Voces; después, la Torre
+**Ventana temporal:** The Taken King — horas después de la caída de Eirene, y los cinco días siguientes
+**Lugar:** Los restos de Vesta; la Torre; el campamento de Elsie; después, el Mundo Cadáver (Grimworld) — La Desolación del Terror, la Catedral de las Voces
 
 ---
 
-## I. No Room to Sit Still
+## I. What Vesta Kept
 
-—No vas a esperar a que esto se asiente, ¿verdad? —dijo Elsie.
+Kyle despertó despacio, el cuerpo entero registrando el regreso a la conciencia como una serie de facturas separadas — el hombro, el pecho, algo en la mano que todavía no terminaba de identificar del todo.
 
-No era una pregunta que necesitara respuesta. Se quedó sentada donde Carina la había dejado, la mano todavía apoyada contra la sien, el resto de ella todavía recomponiéndose de un costo que ninguno de los tres había terminado de nombrar en voz alta.
+Vesta lo recibió tal como la fisura lo había dejado caer: ruinas todavía calientes en algunos puntos, el metal retorcido de los puestos que una vez controlaron el paso hacia el corazón del Arrecife, el silencio específico que solo queda después de que un lugar entero deja de tener gente adentro.
 
-—No puedo —dijo Kyle—. Si me quedo quieto ahora mismo, con lo que acaba de pasar todavía fresco, no sé qué voy a hacer con eso.
+—Nunca había estado aquí en persona —dijo, la voz todavía áspera.
 
-—Entonces ve a hacer algo con eso en otro lugar. —Elsie no lo dijo con crueldad. Lo dijo con el reconocimiento cansado de alguien que sabía, mejor que nadie en ese instante, que algunas cosas no se procesan sentado—. Yo no puedo acompañarte. Lo que hice para sacarnos de ahí me dejó sin margen para lo que sea que estás a punto de hacer.
+—Yo sí. —Carina no levantó la vista del equipo médico de campo que ya tenía abierto sobre la tierra, pero algo en su tono se ablandó un grado—. Hace tiempo. Esto era parada obligada si querías llegar más adentro del Arrecife sin que nadie te hiciera preguntas por el camino. Ya no sirve para eso. Pero sigue siendo un lugar donde nadie viene a buscarte, y ahora mismo eso vale más que cualquier otra cosa que pudiera ofrecer.
 
-—Lo sé.
+Elsie fue la primera en preguntar.
 
-—Carina puede.
+—¿Estás bien? —Se arrodilló junto a él, y por un instante, sin pensarlo, le tomó la mano — la misma que todavía cargaba, seco entre los dedos, el hilo de sangre que no era suya. La retiró casi de inmediato, como si el gesto se le hubiera escapado antes de que ella misma terminara de decidir si tenía permiso para hacerlo.
 
-No fue una pregunta. Carina ya estaba de pie, la adrenalina de Eirene todavía sin apagarse del todo, transformándose en algo más frío y más útil.
+Ninguno de los dos dijo nada al respecto.
 
-—¿Adónde? —preguntó.
+Ghost sí lo notó — la lente quedándose un segundo de más en el punto exacto donde las manos se habían tocado. Carina también, aunque fingió estar completamente absorta en el equipo médico.
 
-Kyle señaló, sin necesitar palabras todavía, hacia el punto del cielo donde algo nuevo, oscuro y equivocado, acababa de terminar de asentarse en el lugar donde Eirene había estado.
+—Voy a vivir —dijo Kyle, al fin, respondiendo la pregunta original—. Otra vez.
 
-—Ahí.
+—Deberían ver esto —dijo Hornet, ya proyectando en el aire entre los cuatro lo único que sus sensores habían podido capturar a esa distancia: algo grande, oscuro, terminando de asentarse en el punto exacto donde Eirene había estado—. La firma ya es completa. Sea lo que sea, ya no está llegando. Ya llegó.
+
+Nadie dijo nada durante un momento largo, viendo la proyección temblar y estabilizarse — un mundo entero ocupando, sin pedir permiso, el lugar de otro que ya no existía.
 
 ---
 
-## II. Grimworld
+## II. Five Days
+
+Cinco días separaron ese momento del día en que por fin aterrizaron en el mundo nuevo.
+
+Los primeros dos los pasaron en la Torre, Kyle y Carina sentados frente a Ikora, frente a Zavala, frente a Eris, contando la misma historia tantas veces que empezó a sentirse menos como memoria y más como reporte — el ancla, Avarra, Oryx cruzando en persona, Filo Cero roto, el rescate. Nadie discutió los hechos. Todos discutieron qué hacer con ellos. Eris fue la única que no preguntó nada sobre la espada ni sobre la herida. Preguntó, dos veces, exactamente qué había sentido Kyle en el momento en que su Luz dejó de llegarle a tiempo — y no pareció satisfecha con ninguna de las dos respuestas.
+
+—Esto todavía no lo entiendo —dijo, al final, más para sí misma que para el resto de la sala.
+
+—Bienvenida al club —dijo Kyle.
+
+Nadie más en la sala se rió.
+
+---
+
+## III. What Ghost Noticed
+
+Elsie no fue a la Torre con ellos.
+
+Se quedó en su campamento, a las afueras, con cada dato que Hornet había capturado de la firma nueva desplegado sobre la mesa plegable — más mapas, más proyecciones, el mismo trabajo obsesivo de siempre, aplicado ahora a algo que ni ella sabía todavía cómo empezar a nombrar del todo.
+
+Kyle la encontró ahí al tercer día, cuando repetir la misma historia frente a la Vanguardia empezó a pesar más que cualquier otra cosa que hubiera cargado esa semana.
+
+—¿Puedo ayudar?
+
+—Puedes mirar lo mismo que yo estoy mirando —dijo ella, sin levantar la vista—. No prometo que eso cuente como ayuda.
+
+Se quedaron ahí el resto del día y el siguiente, dos personas leyendo la misma proyección desde ángulos distintos, sin acuerdo todavía sobre qué estaban viendo — un patrón, una condena, un lugar. Elsie marcaba líneas que solo ella sabía leer. Kyle preguntaba lo que no sabía cómo nombrar sin sonar ingenuo.
+
+Al quinto día, cuando por fin llegó el momento de partir, Ghost esperó a que salieran de la tienda para decirlo.
+
+—No te descuidé ni un segundo —dijo, la lente fija en Kyle—. Desde que caíste con Oryx. Ni uno. Eso debería significar algo.
+
+Kyle no respondió de inmediato.
+
+—¿Debería?
+
+—No lo sé todavía. —Ghost no ofreció más—. Pero no me pareció que debiera quedarse sin decir.
+
+---
+
+## IV. Grimworld
 
 Nadie en la nave dijo su nombre real, porque nadie lo sabía.
 
@@ -52,7 +94,7 @@ Kyle no dijo nada. No hacía falta. Sentía exactamente lo mismo, y no tenía ni
 
 ---
 
-## III. The Desolation of Terror
+## V. The Desolation of Terror
 
 La Desolación del Terror no anunciaba su nombre en ningún letrero, en ninguna arquitectura que Kyle pudiera reconocer como Colmena. Piedra oscura sin herrumbre, metal sin la textura orgánica de hueso o quitina, calles dispuestas no como rutas sino como líneas de visión — un lugar diseñado, con una precisión que todavía sobrevivía a lo que fuera que lo había construido, para que nadie pudiera esconderse de quien gobernaba.
 
@@ -68,7 +110,7 @@ Más adelante, en el borde de la visión de Kyle, algo brilló — un destello m
 
 ---
 
-## IV. The Cathedral of Voices
+## VI. The Cathedral of Voices
 
 La encontraron en el centro exacto de la ciudad — no un templo, aunque el nombre que le habían puesto sugiriera uno. Una estructura circular, alta, con superficies pulidas que no reflejaban luz sino que la absorbían, la clase de espacio que se sentía menos como un lugar de culto y más como una sala de audiencia, diseñada para que algo enorme escuchara testimonio de algo mucho más pequeño.
 
@@ -90,7 +132,7 @@ Carina lo miró.
 
 ---
 
-## V. Rules for Two
+## VII. Rules for Two
 
 —No hemos entrenado juntos, otra vez, para esto específicamente —dijo Carina, mientras se acercaban a la entrada real de la Catedral—. Y esto es más grande que cualquier cosa contra la que hayamos peleado los dos juntos hasta ahora.
 
@@ -106,7 +148,7 @@ Kyle asintió. No era el vínculo ya asentado que había visto entre Joe y Angie
 
 ---
 
-## VI. The Credential at the Door
+## VIII. The Credential at the Door
 
 La entrada de la Catedral no ofreció resistencia — la misma sensación que Kyle ya conocía, la credencial fría en su pecho reconociendo algo en el umbral que él solo no podría haber tocado.
 
@@ -128,7 +170,7 @@ Carina no le dio tiempo a decidirlo. Hornet había detectado movimiento — no u
 
 ---
 
-## VII. The Physical Regicide
+## IX. The Physical Regicide
 
 Oryx los sintió llegar antes de que ninguno de los dos completara el primer movimiento de ataque.
 
@@ -154,7 +196,7 @@ Carina no preguntó por qué. Se ajustó, cubriendo el flanco que él estaba a p
 
 ---
 
-## VIII. The Shape Oryx Hadn't Calculated
+## X. The Shape Oryx Hadn't Calculated
 
 —Ustedes dos —dijo Oryx, la voz cargada de algo que empezaba a acercarse a la genuina incomodidad—, no pelean como aliados coordinados. Pelean como dos sistemas separados que se niegan a fallar el uno frente al otro.
 
@@ -174,7 +216,7 @@ Y entonces, ante los ojos de los dos, Oryx se poseyó a sí mismo — su propia 
 
 ---
 
-## IX. Not Dead, Not Done
+## XI. Not Dead, Not Done
 
 El silencio que siguió fue casi tan abrumador como la pelea misma. Las Voces, alrededor de ellos, no dijeron nada — pero Kyle sintió, sin poder probarlo, que habían registrado también esto, añadiéndolo a un archivo mudo que nunca iba a compartir con nadie.
 
@@ -200,7 +242,7 @@ Salieron de la Catedral, y después de La Desolación, y después del Mundo Cad�
 
 ---
 
-## X. The Call
+## XII. The Call
 
 —Necesito hablar con Joe —dijo el Guardian, en cuanto cruzó las puertas de la Torre, todavía con el polvo del Mundo Cadáver encima—. Con Joe, Angie, Kevin, Resner, Tiago. Con todos.
 
@@ -216,7 +258,7 @@ Ghost no preguntó por qué. Ya lo sabía.
 
 ---
 
-## XI. Not Her Raid
+## XIII. Not Her Raid
 
 Carina lo encontró en el hangar, antes de que la reunión con la Primera Escuadra empezara.
 
@@ -238,7 +280,7 @@ El Guardian no lo negó.
 
 ---
 
-## XII. The Unclaimed Treasury
+## XIV. The Unclaimed Treasury
 
 Carina se quedó viendo cómo la Primera Escuadra se reunía a la distancia — Joe, Angie, Kevin, Resner, Tiago, todos con la clase de familiaridad calmada que solo se construye después de suficientes misiones confiando la vida al otro sin necesitar pensarlo.
 
@@ -262,11 +304,19 @@ Y el trono, por primera vez en toda su historia, no iba a esperar a quien lo hab
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Oryx]], [[02_Characters/Mara_Sov]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_ElRegicidioFisico]], [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_LaPuertaAParte2]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Oryx]], [[02_Characters/Mara_Sov]], [[02_Characters/Ikora]], [[02_Characters/Zavala]], [[02_Characters/Eris_Morn]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_ElRegicidioFisico]], [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_LaPuertaAParte2]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 17 de Part 01 (capítulo local 10). Adapta `Guardian_Carina_TakenKing_ElRegicidioFisico` y `Guardian_TakenKing_LaPuertaAParte2` (Secciones V-XII), reubicando el regicidio físico del Acorazado a la Catedral de las Voces, dentro de La Desolación del Terror, en el Mundo Cadáver/Grimworld — decisión central de `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` ("Por qué el regicidio físico se reubica aquí"). Diálogo y beats de combate preservados casi verbatim; solo cambia el escenario y las líneas que lo anclan a él (la referencia de Oryx a "de todos los lugares posibles", el peso añadido de pelear frente a las Voces mudas, el eco de que algo más grande que él se arrodilló una vez en ese mismo sitio).
 
-**Secciones I-IV, prosa enteramente nueva:** el puente emocional desde el cierre del Cap. 16 (Elsie no puede acompañarlos, pagó su costo; Kyle no puede quedarse quieto) hasta la entrada al Mundo Cadáver. Ambos nombres no oficiales conviven sin jerarquía — "Grimworld" (Ghost, registro técnico) y "El Mundo Cadáver" (Carina, registro visceral) — ninguno corrige al otro, coherente con `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`: **el nombre real del planeta no aparece en ningún punto de este capítulo**, ni siquiera en el cierre de la Sección IX, que lo evita deliberadamente ("alguien, en algún libro futuro, por fin le pusiera a ese lugar el nombre que de verdad tenía").
+**Secciones IV-VI, prosa enteramente nueva:** el puente emocional desde el cierre del Cap. 16 hasta la entrada al Mundo Cadáver. Ambos nombres no oficiales conviven sin jerarquía — "Grimworld" (Ghost, registro técnico) y "El Mundo Cadáver" (Carina, registro visceral) — ninguno corrige al otro, coherente con `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`: **el nombre real del planeta no aparece en ningún punto de este capítulo**, ni siquiera en el cierre de la Sección XI, que lo evita deliberadamente ("alguien, en algún libro futuro, por fin le pusiera a ese lugar el nombre que de verdad tenía").
+
+**Reescritura de la apertura (2026-08-12), a petición del autor — el capítulo pasa de 12 a 14 secciones.** La vieja Sección I ("No Room to Sit Still" — Elsie explica que no puede acompañarlos por el costo de la fuga, y se separan de inmediato hacia el Mundo Cadáver) se sustituye por tres secciones nuevas que insertan un período de recuperación real entre la caída de Eirene y el aterrizaje en el mundo nuevo:
+
+- **Sección I, "What Vesta Kept":** Kyle despierta en las ruinas de Vesta (la fisura forzada con la esencia de Crota los deja ahí, no en ningún punto elegido) — su primera visita en persona, aunque el lugar ya se mencionó caído en el Cap. 16. Carina ya lo conocía de antes (era parada obligada hacia el interior del Arrecife; ya no lo es, pero sigue siendo un lugar donde nadie los busca). Elsie es la primera en preguntar si está bien, y por un instante, sin pensarlo, le toma la mano — la misma que todavía carga la sangre ajena de Oryx — y la retira de inmediato; Ghost y Carina lo notan, nadie lo comenta. Hornet proyecta la firma ya asentada donde Eirene estaba: la sustitución, vista aquí desde fuera y después, confirmando lo que el Cap. 16 ya narró desde adentro sin repetir la misma descripción.
+- **Sección II, "Five Days":** el hueco de tiempo entre la caída y el aterrizaje, resuelto por resumen deliberado (no por elipsis muda) — dos días de briefing ante Ikora, Zavala y Eris. Eris es la única que no pregunta por la espada ni por la herida física; pregunta, dos veces, qué sintió Kyle exactamente cuando su Luz dejó de llegarle a tiempo, sin quedar satisfecha con ninguna respuesta — sembrando, sin resolverla, su propia inquietud filosófica sobre lo que Oryx demostró ahí.
+- **Sección III, "What Ghost Noticed":** Elsie se queda en su campamento (no en la Torre) estudiando la nueva firma; Kyle la encuentra al tercer día y se quedan estudiándola juntos el resto del hueco de tiempo. Al quinto día, cuando parten, Ghost le dice a Kyle, sin que nadie se lo pida: *"No te descuidé ni un segundo. Desde que caíste con Oryx."* — un hilo de vigilancia/miedo de Ghost que queda deliberadamente sin resolver, coherente con su registro de no explicar de más lo que todavía no entiende del todo él mismo.
+
+**Continuidad protegida:** Elsie sigue sin acompañarlos al Mundo Cadáver — la razón (el costo de la fuga la dejó sin margen) se preserva, solo que ahora se muestra en vez de resumirse en una sola línea de diálogo. El resto del capítulo (a partir de la Sección IV, antes Sección II) no cambió de contenido, solo de numeración.
 
 **La Desolación del Terror y la Catedral de las Voces (Secciones III-IV):** dramatizan el diseño de lugar fijado el mismo día — calles como líneas de visión, conductos nerviosos muertos, la hendidura de arrodillamiento a escala de Rhulk (sin nombrarlo, sin confirmarlo nunca en el texto), el destello mudo de Fundamento (visto y no comentado, coherente con el mismo recurso ya usado para el Winnower en el Cap. 13). La Catedral se presenta como sala de audiencia, nunca templo, con las Voces como testigos mudos — nunca hablan, nunca se explican, solo "registran."
 
