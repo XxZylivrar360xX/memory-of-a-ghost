@@ -2,7 +2,7 @@
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
-**Protagonistas:** Kyle, Ghost, Carina, Hornet, Elsie, Avarra
+**Protagonistas:** Kyle, Ghost, Carina, Hornet, Elsie, Avarra, Oryx
 **Ventana temporal:** The Taken King — los días siguientes al regreso de Freehold
 **Lugar:** Eirene, luna de Saturno
 
@@ -254,11 +254,111 @@ Por un instante — real, medible, casi cruel en lo breve que fue — el cielo d
 
 Duró menos de diez segundos.
 
-El Acorazado, en algún punto del sistema que ninguno de ellos podía ver, respondió a la pérdida del ancla no con retirada sino con una presión mayor — como si la muerte de Avarra no hubiera sido un obstáculo sino, simplemente, un costo ya calculado de antemano.
+El Acorazado no respondió con retirada.
+
+Respondió en persona.
+
+El aire sobre el ancla caída se abrió — no como la fisura que Kyle forzaría después con la esencia de Crota, sino como algo que no necesitaba forzar nada, una puerta que llevaba toda la vida siendo suya. Y Oryx cruzó.
+
+---
+
+## XII. The Sword Logic, Asked in Person
+
+No llegó como la sombra prestada de Phobos, ni como la voluntad fragmentada que había hablado a través de Avarra. Llegó entero — la armadura oscura, la corona de huesos curvos, una hoja negra ya en la mano, sin reflejo, como si hubiera decidido hacía mucho que la luz no tenía nada que aportarle.
+
+Los pocos civiles que quedaban cerca del ancla no lo vieron llegar. Lo sintieron, la misma forma en que un cuarto entero siente cuándo algo enorme acaba de entrar, y corrieron sin que nadie tuviera que decirles por qué.
+
+—El que mató a Crota —dijo Oryx, la voz llenando la plaza entera sin necesitar volumen—. Cazándolo a través de sombras prestadas mientras yo medía lo que era. Hallazgo interesante, encontrarlo aquí, sobre la tumba de mi guardiana fallida.
+
+—No es tu tumba —dijo Kyle, el Predestinador todavía en la funda, sin sentir, por primera vez en mucho tiempo, que un arma de fuego fuera la respuesta correcta—. Es de la gente que vivía aquí.
+
+—La gente que vivía aquí ya no es una variable que importe. —Oryx dio un paso, el suelo mismo pareciendo ceder bajo el peso de una presencia que no necesitaba pisar fuerte para hacerse sentir—. Tú sí. Heriste algo mío sin entender qué estabas hiriendo. Eso exige una prueba distinta a la que le di a Avarra.
+
+—¿Qué clase de prueba?
+
+—La única que siempre ha importado. —Oryx levantó la hoja, el filo capturando una luz que no venía de ningún sol real—. La Lógica de la Espada no pregunta si mereces ganar. Pregunta si mereces sostener el filo el tiempo suficiente para averiguarlo.
+
+Kyle desenvainó Filo Cero — el prototipo sin nombre, sin historia, la única arma que llevaba encima que todavía no le debía nada a una victoria propia — y entendió, en el mismo instante en que el acero encontró el aire frío de Eirene, que probablemente acababa de tomar la peor decisión posible con la mejor información que tenía.
+
+---
+
+## XIII. What Filo Cero Was Not
+
+El primer golpe de Oryx no fue el más fuerte que iba a dar. Fue, apenas, una pregunta — la clase de golpe que mide antes de comprometerse. Kyle lo bloqueó, el impacto corriéndole por los brazos como si hubiera detenido un vehículo en marcha con las dos manos.
+
+Filo Cero aguantó.
+
+El segundo golpe ya no midió nada.
+
+Kyle rodó, evitando por poco que el filo lo partiera en dos, y contraatacó con la única abertura que alcanzó a ver — un tajo directo al costado expuesto de Oryx, todo el peso de su cuerpo detrás del golpe.
+
+La hoja de Oryx lo detuvo sin esfuerzo aparente.
+
+—Sostienes acero sin historia —dijo Oryx, sin que la voz delatara ningún esfuerzo, mientras el filo de Kyle temblaba contra el suyo—. Un arma que nadie ha ganado todavía. Eso también es una respuesta, Portaluz. Solo que no la que esperabas.
+
+Kyle intentó invocar la Luz para reforzar el golpe siguiente — el mismo reflejo automático que había usado toda su vida como Guardián — y la sintió llegar tarde, filtrada, como si algo entre él y el Viajero se hubiera vuelto, de pronto, una distancia real en vez de una certeza.
+
+—Aquí no —dijo Oryx, casi con algo parecido a la compasión—. Este lugar ya es mío en la forma que más importa. Tu luz llega donde yo decido que llegue.
+
+El tercer golpe encontró el hombro de Kyle. El cuarto, la rodilla. Cayó, se levantó, cayó otra vez — no por falta de voluntad, sino porque la diferencia entre los dos ya no era una cuestión de esfuerzo, sino de escala, la misma palabra que Ghost había usado minutos antes sin que nadie hubiera entendido todavía cuánto pesaba.
+
+Ghost gritó algo que Kyle no llegó a procesar del todo. Carina gritó su nombre desde un punto que sonaba mucho más lejos de lo que la distancia real explicaba.
+
+Kyle levantó Filo Cero una vez más, los brazos ya sin fuerza real detrás del gesto, más terquedad que estrategia.
+
+Oryx no se molestó en esquivar el golpe. Lo recibió de frente, y esta vez no midió nada en absoluto.
+
+Filo Cero se rompió en dos, el sonido más parecido al de algo rindiéndose que al de algo rompiéndose.
+
+El golpe siguiente encontró a Kyle directamente — no un corte limpio, sino una fuerza completa, sin filo necesario para hacer el trabajo, que lo levantó del suelo y lo dejó caer varios metros más allá, cerca del borde del ancla caída, el cuerpo entero negándose a responder a nada de lo que la mente todavía intentaba pedirle.
+
+Kyle sintió la sangre antes de sentir el dolor, y después empezó a sentir, con una claridad fría que no esperaba tener en ese momento, que la Luz no iba a llegar a tiempo esta vez.
+
+Oryx se acercó sin prisa, la hoja baja, el paso de alguien que ya conocía el final de la prueba y solo necesitaba caminar hasta él.
+
+—No mueres con odio —dijo, la voz casi curiosa, examinándolo como quien examina un dato que se resiste a encajar en el resto—. Eso es interesante. Casi todos los que caen frente a mí mueren con odio.
+
+Kyle no tuvo aire para responder nada de eso.
+
+—Descansa, entonces —dijo Oryx, levantando la hoja por última vez—. Al menos mueres habiendo hecho una pregunta honesta.
+
+---
+
+## XIV. The Thread That Held
+
+Carina no llegó a pensar en un plan.
+
+Lo que quedaba de los últimos minutos —Avarra, el ancla, Yeva perdida en algún corredor que no había alcanzado a abrir a tiempo, cada segundo que le había costado no ser suficiente— se convirtió, de golpe, en una sola pregunta sin palabras: *¿qué sostiene esto?*
+
+No apuntó con Última Palabra. No había tiempo, ni distancia limpia, ni un disparo que pudiera llegar antes que la hoja.
+
+Cerró la mano en el aire.
+
+El hilo respondió sin que ella tuviera que pedírselo dos veces esta vez — no la chispa cruda e insegura del Jardín Negro, no el tirón parcial del dron en Marte. Algo más grande, más seguro de sí mismo, como si las últimas semanas enteras hubieran sido, sin que ella lo supiera, el entrenamiento de un único momento como este.
+
+No apuntó al cuerpo de Oryx. Apuntó a lo que lo sostenía de pie sobre Eirene — la misma conexión que Ghost llevaba minutos incapaz de nombrar, el hilo entre su voluntad y el suelo que ya se creía suyo.
+
+Tiró.
+
+Oryx se detuvo a mitad de golpe — no derribado, no herido, atado por un instante que ningún dios debería tener que conceder a algo que no podía cortar con la misma facilidad con que cortaba todo lo demás.
+
+—¡Ahora! —gritó Carina, ya corriendo hacia Kyle, sin soltar el hilo, sin saber cuánto tiempo más iba a aguantar.
+
+Hornet cubrió el resto de la distancia por ella, la carcasa interponiéndose entre Kyle y cualquier cosa que Oryx pudiera intentar en el segundo que le quedaba libre. Carina lo levantó con una fuerza que no sabía que todavía tenía, el peso completo de él contra su hombro, la sangre de Kyle empapándole el costado antes de que terminara de calcular cuánto de esa sangre era demasiada.
+
+—Te tengo —dijo, sin saber si él podía oírla—. Te tengo. No te vas a morir hoy. No así. No sin que yo lo decida.
+
+El hilo se cortó solo, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
+
+—Interesante —dijo, en voz baja, mirando la dirección exacta en que Carina ya corría con Kyle a cuestas—. Muy interesante.
+
+No los persiguió.
+
+No hizo falta. Ya sabía, con la misma certeza fría con la que sabía todo lo demás, que Eirene entera iba a terminar siendo suya de todas formas.
 
 Las naves que habían empezado a despegar se inmovilizaron en el cielo, congeladas en un instante que ningún motor podía explicar. Las rutas de escape que un segundo antes existían dejaron de existir, no destruidas sino borradas, como si nunca hubieran sido reales.
 
-—Eirene está siendo tomado —dijo Ghost, la voz quebrándose en un registro que Kyle no le había escuchado nunca—. Ahora mismo. Completo.
+—Eirene está siendo tomado —dijo Ghost, la voz quebrándose en un registro que Kyle, apenas consciente contra el hombro de Carina, no le había escuchado nunca—. Ahora mismo. Completo.
 
 No fue una derrota por incompetencia. Habían hecho todo bien — el ancla destruida, la guardiana derrotada, la evacuación abierta más tiempo del que nadie creía posible. No había sido suficiente, y la razón no tenía nada que ver con lo que habían hecho o dejado de hacer.
 
@@ -268,7 +368,17 @@ Era, simplemente, una cuestión de escala.
 
 ---
 
-## XII. The Worlds Behind the Door
+## XV. The Worlds Behind the Door
+
+Ghost no esperó a que se lo pidieran. Se lanzó sobre la herida de Kyle apenas Carina lo dejó en el suelo, forzando cada fragmento de Luz que todavía respondía a través de un cuerpo que, minutos antes, había dejado de ser suyo en la forma que más importaba. No fue una reconstrucción completa — ni cerca. Cerró lo que tenía que cerrar para que Kyle no se desangrara ahí mismo, y dejó el resto para después, si es que había un después.
+
+Kyle se incorporó, tambaleante, la mano izquierda todavía sin responder del todo, el costado ardiendo bajo la armadura rota.
+
+—Todavía estoy aquí —dijo, la voz más ronca de lo que pretendía.
+
+—Por poco —dijo Ghost, sin apartar la lente de él.
+
+El cielo, sobre los tres, eligió ese momento exacto para dejar de fingir que todavía era un cielo.
 
 El cielo se abrió.
 
@@ -282,7 +392,7 @@ Nadie tuvo tiempo de procesar la escala completa de lo que estaban viendo. El su
 
 ---
 
-## XIII. Three Costs
+## XVI. Three Costs
 
 —Tengo una forma de sacarnos —dijo Elsie, la voz tensa de una decisión que ya había tomado antes de anunciarla—. A los tres. No a todos los demás. Solo a nosotros tres, y eso ya va a costar más de lo que puedo permitirme decir en voz alta ahora mismo.
 
@@ -304,7 +414,7 @@ Kyle sintió el peso de la esencia de Crota en su pecho, la credencial fría y s
 
 —Estoy contigo.
 
-Extendió la mano hacia el aire que ya no se sentía del todo real, buscando no un portal sino una grieta — el mismo tipo de fisura que una vez se había negado a reconocerlo en el Acorazado, forzada ahora desde el lado equivocado, con una credencial que nunca había sido diseñada para esto. El aire se abrió, resistiéndose, cediendo solo porque algo en la credencial insistía en que Kyle tenía, técnicamente, el derecho de forzarla.
+Extendió la mano derecha —la única que todavía le respondía sin protestar— hacia el aire que ya no se sentía del todo real, buscando no un portal sino una grieta — el mismo tipo de fisura que una vez se había negado a reconocerlo en el Acorazado, forzada ahora desde el lado equivocado, con una credencial que nunca había sido diseñada para esto. El aire se abrió, resistiéndose, cediendo solo porque algo en la credencial insistía en que Kyle tenía, técnicamente, el derecho de forzarla.
 
 Elsie cerró los ojos.
 
@@ -314,7 +424,7 @@ Lo que hizo después no tuvo nombre en ningún idioma que ella conociera complet
 
 ---
 
-## XIV. Substitution
+## XVII. Substitution
 
 Kyle, Carina y Elsie cruzaron la fisura en el instante exacto en que Eirene terminó de dejar de estar donde había estado.
 
@@ -330,7 +440,7 @@ Ninguno de los tres, de pie en el borde de lo que quedaba, lo aceptó en absolut
 
 ---
 
-## XV. The Minority That Escaped
+## XVIII. The Minority That Escaped
 
 Rael sobrevivió. Una fracción de los Corsarios refugiados sobrevivió con él, evacuados en los primeros minutos, antes de que las rutas dejaran de existir. El mercado, los niños, la mayoría de los nombres que Eirene había cargado durante generaciones — no.
 
@@ -358,7 +468,7 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Avarra]], [[02_Characters/Oryx]], [[02_Characters/Mara_Sov]], [[02_Characters/Petra_Venj]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Sword_Logic]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/02_Eirene_Lubrae_The_Planetary_Taking]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/08_The_Third_Element]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Avarra]], [[02_Characters/Oryx]], [[02_Characters/Mara_Sov]], [[02_Characters/Petra_Venj]], [[02_Characters/Lord_Shaxx]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Sword_Logic]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/02_Eirene_Lubrae_The_Planetary_Taking]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/08_The_Third_Element]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_The_Cathedral_Of_Voices]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 16 de Part 01 (capítulo local 9), prosa enteramente nueva — climax de Part 01, adaptando el documento maestro `07_Unsorted_Ideas/02_Eirene_Lubrae_The_Planetary_Taking.md` con todas las decisiones fijadas en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` a lo largo de la sesión del 2026-08-02.
 
@@ -374,4 +484,6 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 **Regla dura protegida:** cero lenguaje de "matar/derrotar definitivamente" a Oryx — la escena nunca lo nombra como derrotado, solo como una presión que respondió con más presión. El reclamo dormido de Kyle no aparece en ningún momento de este capítulo.
 
-**Cierre deliberadamente sin nombre:** el capítulo termina antes de que nadie llame al mundo nuevo por su nombre real — ese nombre queda vetado de la prosa hasta Witch Queen, per `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "El nombre que no se dice" (ver también `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`). El Capítulo 17 abre con los tres ya del otro lado, procesando lo que acaban de perder, antes de que alguien necesite ponerle nombre a lo que queda.*
+**Cierre deliberadamente sin nombre:** el capítulo termina antes de que nadie llame al mundo nuevo por su nombre real — ese nombre queda vetado de la prosa hasta Witch Queen, per `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "El nombre que no se dice" (ver también `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`). El Capítulo 17 abre con los tres ya del otro lado, procesando lo que acaban de perder, antes de que alguien necesite ponerle nombre a lo que queda.
+
+**Duelo físico Kyle/Oryx y origen de Nightstalker formado (2026-08-12), a petición del autor — el capítulo pasa de 15 a 18 secciones (Secciones XI-XIV nuevas o reescritas; todo lo posterior corrido de +3).** Con la muerte de Avarra y la caída del ancla, Oryx cruza en persona a Eirene por primera vez en el libro — no una sombra prestada, su cuerpo real, la misma presencia que después reaparece en el Cap. 17 (ver nota de continuidad ahí). Reta a Kyle a un duelo bajo la Lógica de la Espada — coherente con `voice/oryx.md` (clasifica antes de amenazar, la violencia como instrumento epistemológico) y con `04_Concepts/Sword_Logic`. Kyle pelea con **Filo Cero**, el prototipo de Espada que Shaxx le entregó en el Cap. 8 (nueva Sección II de `01_The_Last_Board.md`) — un arma sin historia propia, a diferencia del Predestinador/Martillo Negro/Gjallarhorn, y por eso cede donde ellas no lo habrían hecho. Oryx lo derrota de forma abrumadora, la Luz de Kyle llega filtrada dentro del dominio que Oryx ya reclama sobre el lugar, Filo Cero se rompe, y Kyle queda al borde de morir. **Carina forma su Vacío por primera vez con nombre y control completo** (sin nombrarlo en prosa — la convención del vault es no decir "Shadowshot"/"Nightstalker" en boca de los personajes, igual que "Chispitas" nunca dice "Stormcaller"), atando a Oryx el tiempo justo para sacar a Kyle con vida. **Decisión dura reformulada (autorización explícita del autor, 2026-08-12):** la regla previa —Nightstalker formado reservado a Season of the Seraph, fijada en el footer del Cap. 15— queda **sustituida**: el dominio completo nace aquí, bajo necesidad extrema, no por práctica gradual. `02_Characters/Carina.md` y el footer del Cap. 15 actualizados en la misma sesión para no contradecirse. Esta escena completa, además, un arco de tres puntos que ya existía a medias en el libro: Eirene (primer rescate) → "hasta que te vuelva a salvar" (Cap. 34, `Six_Months_In_Fragments.md`) → *Justo a Tiempo* (Aftermath, Movimiento VIII) — cuyo título de sección, "sin saber que era la segunda vez", ya asumía un primer rescate que hasta ahora no existía en prosa. Ledger actualizado en `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`. **Regla dura preservada:** Oryx nunca es nombrado como derrotado — al contrario, es quien gana este duelo; el reclamo dormido de Kyle sigue sin aparecer en ningún momento del capítulo.*

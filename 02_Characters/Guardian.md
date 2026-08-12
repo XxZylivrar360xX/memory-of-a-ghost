@@ -837,6 +837,15 @@ Es *¿en qué me estoy convirtiendo?*
 
 **Pilar activo:** [[04_Concepts/Sacrifice|Sacrificio]], [[04_Concepts/Identity|Identidad]]
 
+### Eirene — la primera derrota real
+No es una batalla perdida por error de cálculo. Es una prueba, bajo la Lógica de la Espada, que Oryx propone en persona — un prototipo de espada sin historia propia, roto contra un Rey que ya reclama el lugar donde pelean. Cae al borde de morir, sin que la Luz llegue a tiempo por primera vez desde el Cosmódromo.
+
+Lo que lo salva no es su propia fuerza. Es Carina, atando a Oryx con un Vacío que ella misma no sabía todavía que podía sostener así.
+
+La pregunta que deja esta derrota no es *¿cómo gano la próxima vez?* Es la primera vez, desde que es Guardián, que sobrevivir depende enteramente de que alguien más decida que todavía vale la pena salvarlo.
+
+**Pilar activo:** [[04_Concepts/Consequences|Consecuencias]], [[04_Concepts/Trust|Confianza]] — [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]]
+
 ---
 
 ## La Caída del Rey — King's Fall

@@ -107,6 +107,19 @@ misterios" — este archivo es el detalle completo de esa tabla.
 
 ---
 
+## Filo Cero / el primer rescate de Carina
+
+- **Qué es:** el prototipo de Espada que Shaxx le entrega a Kyle en el Cap. 8 (`01_The_Last_Board.md`, Sección II) se rompe en un duelo contra Oryx en el Cap. 16 (`09_Eirene.md`, Secciones XI-XIV) — Kyle cae al borde de morir, y Carina lo salva formando su Vacío completo (sin nombrarlo en prosa) por primera vez.
+- **Se revela en:** sembrado en Cap. 8; pagado en Cap. 16; consolidado como frase en Cap. 34 (`Six_Months_In_Fragments.md`, "hasta que te vuelva a salvar"); pagado por segunda vez en *Justo a Tiempo* (Aftermath, Movimiento VIII, `Carina_Guardian_TakenKing_JustoATiempo.md`), cuya Sección IX ya estaba titulada "sin saber que era la segunda vez" antes de que existiera una primera vez en prosa.
+- **Quién ya lo sabe:** Kyle y Carina, desde el momento mismo del rescate en Cap. 16.
+- **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban ignorar, es una revelación que se paga dentro del mismo libro y se completa en el Aftermath.
+- **Foreshadowing ya sembrado:** el arma sin nombre e "sin filosofía todavía" que Shaxx entrega en el Cap. 8; el despertar crudo del Vacío de Carina en el Cap. 15.
+- **Líneas o gestos prohibidos:** ningún personaje debe llamar a la habilidad de Carina "Shadowshot" ni "Nightstalker" en diálogo — se describe siempre en términos sensoriales (hilos, atar, cortar), igual que "Stormcaller" nunca se dice en voz alta y solo existe como "Chispitas".
+- **Regla dura reformulada (2026-08-12):** hasta esta fecha, el vault fijaba que el Vacío formado de Carina no llegaba hasta Season of the Seraph. Por decisión explícita del autor, esa regla queda sustituida — ver footer de `08_The_Third_Element.md` y `02_Characters/Carina.md`, sección Nightstalker.
+- **Estado:** **pagado dentro de Book 02** (Eirene); paga de nuevo, ya fuera de este libro, en el Aftermath de Taken King.
+
+---
+
 ## Lo que Ghost vio en el porche
 
 - **Qué es:** en una escena privada Kyle/Ghost del Cap. 8, Ghost ve algo relacionado con el

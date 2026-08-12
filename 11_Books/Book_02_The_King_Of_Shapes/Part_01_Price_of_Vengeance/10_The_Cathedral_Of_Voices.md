@@ -132,13 +132,13 @@ Carina no le dio tiempo a decidirlo. Hornet había detectado movimiento — no u
 
 Oryx los sintió llegar antes de que ninguno de los dos completara el primer movimiento de ataque.
 
-—El que mató a mi hijo —dijo, la voz llenando la Catedral entera sin necesitar volumen, resonando contra paredes que parecían absorberla y devolverla al mismo tiempo—. Y una compañera que no esperaba. Interesante. —Una pausa, casi curiosidad genuina—. Y me encuentran aquí, de todos los lugares posibles.
+—El que mató a mi hijo —dijo, la voz llenando la Catedral entera sin necesitar volumen, resonando contra paredes que parecían absorberla y devolverla al mismo tiempo—. Ya conozco el filo que perdió en Eirene. Veo que encontró otra forma de sostener la Luz sin él. —Una pausa, casi curiosidad genuina, la mirada moviéndose hacia Carina—. Y la que me robó diez segundos con un hilo que todavía no debería poder sostenerme. Los dos, otra vez, en el peor lugar posible para intentarlo una segunda vez.
 
 No había miedo en su tono. Solo la misma frialdad con la que examinaba todo lo que consideraba, potencialmente, una pieza de un argumento más grande.
 
 El Guardian no le dio tiempo a terminar de examinarlos.
 
-Atacó primero — no con la esperanza de vencerlo con fuerza bruta, algo que sabía, con certeza absoluta, que no era posible, sino con la esperanza de abrir el espacio suficiente para que Carina pudiera hacer lo que ella hacía mejor que nadie: encontrar el ángulo que nadie más veía.
+No llevaba espada esta vez, y no la extrañó — Eirene ya le había enseñado exactamente lo que un filo sin historia valía frente a él. Atacó primero, con la Luz sola, no con la esperanza de vencerlo con fuerza bruta, algo que sabía, con certeza absoluta, que no era posible, sino con la esperanza de abrir el espacio suficiente para que Carina pudiera hacer lo que ella hacía mejor que nadie: encontrar el ángulo que nadie más veía.
 
 —¡Izquierda! —gritó ella, ya moviéndose.
 
@@ -272,4 +272,6 @@ Y el trono, por primera vez en toda su historia, no iba a esperar a quien lo hab
 
 **Regla dura protegida:** cero lenguaje de "matar/derrotar definitivamente" a Oryx — el Guardian lo dice explícitamente en voz alta ("no lo maté... esto no terminó"), igual que en la fuente original. El reclamo dormido no aparece en el POV de Kyle. La credencial de Crota ahora abre también el paso al Mundo Cadáver, coherente con lo ya fijado en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "Lo que NO cambia": el robo de la esencia de Crota funciona como credencial que ahora también abre paso al mundo nuevo, no solo a la cámara de Crota.
 
-**Cierre de Part 01, un capítulo por delante:** con este capítulo, Part 01 queda a un solo capítulo de completarse — el 18 (`The Flank She Could Not Hold`).*
+**Cierre de Part 01, un capítulo por delante:** con este capítulo, Part 01 queda a un solo capítulo de completarse — el 18 (`The Flank She Could Not Hold`).
+
+**Ajuste de continuidad (2026-08-12), a petición del autor.** El duelo físico Kyle/Oryx nuevo del Cap. 16 (`09_Eirene.md`, Secciones XI-XIV) obliga a que este ya no sea el primer encuentro físico real entre ambos. La apertura de la Sección VII se ajustó: la línea de Oryx ya no suena a primer hallazgo curioso ("de todos los lugares posibles") sino a reconocimiento directo de lo ya ocurrido — nombra el filo perdido de Kyle en Eirene y el hilo de Carina que lo detuvo diez segundos. Se añadió una línea corta de Kyle explicando, sin discurso, por qué no lleva espada esta vez. Sin cambios de resultado ni de coreografía del resto de la pelea.*

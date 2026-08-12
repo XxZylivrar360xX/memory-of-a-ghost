@@ -2,7 +2,7 @@
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
-**Protagonistas:** Kyle, Ghost, Banshee-44, Elsie (aparición breve)
+**Protagonistas:** Kyle, Ghost, Banshee-44, Lord Shaxx, Elsie (aparición breve)
 **Ventana temporal:** The Taken King — antes de que empiece la campaña, el mismo día en que la alarma de Phobos por fin encuentra a quien tiene que encontrar
 **Lugar:** La armería de Banshee-44, en la Torre (esa mañana); la cabaña (esa tarde)
 
@@ -94,7 +94,51 @@ No tenía forma de saber, cruzando el pasillo de vuelta hacia el hangar, que esa
 
 ---
 
-## II. The Last Board
+## II. What Shaxx Brought
+
+Cruzaba el pasillo hacia el hangar cuando Shaxx lo interceptó — imposible no verlo venir, la armadura roja y dorada ocupando el corredor entero antes de que el resto de él terminara de aparecer.
+
+—¡Guardian! —La voz de Shaxx llenaba cualquier espacio antes de que el espacio terminara de decidir si tenía sitio para ella—. Justo el hombre que buscaba.
+
+—Shaxx. —Kyle se detuvo, ajustando el peso de las tres armas recién decodificadas a la espalda—. ¿Otro torneo?
+
+—Ojalá fuera tan simple. —Algo en su tono cambió, la energía de siempre bajando un grado hacia algo más deliberado—. Esto es Vanguardia y Crisol de acuerdo, por una vez, en la misma pregunta. Camina conmigo.
+
+Lo llevó a un almacén lateral que Kyle no recordaba haber visto antes — una sola caja larga, sin las marcas habituales de ninguna de las tres casas grandes, descansando sobre una mesa de trabajo improvisada.
+
+—Suros lleva meses insistiendo con algo que ni ellos saben bien cómo llamar todavía —dijo Shaxx, abriendo la caja con un cuidado que no encajaba del todo con el resto de su presencia—. Un arquetipo nuevo. No un arma de fuego. Algo más viejo que eso.
+
+Adentro, envuelta en una tela que no la protegía de mucho, había una espada.
+
+No tenía nada de especial a primera vista — el filo ancho, el balance todavía sin pulir, la clase de acero honesto que Banshee habría reconocido en el acto como "sin filosofía todavía". Ninguna runa, ningún grabado, ningún nombre.
+
+—¿Una espada?
+
+—Una espada. —Shaxx la levantó con las dos manos, respetuoso pese a todo—. La Vanguardia lleva generaciones peleando a distancia porque a distancia se sobrevive más. Pero hay cosas que se están acercando, Guardian, cosas para las que un arma de fuego no va a ser suficiente respuesta. Necesitamos saber si esto funciona antes de que lo necesitemos de verdad.
+
+—¿Por qué yo?
+
+—Porque necesito a alguien que ya sepa perder. —Se la extendió, el peso cayendo en las manos de Kyle más pesado de lo que esperaba—. La mitad de los Guardianes que conozco cargan un arma como si fuera una extensión de su ego. Tú cargas las tuyas como herramientas. Eso es exactamente lo que este prototipo necesita para que la prueba signifique algo.
+
+Kyle sopesó la espada, el filo capturando la luz del almacén sin ningún brillo particular que ofrecer a cambio.
+
+—¿Tiene nombre?
+
+—Todavía no. —Algo parecido a una sonrisa cruzó el rostro parcialmente visible de Shaxx bajo el casco—. Los de Suros la llaman Filo Cero, en el papeleo. Un punto de partida, no una promesa. Si sobrevive lo suficiente para merecer algo mejor, ya se lo pondrás tú.
+
+—¿Y si no sobrevive?
+
+—Entonces habremos aprendido algo de todas formas. —Shaxx se cruzó de brazos, la energía de siempre volviendo a su voz—. Eso es lo único que un prototipo le debe al mundo, Guardian. No una victoria. Una respuesta honesta.
+
+Kyle la cruzó a la espalda, junto a las otras tres, el peso desconocido de una cuarta arma sin historia todavía.
+
+—La voy a llevar conmigo la próxima vez que salga.
+
+—Entonces llévala bien. —Shaxx le puso una mano en el hombro, el gesto tan grande como todo lo demás en él—. Y vuelve a contarme qué aprendiste. Sea lo que sea.
+
+---
+
+## III. The Last Board
 
 El último tablón no quería encajar.
 
@@ -120,7 +164,7 @@ Kyle no discutió eso, porque no tenía cómo. Volvió a serruchar, más despaci
 
 ---
 
-## III. The Godslayer Year
+## IV. The Godslayer Year
 
 —¿Te acuerdas de cuando no sabías martillar un clavo derecho? —dijo Ghost, mientras Kyle encajaba el tablón por fin en su sitio—. Hace un año no sabías hacer nada de esto. Ahora tienes opiniones sobre el ángulo del corte.
 
@@ -152,7 +196,7 @@ Ghost no dijo nada a eso, lo cual, viniendo de él, ya era un comentario complet
 
 ---
 
-## IV. The Apple at the Tree Line
+## V. The Apple at the Tree Line
 
 Fue en una de esas mismas mañanas, mientras el martillo todavía sonaba parejo contra la madera, cuando Kyle notó que no estaba solo en el claro.
 
@@ -178,7 +222,7 @@ Ghost no dijo nada al respecto. Ninguno de los dos lo mencionó otra vez en todo
 
 ---
 
-## V. Elsie's Opinion
+## VI. Elsie's Opinion
 
 La cabaña se alzaba al fondo del claro con la misma solidez tosca que tenía desde que Kyle la encontró en sus primeros meses como Guardián — troncos oscurecidos por el clima, el techo a dos aguas cubierto de musgo en el lado que nunca veía el sol de la tarde, la chimenea de piedra que Kyle nunca había tenido que tocar porque alguien, mucho antes que él, la había construido para durar más que cualquiera de sus dueños. Las ventanas, angostas y bajas, dejaban pasar la luz de esa hora en franjas doradas que caían justo sobre el porche recién terminado — madera clara, todavía sin curtir, una cicatriz reciente que aún no había aprendido a confundirse con el resto de la piel de la casa.
 
@@ -272,7 +316,7 @@ Se quedó un rato más de lo que cualquier nota pendiente de cerrar justificaba,
 
 ---
 
-## VI. What She Carried Back
+## VII. What She Carried Back
 
 Elsie se levantó antes de que nadie tuviera que decírselo.
 
@@ -292,7 +336,7 @@ No era que no quisiera quedarse. Era que quedarse todavía no era una categoría
 
 ---
 
-## VII. The Phobos Call
+## VIII. The Phobos Call
 
 Ghost se iluminó de golpe, la lente virando hacia un punto que no estaba en la habitación, antes de que ninguno de los dos terminara de disfrutar el silencio.
 
@@ -316,7 +360,7 @@ Ghost cerró el canal él mismo y se acercó flotando, la lente fija en Kyle con
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Elsie]], [[02_Characters/Ikora]], [[02_Characters/Banshee-44]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[08_Core_Relationships/Guardian_Ghost]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostFinalShape_LoQueYaEraVerdad]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_VaultOfGlass_LaCabana]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Elsie]], [[02_Characters/Ikora]], [[02_Characters/Banshee-44]], [[02_Characters/Lord_Shaxx]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[08_Core_Relationships/Guardian_Ghost]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostFinalShape_LoQueYaEraVerdad]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_VaultOfGlass_LaCabana]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 8 del libro (Capítulo 1 de Part 01), "The Last Board" (título anterior: "The Porch", ajustado por Codex/Víctor el 2026-07-27) — apertura enteramente nueva de Book 02, Part 01, diseñada y aprobada con el autor el 2026-07-26 antes de escribir. Sin escena fuente en `05_Dialogues/`. Kyle termina de construir, con sus propias manos, el porche de la cabaña que a lo largo del resto de la saga va a ser escenario de la mayoría de sus momentos domésticos más importantes (`Guardian_Familia_FinalShape_LasManzanasQueNoCayeron`, `Guardian_Zavala_PostFinalShape_UnaCervezaDeViejos`, `Guardian_Sai_PostFinalShape_LaHijaQueElegimos`, `Elsie_FinalShape_VuelveACasa`, entre otras 28 escenas que lo usan como locación) — la cabaña ya existe desde Age I; el porche es una construcción nueva de esta ventana temporal. Función de apertura: pura paz doméstica antes de que la campaña de Oryx empiece, simétrica con el cierre del Prólogo de Carina/Lena (`00_Prologue/07_The_Last_Line_In_The_Ledger.md`) — dos protagonistas, dos escenas de calma interrumpida, cerrando el mismo umbral desde ángulos distintos.
 
@@ -351,4 +395,6 @@ Los orígenes de cada arma (Falla de los Oráculos/Bóveda de Cristal, profundid
 
 **Corrección de geografía (2026-08-04), a petición del autor, para que quede fijado sin ambigüedad de cara a capítulos futuros.** La cabaña vive en el sector forestal al pie de una cresta, entre la Ciudad y el territorio abierto (fijado en `10_Chapters/Age_I/Cap_01_A_New_Shape.md`: "sector forestal, cresta este"). El campamento improvisado de Elsie vive **a las afueras de la Torre** (fijado en el frontmatter de `05_Dialogues/Dialogue_Elsie/Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir.md`). Son dos sitios distintos, no contiguos — ella no camina de uno a otro, vuela. Corregida en cascada la Sección VII de `02_Phobos.md` ("The Tent Outside the City"), que decía "a poca distancia" de forma ambigua (podía leerse como distancia desde la cabaña); ahora dice explícitamente "a las afueras de la Torre."
 
-**Ajuste de prosa (2026-08-04), a petición del autor, tras una lectura crítica de la Sección VI.** La sección repetía la idea de que Elsie se analiza a sí misma con vocabulario casi sinónimo tres veces en pocos párrafos ("dato" / "catalogar... patrón" / "categoría"). Se recortó la instancia del medio ("y catalogar esa omisión, también, empezaba a sentirse como parte del patrón"), que además interrumpía el único momento puramente visual de la sección (Elsie mirando el porche) con una vuelta a la abstracción. Quedan dos instancias — la que abre la sección y la que la cierra — en vez de tres golpes seguidos del mismo recurso.*
+**Ajuste de prosa (2026-08-04), a petición del autor, tras una lectura crítica de la Sección VI.** La sección repetía la idea de que Elsie se analiza a sí misma con vocabulario casi sinónimo tres veces en pocos párrafos ("dato" / "catalogar... patrón" / "categoría"). Se recortó la instancia del medio ("y catalogar esa omisión, también, empezaba a sentirse como parte del patrón"), que además interrumpía el único momento puramente visual de la sección (Elsie mirando el porche) con una vuelta a la abstracción. Quedan dos instancias — la que abre la sección y la que la cierra — en vez de tres golpes seguidos del mismo recurso.
+
+**Nueva Sección II, "What Shaxx Brought" (2026-08-12), a petición del autor — el capítulo pasa de 7 a 8 secciones, todo lo posterior a la escena de Banshee corrido +1 (la vieja Sección II, "The Last Board", pasa a ser la III, y así en cascada hasta la VIII, "The Phobos Call").** Shaxx intercepta a Kyle justo después de la armería de Banshee y le entrega un prototipo de Espada — arquetipo de arma nuevo para los Guardianes, patrocinado en conjunto por Vanguardia y Crisol, presentado por Suros como parte del mismo envío de inventario ya mencionado en la Sección I. Sin runas, sin grabado, sin nombre propio — Suros la designa internamente "Filo Cero" en el papeleo, deliberadamente genérica en contraste con las tres armas legendarias/exóticas que Kyle acaba de nombrar con Banshee. Shaxx explica el motivo (algo se acerca para lo que un arma de fuego no bastará) y por qué eligió a Kyle (alguien que ya sabe perder, que carga sus armas como herramientas, no como ego) — sin nombrar todavía a Oryx ni a Eirene, que todavía no existen en el horizonte de nadie en este punto del capítulo. Sienta la base para que la espada se rompa en el Cap. 16 (`09_Eirene.md`) contra Oryx: es un prototipo sin historia propia, a diferencia de las armas que Kyle ganó en combate, y por eso cede donde ellas no lo habrían hecho.*
