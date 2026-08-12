@@ -40,6 +40,18 @@ Eso fue lo primero que Kyle notó al aterrizar — no ruinas, no una ciudad espe
 
 —Los tenemos. —Rael señaló hacia el sector este, donde las cúpulas se apretaban un poco más de lo habitual—. No es fácil, pero los tenemos. Eirene no tiene mucho, pero lo que tiene lo comparte. Siempre lo ha hecho.
 
+Carina no se quedó junto a los demás más de lo necesario. El mercado la atrajo antes de que nadie se lo pidiera — el mismo reflejo de siempre, medir quién vendía qué y quién necesitaba qué, en cualquier lugar nuevo donde pisara.
+
+Encontró a Yeva en el tercer puesto, una mujer mayor de manos curtidas, vendiendo retazos remendados a precios que no cubrían ni el hilo. Le ofreció uno sin que se lo pidiera — una bufanda gruesa, mal cosida en una esquina.
+
+—Para el frío de la noche —dijo, sin pedir nada a cambio—. Aquí compartimos lo poco. Es la única forma en que un lugar como este sigue de pie.
+
+—No tengo con qué pagarle.
+
+—No pregunté por eso.
+
+Carina se quedó con la bufanda, sin saber todavía qué hacer con la costumbre de que alguien le diera algo sin condición.
+
 Kyle miró el asentamiento entero, la vida ordinaria en curso, y sintió, sin poder nombrarlo todavía, el peso específico de estar de pie en un lugar que todavía no sabía lo que se le venía encima.
 
 ---
@@ -124,6 +136,14 @@ Kyle sintió la Oscuridad antes de que Ghost terminara la frase — la misma pre
 
 —Necesitamos evacuar —dijo Carina, ya moviéndose hacia el puerto—. Ahora, antes de que alguien más lo sienta.
 
+De camino, encontró a Yeva cerrando su puesto a toda prisa, metiendo lo poco que podía salvar en un solo bulto.
+
+—¡Al puerto! —le gritó, sin detenerse—. Ahora. No cuando termine de guardar eso.
+
+—Voy, voy. —Yeva no discutió, pero tampoco se apuró más de lo que sus manos viejas le permitían—. Dame un minuto.
+
+Carina no tuvo tiempo de esperar para confirmar que lo hiciera.
+
 ---
 
 ## VII. The Orbit Revoked
@@ -159,6 +179,22 @@ Nadie respondió de inmediato, porque los tres sabían, con la misma certeza exa
 —No tenemos naves accesibles para todos —dijo Hornet—. No tenemos coordenadas de transmat estables. No tenemos ruta orbital que siga significando algo dentro de un par de minutos.
 
 —Entonces hacemos lo que podamos con lo que tenemos —dijo Carina—. Empezando por sacar a la gente que ya está aquí, mientras todavía hay un aquí del que sacarla.
+
+Elsie se detuvo a mitad de movimiento.
+
+—Esperen.
+
+Cerró los ojos un segundo, algo en su rostro cediendo a un cálculo que no le gustaba.
+
+—Hay resistencia dentro del patrón —dijo—. No es la sustitución completa. Hay algo, adentro de lo que se está cerrando, que se niega a encajar en la forma que le están dando.
+
+—¿Nuestra? —preguntó Ghost.
+
+—No. Tampoco es de Eirene. —Abrió los ojos—. Es más vieja que las dos cosas. Y está perdiendo.
+
+El aire del puerto se sintió, por un instante, medido — no una amenaza entrando, solo un peso breve y deliberado, algo que ya sabía exactamente qué estaba mirando y no tenía ninguna prisa por decidir qué hacer con ello.
+
+Se fue tan rápido como había llegado.
 
 ---
 
@@ -226,6 +262,8 @@ Las naves que habían empezado a despegar se inmovilizaron en el cielo, congelad
 
 No fue una derrota por incompetencia. Habían hecho todo bien — el ancla destruida, la guardiana derrotada, la evacuación abierta más tiempo del que nadie creía posible. No había sido suficiente, y la razón no tenía nada que ver con lo que habían hecho o dejado de hacer.
 
+La victoria táctica no altera una operación de sustitución. Podían ganar cada intercambio y perder el planeta de todas formas, porque nunca habían estado peleando por Eirene. Habían estado peleando por minutos.
+
 Era, simplemente, una cuestión de escala.
 
 ---
@@ -253,6 +291,12 @@ Nadie tuvo tiempo de procesar la escala completa de lo que estaban viendo. El su
 —Todavía no. —Elsie miró hacia el puerto, hacia las naves congeladas, hacia la gente que Carina seguía empujando hacia cualquier salida que quedara—. Denme el tiempo que puedan. El máximo. Cada minuto es gente real saliendo de aquí antes de que deje de haber un aquí.
 
 Carina no necesitó que se lo pidieran dos veces. Volvió al puerto, gritando instrucciones, abriendo cada corredor de evacuación que su Luz y su cuerpo pudieran sostener, sabiendo, sin decírselo a nadie, que cada segundo que ganaba para otros era un segundo que no iba a poder gastar en salvar a todos.
+
+Buscó a Yeva entre la gente que seguía empujando hacia las salidas, el bulto a medio cerrar todavía en alguna parte de esa multitud.
+
+No la encontró.
+
+No tuvo forma de saber, en medio de todo lo demás, si ya había cruzado, si seguía atrapada en algún corredor que Carina no había alcanzado a abrir a tiempo, o si el minuto que le había pedido de más ya no significaba nada del todo. No hubo tiempo de preguntar. No hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro. Solo la bufanda, que Carina seguía llevando puesta sin haberlo decidido, y la certeza fría de que "salvar a todos" tenía, ahora, una cara concreta que no iba a dejar de ver cada vez que se lo repitiera.
 
 Kyle sintió el peso de la esencia de Crota en su pecho, la credencial fría y silenciosa que llevaba cargando desde el Hellmouth, y entendió, con una claridad que no le dio ningún alivio, para qué había servido cargarla hasta ahora.
 

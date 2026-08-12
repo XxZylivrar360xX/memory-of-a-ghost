@@ -258,6 +258,16 @@ Nadie respondió de inmediato.
 
 —No sé qué significa —dijo Ghost, al fin—. No sé si es un objetivo, una fecha, o solo un punto que a alguien le pareció importante hace mucho tiempo. Pero no me gusta cuántas veces se repite.
 
+La proyección tembló un instante — no un fallo del hilo Ascendente, sino algo mucho más frío cruzándolo, brevemente, desde algún punto que no era la consola.
+
+—¿Sintieron eso? —preguntó Hornet, ya con un paso de retirada que no terminó de completar.
+
+—Lo sentí. —Ghost no interrumpió el escaneo, pero algo en su voz se cerró un grado—. No vino del nodo. El nodo sigue exactamente donde estaba.
+
+Kyle reconoció la sensación antes de que terminara de pasar — no la presión completa que había sentido en Phobos, solo su filo: algo pasando por encima de lo que estaban mirando el tiempo justo para medirlo, no para detenerlos.
+
+Se fue tan rápido como llegó. El mapa siguió intacto.
+
 Kyle miró la proyección un momento más, tratando de encontrarle una lectura menos inquietante y sin conseguirlo.
 
 —Entonces no es solo Oryx reaccionando a lo que le hicimos —dijo—. Ya estaba mirando hacia algún lado antes de que yo bajara al Hellmouth.

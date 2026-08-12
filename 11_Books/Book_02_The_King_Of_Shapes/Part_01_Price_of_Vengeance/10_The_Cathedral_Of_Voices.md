@@ -184,7 +184,7 @@ El silencio que siguió fue casi tan abrumador como la pelea misma. Las Voces, a
 
 —¿Y eso qué significa?
 
-—Significa que esto no terminó. —El Guardian miró hacia el punto donde Oryx había desaparecido—. Significa que alguien va a tener que terminar de verdad lo que empezamos hoy, y que probablemente no voy a poder ser solo yo quien lo haga.
+—Significa que herir un cuerpo no responde a un trono. —El Guardian miró hacia el punto donde Oryx había desaparecido—. Y lo único que herimos hoy fue el cuerpo. Alguien va a tener que terminar de verdad lo que empezamos, y probablemente no voy a poder ser solo yo quien lo haga.
 
 Carina bajó La Última Palabra, la adrenalina todavía corriendo por su cuerpo. En algún punto de la última hora había dejado de cargarla como una promesa hecha a un desconocido en la nieve, sola, y había empezado a cargarla como algo que hacía, sin pensarlo, con alguien más al lado — no porque el costo de elegir hubiera desaparecido, sino porque por primera vez desde el Refugio del Muelle no lo estaba cargando ella sola.
 

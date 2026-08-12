@@ -244,7 +244,29 @@ Carina bajó el arma un segundo, algo en su expresión más cerca de la frustrac
 
 ## XI. Tie the Loose Threads
 
-Kyle se acercó, todavía con el eco de la tormenta cosquilleándole en los brazos.
+Kyle se acercó, todavía con el eco de la tormenta cosquilleándole en los brazos, y lo primero que hizo no fue hablar.
+
+Se puso entre ella y el dron.
+
+—Muévete —dijo—. Yo me encargo.
+
+Carina no se movió, ni bajó el arma.
+
+—¿De qué, exactamente? Llevo cinco minutos leyendo esto. Tú llevas cinco segundos mirando.
+
+—No vine a discutir el orden de llegada. Vine a que no te pase nada mientras lo averiguas.
+
+—Eso no es tuyo para decidir.
+
+Se quedaron así un segundo — Kyle a medio paso, Carina sin ceder terreno, el dron tambaleándose otra vez detrás de los dos, como si el tiempo que gastaban discutiendo también fuera, de alguna forma, parte de lo que lo sostenía en pie.
+
+Kyle cedió primero.
+
+—Tienes razón. —No sonó a disculpa completa, pero fue lo más cerca que llegó—. Perdón.
+
+Ella no lo dijo en voz alta, pero bajó un grado la tensión de los hombros — lo suficiente para que él supiera que había sido escuchado.
+
+—Entonces dime qué ves, en vez de dónde pararte.
 
 —Yo hice lo mismo hace un minuto. Intenté forzarlo.
 
