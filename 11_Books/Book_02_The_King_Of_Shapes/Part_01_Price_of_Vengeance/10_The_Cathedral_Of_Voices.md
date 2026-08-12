@@ -38,6 +38,8 @@ Nadie dijo nada durante un momento largo, viendo la proyección temblar y estabi
 
 Cinco días separaron ese momento del día en que por fin aterrizaron en el mundo nuevo.
 
+El cuerpo se encargó de lo suyo primero. Para el segundo día, el hombro ya cerraba solo; para el cuarto, Kyle podía sostener un arma sin que la mano lo delatara. La Luz, lejos del dominio de Oryx, volvía a llegar exactamente cuando se le pedía — la parte más fácil de recuperar, con diferencia.
+
 Los primeros dos los pasaron en la Torre, Kyle y Carina sentados frente a Ikora, frente a Zavala, frente a Eris, contando la misma historia tantas veces que empezó a sentirse menos como memoria y más como reporte — el ancla, Avarra, Oryx cruzando en persona, Filo Cero roto, el rescate. Nadie discutió los hechos. Todos discutieron qué hacer con ellos. Eris fue la única que no preguntó nada sobre la espada ni sobre la herida. Preguntó, dos veces, exactamente qué había sentido Kyle en el momento en que su Luz dejó de llegarle a tiempo — y no pareció satisfecha con ninguna de las dos respuestas.
 
 —Esto todavía no lo entiendo —dijo, al final, más para sí misma que para el resto de la sala.
@@ -188,7 +190,7 @@ El Guardian confió sin cuestionar, rompiendo hacia la izquierda un instante ant
 
 Carina apareció detrás de Oryx un segundo después, guiada por un ángulo ciego que solo su sigilo paracausal podía haber encontrado, y salió del giro ya disparando — las tres balas de La Última Palabra alineadas en el único punto que había visto ceder, la misma certeza instantánea con la que llevaba toda la vida encontrando lo que valía la pena golpear.
 
-Oryx respondió con una fuerza que ninguno de los dos había sentido antes — no una herida mortal, pero sí una que le arrancó al Rey de los Poseídos, dentro de la propia sala donde las Voces mudas de su historia lo habían escuchado durante eones, algo parecido a la sorpresa genuina.
+Oryx respondió con una fuerza que Carina no había sentido antes — Kyle sí, la reconoció en el cuerpo un instante antes de que llegara, la misma escala exacta que lo había roto en Eirene, y por eso pudo absorberla sin que lo tirara. No fue una herida mortal, pero sí una que le arrancó al Rey de los Poseídos, dentro de la propia sala donde las Voces mudas de su historia lo habían escuchado durante eones, algo parecido a la sorpresa genuina.
 
 —Cambio —gritó el Guardian, viendo la abertura.
 
@@ -228,7 +230,7 @@ El silencio que siguió fue casi tan abrumador como la pelea misma. Las Voces, a
 
 —Significa que herir un cuerpo no responde a un trono. —El Guardian miró hacia el punto donde Oryx había desaparecido—. Y lo único que herimos hoy fue el cuerpo. Alguien va a tener que terminar de verdad lo que empezamos, y probablemente no voy a poder ser solo yo quien lo haga.
 
-Carina bajó La Última Palabra, la adrenalina todavía corriendo por su cuerpo. En algún punto de la última hora había dejado de cargarla como una promesa hecha a un desconocido en la nieve, sola, y había empezado a cargarla como algo que hacía, sin pensarlo, con alguien más al lado — no porque el costo de elegir hubiera desaparecido, sino porque por primera vez desde el Refugio del Muelle no lo estaba cargando ella sola.
+Carina bajó La Última Palabra, la adrenalina todavía corriendo por su cuerpo. Eirene ya le había enseñado que no la cargaba sola — cinco días no habían alcanzado a que dejara de sentir el peso completo de Kyle contra el hombro, la sangre empapándole el costado —, pero aquí, peleando codo a codo en vez de cargándolo inconsciente, la lección terminó de asentarse del todo: había dejado de cargarla como una promesa hecha a un desconocido en la nieve, sola, y la cargaba ahora como algo que hacía, sin pensarlo, con alguien más al lado — no porque el costo de elegir hubiera desaparecido, sino porque por primera vez desde el Refugio del Muelle no lo estaba cargando ella sola.
 
 Miró al Guardian con algo que no era del todo confianza, pero que ya no era desconfianza tampoco.
 
