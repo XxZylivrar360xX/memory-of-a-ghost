@@ -292,27 +292,45 @@ Kyle sintió, en ese primer choque, algo parecido a la posibilidad — el mismo 
 
 No lo era.
 
-Kyle rodó hacia el costado expuesto, todo el peso del cuerpo detrás del tajo que siguió, la misma lectura que le había funcionado un año entero de combate — y encontró, en vez de carne o armadura, la hoja de Oryx ya esperándolo ahí, sin prisa, como si el descuido nunca hubiera sido descuido.
+Kyle rodó hacia el costado expuesto, todo el peso del cuerpo detrás del tajo que siguió, la misma lectura que le había funcionado un año entero de combate.
 
-—Sostienes acero sin historia —dijo Oryx, sin que la voz delatara ningún esfuerzo, mientras el filo de Kyle temblaba contra el suyo, cediendo un centímetro que no debería haber cedido—. Un arma que nadie ha ganado todavía. Eso también es una respuesta, Portaluz. Solo que no la que esperabas.
+Oryx cerró el puño alrededor del filo antes de que llegara.
 
-El segundo golpe real llegó antes de que Kyle terminara de recuperar el equilibrio. Alcanzó a invocar la Luz para reforzar el bloqueo siguiente — el mismo reflejo automático que había usado toda su vida como Guardián — y la sintió llegar tarde, filtrada, como si algo entre él y el Viajero se hubiera vuelto, de pronto, una distancia real en vez de una certeza. El brazo cedió. El golpe le abrió el hombro, la armadura chispeando donde el filo la mordió antes de resbalar.
+No lo bloqueó. Lo atrapó, la mano entera cerrándose sobre el acero como quien atrapa algo que ya sabía que iba a lanzarse, sin que el gesto le costara ni un paso hacia atrás. El acero se detuvo en seco. Las manos de Kyle no — el tirón repentino le abrió las palmas contra la guarda, la sangre corriendo caliente por los dedos antes de que el dolor terminara de anunciarse. Se quedó ahí, la hoja atrapada, sin ninguna versión del siguiente movimiento que tuviera sentido: soltar era perder el arma entera; tirar de vuelta era pelear contra algo que no medía la fuerza en los mismos términos que él.
 
-—Aquí no —dijo Oryx, casi con algo parecido a la compasión—. Este lugar ya es mío en la forma que más importa. Tu luz llega donde yo decido que llegue.
+Oryx se irguió sobre él.
 
-Kyle cayó sobre la rodilla buena, la mano libre presionando el hombro abierto, y se levantó de todas formas — no porque el cuerpo todavía respondiera del todo, sino porque detenerse ya no era una decisión que le quedara disponible. Ghost gritó algo que no llegó a procesar. Carina gritó su nombre desde un punto que sonaba mucho más lejos de lo que la distancia real explicaba.
+Las alas —no de carne, no de plumas, algo más parecido a la ausencia tomando forma de alas— se abrieron a los costados, enormes, y el sol de Eirene, ya débil, terminó de desaparecer detrás de ellas. Kyle quedó parado bajo una sombra que no proyectaba nada detrás de sí porque no había nada detrás de ella que proyectar: solo Oryx, entero, alcanzándolo.
 
-Levantó Filo Cero una vez más, los brazos ya sin fuerza real detrás del gesto, más terquedad que estrategia — la diferencia entre los dos ya no una cuestión de esfuerzo, sino de escala, la misma palabra que Ghost había usado minutos antes sin que nadie hubiera entendido todavía cuánto pesaba.
+—Sostienes acero sin historia —dijo, sin que la voz delatara ningún esfuerzo, el puño todavía cerrado sobre el filo—. Un arma que nadie ha ganado todavía. Eso también es una respuesta, Portaluz. Solo que no la que esperabas.
 
-Oryx no se molestó en esquivar el golpe. Lo recibió de frente, y esta vez no midió nada en absoluto.
+Abrió la mano.
 
-Filo Cero se rompió a la altura de la empuñadura, el sonido más parecido al de algo rindiéndose que al de algo rompiéndose, el filo suelto girando dos veces en el aire antes de perderse entre los escombros del ancla.
+Kyle cayó hacia atrás con el impulso de su propio peso, Filo Cero intacta pero inútil entre las manos ensangrentadas, y no tuvo tiempo de agradecer seguir de pie antes de que el instinto —el mismo de siempre, entrenado en un año entero de combate— le exigiera invocar la Luz para lo que fuera a venir después.
 
-El golpe siguiente encontró a Kyle directamente — no un corte limpio, sino una fuerza completa, sin filo necesario para hacer el trabajo, que lo levantó del suelo y lo dejó caer varios metros más allá, cerca del borde del ancla caída, el cuerpo entero negándose a responder a nada de lo que la mente todavía intentaba pedirle.
+Llegó tarde. Filtrada. Como si algo entre él y el Viajero se hubiera vuelto, de pronto, una distancia real en vez de una certeza.
+
+—Aquí no —dijo Oryx—. Este lugar ya es mío en la forma que más importa. Tu luz llega donde yo decido que llegue.
+
+Kyle atacó de todas formas.
+
+El primero fue torpe, un tajo horizontal sin ángulo real detrás, y Oryx lo desvió con el dorso de la hoja sin molestarse en responder. El segundo fue peor — desesperación disfrazada de técnica, todo el peso mal repartido — y ni siquiera mereció un desvío completo, solo un giro de muñeca que lo dejó pasar de largo.
+
+Ghost gritó algo que Kyle no llegó a procesar. Carina gritó su nombre desde un punto que sonaba mucho más lejos de lo que la distancia real explicaba.
+
+Kyle levantó Filo Cero por tercera vez, los brazos ya sin fuerza real detrás del gesto, más terquedad que estrategia.
+
+Oryx respondió con un solo tajo.
+
+Willbreaker —la hoja tenía nombre, aunque nadie en Eirene fuera a llegar a saberlo nunca— encontró el acero de Filo Cero y no se detuvo ahí. Lo partió en tres pedazos limpios, el filo suelto girando en el aire antes de perderse entre los escombros del ancla, y siguió el arco completo del golpe como si la espada de Kyle nunca hubiera estado ahí para empezar.
+
+Lo que lo alcanzó después no fue el filo.
+
+Fue una descarga — la misma energía Poseída que corrompía todo lo que tocaba en el sistema desde hacía semanas, concentrada de golpe en una sola onda que salió de Oryx como algo que ya no necesitaba un arma para hacer daño. Golpeó a Kyle de lleno en el pecho y lo levantó del suelo, lo mismo que hace una explosión con algo que estaba demasiado cerca, y lo dejó caer varios metros más allá, cerca del borde del ancla caída, el cuerpo entero negándose a responder a nada de lo que la mente todavía intentaba pedirle.
 
 Kyle sintió la sangre antes de sentir el dolor, y después empezó a sentir, con una claridad fría que no esperaba tener en ese momento, que la Luz no iba a llegar a tiempo esta vez.
 
-Oryx se acercó sin prisa, la hoja baja, el paso de alguien que ya conocía el final de la prueba y solo necesitaba caminar hasta él.
+Oryx se acercó sin prisa, Willbreaker baja, el paso de alguien que ya conocía el final de la prueba y solo necesitaba caminar hasta él.
 
 —No mueres con odio —dijo, la voz casi curiosa, examinándolo como quien examina un dato que se resiste a encajar en el resto—. Eso es interesante. Casi todos los que caen frente a mí mueren con odio.
 
@@ -327,6 +345,8 @@ Kyle no tuvo aire para responder nada de eso.
 Carina no llegó a pensar en un plan.
 
 Lo que quedaba de los últimos minutos —Avarra, el ancla, Yeva perdida en algún corredor que no había alcanzado a abrir a tiempo, cada segundo que le había costado no ser suficiente— se convirtió, de golpe, en una sola pregunta sin palabras: *¿qué sostiene esto?*
+
+No pensó en Kyle como en Chispitas, ni en nada que tuviera todavía nombre propio entre los dos. Pensó en él como piensa cualquiera que ha jurado lo mismo que ella juró una vez: un Portaluz caído en el peor momento posible, alguien que todavía podía respirar si alguien más decidía, ahora, que respirar seguía siendo posible.
 
 No apuntó con Última Palabra. No había tiempo, ni distancia limpia, ni un disparo que pudiera llegar antes que la hoja.
 
@@ -485,5 +505,7 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 **Cierre deliberadamente sin nombre:** el capítulo termina antes de que nadie llame al mundo nuevo por su nombre real — ese nombre queda vetado de la prosa hasta Witch Queen, per `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "El nombre que no se dice" (ver también `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`). El Capítulo 17 abre con los tres ya del otro lado, procesando lo que acaban de perder, antes de que alguien necesite ponerle nombre a lo que queda.
 
 **Duelo físico Kyle/Oryx y origen de Nightstalker formado (2026-08-12), a petición del autor — el capítulo pasa de 15 a 18 secciones (Secciones XI-XIV nuevas o reescritas; todo lo posterior corrido de +3).** Con la muerte de Avarra y la caída del ancla, Oryx cruza en persona a Eirene por primera vez en el libro — no una sombra prestada, su cuerpo real, la misma presencia que después reaparece en el Cap. 17 (ver nota de continuidad ahí). Reta a Kyle a un duelo bajo la Lógica de la Espada — coherente con `voice/oryx.md` (clasifica antes de amenazar, la violencia como instrumento epistemológico) y con `04_Concepts/Sword_Logic`. Kyle pelea con **Filo Cero**, el prototipo de Espada que Shaxx le entregó en el Cap. 8 (nueva Sección II de `01_The_Last_Board.md`) — un arma sin historia propia, a diferencia del Predestinador/Martillo Negro/Gjallarhorn, y por eso cede donde ellas no lo habrían hecho. Oryx lo derrota de forma abrumadora, la Luz de Kyle llega filtrada dentro del dominio que Oryx ya reclama sobre el lugar, Filo Cero se rompe, y Kyle queda al borde de morir. **Carina forma su Vacío por primera vez con nombre y control completo** (sin nombrarlo en prosa — la convención del vault es no decir "Shadowshot"/"Nightstalker" en boca de los personajes, igual que "Chispitas" nunca dice "Stormcaller"), atando a Oryx el tiempo justo para sacar a Kyle con vida. **Decisión dura reformulada (autorización explícita del autor, 2026-08-12):** la regla previa —Nightstalker formado reservado a Season of the Seraph, fijada en el footer del Cap. 15— queda **sustituida**: el dominio completo nace aquí, bajo necesidad extrema, no por práctica gradual. `02_Characters/Carina.md` y el footer del Cap. 15 actualizados en la misma sesión para no contradecirse. Esta escena completa, además, un arco de tres puntos que ya existía a medias en el libro: Eirene (primer rescate) → "hasta que te vuelva a salvar" (Cap. 34, `Six_Months_In_Fragments.md`) → *Justo a Tiempo* (Aftermath, Movimiento VIII) — cuyo título de sección, "sin saber que era la segunda vez", ya asumía un primer rescate que hasta ahora no existía en prosa. Ledger actualizado en `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`. **Regla dura preservada:** Oryx nunca es nombrado como derrotado — al contrario, es quien gana este duelo; el reclamo dormido de Kyle sigue sin aparecer en ningún momento del capítulo.
+
+**Extensión del duelo, a petición del autor (2026-08-12).** Ritmo del combate ampliado en tres puntos: (1) el falso hueco que Kyle cree ver ya no termina en un choque de hojas — Oryx atrapa el filo de Filo Cero directamente con el puño, deteniéndolo en seco; las manos de Kyle sangran por el tirón contra la guarda, no por ningún corte de Oryx, y se queda sin ninguna opción clara con el arma atrapada. (2) Oryx se yergue sobre él con las alas —no de carne, ausencia con forma de alas— abiertas a los costados, tapando la luz física de Eirene antes de decir la línea ya fijada ("Sostienes acero sin historia..."). (3) Tras el fallo de la Luz ("Aquí no..."), Kyle intenta dos ataques torpes y desesperados, ambos desviados sin esfuerzo; al tercero, Oryx responde con un solo tajo de su hoja —nombrada aquí por primera y única vez en el capítulo, **Willbreaker**, sin que ningún personaje llegue a conocer el nombre— que parte a Filo Cero en tres pedazos. El golpe que sigue y lo lanza varios metros deja de ser fuerza física y pasa a ser una descarga de energía Poseída, coherente con la corrupción que ya lleva semanas extendiéndose por el sistema. Sección XIV ajustada en el mismo pase para anclar el origen del Vacío formado de Carina en la urgencia de salvar "a un hermano Portaluz" antes que en cualquier lectura romántica — mismo mecanismo, motivación más amplia.
 
 **Autocrítica y pase de staging (2026-08-12, misma sesión).** Primera versión de la Sección XIII resolvía el duelo por resumen funcional ("el tercer golpe... el cuarto...") — patrón ya catalogado en `12_Craft_Policies/staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md`. Reescrita siguiendo la receta de esa regla (entrada, lectura errónea, adaptación, costo físico visible, decisión, consecuencia): se añadió una falsa abertura que Kyle cree ver y no existe, texturas físicas concretas (armadura chispeando, caer sobre la rodilla buena, la hoja rota volando en dos giros), sin cambiar el resultado. También se corrigió una repetición de frase de Elsie ("algo en su rostro cediendo a...") casi idéntica a una ya existente en la Sección V, a 80 líneas de distancia.*
