@@ -98,7 +98,7 @@ No tenía forma de saber, cruzando el pasillo de vuelta hacia el hangar, que esa
 
 Cruzaba el pasillo hacia el hangar cuando Shaxx lo interceptó — imposible no verlo venir, la armadura roja y dorada ocupando el corredor entero antes de que el resto de él terminara de aparecer.
 
-—¡Guardian! —La voz de Shaxx llenaba cualquier espacio antes de que el espacio terminara de decidir si tenía sitio para ella—. Justo el hombre que buscaba.
+—¡Guardian! —La voz de Shaxx llenaba cualquier espacio antes de que el espacio terminara de decidir si tenía sitio para ella—. Sabía que todavía andabas por aquí. Nadie sale de la armería de Banshee en menos de una hora.
 
 —Shaxx. —Kyle se detuvo, ajustando el peso de las tres armas recién decodificadas a la espalda—. ¿Otro torneo?
 
@@ -114,17 +114,17 @@ No tenía nada de especial a primera vista — el filo ancho, el balance todaví
 
 —¿Una espada?
 
-—Una espada. —Shaxx la levantó con las dos manos, respetuoso pese a todo—. La Vanguardia lleva generaciones peleando a distancia porque a distancia se sobrevive más. Pero hay cosas que se están acercando, Guardian, cosas para las que un arma de fuego no va a ser suficiente respuesta. Necesitamos saber si esto funciona antes de que lo necesitemos de verdad.
+—Una espada. —Shaxx la levantó con las dos manos, respetuoso pese a todo—. He visto morir gente en el Crisol por confiar demasiado en la distancia. Un cargador vacío en el momento equivocado, y de pronto lo único que te queda es lo que puedas sostener con las manos. Necesitamos saber si esto funciona antes de que haga falta de verdad.
 
 —¿Por qué yo?
 
-—Porque necesito a alguien que ya sepa perder. —Se la extendió, el peso cayendo en las manos de Kyle más pesado de lo que esperaba—. La mitad de los Guardianes que conozco cargan un arma como si fuera una extensión de su ego. Tú cargas las tuyas como herramientas. Eso es exactamente lo que este prototipo necesita para que la prueba signifique algo.
+—Porque necesito a alguien que ya sepa perder. —Se la extendió, el peso cayendo en las manos de Kyle más pesado de lo que esperaba—. Te vi salir de lo de Banshee con esas tres armas cruzadas a la espalda. No las llevabas como trofeos. Las llevabas como se llevan las herramientas. Eso es lo que este prototipo necesita para que la prueba signifique algo.
 
 Kyle sopesó la espada, el filo capturando la luz del almacén sin ningún brillo particular que ofrecer a cambio.
 
 —¿Tiene nombre?
 
-—Todavía no. —Algo parecido a una sonrisa cruzó el rostro parcialmente visible de Shaxx bajo el casco—. Los de Suros la llaman Filo Cero, en el papeleo. Un punto de partida, no una promesa. Si sobrevive lo suficiente para merecer algo mejor, ya se lo pondrás tú.
+—Todavía no. —Algo parecido a una sonrisa cruzó el rostro parcialmente visible de Shaxx bajo el casco—. Los de Suros la llaman Filo Cero, en el papeleo. Si sobrevive lo suficiente para merecer algo mejor, ya se lo pondrás tú.
 
 —¿Y si no sobrevive?
 
@@ -396,5 +396,7 @@ Los orígenes de cada arma (Falla de los Oráculos/Bóveda de Cristal, profundid
 **Corrección de geografía (2026-08-04), a petición del autor, para que quede fijado sin ambigüedad de cara a capítulos futuros.** La cabaña vive en el sector forestal al pie de una cresta, entre la Ciudad y el territorio abierto (fijado en `10_Chapters/Age_I/Cap_01_A_New_Shape.md`: "sector forestal, cresta este"). El campamento improvisado de Elsie vive **a las afueras de la Torre** (fijado en el frontmatter de `05_Dialogues/Dialogue_Elsie/Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir.md`). Son dos sitios distintos, no contiguos — ella no camina de uno a otro, vuela. Corregida en cascada la Sección VII de `02_Phobos.md` ("The Tent Outside the City"), que decía "a poca distancia" de forma ambigua (podía leerse como distancia desde la cabaña); ahora dice explícitamente "a las afueras de la Torre."
 
 **Ajuste de prosa (2026-08-04), a petición del autor, tras una lectura crítica de la Sección VI.** La sección repetía la idea de que Elsie se analiza a sí misma con vocabulario casi sinónimo tres veces en pocos párrafos ("dato" / "catalogar... patrón" / "categoría"). Se recortó la instancia del medio ("y catalogar esa omisión, también, empezaba a sentirse como parte del patrón"), que además interrumpía el único momento puramente visual de la sección (Elsie mirando el porche) con una vuelta a la abstracción. Quedan dos instancias — la que abre la sección y la que la cierra — en vez de tres golpes seguidos del mismo recurso.
+
+**Vitalización de diálogo (2026-08-12), tras `audit dialogue` de dialogue-vitalizer.** La versión original de la escena de Shaxx caía en exposición disfrazada de conversación: una línea explicaba doctrina histórica de la Vanguardia ("lleva generaciones peleando a distancia...") que Kyle, con más de un año de experiencia, ya conocía — información para el lector, no para el personaje. Corregida para anclarse en juicio personal de Shaxx (gente que vio morir en el Crisol por confiar en la distancia), coherente con su voz real ya escrita en `Dialogue_Comentaristas` y `03_The_Kings_Hand.md` (juicio directo, nunca barrido histórico-doctrinal). También se corrigieron: un "resumen perfecto" de Shaxx sobre Kyle que coincidía casi palabra por palabra con la autodescripción ya fijada en `voice/guardian-kyle.md` (ahora ligado a un gesto concreto que Shaxx observó, no a una generalización sobre "la mitad de los Guardianes"); dos cierres de antítesis limpia ("no es X, es Y") a menos de diez líneas de distancia (se retiró uno); y el saludo genérico de apertura, reemplazado por una observación específica de Shaxx.
 
 **Nueva Sección II, "What Shaxx Brought" (2026-08-12), a petición del autor — el capítulo pasa de 7 a 8 secciones, todo lo posterior a la escena de Banshee corrido +1 (la vieja Sección II, "The Last Board", pasa a ser la III, y así en cascada hasta la VIII, "The Phobos Call").** Shaxx intercepta a Kyle justo después de la armería de Banshee y le entrega un prototipo de Espada — arquetipo de arma nuevo para los Guardianes, patrocinado en conjunto por Vanguardia y Crisol, presentado por Suros como parte del mismo envío de inventario ya mencionado en la Sección I. Sin runas, sin grabado, sin nombre propio — Suros la designa internamente "Filo Cero" en el papeleo, deliberadamente genérica en contraste con las tres armas legendarias/exóticas que Kyle acaba de nombrar con Banshee. Shaxx explica el motivo (algo se acerca para lo que un arma de fuego no bastará) y por qué eligió a Kyle (alguien que ya sabe perder, que carga sus armas como herramientas, no como ego) — sin nombrar todavía a Oryx ni a Eirene, que todavía no existen en el horizonte de nadie en este punto del capítulo. Sienta la base para que la espada se rompa en el Cap. 16 (`09_Eirene.md`) contra Oryx: es un prototipo sin historia propia, a diferencia de las armas que Kyle ganó en combate, y por eso cede donde ellas no lo habrían hecho.*
