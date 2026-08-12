@@ -12,7 +12,7 @@
 
 Elsie llegó al hangar con la misma urgencia contenida de siempre — no corriendo, nunca corriendo, pero tampoco caminando con la calma que fingía cuando alguien más miraba.
 
-Kyle estaba de pie, hablando con una Cazadora que Elsie no reconocía. Cabello oscuro, recogido sin ninguna ceremonia. Piel morena. Un ángulo divertido instalado de forma permanente en el rincón de los ojos que no tenía nada que ver con el humor real del momento — la clase de cara que sugería demasiada práctica reciente en hacer exactamente esto, y disfrutarlo, incluso con el equipo todavía sucio de lo que fuera que acababan de sobrevivir juntos. Algo en la forma en que los dos se paraban —ni cerca ni lejos, la distancia exacta de dos personas que acababan de aprender a confiar la vida al otro sin haber aprendido todavía a confiar el resto— le dijo más que cualquier informe.
+Kyle estaba de pie, hablando con Carina — la misma Cazadora con la que apenas había cruzado un par de frases entre el caos de la marea en Eirene y la urgencia de sacarlo con vida de Vesta, nunca en un momento que dejara espacio para mirarla de verdad. Cabello oscuro, recogido sin ninguna ceremonia. Piel morena. Un ángulo divertido instalado de forma permanente en el rincón de los ojos que no tenía nada que ver con el humor real del momento — la clase de cara que sugería demasiada práctica reciente en hacer exactamente esto, y disfrutarlo, incluso con el equipo todavía sucio de lo que fuera que acababan de sobrevivir juntos. Algo en la forma en que los dos se paraban —ni cerca ni lejos, la distancia exacta de dos personas que acababan de aprender a confiar la vida al otro sin haber aprendido todavía a confiar el resto— le dijo más que cualquier informe.
 
 —Elsie.
 
@@ -26,15 +26,15 @@ Kyle se giró al verla, y algo en su rostro —el alivio de siempre, pero con un
 
 ## II. No Competition
 
-Lo primero que Carina vio fue a una mujer — cabello rizado, de un rojo apagado que no pedía que lo miraran, recogido con la misma practicidad económica con la que hacía todo lo demás, y una quietud que algunas personas tardan siglos enteros en aprender a llevar sin esfuerzo. No tenía, todavía, ningún motivo para sospechar cuántos, exactamente.
+Carina reconoció a Elsie antes de que terminara de cruzar el hangar — la misma persona que le había cubierto la espalda contra la marea en Eirene, ahora sin la urgencia de la pelea encima, dándole por primera vez el tiempo de fijarse en los detalles que todo ese caos no le había dejado ver: cabello rizado, de un rojo apagado que no pedía que lo miraran, recogido con la misma practicidad económica con la que hacía todo lo demás, y una quietud que algunas personas tardan siglos enteros en aprender a llevar sin esfuerzo. No tenía, todavía, ningún motivo para sospechar cuántos, exactamente.
 
 La Cazadora observó a Elsie con la misma precisión clínica que aplicaba a todo lo demás —leyéndola, evaluando, la clase de atención que Elsie reconoció de inmediato porque era, casi exactamente, la misma clase de atención que ella misma aplicaba al mundo.
 
-—Carina —dijo, extendiendo la mano.
+—Elsie —dijo Carina, el nombre ya no una novedad, pero la persona detrás de él, todavía, una que apenas empezaba a conocer de verdad—. Gracias por lo de allá abajo. No llegué a decírtelo entre toda la marea.
 
-—Elsie.
+—Tampoco yo. —Elsie inclinó la cabeza, el mismo reconocimiento devuelto—. Estamos a mano.
 
-Se estrecharon la mano con la formalidad breve de dos personas que todavía no sabían qué eran la una para la otra, pero que reconocían, sin necesitar decirlo, que probablemente iban a tener que averiguarlo.
+No sabían, todavía, qué eran la una para la otra más allá de eso — pero reconocían, sin necesitar decirlo, que probablemente iban a tener que averiguarlo.
 
 —Me ayudó a herir a Oryx —dijo Kyle, sin necesidad de que nadie se lo pidiera—. Otra vez. No podría haberlo hecho sin ella.
 
@@ -54,7 +54,7 @@ Carina la miró con algo parecido a la sorpresa.
 
 Kyle no lo negó.
 
-—Ella cubrió algo que yo no podía cubrir —admitió—. En el Hellmouth. Y otra vez hoy, en un lugar que todavía no sé cómo nombrar del todo.
+—Ella cubrió algo que yo no podía cubrir —admitió—. En el Hellmouth. Otra vez en Eirene, cuando ya no me quedaba nada que cubrir yo solo. Y otra vez hoy, en un lugar que todavía no sé cómo nombrar del todo.
 
 Elsie asintió, procesando la información sin ninguna sombra de la reacción que, en otra persona, podría haber acompañado ese reconocimiento.
 
@@ -110,7 +110,7 @@ La dejó pasar.
 
 Y cuando volvió a abrirlos, seguía siendo ella misma — un poco menos segura de dónde terminaba exactamente ese límite, pero ella misma, de todas formas.
 
-Un mundo entero acababa de desaparecer esa mañana, arrancado de su lugar en el universo, con la mayoría de su gente todavía dentro. Un rey había sido herido, no vencido. Una escuadra completa se preparaba, en algún hangar cercano, para terminar lo que dos personas apenas conocidas entre sí habían empezado a hacer posible. Y en algún pliegue del sistema que nadie todavía sabía mirar, una Reina seguía esperando a que alguien por fin llegara a buscarla.
+Un mundo entero había desaparecido cinco días atrás, arrancado de su lugar en el universo, con la mayoría de su gente todavía dentro. Un rey acababa de ser herido esa misma tarde, no vencido. Una escuadra completa se preparaba, en algún hangar cercano, para terminar lo que dos personas apenas conocidas entre sí habían empezado a hacer posible. Y en algún pliegue del sistema que nadie todavía sabía mirar, una Reina seguía esperando a que alguien por fin llegara a buscarla.
 
 La Parte 1 de esta guerra había terminado.
 
@@ -125,5 +125,7 @@ La guerra, no.
 **Sección VI, prosa enteramente nueva — cierre de Part 01 completa.** Paga, por primera vez visible para el lector, el costo que Elsie asumió al final del Cap. 16 (extender su resistencia a ser redefinida para cubrir a Kyle y Carina) — la fuga real, no controlada, entre ella y otras versiones de sí misma de líneas que ya no existen, tal como se fijó en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`. Deliberadamente breve y sin nombrar cuál Elsie se filtró — gancho abierto hacia una futura entrada de `06_Timeline_Archives/`, no resuelto aquí. Cierra con un resumen de estado que no repite información ya narrada, sino que la nombra en conjunto por primera vez: Eirene perdido, Oryx herido pero vivo, la Primera Escuadra a punto de partir hacia King's Fall (ya escrito, Parte 3), Mara todavía esperando en el Mundo Trono (Cluster 1, todavía sin dramatizar en tiempo real). **Con este capítulo, Part 01 — Price of Vengeance queda completa: 11 de 11 capítulos (Caps. 8-18) más el interludio "The Queen Who Would Not Kneel".** Siguiente en el libro: Part 02 — The Taken War (Caps. 19-25), con las 6 escenas de Guerra de los Poseídos ya escritas desde 2026-07-19, todavía sin novelar en prosa de capítulo.
 
 **Pase de textura (2026-08-04), a petición del autor — cierre del pase ligero de la columna Kyle/Elsie sobre el handoff de Codex (`99_Reference/Agent_Notes/codex/2026-08-04_handoff-book02-kyle-elsie-beats.md`).** A diferencia de los Caps. 8 y 9, este capítulo no tenía ninguna descripción física de Elsie ni de Carina en su primer encuentro cara a cara — inusual dado que el resto del libro ya invirtió en calibrar apariencia contra las fichas. Añadidos dos párrafos breves, sin tocar el diálogo ya aprobado: en la Sección I, Carina descrita desde el POV de Elsie (cabello oscuro, piel morena, el ángulo divertido en los ojos, coherente con `02_Characters/Carina.md`); en la Sección II, Elsie descrita desde el POV de Carina (cabello rizado rojo apagado, la quietud entrenada, coherente con `02_Characters/Elsie.md`) — cerrando con una línea de ironía dramática ("No tenía, todavía, ningún motivo para sospechar cuántos, exactamente") que juega con lo que el lector ya sabe de la naturaleza de Elsie sin que ningún personaje lo diga en voz alta ni Carina lo sospeche.
+
+**Corrección de continuidad (2026-08-12), a petición del autor — tras la reestructuración del Cap. 16.** Dos ajustes para que este capítulo no contradiga que Elsie y Carina ya pelearon juntas contra la marea de lacayos en Eirene y ya coincidieron en Vesta: (1) las Secciones I-II ya no presentan a Carina como "una Cazadora que Elsie no reconocía" ni las hacen presentarse por nombre de cero — se reescriben como el primer encuentro sin el caos de una pelea encima, con un agradecimiento cruzado por Eirene en vez de una presentación formal; las descripciones físicas del pase de textura de 2026-08-04 se conservan intactas, solo cambia el marco narrativo que las introduce. (2) La Sección VI decía "un mundo entero acababa de desaparecer esa mañana" — corregido a "cinco días atrás", coherente con el hueco de tiempo insertado en el Cap. 17; el regicidio físico sí ocurrió esa misma tarde. También se añadió una mención de Eirene a la línea de Kyle sobre los flancos que Carina cubrió (Sección III), que antes saltaba directo del Hellmouth a "hoy" sin nombrar el rescate de mayor peso entre los dos.
 
 **Con esto, el pase de textura Kyle/Elsie sobre Part 01 queda cerrado: Cap. 8 (Sección VI nueva, "What She Carried Back" + geografía fijada), Cap. 9 (párrafo de lectura física de Elsie), Cap. 13 (revisado, sin cambios — ya completo), Cap. 18 (apariencia física en el primer encuentro con Carina).** Plan completo en `C:\Users\avada\.claude\plans\mighty-sniffing-sunbeam.md`.*
