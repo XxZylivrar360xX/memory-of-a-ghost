@@ -844,7 +844,7 @@ Lo que lo salva no es su propia fuerza. Es Carina, atando a Oryx con un Vacío q
 
 La pregunta que deja esta derrota no es *¿cómo gano la próxima vez?* Es la primera vez, desde que es Guardián, que sobrevivir depende enteramente de que alguien más decida que todavía vale la pena salvarlo.
 
-**Pilar activo:** [[04_Concepts/Consequences|Consecuencias]], [[04_Concepts/Trust|Confianza]] — [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]]
+**Pilar activo:** [[04_Concepts/Consequences|Consecuencias]], [[04_Concepts/Trust|Confianza]] — [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_The_Moon_That_Could_Not_Stay]]
 
 ---
 

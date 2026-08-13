@@ -80,10 +80,9 @@ no debe resolver esa tensión con una etiqueta fácil.
 - ✅ "Entonces las conoce mal. Porque las reforzamos después de esa guerra, y él todavía está peleando la guerra vieja." — autoridad práctica; usa memoria de campo, no orgullo vacío.
   ([[05_Dialogues/Dialogue_Elsie/Elsie_Petra_TakenKing_LaManoSeCierra]])
 - ✅ "Petra Venj comandaba la defensa sin Reina, sin explicación..." — no es línea de diálogo, pero fija su postura de voz: sostener operación sin símbolo.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Hand_That_Closed]])
 - ✅ "Vesta había caído..." — Petra comunica a Carina escueta, sin adorno, desde función operativa.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_The_Moon_That_Could_Not_Stay]])
 - ❌ "Mi reina lo sabe todo; sólo obedezco." — fangirl/mini-Mara; borra agencia Regent.
 - ❌ "No puedo volver a dar una orden después de lo que hice." — culpa paralizante; contradice su arco.
 - ❌ "Soy básicamente la nueva Sjur." — el título no vuelve idénticas a las personas.
-

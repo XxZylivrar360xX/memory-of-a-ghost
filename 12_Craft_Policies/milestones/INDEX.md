@@ -41,7 +41,7 @@ revelaciones debe apuntar a la entrada correspondiente en vez de inventar una fe
 ## The Taken King
 
 - [[02_Characters/Guardian#La llegada de Oryx — las consecuencias tienen cara|La llegada de Oryx — las consecuencias tienen cara]] — sus propias acciones trajeron esto; pregunta nueva: "¿en qué me estoy convirtiendo?"
-- [[02_Characters/Guardian#Eirene — la primera derrota real|Eirene — la primera derrota real]] — Oryx lo derrota en persona bajo la Lógica de la Espada, rompe el prototipo de espada que llevaba (Filo Cero); Carina lo salva formando su Vacío completo por primera vez — [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]]
+- [[02_Characters/Guardian#Eirene — la primera derrota real|Eirene — la primera derrota real]] — Oryx lo derrota en persona bajo la Lógica de la Espada, rompe el prototipo de espada que llevaba (Filo Cero); Carina lo salva formando su Vacío completo por primera vez — [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_The_Moon_That_Could_Not_Stay]]
 - [[02_Characters/Guardian#La prueba que no sabía que estaba pasando|La prueba que no sabía que estaba pasando (King's Fall)]] — derrota a Oryx creyendo que ganó; los Libros del Dolor revelan que lo *validó* bajo la Lógica de la Espada
 - [[02_Characters/Guardian#La tentación que encriptó|La tentación que encriptó (Touch of Malice)]] — siente el llamado del poder de Oryx y se protege de sí mismo por primera vez
 - [[02_Characters/Guardian#El primer debate filosófico sin respuesta correcta|El primer debate filosófico sin respuesta correcta]] — el trono de los Poseídos queda vacío; ninguna salida es limpia

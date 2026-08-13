@@ -1,4 +1,4 @@
-# Interlude — The Queen Who Would Not Kneel
+# Interlude — The Sacrifice Under the Rings
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes*
 *Puente entre el Prólogo y Part 01 — sin número de capítulo global*
@@ -9,7 +9,7 @@
 
 ---
 
-## I. The One He Had Been Made For
+## I. The Blade Meant for a King
 
 *No recuerdo nada del día en que nací. Solo sé que fue el mismo día en que el Viajero calló, mientras el mundo entero se derrumbaba a nuestro alrededor. Antes de ese día no había Espectros. No había Guardianes. No sé mucho sobre el Viajero — nadie lo sabe del todo, ni siquiera ahora — pero sé que me hizo para una sola cosa: devolverte a la vida. Y pasé mucho, mucho tiempo buscándote.*
 
@@ -91,7 +91,7 @@ Se irguió un centímetro más, algo en su postura endureciéndose de un modo qu
 
 ---
 
-## IV. The Message Under the Sacrifice
+## IV. The Message Beneath the Sacrifice
 
 Detrás de ella aguardaban las Techeuns — cuatro figuras envueltas en túnicas blancas cruzadas por una franja roja que caía recta desde el cuello hasta el suelo, los rostros ocultos detrás de máscaras plateadas y sin rasgos, las capuchas altas volviéndolas indistinguibles entre sí salvo por la forma exacta en que cada una sostenía las manos.
 
@@ -141,7 +141,7 @@ No lo había necesitado.
 
 ---
 
-## V. The Queen Who Would Not Kneel
+## V. The Queen Who Refused to Kneel
 
 Mara volvió a ponerse de pie por su propia cuenta, rechazando con un gesto pequeño la mano que una de las Techeuns le ofrecía.
 
@@ -235,7 +235,7 @@ Después no hubo nada más que enviar.
 
 ---
 
-## VII. What the Rings Kept
+## VII. What the Rings Preserved
 
 Cuando la energía finalmente se disipó, la batalla había terminado.
 
@@ -251,7 +251,7 @@ Mara Sov ya no estaba allí para verlo.
 
 ---
 
-## VIII. The Light Seen from Earth
+## VIII. The Green Light Seen from Earth
 
 A cientos de millones de kilómetros de distancia, en una azotea sobre una clínica en ruinas cerca del Viejo Chicago, dos mujeres que nunca supieron el nombre de ninguna de las naves que acababan de desaparecer vieron un punto de luz verde parpadear una vez, débil, cerca del horizonte, y apagarse después.
 
@@ -263,7 +263,7 @@ Era el resplandor de un Mundo Trono irrumpiendo en el espacio real, visto a la d
 
 ---
 
-*Conecta con: [[02_Characters/Ghost]], [[02_Characters/Guardian]], [[02_Characters/Mara_Sov]], [[02_Characters/Uldren_Sov]], [[02_Characters/Eris_Morn]], [[02_Characters/Zavala]], [[02_Characters/Ikora]], [[02_Characters/Cayde-6]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Mara/Petra_Mara_TakenKing_LaBatallaDeSaturno]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/07_The_Last_Line_In_The_Ledger]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]]*
+*Conecta con: [[02_Characters/Ghost]], [[02_Characters/Guardian]], [[02_Characters/Mara_Sov]], [[02_Characters/Uldren_Sov]], [[02_Characters/Eris_Morn]], [[02_Characters/Zavala]], [[02_Characters/Ikora]], [[02_Characters/Cayde-6]], [[02_Characters/Oryx]], [[05_Dialogues/Dialogue_Mara/Petra_Mara_TakenKing_LaBatallaDeSaturno]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/07_The_Last_Line_In_The_Ledger]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]]*
 
 Nota narrativa: interludio añadido 2026-07-30, a petición del autor, rebautizado como "The Queen Who Would Not Kneel" — revierte deliberadamente el ajuste estructural del 2026-07-26 (`00_Book_Map.md`, "Ajuste estructural (2026-07-26)"), que había retirado las escenas del Cluster 1 (el atraco de Mara y la Batalla de Saturno) de Part 01 en tiempo real, reservándolas como recuerdo retrospectivo de Eris. El autor decidió traerla de vuelta como apertura en tiempo real, justo antes del Cap. 8 ("The Last Board"). **Decisión de numeración, triada con el autor:** esta escena entra como **interludio sin número de capítulo global**, puente entre el Prólogo y Part 01 — no desplaza la numeración ya fijada de los Capítulos 8-37 (varios de ellos, 8-11, ya escritos). Adaptado de una descripción narrativa de referencia de la cinemática de *Destiny: The Taken King* (`99_Reference/`), con expansión descriptiva de la flota y la batalla, y diálogo nuevo de Mara en cuatro momentos: (1) la llegada de la flota insomne — el recuerdo de su nacimiento, las cicatrices, los insomnes como su familia; (2) el ataque fallido de Uldren contra el Acorazado — "luchamos para mantener a salvo nuestra hermosa creación... Mara Sov no se inclina ante nadie"; (3) la invocación de los Heraldos — dirigida no a Oryx sino a Eris Morn, en la Luna, confirmando que ambas saben cómo termina esto desde que Eris escapó del Foso Infernal; (4) el instante en que Oryx dispara el arma del Acorazado — Mara habla mientras la onda todavía viene, no después: "los insomnes han cumplido con su parte... guíalos, mi amiga Oculta, ahora todo depende de ti". **Decisión clave del autor, respetada al pie de la letra:** estas líneas no son un pensamiento posterior a la derrota — Mara las pronuncia mientras ve venir la onda, confirmando que el sacrificio ya estaba previsto, no descubriéndolo después. Cierra con la Sección VIII, tejido explícito de vuelta al Cap. 7 ("The Last Line in the Ledger") — la luz verde que Carina y Lena ven desde la azotea es, literalmente, esta esfera, vista a la distancia. El destino final de Mara queda deliberadamente sin confirmar en la prosa ("ya no estaba allí para verlo") — coherente con el canon real de Destiny (su muerte aparente en esta batalla no es la muerte real; sobrevive en secreto, revelado después) y sin contradecir la escena ya escrita de la prisión de cristal (`05_Dialogues/Dialogue_Carina/Carina_Savathun_SeasonLost_LaPrisionDeCristal.md`), donde Mara ya está viva y activa años después.
 

@@ -113,17 +113,17 @@ pasa — ya conocía el nombre dicho sin ese peso.
 - ✅ "Porque si lo arreglo con Luz, es un arreglo. Si lo arreglo así, es mío. Construí esto.
   No lo deseé hasta que existiera." — hogar, cuerpo y agencia concreta; filosofía bajada a
   madera y trabajo.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King]])
 - ✅ "No vine a profanar un funeral. Vine a tomar algo que Crota ya no necesita." — diferencia
   moral precisa, pero pegada a una decisión táctica inmediata.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_Two_Descents]])
 - ✅ "No sé qué pensaba Oryx antes de esto. Pero lo que veo ahora es alguien que decidió que
   su manera de arreglar las cosas es la única que cuenta." — vulnerabilidad como pregunta, no
   como autoanálisis completo.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_Two_Descents]])
 - ✅ "Que no pude terminarlo solo, y que no debería intentar terminarlo solo." — liderazgo de
   Book 02: pedir a la escuadra sin convertir su "sí" en alivio barato.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_The_Cathedral_Of_Voices]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_Where_The_Voices_Knelt]])
 - ❌ "Soy el arma de la Ciudad, pero todavía conservo mi humanidad." — correcto como resumen
   de ficha, falso como voz; suena a tesis explicada por el propio personaje.
 - ❌ "Al final, la responsabilidad es la forma que toma el amor cuando la guerra nos alcanza."

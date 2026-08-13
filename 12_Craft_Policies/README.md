@@ -31,6 +31,13 @@ más operativa: qué NO se puede decir todavía, y cómo suena cada personaje cu
   la misma observación que originó `dialogue_rules/` (Farid/`IA_policies/`) aplicada a la
   carne alrededor del diálogo, no al diálogo mismo — beats que se sienten vacíos o
   demasiado cortos frente a capítulos anteriores con más densidad descriptiva.
+- **`powers/`** — [[12_Craft_Policies/powers/README|Catálogo]] del kit de combate de Luz de
+  Kyle, Carina y Jaden (Aspectos, granadas, cuerpo a cuerpo, movimiento, habilidad de clase),
+  para repartir variedad real a lo largo de los Libros 2-5 en vez de repetir el mismo cierre
+  de combate (el "abanico de tres tiros" de Carina, por ejemplo). No es autoridad de canon —
+  la cronología de qué Súper/subclase está activa para cada personaje y cuándo sigue siendo
+  la sección "Maestría de Luz" de `02_Characters/Guardian.md`, `Carina.md` y `Jaden.md`; este
+  catálogo solo reparte herramientas dentro de esas ventanas ya fijadas.
 
 ## ⚖️ Precedencia
 

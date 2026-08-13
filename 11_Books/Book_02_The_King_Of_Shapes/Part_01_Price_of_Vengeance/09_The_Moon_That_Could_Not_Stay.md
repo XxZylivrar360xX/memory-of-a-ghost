@@ -1,4 +1,4 @@
-# Chapter 16 — Eirene
+# Chapter 16 — The Moon That Could Not Stay
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## I. The Vesta Trail
+## I. The Trail from Vesta
 
 El mensaje le llegó a Carina por el mismo canal informal que Eris le había abierto semanas atrás sin pedirle permiso a nadie que pudiera negárselo — Petra, escueta, sin adornos: Vesta había caído, y los Corsarios que lograron escapar antes del cierre no habían vuelto hacia el corazón del Arrecife. Se habían dispersado hacia el interior del cinturón, gente sin puesto al que volver.
 
@@ -278,7 +278,7 @@ Elsie no llegó a decidir entre los dos. El cuerpo lo decidió por ella — más
 
 ---
 
-## XII. The Sword Logic, Asked in Person
+## XII. The Sword Logic, in Person
 
 Cayeron juntos, aunque solo uno de los dos lo sintiera como caída.
 
@@ -360,13 +360,19 @@ Kyle no tuvo aire para responder nada de eso.
 
 ---
 
-## XIV. The Thread That Held
+## XIV. The String That Held
 
 Elsie, cubierta de corrupción ajena hasta los codos, abrió el primer hueco real en la marea desde que había empezado.
 
 —¡Ve! —gritó—. ¡Yo los sostengo!
 
-Carina no se lo hizo repetir. Saltó hacia la abertura por donde Kyle y Oryx habían caído sin saber qué iba a encontrar del otro lado, y no llegó a pensar en un plan antes de aterrizar.
+Carina no se lo hizo repetir. Saltó hacia la abertura por donde Kyle y Oryx habían caído sin saber qué iba a encontrar del otro lado — y a medio salto, sin decidirlo del todo, algo en ella tiró de la caída en vez de resistirla.
+
+La misma energía que le había vibrado en la mano en el Jardín Negro, y otra vez con el dron en Marte, se le enroscó alrededor del cuerpo entero esta vez, y en vez de caer, se dejó lanzar — una plomada violeta-oscura con la intención de un arma, no con el pánico de un cuerpo que pierde el equilibrio.
+
+Golpeó el nivel inferior con una onda que se sintió, por un instante, más grande que ella misma. Dos Acólitos que se habían colado minutos antes por la misma grieta que Kyle y Oryx desaparecieron bajo el impacto, la energía oscura devolviéndole algo en el mismo segundo en que se lo quitaba a ellos — el cansancio de los últimos minutos aflojándose un grado, no del todo, pero lo suficiente.
+
+No llegó a pensar en un plan antes de aterrizar. No hizo falta uno. Aterrizó ya corriendo.
 
 Lo que quedaba de los últimos minutos —Avarra, el ancla, Yeva perdida en algún corredor que no había alcanzado a abrir a tiempo, cada segundo que le había costado no ser suficiente— se convirtió, de golpe, en una sola pregunta sin palabras: *¿qué sostiene esto?*
 
@@ -376,21 +382,21 @@ No apuntó con Última Palabra. No había tiempo, ni distancia limpia, ni un dis
 
 Cerró la mano en el aire.
 
-El hilo respondió sin que ella tuviera que pedírselo dos veces esta vez — no la chispa cruda e insegura del Jardín Negro, no el tirón parcial del dron en Marte. Algo más grande, más seguro de sí mismo, como si las últimas semanas enteras hubieran sido, sin que ella lo supiera, el entrenamiento de un único momento como este.
+La cuerda respondió sin que ella tuviera que pedírselo dos veces esta vez — no la chispa cruda e insegura del Jardín Negro, no la tensión a medias del dron en Marte. Algo más grande, más seguro de sí mismo, como si las últimas semanas enteras hubieran sido, sin que ella lo supiera, el entrenamiento de un único momento como este.
 
-No apuntó al cuerpo de Oryx. Apuntó a lo que lo sostenía de pie sobre Eirene — la misma conexión que Ghost llevaba minutos incapaz de nombrar, el hilo entre su voluntad y el suelo que ya se creía suyo.
+No apuntó al cuerpo de Oryx. Apuntó a lo que lo sostenía de pie sobre Eirene — la misma conexión que Ghost llevaba minutos incapaz de nombrar, la cuerda entre su voluntad y el suelo que ya se creía suyo.
 
 Tiró.
 
 Oryx se detuvo a mitad de golpe — no derribado, no herido, atado por un instante que ningún dios debería tener que conceder a algo que no podía cortar con la misma facilidad con que cortaba todo lo demás.
 
-—¡Ahora! —gritó Carina, ya corriendo hacia Kyle, sin soltar el hilo, sin saber cuánto tiempo más iba a aguantar.
+—¡Ahora! —gritó Carina, ya corriendo hacia Kyle, sin soltar la cuerda, sin saber cuánto tiempo más iba a aguantar.
 
-Hornet cubrió el resto de la distancia por ella, la carcasa interponiéndose entre Kyle y cualquier cosa que Oryx pudiera intentar en el segundo que le quedaba libre. Carina lo levantó con una fuerza que no sabía que todavía tenía, el peso completo de él contra su hombro, la sangre de Kyle empapándole el costado antes de que terminara de calcular cuánto de esa sangre era demasiada.
+Hornet cubrió el resto de la distancia por ella, la carcasa interponiéndose entre Kyle y cualquier cosa que Oryx pudiera intentar en el segundo que le quedaba libre. Carina lo levantó con una fuerza que no le pertenecía del todo —el mismo resto que le había arrancado a los dos Acólitos seguía corriéndole por los brazos, prestado, con hora de devolución—, el peso completo de él contra su hombro, la sangre de Kyle empapándole el costado antes de que terminara de calcular cuánto de esa sangre era demasiada.
 
 —Te tengo —dijo, sin saber si él podía oírla—. Te tengo. No te vas a morir hoy. No así. No sin que yo lo decida.
 
-El hilo se cortó solo, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
+La cuerda cedió sola, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
 
 —Interesante —dijo, en voz baja, mirando la dirección exacta en que Carina ya corría con Kyle a cuestas—. Muy interesante.
 
@@ -514,7 +520,7 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Avarra]], [[02_Characters/Oryx]], [[02_Characters/Mara_Sov]], [[02_Characters/Petra_Venj]], [[02_Characters/Lord_Shaxx]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Sword_Logic]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/02_Eirene_Lubrae_The_Planetary_Taking]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/08_The_Third_Element]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_The_Cathedral_Of_Voices]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 16 de Part 01 (capítulo local 9), prosa enteramente nueva — climax de Part 01, adaptando el documento maestro `07_Unsorted_Ideas/02_Eirene_Lubrae_The_Planetary_Taking.md` con todas las decisiones fijadas en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` a lo largo de la sesión del 2026-08-02.
+*Nota narrativa: Capítulo 16 de Part 01 (capítulo local 9), "The Moon That Could Not Stay" (título anterior: "Eirene"), prosa enteramente nueva — climax de Part 01, adaptando el documento maestro `07_Unsorted_Ideas/02_Eirene_Lubrae_The_Planetary_Taking.md` con todas las decisiones fijadas en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` a lo largo de la sesión del 2026-08-02.
 
 **Justificación de llegada:** Carina sigue el rastro de los refugiados de Vesta (Cap. 10) hasta Eirene — ya no es una parada al azar. En el camino, paga el misterio abierto desde el cierre del Prólogo (Sección III): la luz verde que vio con Lena era el disparo de la Batalla de Saturno, confirmado en vivo por restos físicos, no contado de segunda mano por Hornet como el día de la muerte de Lena — la escala se vuelve personal. Se dejó deliberadamente sin resolver si llega a saber que fue Mara quien se sacrificó (el propio Cap. 10 ya deja ese misterio sin resolver para casi todos los personajes en escena).
 
@@ -537,5 +543,9 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 **Autocrítica y pase de staging (2026-08-12, misma sesión).** Primera versión de la Sección XIII resolvía el duelo por resumen funcional ("el tercer golpe... el cuarto...") — patrón ya catalogado en `12_Craft_Policies/staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md`. Reescrita siguiendo la receta de esa regla (entrada, lectura errónea, adaptación, costo físico visible, decisión, consecuencia): se añadió una falsa abertura que Kyle cree ver y no existe, texturas físicas concretas (armadura chispeando, caer sobre la rodilla buena, la hoja rota volando en dos giros), sin cambiar el resultado. También se corrigió una repetición de frase de Elsie ("algo en su rostro cediendo a...") casi idéntica a una ya existente en la Sección V, a 80 líneas de distancia.
 
 **Verificación de continuidad — Willbreaker ya era canon (2026-08-12).** Al revisar Part 2 en busca de contradicciones se confirmó que "Willbreaker" no fue una coincidencia de nombres: ya es el arma establecida de Oryx desde el Interludio ("The Queen Who Would Not Kneel", la noche de la Batalla de Saturno — descrita ahí como "ancha, irregular, negra en algunos ángulos, recorrida en otros por una luz fría que no reflejaba ninguna estrella cercana") y la misma que el Eco de Oryx empuña contra la Raze Lighter al final de King's Fall (Part 03, `06_The_Weight_Of_A_Wrong_Answer.md`). La descripción física de la Sección XII se ajustó para calzar palabra por palabra con la del Interludio. Además, la línea ya existente en el Cap. 22 (`Part_02/04_A_Sword_Is_Not_An_Answer.md`) — "No el peso de Willbreaker, esa certeza antigua que no había dudado nunca" — ya asumía que Kyle conocía ese peso de primera mano antes de forjar la Raze Lighter; antes de esta sesión esa familiaridad no tenía origen dramatizado en ningún capítulo previo. El duelo de Eirene ahora se lo da.
+
+**Vocabulario del Vacío de Carina ajustado en cascada (2026-08-12).** El origen del poder se reformuló por completo en el Cap. 15 (ver footer de `08_The_Third_Element.md`) — de un "hilo" ambiental sin forma a un arco de Vacío encontrado junto a los restos de un cazador caído, leído como escena de detective. Esta sección (XIV, renombrada "The String That Held") es el pago de ese origen dentro del mismo libro, así que se ajustó el mismo vocabulario: "el hilo respondió/se cortó" pasa a "la cuerda respondió/cedió", consistente con la imagen de arco tensado establecida en el Cap. 15 y con la resolución del dron en esa misma sección (Cap. 15, Sección XII, "la cuerda cedió de golpe"). Motivo: "hilo" ya está reservado en `02_Characters/Carina.md` como el vocabulario propio de Threadrunner/Hebra — usarlo también para Vacío adelantaba Strand sin querer. Ninguna otra línea de la escena cambió.
+
+**Descenso añadido al inicio de la Sección XIV (2026-08-12), a petición del autor.** El salto de Carina hacia la abertura deja de ser una caída simple y se convierte en un descenso con estilo, ejecutado en el aire: en vez de resistir la caída, la deja acelerar, envuelta en la misma energía de Vacío que ya había manifestado en el Jardín Negro y con el dron (referencia cruzada deliberada a esas dos escenas, para que se lea como la misma habilidad madurando, no como un poder nuevo sin anunciar). El impacto contra el nivel inferior elimina a dos Acólitos que se habían filtrado por la misma grieta que Kyle y Oryx, y esa misma energía le devuelve algo a Carina —el cansancio aflojándose— antes de que llegue corriendo hasta Kyle. La fuerza extra con la que lo levanta un momento después ("un resto que le había arrancado a los dos Acólitos... prestado, con hora de devolución") paga la misma carga: no es fuerza propia sostenida, es un préstamo con vencimiento. **Regla dura respetada:** el impacto no toca a Oryx en ningún momento — solo despeja a los dos Acólitos entre ella y Kyle; Oryx sigue completamente ajeno hasta que Carina forma la cuerda unas líneas después. Ningún término técnico se nombra en prosa.
 
 **Reubicación del duelo dentro de la evacuación activa (2026-08-12), a petición del autor.** El duelo ya no ocurre en una plaza relativamente despejada después de que Avarra cae — Avarra sigue derrotada antes de este punto, sin cambios en las Secciones IX-X, pero la "presión mayor" que el Acorazado envía a continuación ahora tiene dos frentes, no uno: Oryx cruza en persona **y** una marea de lacayos Poseídos se derrama por la misma abertura, directo sobre el punto de evacuación donde Carina y Elsie siguen trabajando. Oryx no se detiene a mirar la marea — va directo por Kyle, y el suelo cede bajo los dos en el mismo instante en que lo sujeta, dejándolos caer a un nivel inferior que no pertenece a Eirene (misma familia de arquitectura imposible que el Hellmouth y el Acorazado). Elsie grita "¡Kyle!" pero no llega — la marea ya está sobre Carina, y por cercanía física se queda a cubrirla a ella, no a él; se lo dice ella misma en voz alta ("No puedes bajar ahí, no todavía" / "Lo sé"), para que la decisión no se sienta como abandono sino como el único cálculo posible en el segundo que tenían. El duelo (Secciones XII-XIII) ocurre así aislado y a oscuras, con el ruido de la pelea de arriba llegando amortiguado — y cuando Elsie por fin abre un hueco real en la marea, es ella quien manda a Carina hacia Kyle ("¡Ve! ¡Yo los sostengo!") en vez de que Carina lo decida sola. Se añadió también el regreso físico a la superficie (Carina trepando con Kyle a cuestas y Hornet abriendo camino) antes de retomar "las naves inmovilizadas", que en la versión anterior llegaba sin transición de vuelta desde el nivel inferior. Sin cambios en Yeva, en la mecánica del ancla, ni en el resultado del duelo.*

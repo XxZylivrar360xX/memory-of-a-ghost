@@ -115,7 +115,7 @@ intentar medir si eso es debilidad, otra clase de fuerza, o una refutación parc
 - ✅ "Ustedes dos [...] no pelean como aliados coordinados. Pelean como dos sistemas separados
   que se niegan a fallar el uno frente al otro." — Oryx no insulta ni presume: clasifica una
   anomalía de vínculo como problema táctico y filosófico.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_The_Cathedral_Of_Voices]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_Where_The_Voices_Knelt]])
 - ✅ "No vine por tu Reina [...] Vine por vos." — el "vos" marca reconocimiento formal ante
   una criatura que no cabe en conquista simple.
   ([[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/06_The_Wounded_Wish]])

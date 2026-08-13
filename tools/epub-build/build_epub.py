@@ -33,6 +33,7 @@ VAULT_ROOT = Path(__file__).resolve().parents[2]
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 TRAILER_RE = re.compile(r"^\*(Conecta con|Pilares activos):")
+BEAT_HEADER_RE = re.compile(r"^##\s+")
 
 
 def divider_title(folder_name: str) -> str:
@@ -47,7 +48,7 @@ def divider_title(folder_name: str) -> str:
     return " ".join(parts)
 
 
-def strip_chapter(path: Path) -> str:
+def strip_chapter(path: Path, strip_beat_headers: bool = True) -> str:
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
 
@@ -68,6 +69,18 @@ def strip_chapter(path: Path) -> str:
               f"— kept whole body, check manually", file=sys.stderr)
 
     body = lines[header_end + 1 : trailer_start]
+
+    if strip_beat_headers:
+        # Drop the "## I. Beat Title" section headers so only the chapter
+        # title and the "---" scene-break dividers reach the reader.
+        body = [l for l in body if not BEAT_HEADER_RE.match(l)]
+        collapsed: list[str] = []
+        for l in body:
+            if l.strip() == "" and collapsed and collapsed[-1].strip() == "":
+                continue
+            collapsed.append(l)
+        body = collapsed
+
     while body and not body[0].strip():
         body.pop(0)
     while body and not body[-1].strip():
@@ -76,7 +89,7 @@ def strip_chapter(path: Path) -> str:
     return title_line + "\n\n" + "\n".join(body) + "\n"
 
 
-def collect_manuscript(book_dir: Path) -> str:
+def collect_manuscript(book_dir: Path, strip_beat_headers: bool = True) -> str:
     part_dirs = sorted(
         d for d in book_dir.iterdir()
         if d.is_dir() and not d.name.startswith(".")
@@ -93,7 +106,7 @@ def collect_manuscript(book_dir: Path) -> str:
         sections.append(f"# {divider_title(part_dir.name)}\n")
         for f in chapter_files:
             print(f"  + {f.name}")
-            sections.append(strip_chapter(f))
+            sections.append(strip_chapter(f, strip_beat_headers=strip_beat_headers))
 
     return "\n\n".join(sections) + "\n"
 
@@ -152,6 +165,10 @@ def main():
                      help="also build a PDF (needs a pandoc PDF engine installed)")
     ap.add_argument("--keep-manuscript", action="store_true",
                      help="don't delete the intermediate combined .md file")
+    ap.add_argument("--keep-section-headers", action="store_true",
+                     help="keep the '## I. Beat Title' section headers in the output "
+                          "(default: stripped, only chapter titles and '---' scene "
+                          "breaks reach the reader)")
     args = ap.parse_args()
 
     book_dir = (VAULT_ROOT / args.book).resolve()
@@ -161,7 +178,7 @@ def main():
     out_dir.mkdir(exist_ok=True)
 
     print(f"Building manuscript from {book_dir} ...")
-    body = collect_manuscript(book_dir)
+    body = collect_manuscript(book_dir, strip_beat_headers=not args.keep_section_headers)
     manuscript = build_frontmatter(args.title, args.subtitle, args.author, args.lang) + body
 
     manuscript_path = out_dir / f"{args.output_name}.manuscript.md"

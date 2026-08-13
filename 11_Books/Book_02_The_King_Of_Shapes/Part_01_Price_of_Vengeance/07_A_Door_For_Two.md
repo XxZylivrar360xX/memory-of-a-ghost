@@ -1,4 +1,4 @@
-# Chapter 14 — The Second Seat
+# Chapter 14 — A Door for Two
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -122,7 +122,7 @@ Avanzaron juntos, leyendo el ritmo del otro con la misma facilidad incómoda que
 
 ---
 
-## VI. The First Fragment — The Oath
+## VI. Fragment III — The Oath
 
 Lo encontraron en un nicho lateral, apartado del corredor principal — otra vez esa sensación de que el camino se abría exactamente donde convenía que se abriera, sin que ninguno de los dos pudiera decidir si eso era suerte, diseño, o algo que no alcanzaba ninguna de las dos palabras. Un fragmento pequeño, tallado, del mismo material oscuro e irregular que el primero.
 
@@ -150,7 +150,7 @@ Carina no preguntó más, aunque algo en su expresión —rápido, controlado, c
 
 ---
 
-## VII. The Wreck
+## VII. The Wreck Inside the Dreadnaught
 
 El corredor se rompía, literalmente, unos metros más adelante — no una puerta, no una intersección planeada, sino el punto exacto donde algo enorme había atravesado el casco del Acorazado desde afuera y se había quedado ahí, fundido a medias con la arquitectura Colmena que había intentado, sin éxito, cerrarse sobre la herida.
 
@@ -178,7 +178,7 @@ Kyle ya tenía el Predestinador a medio alzar, el reflejo de siempre — ver alg
 
 ---
 
-## VIII. Pistolera
+## VIII. The Bullet Worth Spending
 
 —Explícate —dijo Kyle, sin bajar el arma, pero sin disparar tampoco.
 
@@ -224,17 +224,13 @@ Kyle bajó el arma, sin haber disparado ni una vez.
 
 Kyle la miró un momento, algo asentándose despacio, no como una idea completa sino como el borde de una.
 
-—No es que nunca falles —dijo, al fin, más para sí mismo que para ella—. Es que sabes exactamente qué bala vale la pena gastar, y cuál no.
-
-Carina no respondió de inmediato.
-
-—Pistolera —dijo Kyle, con el mismo tono ligero de siempre, sin saber todavía que acababa de nombrar algo que no era puntería.
+—No es que nunca falles —dijo, al fin, más para sí mismo que para ella—. Es que sabes exactamente qué bala vale la pena gastar, y cuál no. —Bajó del todo el Predestinador, ya sin necesitarlo—. Pistolera.
 
 Ella lo miró, algo en su cara moviéndose entre dos direcciones a la vez — media sonrisa, medio un peso que no tenía nada que ver con el nodo ni con el mapa.
 
 —Me sirve —dijo, sin corregirlo, sin aceptarlo del todo tampoco.
 
-El silencio que siguió duró un segundo más de lo que la escena necesitaba. Kyle no supo qué había tocado, exactamente. Solo vio que algo en ella se había cerrado, rápido, en el mismo instante en que se había abierto.
+Kyle no supo qué había tocado, exactamente. Solo vio que algo en ella se había cerrado, rápido, en el mismo instante en que se había abierto.
 
 No preguntó.
 
@@ -244,7 +240,7 @@ Se acercaron juntos a leer, por fin, el mapa completo.
 
 ---
 
-## IX. The Map
+## IX. The Map Toward Eirene
 
 —No es un mapa Cabal —dijo Ghost, estudiando la proyección ya completa—. Es una superposición. Alguien montó lectura Ascendente sobre navegación imperial, hace mucho tiempo, y nunca la desmontó.
 
@@ -284,7 +280,7 @@ Ghost registró la proyección completa antes de que la consola, agotada esta ve
 
 ---
 
-## X. The Second Fragment — Sisters
+## X. Fragment VI — Sisters
 
 El segundo fragmento apareció mucho después, casi al final del tramo que Hornet había planeado como límite razonable para un solo día — apenas visible, encajado en una grieta que ningún ojo humano habría notado sin buscarla a propósito.
 
@@ -314,7 +310,7 @@ Kyle no tuvo una respuesta para eso. Guardó la piedra —fría otra vez, otra v
 
 ---
 
-## XI. What the Ship Carried Out
+## XI. What Aspect of Glass Carried Out
 
 Salir costó más que entrar.
 
@@ -354,10 +350,12 @@ Ninguno de los dos dijo, todavía, cuánto de lo que acababan de ver iban a tard
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Oryx]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_FragmentosCalcificados_LibrosDelDolor]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-02_Apodos_ChispitasPistolera]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 14 de Part 01 (capítulo local 7), prosa enteramente nueva — sin escena fuente en `05_Dialogues/`. Dramatiza el beat central fijado en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` ("Aspect of Glass como llave del Acorazado"): la nave no es la llave, lo es la decisión de Carina de volarla — Secciones I-III construyen ese peso explícitamente, anclando el origen de la nave en el Capítulo 1 del Prólogo (robada la noche de su renacimiento, dos asientos por modificación Dredgen nunca explicada, nombre heredado, no elegido). Verificado antes de escribir: `LaInterseccion` queda intacta — el nombre "Kyle" no se usa en diálogo entre ellos (Carina sigue sin usarlo; la narración lo hace en tercera persona, convención ya establecida).
+*Nota narrativa: Capítulo 14 de Part 01 (capítulo local 7), "A Door for Two" (título anterior: "The Second Seat"), prosa enteramente nueva — sin escena fuente en `05_Dialogues/`. Dramatiza el beat central fijado en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` ("Aspect of Glass como llave del Acorazado"): la nave no es la llave, lo es la decisión de Carina de volarla — Secciones I-III construyen ese peso explícitamente, anclando el origen de la nave en el Capítulo 1 del Prólogo (robada la noche de su renacimiento, dos asientos por modificación Dredgen nunca explicada, nombre heredado, no elegido). Verificado antes de escribir: `LaInterseccion` queda intacta — el nombre "Kyle" no se usa en diálogo entre ellos (Carina sigue sin usarlo; la narración lo hace en tercera persona, convención ya establecida).
 
 **Fragmentos Calcificados dramatizados (Fase I de `Plan_FragmentosCalcificados_LibrosDelDolor.md`):** Fragmento III ("The Oath", Mausoleo/caverna Aroma del Gusano — las tres hermanas juran venganza, conocimiento y algo sin nombre) y Fragmento VI ("Sisters", túneles inferiores de la Ruptura — la infancia consumida reparando la Aguja). Selección deliberada: ambos sobre las tres hermanas antes de convertirse en Oryx/Savathûn/Xivu Arath, sin nombrarlas ni asignar el juramento a una hermana específica — mantiene la ambigüedad ya usada en el resto del vault para lore de Fundamento. **Decisión de diseño:** Carina no recibe visión propia de los fragmentos (pregunta que `Plan_FragmentosCalcificados_LibrosDelDolor.md` dejaba explícitamente abierta) — solo Kyle las recibe, ella lee su reacción después, igual que Ghost en el Capítulo 12. Se deja la puerta abierta, sin cerrarla, para una futura conexión Carina/Savathûn (`Plan_Carina_Savathun_Horizonte.md`) sin adelantarla aquí.
 
 **Origen de "Pistolera" — revisado 2026-08-10 (Secciones VII-IX), según la incubadora de Codex `2026-08-10_incubadora-pistolera-apodo-con-peso.md` (Variante A + toque de C):** reemplaza el disparador original de la semilla del 2026-08-02 ("nunca fallas" tras un abanico de tres tiros contra Acólitos genéricos). El apodo ahora nace de que Carina *no* dispara cuando el blanco obvio se lo pide — un nodo Poseído fundido a la consola Cabal/Ascendente que sostiene el mapa hacia Eirene — y solo toma el tiro exacto, un segundo antes de que deje de servir, para cortar la conexión sin perder la lectura. Kyle nombra el juicio, no la puntería: "sabes exactamente qué bala vale la pena gastar, y cuál no." Se preserva intacto el resto del diseño original: Carina no cuenta la historia completa, no se nombra a Lena, Blade Barrage sigue sin gastarse aquí, y el silencio que seguía a "Pistolera" en la versión anterior ahora cae después del apodo mismo, con la misma función — confirmar sin explicar que hay una bala que todavía pesa. El hallazgo del mapa hacia Eirene (antes una sección aparte, "What the Wreck Remembered") queda fusionado en esta misma secuencia — la consola ya no se activa sola: el mapa se gana exactamente por la contención de Carina, no por casualidad.
 
-**Fracaso táctico contra la red de Poseídos (Sección XI), según la incubadora de Codex `2026-08-10_incubadora-third-element-necesidad-nuevos-poderes.md`, paso I:** al salir, Kyle y Carina ganan cada intercambio individual contra un grupo de Poseídos y aun así no ganan terreno — Hornet nota que el número de firmas no baja, Ghost lo nombra "estamos empujando agua". La conclusión no se verbaliza como "necesitamos otro poder"; queda como inquietud sin resolver ("esto no se resuelve matando más rápido... se resuelve de otra forma, todavía no sé cuál"), preparando causalmente el desvío a Freehold y el Jardín Negro en el Capítulo 15.*
+**Fracaso táctico contra la red de Poseídos (Sección XI), según la incubadora de Codex `2026-08-10_incubadora-third-element-necesidad-nuevos-poderes.md`, paso I:** al salir, Kyle y Carina ganan cada intercambio individual contra un grupo de Poseídos y aun así no ganan terreno — Hornet nota que el número de firmas no baja, Ghost lo nombra "estamos empujando agua". La conclusión no se verbaliza como "necesitamos otro poder"; queda como inquietud sin resolver ("esto no se resuelve matando más rápido... se resuelve de otra forma, todavía no sé cuál"), preparando causalmente el desvío a Freehold y el Jardín Negro en el Capítulo 15.
+
+**Ajuste de foco sobre el nacimiento de "Pistolera" (2026-08-12), a petición del autor.** El apodo dejó de tener sección propia (antes "VIII. Pistolera", ahora "VIII. The Bullet Worth Spending", nombrada por la línea de Kyle sobre el juicio, no por el mote) y se quitaron las líneas que marcaban el momento como bautizo consciente ("sin saber todavía que acababa de nombrar algo que no era puntería", "el silencio que siguió duró un segundo más de lo que la escena necesitaba"). "Pistolera" ahora sale pegada a la misma línea de diálogo sobre el juicio de Carina, dicha al bajar el arma — un aparte, no un beat separado. Se conserva la reacción de Carina (media sonrisa, medio peso) porque es material real de la relación — su silencio cerrado, no del apodo. Mismo criterio aplicado en el Capítulo 15 sobre "Chispitas".*

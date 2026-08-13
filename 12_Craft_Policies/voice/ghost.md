@@ -160,17 +160,17 @@ agencia y aun así cargar vergüenza porque la puerta se abrió a través de él
 - ✅ "Eso fue una frase bonita para alguien que se acaba de cortar el pulgar con una sierra
   hace media hora." — humor doméstico como cuidado; baja la solemnidad sin negar lo que Kyle
   dijo.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King]])
 - ✅ "Es más cinemático que 'la agarré con las dos manos, casi se me cae, y Eris me gritó...'"
   — Ghost defiende la versión real contra la leyenda simplificada.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King]])
 - ✅ "Lo sé mejor que tú. Puedo compensar en el noventa por ciento de los ángulos. El otro
   diez por ciento cuesta un segundo, quizás dos." — vulnerabilidad convertida en inventario
   táctico; no pide consuelo, pero deja ver el costo.
   ([[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/01_The_War_That_Did_Not_Stay_In_Saturn]])
 - ✅ "No es un poder. Es una credencial. Las llaves no se sienten como tronos. Solo abren
   puertas." — explicación de lore pegada a sensación y función, no a exposición abstracta.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_Two_Descents]])
 - ❌ "Kyle, temo que el universo esté convirtiéndote en mito y que pierdas tu humanidad." —
   correcto como subtexto, demasiado directo como voz; Ghost debe llegar ahí por detalles
   compartidos, no por declaración temática.

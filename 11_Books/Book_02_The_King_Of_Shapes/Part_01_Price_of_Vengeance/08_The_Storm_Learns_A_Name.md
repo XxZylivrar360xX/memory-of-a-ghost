@@ -1,4 +1,4 @@
-# Chapter 15 — The Third Element
+# Chapter 15 — The Storm Learns a Name
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -80,47 +80,83 @@ Adentro, las estructuras Vex que una vez habían defendido algo con la urgencia 
 
 Carina no dijo nada. Pero se quedó cerca, más cerca de lo que la táctica hubiera exigido, leyendo el peso que él cargaba entrar aquí de la misma forma en que había aprendido a leer todo lo demás.
 
----
+Siguieron caminando entre las estructuras caídas, el camino abriéndose despacio hacia zonas que ningún registro de la primera incursión de Kyle había cartografiado, porque entonces no habían existido.
 
-## IV. The Thread in the Dark
+—No fui el primero en intentar esto —dijo Kyle, sin que nadie se lo preguntara, la vista fija en una columna Vex partida a la mitad—. Antes de mí. En otras iteraciones. Nadie llegó a contarlo, y en ese entonces pensé que eso era solo una cifra. Cero. Nadie salió con vida antes que yo.
 
-Fue en el centro de lo que una vez había sido una cámara — el corazón exacto de donde el Mente Jardín había caído — que algo en Carina se detuvo sin que ella lo decidiera.
+—¿Y ahora?
 
-—¿Carina?
+—Ahora he perdido gente. —No dijo más. No hacía falta—. Ahora sé que cada uno de esos ceros tenía un nombre que alguien más sabía de memoria.
 
-No respondió de inmediato. Se había quedado quieta, la mirada fija en un punto vacío del espacio, el mismo tipo de pausa que Kyle reconoció, con un escalofrío tardío, como el eco de la suya propia cuando el mundo todavía era más grande que sus respuestas.
-
-—Hay algo aquí —dijo ella, al fin, la voz distinta, más baja, como si viniera de un lugar que todavía no había terminado de encontrar—. No como una amenaza. Como... una pregunta que alguien dejó sin cerrar.
-
-Hornet se acercó, la carcasa girando en un escaneo lento.
-
-—No estoy leyendo nada —dijo—. Ninguna firma. Ningún patrón.
-
-—No es para ti —dijo Carina, sin apartar la mirada del vacío—. Es para mí.
-
-Y entonces algo se abrió.
-
-No fue Luz — no del tipo que Kyle conocía, ni del tipo que Carina había usado toda su vida, la Solar precisa de una pistolera que no fallaba. Fue algo más quieto, más frío, la sensación de que el espacio entre las cosas —entre ella y el resto del Jardín caído, entre ella y todo lo que llevaba semanas sin decir en voz alta— dejaba de ser solo distancia y se volvía, por un instante, algo que ella podía tocar.
-
-Carina cerró la mano en el aire.
-
-Algo respondió — no visible del todo, no controlado del todo, un tirón de energía violeta-oscura que se enroscó alrededor de su puño y se apagó tan rápido como había llegado, dejándola con la respiración cortada y las manos temblando de una forma que no tenía nada que ver con el frío marciano.
+Carina no respondió. Pero algo en cómo miró el resto del camino, más atenta a cada sombra de lo que la táctica exigía, dijo que había escuchado la frase entera, no solo la mitad que Kyle había dicho en voz alta.
 
 ---
 
-## V. No Name for the Thread
+## IV. What the Dust Kept
+
+El derrumbe había abierto huecos que la arquitectura original nunca tuvo — grietas donde antes solo había geometría cerrada sobre sí misma, ahora vueltas boquetes hacia cámaras que ningún escaneo previo había registrado.
+
+Fue en uno de esos huecos, medio hundido en escombro Vex y en algo que ya no era del todo piedra, donde Hornet detuvo la marcha.
+
+—Tengo algo —dijo—. No es Vex.
+
+Era un cazador.
+
+Lo que quedaba de él, al menos: una armadura tan vieja que el metal había perdido su color propio, curvada en la postura exacta en la que había caído, sin que nadie la hubiera movido desde entonces. La capa, deshecha en jirones que el tiempo se había llevado casi enteros. Un Espectro, a un metro de distancia, la lente apagada hacía tanto que ni siquiera Ghost pudo confirmar cuánto.
+
+Y junto a la mano derecha, medio enterrado, un arco — no de madera ni de fibra, sino de algo más oscuro que la piedra que lo rodeaba, curvado en un ángulo que ningún material conocido debería poder sostener sin partirse. Una veta violeta corría por el centro, apenas visible, no muerta del todo. Dormida, de la forma en que duerme algo que lleva demasiado tiempo esperando que alguien vuelva a necesitarlo.
+
+—No está en mis registros —dijo Ghost—. Nadie reportó una entrada aquí antes que Kyle. Nadie reportó una salida, tampoco.
+
+—Alguien lo intentó antes que tú —dijo Carina, en voz baja—. Y no volvió a casa.
+
+Kyle se quedó mirando los restos un momento largo, algo en su expresión haciendo, sin quererlo, la misma cuenta que Ghost nunca terminaba de decir en voz alta.
+
+---
+
+## V. The Order He Chose
+
+Carina se arrodilló junto a los restos con la misma quietud elegida que aplicaba a cualquier terreno que todavía no había terminado de entender.
+
+—¿Qué haces? —preguntó Kyle.
+
+—Lo que hago con cualquier sala que todavía no puedo pelear. —No levantó la vista—. Miro qué pasó. No qué queda.
+
+Hornet ya había escaneado el cuerpo dos veces sin nada útil que ofrecer — ni causa de muerte, ni firma de combate, ni rastro de lo que fuera que hubiera estado ahí para matarlo. Carina no necesitó el escáner para empezar.
+
+El cuerpo no miraba hacia la salida. Miraba hacia el centro del Jardín, la mano derecha extendida hacia el arco y no hacia un camino que ya ni siquiera existía. No había marcas de arrastre, ni el desorden de una pelea perdida a la fuerza. Había, en cambio, algo más simple: un hombre que se sentó, o cayó, exactamente donde había decidido quedarse.
+
+—No lo mataron aquí —dijo, al fin—. Llegó hasta este punto ya muriéndose, y en vez de intentar volver, se quedó a esperar algo. —Señaló, sin tocar, la posición de la mano—. No trató de alcanzar la salida. Trató de alcanzar esto.
+
+—¿Cómo sabes que no cayó ahí sin más?
+
+—Porque el orden importa. —No apartó la vista del arco—. No es lo que alguien esconde lo que te dice quién es. Es en qué orden decide que lo conozcas. Él pudo arrastrarse hacia la puerta. Pudo morir pidiendo una ayuda que nadie iba a mandar a tiempo. Eligió esto, en cambio. —Se quedó callada un momento—. Alguien me enseñó a leer así, una vez. Nunca la sala completa de un vistazo. El orden en que la sala se explica sola.
+
+Kyle no preguntó quién. Algo en cómo lo dijo Carina —rápido, casi de pasada, la voz un grado más baja de lo normal— le dijo que la respuesta no era para compartirse todavía, y que preguntar solo iba a cerrar lo que se acababa de abrir.
+
+Extendió la mano hacia el arco — no para tomarlo. Solo para estar más cerca de lo que fuera que todavía quedaba ahí.
+
+No llegó a tocarlo.
+
+La veta violeta se despertó primero, subiendo por el aire entre su mano y la madera oscura como si hubiera estado esperando todo este tiempo, no un contacto, sino a alguien capaz de terminar de entender lo que él no había alcanzado a terminar. El arco no se movió. No hacía falta. Lo que se movió fue el espacio entre los dos — tensándose, como una cuerda que alguien empieza a tirar desde el otro lado sin que existiera todavía ninguna cuerda.
+
+Carina cerró la mano en el aire, sin llegar a agarrar nada físico.
+
+Algo respondió: una tensión completa, la sensación exacta de un arco tendido a medio camino entre sus manos, con una flecha que todavía no terminaba de existir del todo. Se sostuvo un instante imposible de medir, y se apagó de golpe, dejándola con la respiración cortada y las manos temblando de una forma que no tenía nada que ver con el frío marciano.
+
+Detrás de ella, donde había estado el arco, no quedó nada más que polvo fino, gris, indistinguible del resto de la ruina.
 
 —¿Qué fue eso? —preguntó Kyle, ya a su lado.
 
-—No lo sé. —Carina se miró la mano, todavía temblando—. Se sintió como... —Buscó las palabras, sin encontrarlas del todo—. Como si el aire tuviera un ángulo. Un punto exacto donde algo cede, si aprietas lo suficiente. No tengo una palabra mejor todavía.
+—No lo sé. —Carina se miró la mano, todavía temblando—. Se sintió como si tuviera un arco tendido entre las manos y nada todavía que apuntar. Como si algo llevara esperando el blanco correcto más tiempo del que yo llevo viva.
 
 —Nunca habías sentido eso antes.
 
-—No así. —Se quedó mirando su propia mano un momento más—. Tal vez algo parecido, una vez, hace mucho, sin nombre, sin control. Esto fue distinto. Esto se sintió como algo que ha estado esperando el lugar correcto para salir.
+—No así. —Se quedó mirando su propia mano un momento más—. Tal vez algo parecido, una vez, hace mucho, sin nombre, sin control. Esto fue distinto. Esto se sintió como algo que por fin encontró a quién estaba esperando.
 
 Kyle no tuvo una explicación mejor que ofrecer, y no lo intentó.
 
-—Este lugar hace eso —dijo, en cambio—. A mí me dejó siendo un dato que nadie sabía dónde archivar. No sé qué te deja a ti. Pero no creo que haya sido casualidad que pasara aquí.
+—Este lugar hace eso —dijo, en cambio—. A mí me dejó siendo un dato que nadie sabía dónde archivar. No sé qué te deja a ti. Pero no creo que haya sido casualidad que pasara justo aquí, junto a él.
 
 Carina no respondió de inmediato. Cerró la mano una vez más, despacio, casi con miedo de que no volviera a responder — y no respondió, no todavía, dejándola con la certeza incómoda de haber tocado algo real sin saber cómo volver a alcanzarlo a voluntad.
 
@@ -172,7 +208,7 @@ Carina no dijo nada al principio. Después no pudo evitarlo del todo: una risa c
 
 ---
 
-## VIII. What She Meant By Letting It Pass
+## VIII. How to Let the Storm Pass
 
 —Entonces dime cuál es el truco.
 
@@ -186,41 +222,51 @@ Kyle cerró los ojos esta vez. No extendió la mano. No tiró de nada. Se quedó
 
 Esta vez no se detuvo en las puntas de los dedos.
 
-La energía lo recorrió entero, sin filtro, sin la calidez controlada de Alborada ni la agresión fría del Vacío — algo más crudo, más eléctrico, que encontró la tormenta misma y se fundió con ella por un instante imposible de medir. Las nubes reaccionaron de verdad esta vez: un relámpago cayó más cerca de lo que ningún relámpago debería caer sin motivo, y las luces de la azotea se apagaron enteras un segundo antes de volver, todas a la vez.
+La energía lo recorrió entero, sin filtro, sin la calidez controlada de Alborada ni la agresión fría del Vacío — algo más crudo, más eléctrico, que encontró la tormenta misma y no se detuvo ahí.
 
-—¡Kyle! —Ghost, la voz partida entre alarma y algo que no era del todo miedo.
+Un relámpago cayó directo sobre él.
 
-Cuando terminó, Kyle se quedó de pie, temblando, la piel todavía cargada con algo que tardó varios segundos en apagarse.
+No lo esquivó. No lo detuvo. Lo dejó llegar — y en el instante exacto en que lo tocó, Kyle dejó de estar ahí. Se evaporó en el mismo punto donde había estado de pie, sin caer, sin dejar nada atrás, la descarga entera tirando de él hacia arriba, hacia la tormenta misma, como si el rayo, en vez de golpearlo, lo hubiera reclamado de vuelta.
 
-—¿Qué fue eso? —preguntó, mirándose las manos.
+—¡Kyle! —gritó Ghost, la voz partida entre alarma y algo que no era del todo miedo.
 
-—Arco —dijo Carina, de pie, mirándolo con algo parecido al reconocimiento—. Esta vez de verdad.
+La tormenta respondió. No con más fuerza — con una quietud repentina, la nube entera deteniéndose un instante antes de empezar a abrirse desde el centro, un anillo de cielo despejado creciendo hacia afuera como una onda expansiva, empujando la tormenta hacia los bordes en vez de apagarla.
+
+El rayo volvió a caer — el mismo, o uno idéntico, imposible de distinguir — directo al punto exacto donde Kyle había desaparecido.
+
+Tocó tierra, y Kyle estaba ahí otra vez, de pie, entero, la piel entera todavía envuelta en Arco vivo, el mismo cosquilleo de antes multiplicado por diez y sin quemarlo esta vez, sin dejarlo temblando. Se quedó así un segundo largo, la energía recorriéndolo sin control aparente y sin embargo sin dañarlo en absoluto — y entonces, despacio, cerró la mano, y la dejó apagarse él mismo, no porque se le acabara, sino porque decidió que ya había dicho lo que tenía que decir.
+
+El anillo de cielo despejado siguió creciendo detrás de él hasta que no quedó nube que sostener. El sol volvió a caer sobre Marte, completo, como si la tormenta entera no hubiera sido nunca nada más que la versión gigante de lo que él acababa de aprender a hacer con las manos.
+
+Carina lo miró un momento largo, algo entre el asombro y la burla cruzándole la cara.
+
+—Ok. Ahora estás presumiendo.
+
+Kyle sonrió, todavía con el Arco muriéndose despacio en la punta de los dedos.
+
+—Pude evitarlo. Pero dijiste que lo dejara fluir.
 
 ---
 
-## IX. Chispitas
+## IX. Aftershock
 
-Se quedaron ahí un momento más, la tormenta todavía descargándose a lo lejos, más contenida ahora que antes de que Kyle la tocara.
+Se quedaron ahí un momento más, bajo un cielo que todavía no terminaba de acostumbrarse a estar despejado, la azotea entera bañada en una luz que ninguno de los dos esperaba volver a ver esa tarde.
 
-—Eso podría haberte matado —dijo Ghost, la voz de vuelta a algo parecido a la normalidad—. Dos intentos fallidos y un tercero sin ningún control real.
+—Eso podría haberte matado —dijo Ghost, la voz de vuelta a algo parecido a la normalidad—. Dos intentos fallidos y un tercero donde literalmente desapareciste.
 
 —Podría —admitió Kyle—. No lo hizo.
 
 Carina lo miró de arriba abajo, con la misma precisión evaluadora que aplicaba a cualquier cosa que necesitara medir.
 
-—Chispitas —dijo, de pronto, casi riendo.
+—Te vi fallar dos veces intentando forzarlo, y una vez logrando que pasara por dejar de intentarlo. —Se cruzó de brazos, algo divertido cruzándole la cara—. Chispitas.
 
 —¿Perdón?
 
-—Te vi fallar dos veces intentando forzarlo, y una vez logrando que pasara por dejar de intentarlo. —Se cruzó de brazos, la sonrisa quedándose—. Alguien tenía que ponerle nombre a eso, y no vas a hacerlo tú mismo. Te acabas de convertir, literalmente, en la tormenta. Chispitas.
-
-—Eso no suena a un apodo que sobreviva el resto de la guerra.
-
-—Sobrevivirá exactamente porque no suena a nada que tú elegirías. —Carina ya se movía de vuelta hacia el borde de la azotea, el paso ligero por primera vez en todo el día—. Ahora vamos a averiguar qué hacer con lo mío.
+—Literalmente te convertiste en la tormenta. —Ya se movía de vuelta hacia el borde de la azotea, el paso ligero por primera vez en todo el día—. Ahora vamos a averiguar qué hacer con lo mío.
 
 ---
 
-## X. The Shape That Wouldn't Fall
+## X. The Shape That Would Not Fall
 
 —Algo se movió abajo —dijo Hornet, el escáner ya orientado hacia el borde del techo—. Un solo blanco. Cabal, o lo que queda de algo Cabal.
 
@@ -242,7 +288,7 @@ Carina bajó el arma un segundo, algo en su expresión más cerca de la frustrac
 
 ---
 
-## XI. Tie the Loose Threads
+## XI. Find It Before You Loose
 
 Kyle se acercó, todavía con el eco de la tormenta cosquilleándole en los brazos, y lo primero que hizo no fue hablar.
 
@@ -278,7 +324,7 @@ Carina lo midió un segundo más de lo que la urgencia del dron debería haberle
 
 —Esto no es lo mismo.
 
-—Es exactamente lo mismo. —Se quedó mirando el dron, la forma en que se recomponía cada vez—. No puedes consumir algo sin entenderlo primero. Eso es lo que el Vacío quiere de ti. No la fuerza. La comprensión.
+—Es exactamente lo mismo. —Se quedó mirando el dron, la forma en que se recomponía cada vez—. Hace media hora leíste una muerte entera solo mirando dónde había caído un cuerpo. No estabas forzando nada entonces. Estabas entendiendo. Haz eso. No puedes consumir algo sin entenderlo primero. Eso es lo que el Vacío te está pidiendo. No la fuerza. La comprensión.
 
 Carina no respondió de inmediato, la vista fija en el dron.
 
@@ -286,7 +332,7 @@ Carina no respondió de inmediato, la vista fija en el dron.
 
 Ella se detuvo. Miró.
 
-—Ata los hilos sueltos primero —dijo Kyle, dejando un espacio entre cada frase, sin prisa por llenarlo—. Y entonces suelta.
+—Encuentra qué lo sostiene primero —dijo Kyle, dejando un espacio entre cada frase, sin prisa por llenarlo—. Y entonces suelta.
 
 —¿Y después qué?
 
@@ -300,11 +346,11 @@ Esta vez lo buscó a propósito.
 
 ## XII. What Held It Together
 
-El hilo violeta-oscuro respondió más rápido de lo que ella esperaba, como si hubiera estado esperando que alguien por fin le preguntara bien. No se enroscó alrededor del dron. Se estiró más allá de él, hacia un punto en el aire que ningún sensor de Hornet había marcado — una conexión tensa, casi invisible, entre el dron y algo más profundo en el edificio que seguía alimentándolo.
+La tensión respondió más rápido de lo que Carina esperaba, como si hubiera estado esperando que alguien por fin le preguntara bien. No se enroscó alrededor del dron. Se estiró más allá de él, apuntando hacia un punto en el aire que ningún sensor de Hornet había marcado — una cuerda tirante, casi invisible, entre el dron y algo más profundo en el edificio que seguía alimentándolo.
 
-Carina tiró.
+Carina soltó.
 
-El hilo se cortó. El dron, sin nada más que lo sostuviera desde abajo, cayó de una vez y no volvió a moverse.
+La cuerda cedió de golpe, como algo tensado más allá de lo que podía aguantar. El dron, sin nada más que lo sostuviera desde abajo, cayó de una vez y no volvió a moverse.
 
 Se quedó con la mano todavía en el aire, respirando fuerte, algo entre el asombro y el agotamiento cruzándole la cara.
 
@@ -328,7 +374,7 @@ Bajaron de Vigilancia Ciega juntos, la tormenta apagándose despacio a sus espal
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[10_Chapters/Age_I/Cap_01_A_New_Shape]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-02_Apodos_ChispitasPistolera]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/04_The_Asclepeion]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/07_The_Second_Seat]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 15 de Part 01 (capítulo local 8), capítulo enteramente nuevo, insertado el 2026-08-02 entre "The Second Seat" y "Eirene". Prosa completamente original, sin escena fuente en `05_Dialogues/`.
+*Nota narrativa: Capítulo 15 de Part 01 (capítulo local 8), "The Storm Learns a Name" (título anterior: "The Third Element"), capítulo enteramente nuevo, insertado el 2026-08-02 entre "A Door for Two" y "The Moon That Could Not Stay". Prosa completamente original, sin escena fuente en `05_Dialogues/`.
 
 **El Jardín Negro (Secciones III-V), a petición del autor.** Verificado antes de escribir: Kyle ya tiene una historia mayor y muy establecida ahí (`10_Chapters/Age_I/Cap_01_A_New_Shape.md`, Sección X-XII) — entró solo en Age I, mató al Mente Jardín, "el Jardín Negro había caído", el Viajero pulsó, la Ciudad lo sintió. Confirmado con el autor: no es el Jardín activo de antes — son sus ruinas caídas, la misma cámara donde el Mente cayó, ahora colapsada y silenciosa, con resonancia residual de Oscuridad/Vacío que ningún colapso terminó de apagar. Kyle vuelve por primera vez desde entonces, y por primera vez no solo — el peso de ese regreso está en las Secciones II-III. **Origen del Vacío de Carina:** decisión fijada con el autor — esto es el despertar crudo y sin nombre, no el Shadowshot formado y nombrado que ya vive fijado en Season of the Seraph (Age XII, `Carina.md`, batalla sobre la Tierra, "Síguelo"). Mismo patrón que Kyle con Stormtrance/Chaos Reach: el despertar llega primero, sin control ni nombre; el dominio nombrado llega años después. `02_Characters/Carina.md` corregida en la misma sesión — la nota anterior sobre el desbloqueo decía "House of Wolves" por error heredado de una fase de diseño anterior a que la muerte de Lena quedara fijada en Taken King; corregida para apuntar aquí.
 
@@ -338,4 +384,16 @@ Bajaron de Vigilancia Ciega juntos, la tormenta apagándose despacio a sus espal
 
 **Diagnóstico y reescritura del microfallo (2026-08-12), tras `diagnose scene` de scene-doctor.** La primera versión del microfallo (Kyle se pone entre Carina y el dron, ella lo rechaza, él cede) no le costaba nada a ninguno de los dos — Kyle cedía en dos líneas sin residuo, Carina ganaba la discusión sin ceder nada a cambio, y el dron no representaba ninguna consecuencia visible mientras discutían. El diagnóstico señaló además una ironía disponible y no explotada: Kyle acababa de aprender "no agarres, deja pasar" con la tormenta dos secciones antes, y el microfallo lo hacía cometer la misma equivocación en otro registro sin que la escena lo notara. Reescrito con dos ingredientes nuevos: (1) el dron se recompone más rápido mientras discuten — consecuencia visible del tiempo gastado, señalada por Hornet; (2) Kyle cede no solo porque Carina tiene razón, sino porque reconoce, él mismo, que está repitiendo el error de la tormenta con ella en el centro. Carina también gana un beat de reconocimiento (lo mide un segundo de más antes de continuar) en vez de pasar la página de inmediato.
 
-**Corrección de regla dura (2026-08-12), autorización explícita del autor.** La regla de arriba ("Carina no llega a Shadowshot/Nightstalker formado, sigue reservado a Season of the Seraph") queda **reformulada, no eliminada**: lo que este capítulo establece —el despertar crudo y sin nombre— sigue intacto y sin cambios. Lo que cambia es cuánto tiempo tarda en formarse: no "años", sino el capítulo inmediato siguiente. En `09_Eirene.md` (Cap. 16, Secciones XI-XIV), Oryx cruza en persona y derrota a Kyle en un duelo de espadas; para sacarlo con vida, Carina forma el Vacío completo, con control total, bajo necesidad absoluta — no por práctica acumulada. Season of the Seraph conserva la escena ("Síguelo"), pero deja de ser el origen: es, a partir de ahora, una Carina ya experimentada usando una herramienta que domina hace años. `02_Characters/Carina.md` actualizada en la misma sesión para no contradecir esto.*
+**Corrección de regla dura (2026-08-12), autorización explícita del autor.** La regla de arriba ("Carina no llega a Shadowshot/Nightstalker formado, sigue reservado a Season of the Seraph") queda **reformulada, no eliminada**: lo que este capítulo establece —el despertar crudo y sin nombre— sigue intacto y sin cambios. Lo que cambia es cuánto tiempo tarda en formarse: no "años", sino el capítulo inmediato siguiente. En `09_Eirene.md` (Cap. 16, Secciones XI-XIV), Oryx cruza en persona y derrota a Kyle en un duelo de espadas; para sacarlo con vida, Carina forma el Vacío completo, con control total, bajo necesidad absoluta — no por práctica acumulada. Season of the Seraph conserva la escena ("Síguelo"), pero deja de ser el origen: es, a partir de ahora, una Carina ya experimentada usando una herramienta que domina hace años. `02_Characters/Carina.md` actualizada en la misma sesión para no contradecir esto.
+
+**Ajuste de foco sobre el nacimiento de "Chispitas" (2026-08-12), a petición del autor, mismo criterio aplicado en el Capítulo 14 sobre "Pistolera".** La antigua Sección IX ("Chispitas") debatía en el propio diálogo si el apodo "sobreviviría el resto de la guerra" — bautizo consciente, no algo dicho al vuelo. Renombrada "IX. Aftershock"; se cortó el intercambio meta sobre si el apodo iba a durar y la línea "alguien tenía que ponerle nombre a eso, y no vas a hacerlo tú mismo". Carina dice "Chispitas" pegado a la observación de que Kyle falló dos veces forzándolo, sin pausa previa que anuncie el mote, y sigue moviéndose de inmediato hacia lo suyo — no se detiene a confirmar que el apodo va a quedar. El eco posterior en la Sección XII ("Pistolera —dijo Kyle, en voz baja... no como el apodo de siempre sino como algo más cerca de un eco") queda intacto, ya que no es un bautizo sino una recurrencia.
+
+**Reformulación completa del despertar del Vacío de Carina (2026-08-12), a petición explícita del autor.** El diseño anterior (Secciones III-V, "The Thread in the Dark" / "No Name for the Thread") hacía que el poder llegara como una presencia ambiental genérica que "el lugar le hace a Carina", manifestada como un "hilo" que se enrosca en su puño — vocabulario que, además, colisiona con el que `02_Characters/Carina.md` ya fija para **Threadrunner/Hebra** ("a ella, los hilos le resuenan como la misma lectura social que ya hacía toda la vida, vuelta literal"), no para Vacío. El autor pidió una reformulación completa con dos ejes: (1) anclar el despertar en la imagen canónica de Nightstalker — un cazador que llega y encuentra a otro cazador muerto, y junto a él el arco de Vacío que dispara la Súper — en vez de un "hilo" sin forma; (2) sembrar ahí mismo, en el modo en que Carina llega a esa arma, el foreshadowing de sus habilidades de detective ya establecidas en `08_Core_Relationships/Carina_Lena.md` (símbolo "El libro" — *El asesinato de Roger Ackroyd*, que Lena le leyó durante House of Wolves, y cuyo método —"no a quien escondió más, a quien decidió en qué orden ibas a conocerlas"— Carina cita casi textual al leer la escena de la muerte del cazador). Esto además dramatiza, por primera vez en prosa, la tesis que la ficha de Carina ya fijaba para Nightstalker: "leer el campo como lee a la gente."
+
+**Rediseño aplicado — Secciones III-V.** La Sección III suma un cierre nuevo (Kyle: "no fui el primero en intentar esto... ahora sé que cada uno de esos ceros tenía un nombre") que planta, sin nombrarlo, que van a encontrar restos de alguien — coherente con `10_Chapters/Age_I/Cap_01_A_New_Shape.md`, Sección XI, donde el Avatar de Devoción ya establece explícitamente "los Guardianes que habían muerto aquí antes que él, en otras iteraciones" (verificado antes de escribir: no contradice nada, lo confirma). La Sección IV ("What the Dust Kept", reemplaza "The Thread in the Dark") es el hallazgo: un cazador caído sin identificar, restos de su Espectro, y un arco de Vacío medio enterrado junto a su mano — el derrumbe posterior a la caída del Mente Jardín (que no existía cuando Kyle entró en Age I) explica por qué nadie lo había encontrado antes. La Sección V ("The Order He Chose", reemplaza "No Name for the Thread") es la lectura de Carina: se arrodilla, ignora el escaneo de Hornet (que no da nada, igual que con los Fragmentos Calcificados), y reconstruye la escena por el orden de las cosas —el cuerpo mira hacia el arco, no hacia la salida— citando casi textual el método del libro de Lena sin nombrarlo ("alguien me enseñó a leer así, una vez"). El arco responde a esa comprensión, no al contacto físico; se manifiesta como tensión de cuerda y flecha, no como hilo, y se deshace en polvo al transferir la carga — sin dejar un objeto físico que arrastrar en continuidad futura. El cierre ("no le pongas nombre todavía") se conserva casi intacto, solo con el vocabulario sensorial ajustado.
+
+**Vocabulario ajustado en cascada — Secciones XI-XII.** Para no reintroducir "hilo" en el resto del capítulo: Sección XI cambia de título ("Tie the Loose Threads" → "Find It Before You Loose", juego con el término de arquería "loose" = soltar la cuerda) y la línea de Kyle pasa de "ata los hilos sueltos primero" a "encuentra qué lo sostiene primero"; se agrega además una línea explícita conectando el consejo de Kyle con lo que acaba de ver hacer a Carina en el Jardín ("hace media hora leíste una muerte entera solo mirando dónde había caído un cuerpo... eso es lo que el Vacío te está pidiendo"), para que la lección de Kyle se sienta como devolverle su propio método, no como una idea nueva de él. Sección XII cambia "el hilo violeta-oscuro... Carina tiró... el hilo se cortó" por lenguaje de cuerda tensada y suelta, consistente con el arco de origen. La nota de la Revisión 2026-08-10, arriba, describe la versión anterior — se conserva sin reescribir como registro histórico de esa decisión, ya reemplazada por esta.
+
+**Actualizaciones fuera de este archivo, misma sesión:** `02_Characters/Carina.md` (sección Nightstalker) y `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md` (entrada "Filo Cero / el primer rescate de Carina") actualizadas para reflejar el nuevo origen y el vocabulario sensorial correcto (arco, cuerda, tensión, atar, cortar — nunca "hilos", reservado para Threadrunner).
+
+**Escalada del tercer intento — clímax de Stormtrance (2026-08-12), a petición explícita del autor, Sección VIII.** El logro dejó de ser un beat contenido (energía recorriéndolo, un rayo cayendo cerca, luces parpadeando) y se convirtió en la primera Súper completa y pagada con toda su épica, siguiendo la regla de vocabulario fijada en `12_Craft_Policies/powers/README.md` ("la Súper se nombra, describe y paga, nunca se esconde"): un rayo cae directo sobre Kyle y lo evapora en el sitio; la tormenta entera se detiene y se abre desde el centro en un anillo de cielo despejado que crece como onda expansiva; el mismo rayo vuelve a caer en el punto exacto donde desapareció, devolviéndolo entero, envuelto en Arco vivo y con Stormtrance ya activo — esta vez sin dañarlo, sin dejarlo temblando; él mismo decide apagarlo, cerrando la mano, en vez de que se le acabe. El sol termina de salir sobre Marte, completo. Cierra con banter nuevo pedido por el autor verbatim: "Ok. Ahora estás presumiendo." / "Pude evitarlo. Pero dijiste que lo dejara fluir." La línea de Ghost en la Sección IX se ajustó de "un tercero sin ningún control real" a "un tercero donde literalmente desapareciste", y la apertura de esa misma sección cambia de "la tormenta todavía descargándose, más contenida" a un cielo ya despejado, para no contradecir que la tormenta terminó por completo, no solo se calmó. **Actualizado también:** `12_Craft_Policies/powers/Kyle.md`, entrada de Stormtrance — este ya no es el "despertar crudo" sin más, es el primer cast completo de la Súper, con pago narrativo real (el sol volviendo, la broma de Carina).*

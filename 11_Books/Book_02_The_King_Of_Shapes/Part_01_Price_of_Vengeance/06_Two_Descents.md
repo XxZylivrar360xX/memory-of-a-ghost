@@ -1,4 +1,4 @@
-# Chapter 13 — The Hellmouth Descent
+# Chapter 13 — Two Descents
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## I. What Kyle Chose to Carry
+## I. The Burden Kyle Chose
 
 La Luna no tenía atmósfera que llorara por nadie, y aun así, esa noche, todo en ella parecía intentarlo.
 
@@ -98,7 +98,7 @@ Carina avanzó, sola con la certeza de que la Tumba, si de verdad contenía lo q
 
 ---
 
-## IV. What Kyle Decided
+## IV. The Choice Below the Moon
 
 El rito de las Hijas no terminó pronto.
 
@@ -264,7 +264,7 @@ Carina no necesitó que nadie le tradujera lo que eso significaba. Consultó la 
 
 ---
 
-## XI. What the Guardian Couldn't Produce Alone
+## XI. The Credential Kyle Could Not Make
 
 El Guardian ya había intentado lo obvio. Extendió la mano hacia la Luz, buscando el calor familiar de Alborada, las alas que habían resuelto la mitad de sus peores momentos — y no encontró nada, solo el peso de una Oscuridad tan densa que se sentía física, como si el Hellmouth entero hubiera cerrado el puño alrededor de él. Probó con la Bomba Nova, buscando el vacío en vez del fuego, y el resultado fue el mismo: ningún destello, ninguna respuesta, solo la certeza aplastante de estar completamente solo dentro de su propio cuerpo, sin nada más que ese cuerpo con qué pelear.
 
@@ -332,7 +332,7 @@ No fue una amistad. No fue ni siquiera confianza todavía. Fue, simplemente, el 
 
 ---
 
-## XIII. The Joint Ascent
+## XIII. The Ascent They Shared
 
 La ruta que ella conocía no era fácil, pero era real — un tramo lateral que Hornet había registrado semanas atrás, escaneando el mismo territorio por razones que no tenían nada que ver con la cámara de Crota, y que nunca había sido pensado para sacar a dos Guardianes perseguidos al mismo tiempo.
 
@@ -380,7 +380,7 @@ Nadie se lo había pedido.
 
 ---
 
-## XIV. The Exit
+## XIV. The Exit Into Dust
 
 Emergieron del abismo del Hellmouth juntos, la luz gris del exterior golpeándolos con la brusquedad de algo que ninguno de los dos había esperado volver a ver tan pronto.
 
@@ -442,7 +442,7 @@ Carina lo miró un momento, algo parecido a una sonrisa apareciendo y desapareci
 
 ---
 
-## XVI. What Carina Didn't Name
+## XVI. What Carina Did Not Name
 
 El Guardian no respondió de inmediato. El silencio se estiró, no incómodo del todo, pero cargado de algo que ninguno de los dos apuró.
 
@@ -524,7 +524,7 @@ Carina la tomó, un apretón breve, firme, el primer gesto físico entre ambos q
 
 ---
 
-## XIX. What Kyle Brought Without Bringing It Whole
+## XIX. The Gift Kyle Could Not Bring Whole
 
 La tienda de Elsie todavía no tenía nada parecido a comodidad — cables tendidos entre postes improvisados, una mesa de trabajo hecha de lo que el complejo no reclamaba, el mismo fuego pequeño de siempre ardiendo cerca de la entrada, más por costumbre que por necesidad. No era un hogar. Era una base de operaciones que Elsie había dejado de tratar como temporal sin decidirlo del todo.
 
@@ -652,7 +652,7 @@ Pero ya no era solo observación.
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Oryx]], [[02_Characters/Crota]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Sword_Logic]], [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_DosDescensos]], [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_LaCredencial]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_LaInterseccion]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_LaVerdadParcial]], [[05_Dialogues/Dialogue_Elsie/Elsie_Guardian_TakenKing_LoQueElsieNoPuedeImpedir]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/05_The_Dreadnaught_Key]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 13 de Part 01 (capítulo local 6), adaptando el arranque del Cluster 4 de Taken King Parte 1 — cinco escenas: `DosDescensos`, `LaCredencial`, `LaInterseccion`, `LaVerdadParcial`, y `LoQueElsieNoPuedeImpedir`, preservadas casi verbatim salvo el ajuste central de la reimaginación (abajo). Aquí nacen Kyle y Carina como dúo — `LaInterseccion` verificada intacta: ninguno de los dos usa el nombre del otro, ninguno sabe quién es el otro más allá de "el Guardian"/"la Cazadora", regla dura protegida.
+*Nota narrativa: Capítulo 13 de Part 01 (capítulo local 6), "Two Descents" (título anterior: "The Hellmouth Descent"), adaptando el arranque del Cluster 4 de Taken King Parte 1 — cinco escenas: `DosDescensos`, `LaCredencial`, `LaInterseccion`, `LaVerdadParcial`, y `LoQueElsieNoPuedeImpedir`, preservadas casi verbatim salvo el ajuste central de la reimaginación (abajo). Aquí nacen Kyle y Carina como dúo — `LaInterseccion` verificada intacta: ninguno de los dos usa el nombre del otro, ninguno sabe quién es el otro más allá de "el Guardian"/"la Cazadora", regla dura protegida.
 
 **Ajuste central de la reimaginación (2026-08-02), aplicado en las Secciones I, IV, VII, IX y X:** las fuentes originales dependían de un emisor portátil que la reimaginación del 2026-08-01 eliminó por completo (ver Capítulo 12, Sección XI — el módulo se quemó con la nave de Eris, no queda nada que adaptar). Reescrito para que Kyle entre expuesto, sin ningún dispositivo: la Sección I reemplaza el diálogo sobre "emisor estable" por el reconocimiento de que no hay nada que ocultar; la Sección IV convierte la antigua cuenta regresiva del emisor en una decisión genuinamente independiente de Kyle — sin nadie dándole el límite de tiempo, tiene que leerlo él mismo; la Sección VII reemplaza "la falla prevista" del emisor por un cambio interno y ambiguo (algo en su propia relación con la Luz, no un aparato); la Sección IX quita el colapso técnico y lo deja en exposición pura, citando de vuelta la advertencia de Eris del Capítulo 12 ("vas solo, sin nada que te oculte"); la Sección X ajusta la detección de Hornet de "firma tecnológica" a "una presencia... peleando por no ser notada" — Kyle mismo, no un aparato, es lo que casi se delata.
 

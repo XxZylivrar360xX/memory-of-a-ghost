@@ -1,4 +1,4 @@
-# Chapter 17 — The Cathedral of Voices
+# Chapter 17 — Where the Voices Knelt
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -112,7 +112,7 @@ Más adelante, en el borde de la visión de Kyle, algo brilló — un destello m
 
 ---
 
-## VI. The Cathedral of Voices
+## VI. Where the Voices Knelt
 
 La encontraron en el centro exacto de la ciudad — no un templo, aunque el nombre que le habían puesto sugiriera uno. Una estructura circular, alta, con superficies pulidas que no reflejaban luz sino que la absorbían, la clase de espacio que se sentía menos como un lugar de culto y más como una sala de audiencia, diseñada para que algo enorme escuchara testimonio de algo mucho más pequeño.
 
@@ -198,7 +198,7 @@ Carina no preguntó por qué. Se ajustó, cubriendo el flanco que él estaba a p
 
 ---
 
-## X. The Shape Oryx Hadn't Calculated
+## X. The Shape Oryx Had Not Calculated
 
 —Ustedes dos —dijo Oryx, la voz cargada de algo que empezaba a acercarse a la genuina incomodidad—, no pelean como aliados coordinados. Pelean como dos sistemas separados que se niegan a fallar el uno frente al otro.
 
@@ -308,7 +308,7 @@ Y el trono, por primera vez en toda su historia, no iba a esperar a quien lo hab
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Elsie]], [[02_Characters/Oryx]], [[02_Characters/Mara_Sov]], [[02_Characters/Ikora]], [[02_Characters/Zavala]], [[02_Characters/Eris_Morn]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[05_Dialogues/Dialogue_Guardian_Carina/Guardian_Carina_TakenKing_ElRegicidioFisico]], [[05_Dialogues/Dialogue_Guardian/Guardian_TakenKing_LaPuertaAParte2]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_01_LaEntrada]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/09_Eirene]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 17 de Part 01 (capítulo local 10). Adapta `Guardian_Carina_TakenKing_ElRegicidioFisico` y `Guardian_TakenKing_LaPuertaAParte2` (Secciones V-XII), reubicando el regicidio físico del Acorazado a la Catedral de las Voces, dentro de La Desolación del Terror, en el Mundo Cadáver/Grimworld — decisión central de `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` ("Por qué el regicidio físico se reubica aquí"). Diálogo y beats de combate preservados casi verbatim; solo cambia el escenario y las líneas que lo anclan a él (la referencia de Oryx a "de todos los lugares posibles", el peso añadido de pelear frente a las Voces mudas, el eco de que algo más grande que él se arrodilló una vez en ese mismo sitio).
+*Nota narrativa: Capítulo 17 de Part 01 (capítulo local 10), "Where the Voices Knelt" (título anterior: "The Cathedral of Voices"). Adapta `Guardian_Carina_TakenKing_ElRegicidioFisico` y `Guardian_TakenKing_LaPuertaAParte2` (Secciones V-XII), reubicando el regicidio físico del Acorazado a la Catedral de las Voces, dentro de La Desolación del Terror, en el Mundo Cadáver/Grimworld — decisión central de `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md` ("Por qué el regicidio físico se reubica aquí"). Diálogo y beats de combate preservados casi verbatim; solo cambia el escenario y las líneas que lo anclan a él (la referencia de Oryx a "de todos los lugares posibles", el peso añadido de pelear frente a las Voces mudas, el eco de que algo más grande que él se arrodilló una vez en ese mismo sitio).
 
 **Secciones IV-VI, prosa enteramente nueva:** el puente emocional desde el cierre del Cap. 16 hasta la entrada al Mundo Cadáver. Ambos nombres no oficiales conviven sin jerarquía — "Grimworld" (Ghost, registro técnico) y "El Mundo Cadáver" (Carina, registro visceral) — ninguno corrige al otro, coherente con `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`: **el nombre real del planeta no aparece en ningún punto de este capítulo**, ni siquiera en el cierre de la Sección XI, que lo evita deliberadamente ("alguien, en algún libro futuro, por fin le pusiera a ese lugar el nombre que de verdad tenía").
 

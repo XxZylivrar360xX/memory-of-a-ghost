@@ -61,7 +61,7 @@ Sky es otro asunto. Hornet encuentra la vivacidad de Sky funcionalmente útil y 
 
 ## Lena
 
-Lena era la única persona del Refugio del Muelle que le hablaba directamente a él, sin pasar primero por Carina —un saludo, una pregunta sobre el clima, sin ninguna otra intención detrás. Hornet nunca lo nombró en voz alta, pero había llegado a esperarlo. Cuando ella muere (`11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand.md`, Sección XVI), su duelo es tan real como el de Carina, y siente el peso completo en el mismo instante que ella. Elige, sin discutirlo consigo mismo, que el propio puede esperar — el de Carina, no.
+Lena era la única persona del Refugio del Muelle que le hablaba directamente a él, sin pasar primero por Carina —un saludo, una pregunta sobre el clima, sin ninguna otra intención detrás. Hornet nunca lo nombró en voz alta, pero había llegado a esperarlo. Cuando ella muere (`11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Hand_That_Closed.md`, Sección XVI), su duelo es tan real como el de Carina, y siente el peso completo en el mismo instante que ella. Elige, sin discutirlo consigo mismo, que el propio puede esperar — el de Carina, no.
 
 De ahí nace una regla que nunca anuncia y nunca rompe: no va a ser él quien diga el nombre de Lena delante de Carina, nunca, salvo que ella lo diga primero. Guarda su propio duelo en el mismo lugar donde guarda todo lo que no sirve para proteger a nadie más (ver `05_Dialogues/Dialogue_Guardian_Carina/Espectros_TakenKing_LoQueTampocoSeDice`, donde protege ese mismo límite frente a Ghost sin insinuar nunca a Lena).
 

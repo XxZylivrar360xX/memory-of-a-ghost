@@ -1,4 +1,4 @@
-# Chapter 12 — The Dreadnaught Key
+# Chapter 12 — The Key That Wasn't
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## I. Two Days With the Casco Open
+## I. Two Days With Duality Open
 
 Duality llevaba dos días con el casco abierto en el claro, Ghost metido hasta el fondo del sistema de salto, verificando cada nodo de la secuencia de traslación que iba a tener que sostener el peso de un salto real hacia el Acorazado — no una patrulla cualquiera, no un ejercicio de rutina, sino la clase de salto que no perdonaba un error de cálculo a mitad de camino.
 
@@ -384,7 +384,7 @@ Corrieron. No fue elegante. Fue el sentido más literal de la palabra, dos figur
 
 ---
 
-## XI. The Wound
+## XI. The Wound Ghost Kept
 
 El disparo llegó desde un ángulo que ninguno de los dos había cubierto — un Vandal, ya Poseído, ya vaciado de cualquier cosa que alguna vez lo hubiera hecho un individuo, apostado en una repisa elevada con la paciencia fría de un francotirador que no necesitaba apurarse porque su blanco no tenía dónde esconderse.
 
@@ -674,7 +674,7 @@ Nadie, en ese despacho, en esa tarde, sabía todavía que la llave del Acorazado
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Cayde-6]], [[02_Characters/Eris_Morn]], [[02_Characters/Amanda_Holliday]], [[02_Characters/Elsie]], [[02_Characters/Carina]], [[02_Characters/Oryx]], [[04_Concepts/Ascendant_Plane]], [[04_Concepts/Throne_Worlds]], [[04_Concepts/Sword_Logic]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_TakenKing_ElProblemaDeAcceso]], [[05_Dialogues/Dialogue_Eris/Eris_Cayde_TakenKing_LosLimitesDeLaSombra]], [[05_Dialogues/Dialogue_Guardian/Guardian_Cayde_Ghost_TakenKing_ElPrimerFragmento]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_TakenKing_LaCaceriaYLaHerida]], [[05_Dialogues/Dialogue_Eris/Eris_Guardian_TakenKing_LaCondicion]], [[05_Dialogues/Dialogue_Carina/Carina_Cayde_TakenKing_LaPresionCivil]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/04_What_The_Ledger_Kept]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/01_The_Ship_That_Believed_It_Was_A_God]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 12 de Part 01 (capítulo local 5), adaptando el Cluster 3 completo de Taken King Parte 1 (seis escenas: `ElProblemaDeAcceso`, `LosLimitesDeLaSombra`, `ElPrimerFragmento`, `LaCaceriaYLaHerida` con su Sección VII, y `LaCondicion`) más el cierre con `LaPresionCivil`. El título del capítulo es irónico a propósito: durante casi todo el capítulo, "la llave" parece ser el módulo, después la esencia de Crota — ninguna de las dos cosas es la respuesta real, que llega recién en el Capítulo 14 con `Aspect of Glass`.
+*Nota narrativa: Capítulo 12 de Part 01 (capítulo local 5), "The Key That Wasn't" (título anterior: "The Dreadnaught Key"), adaptando el Cluster 3 completo de Taken King Parte 1 (seis escenas: `ElProblemaDeAcceso`, `LosLimitesDeLaSombra`, `ElPrimerFragmento`, `LaCaceriaYLaHerida` con su Sección VII, y `LaCondicion`) más el cierre con `LaPresionCivil`. El título del capítulo es irónico a propósito: durante casi todo el capítulo, "la llave" parece ser el módulo, después la esencia de Crota — ninguna de las dos cosas es la respuesta real, que llega recién en el Capítulo 14 con `Aspect of Glass`.
 
 **Ajuste central de la reimaginación (2026-08-01):** la Sección XIV ("No Shadow Left to Wear", renumerada el 2026-08-08 — ver nota abajo) reemplaza la construcción del emisor portátil que la escena original de `LaCondicion` dramatizaba (Cayde adaptando el módulo naval a una versión de bolsillo para el Hellmouth). Esa configuración se cae por completo — el hueco de continuidad se resuelve dentro del propio texto: el único módulo que tenían se quemó con la nave de Eris en la Sección IV, así que no queda nada que adaptar. En su lugar, Kyle entra al Hellmouth sin ningún dispositivo, apoyado en un dato ya canon (`Guardian_Carina_TakenKing_LaInterseccion`: el Hellmouth sofoca su Luz) adelantado aquí como algo que Kyle ya sabía por experiencia propia desde Crota's End. La advertencia final de Eris se ajustó de "un emisor que puede fallar" a "sin nada que te oculte" — mismo peso emocional, sin el objeto. El Cluster 3 permanece, en su contenido y su fracaso, exactamente como estaba escrito: lo único que cambia es lo que ese fracaso significa — ningún objeto sustituye a una persona.
 

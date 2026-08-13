@@ -99,17 +99,17 @@ la ruta cambie.
 
 - ✅ "Dame eso." — cuidado práctico sin pedir permiso, eco físico de una intimidad que todavía
   no está nombrada.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King]])
 - ✅ "No vas mañana porque sea la decisión correcta. Vas porque crees que te corresponde a ti,
   específicamente, pagar lo que sea que crees que debes." — lectura precisa sin suavizar ni
   acusar.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_Two_Descents]])
 - ✅ "Porque Oryx nunca se detuvo a hacerse esta pregunta." — respuesta filosófica anclada en
   una diferencia conductual, no en consuelo.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_Two_Descents]])
 - ✅ "Eso no es una competencia. Es solo un hecho." — honestidad limpia ante Carina; no reclama
   posesión emocional sobre Kyle.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/11_The_Flank_She_Could_Not_Hold]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/11_The_Flank_Elsie_Could_Not_Hold]])
 - ❌ "He visto incontables líneas temporales donde esto termina mal, y por eso temo volver a
   perderte." — demasiado explícita para esta etapa; convierte subtexto y secreto en exposición.
 - ❌ "Kyle, estás proyectando tu culpa en la responsabilidad porque no sabes procesar el trauma."

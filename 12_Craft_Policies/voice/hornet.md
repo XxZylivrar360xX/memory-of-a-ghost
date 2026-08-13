@@ -103,7 +103,7 @@ da curiosidad. Hornet se pregunta si la respuesta cambia el riesgo.
   ([[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/01_The_Huntress]])
 - ✅ "Vamos a salir por atrás. La puerta ya está abierta. Solo hay que caminar." — protección
   reducida al siguiente paso posible, sin prometer que todo estará bien.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Hand_That_Closed]])
 - ❌ "Carina, estás usando la acción para no enfrentar tu duelo por Lena." — rompe su regla
   central: diagnostica, fuerza el nombre y convierte su cuidado en terapia explícita.
 - ❌ "Según mis análisis completos, este sistema funciona así..." — demasiado tutorial; Hornet

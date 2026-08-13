@@ -330,4 +330,4 @@ Xivu Arath ama desafiando — la ternura, mutilada por su propia doctrina, hasta
 
 ---
 
-*Conecta con: [[09_Roadmaps/Plan_FragmentosCalcificados_LibrosDelDolor]], [[02_Characters/Oryx]], [[02_Characters/Savathun]], [[02_Characters/Xivu_Arath]], [[02_Characters/Riven]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Throne_Worlds]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/05_The_Dreadnaught_Key]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/07_The_Second_Seat]]*
+*Conecta con: [[09_Roadmaps/Plan_FragmentosCalcificados_LibrosDelDolor]], [[02_Characters/Oryx]], [[02_Characters/Savathun]], [[02_Characters/Xivu_Arath]], [[02_Characters/Riven]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Throne_Worlds]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/05_The_Key_That_Wasnt]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/07_A_Door_For_Two]]*

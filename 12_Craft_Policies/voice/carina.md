@@ -127,10 +127,10 @@ tiene que cargar solo. Ella no lo absuelve; lo acompaña sin fingir que la respu
 - ✅ "No le pongas nombre todavía. Si le pones nombre antes de que yo sepa qué es, se va a
   sentir como que es tuyo. Y no lo es." — agencia clara; Carina protege la experiencia propia
   antes de que otro la organice por ella.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/08_The_Third_Element]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/08_The_Storm_Learns_A_Name]])
 - ✅ "Ese no es un plan. Es una esperanza con pasos numerados." — humor táctico bajo presión;
   corrige sin detener la escena.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_The_Cathedral_Of_Voices]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_Where_The_Voices_Knelt]])
 - ❌ "Sé que estás huyendo de tu dolor porque perder a Lena te rompió más de lo que quieres
   admitir." — demasiado terapéutica, demasiado explícita, convierte su lectura en diagnóstico
   y cae en el patrón de interrogatorio emocional genérico.

@@ -1,4 +1,4 @@
-# Chapter 10 — The King's Hand
+# Chapter 10 — The Hand That Closed
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## I. The Five Fronts
+## I. Five Fronts
 
 Elsie no estaba en ningún frente. Estaba en todos, a su manera —la única disponible para alguien sin insignia, sin acceso a la red segura de la Torre, sin ningún lugar oficial en la cadena que decidía qué información llegaba a dónde. No iba a entrar a la Ciudad por una guerra que no era suya. Eso todavía faltaban años para cambiarlo, y solo Kyle, cuando volviera a buscarla, iba a ser la razón.
 
@@ -130,7 +130,7 @@ Volvió con un reporte de límites: hasta aquí, no más allá. Por ahora.
 
 ---
 
-## VI. The Reef Without a Queen
+## VI. The Reef Without Its Queen
 
 De los cinco, el Arrecife era el único que no enfrentaba a un eco solo.
 
@@ -178,7 +178,7 @@ Pero cuando el eco de Skolas por fin se retiró, herido, no destruido, Elsie esc
 
 ---
 
-## VII. The Empty Sky over the Lake
+## VII. The Empty Sky Over the Lake
 
 Carina estaba en el embarcadero, sin ningún reporte que la obligara a estar ahí, limpiando La Última Palabra sobre una caja de carga vacía —el revólver desarmado en piezas ordenadas, el aceite, el trapo, el ritual mecánico que repetía cada pocos días sin pensarlo demasiado, más por costumbre que por necesidad. El arma tenía un peso específico, cargado con más historia de la que ella sola le había dado, aunque esa mañana, como todas, no se detuvo a pensar en eso.
 
@@ -202,7 +202,7 @@ Los civiles no sintieron nada de eso. Seguían con sus gallinas, sus tazas de al
 
 ---
 
-## VIII. The Static on Every Channel
+## VIII. Static on Every Channel
 
 —Carina. —La voz de Hornet llegó tensa, con una tensión que ella no le conocía—. Algo está entrando a todos los canales al mismo tiempo.
 
@@ -228,7 +228,7 @@ Hornet no discutió. Materializó el Helmsman con la misma velocidad de siempre 
 
 ---
 
-## IX. The Crane
+## IX. The Crane in the Fog
 
 La grúa del muelle se alzaba sobre el resto del Refugio, oxidada e inútil desde antes de que nadie ahí naciera, pero todavía capaz de sostener el peso de una Cazadora que sabía trepar. Carina subió sin discutir el tiempo que le quedaba —Hornet ya había concedido la pasada, y no hacía falta pelear la misma batalla dos veces.
 
@@ -250,7 +250,7 @@ Y entonces se encendieron otras —dos, tres, en puntos distintos de la bruma, c
 
 ---
 
-## X. The Shot Through the Fog
+## X. The Shot Carina Waited For
 
 Carina disparó de nuevo. Y otra vez. Cada blanco protegía algo concreto —una casa, un sendero, la distancia exacta hasta donde alguien dormía sin saber que había una razón para no hacerlo. La altura, sumada a esas luces que por fin le daban algo que apuntar, le prestó una ilusión creíble de estar cubriendo el Refugio entero desde ahí arriba.
 
@@ -316,7 +316,7 @@ Pensó en Lena al final, casi como si postergarlo pudiera cambiar el orden en qu
 
 ---
 
-## XIII. The Clinic Room
+## XIII. The Room Where the World Ended
 
 Carina cruzó la puerta con el arma ya en la mano.
 
@@ -368,7 +368,7 @@ Y soltando el aire, caminó hacia Lena.
 
 ---
 
-## XV. Three Names
+## XV. Three Names Left Behind
 
 Se arrodilló junto a ella.
 
@@ -398,7 +398,7 @@ Esa última imagen de Lena era exclusivamente suya.
 
 ---
 
-## XVI. Hornet
+## XVI. Hornet's Choice
 
 Pasó un tiempo que nadie midió antes de que alguien se acercara por detrás.
 
@@ -460,7 +460,7 @@ Algunas guerras podían esperar veinte minutos más de lo que decían poder espe
 
 *Conecta con: [[02_Characters/Elsie]], [[02_Characters/Petra_Venj]], [[02_Characters/Lord_Shaxx]], [[02_Characters/Eris_Morn]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Lena]], [[02_Characters/Teodor]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Elsie/Elsie_Petra_TakenKing_LaManoSeCierra]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[05_Dialogues/Dialogue_Mara/Petra_Mara_TakenKing_LaBatallaDeSaturno]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 10 de Part 01 (capítulo local 3), "The King's Hand", adaptando completas `Elsie_Petra_TakenKing_LaManoSeCierra` (Secciones I-VI) y `Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso` (Secciones VII-XVII), preservadas verbatim o casi verbatim — ambas fuentes ya tenían calidad de capítulo de libro completo. Las dos escenas ocurren el mismo día, en paralelo (los cinco asedios de la Mano del Rey y la muerte de Lena en el Refugio), así que se presentan en secuencia dentro de un solo capítulo en vez de intercalarse — mantiene intacto el ritmo interno de cada fuente sin inventar transiciones nuevas. Ajustes mínimos de continuidad para Book 02: "su Espectro" se nombra "Hornet" directamente en la Sección VIII en adelante (ya revelado nominalmente en el Capítulo 1 del Prólogo, "The Huntress"); "la niña de la fiebre" se nombra "Nastia" en las Secciones VII, XI y XIV, coherente con el resto del libro.
+*Nota narrativa: Capítulo 10 de Part 01 (capítulo local 3), "The Hand That Closed" (título anterior: "The King's Hand"), adaptando completas `Elsie_Petra_TakenKing_LaManoSeCierra` (Secciones I-VI) y `Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso` (Secciones VII-XVII), preservadas verbatim o casi verbatim — ambas fuentes ya tenían calidad de capítulo de libro completo. Las dos escenas ocurren el mismo día, en paralelo (los cinco asedios de la Mano del Rey y la muerte de Lena en el Refugio), así que se presentan en secuencia dentro de un solo capítulo en vez de intercalarse — mantiene intacto el ritmo interno de cada fuente sin inventar transiciones nuevas. Ajustes mínimos de continuidad para Book 02: "su Espectro" se nombra "Hornet" directamente en la Sección VIII en adelante (ya revelado nominalmente en el Capítulo 1 del Prólogo, "The Huntress"); "la niña de la fiebre" se nombra "Nastia" en las Secciones VII, XI y XIV, coherente con el resto del libro.
 
 **Decisión de alcance (2026-07-26, a petición del autor):** el material original de este bloque incluía una tercera escena, `Carina_TakenKing_LoQueQuedoDelRefugio` (el duelo material de Carina, días después, dejando el Refugio para siempre). Se separó en su propio capítulo nuevo, Capítulo 11, "The Little Box" (título anterior: "What the Refuge Kept") — la fuente marca un salto de tiempo real ("días después del asalto"), y las tres escenas juntas habrían hecho de este el capítulo más largo del libro con diferencia. Ver `00_Book_Map.md` y `01_Source_Index.md`, ya actualizados con la nueva numeración.
 

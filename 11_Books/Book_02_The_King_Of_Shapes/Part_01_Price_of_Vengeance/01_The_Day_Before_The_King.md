@@ -1,4 +1,4 @@
-# Chapter 8 — The Last Board
+# Chapter 8 — The Day Before the King
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -94,7 +94,7 @@ No tenía forma de saber, cruzando el pasillo de vuelta hacia el hangar, que esa
 
 ---
 
-## II. What Shaxx Brought
+## II. The Sword Without a Story
 
 Cruzaba el pasillo hacia el hangar cuando Shaxx lo interceptó — imposible no verlo venir, la armadura roja y dorada ocupando el corredor entero antes de que el resto de él terminara de aparecer.
 
@@ -138,7 +138,7 @@ Kyle la cruzó a la espalda, junto a las otras tres, el peso desconocido de una 
 
 ---
 
-## III. The Last Board
+## III. The Day Before the King
 
 El último tablón no quería encajar.
 
@@ -222,7 +222,7 @@ Ghost no dijo nada al respecto. Ninguno de los dos lo mencionó otra vez en todo
 
 ---
 
-## VI. Elsie's Opinion
+## VI. The Needle Elsie Took
 
 La cabaña se alzaba al fondo del claro con la misma solidez tosca que tenía desde que Kyle la encontró en sus primeros meses como Guardián — troncos oscurecidos por el clima, el techo a dos aguas cubierto de musgo en el lado que nunca veía el sol de la tarde, la chimenea de piedra que Kyle nunca había tenido que tocar porque alguien, mucho antes que él, la había construido para durar más que cualquiera de sus dueños. Las ventanas, angostas y bajas, dejaban pasar la luz de esa hora en franjas doradas que caían justo sobre el porche recién terminado — madera clara, todavía sin curtir, una cicatriz reciente que aún no había aprendido a confundirse con el resto de la piel de la casa.
 
@@ -336,7 +336,7 @@ No era que no quisiera quedarse. Era que quedarse todavía no era una categoría
 
 ---
 
-## VIII. The Phobos Call
+## VIII. The Call from Phobos
 
 Ghost se iluminó de golpe, la lente virando hacia un punto que no estaba en la habitación, antes de que ninguno de los dos terminara de disfrutar el silencio.
 
@@ -362,7 +362,7 @@ Ghost cerró el canal él mismo y se acercó flotando, la lente fija en Kyle con
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Elsie]], [[02_Characters/Ikora]], [[02_Characters/Banshee-44]], [[02_Characters/Lord_Shaxx]], [[08_Core_Relationships/Guardian_Elsie_Bray]], [[08_Core_Relationships/Guardian_Ghost]], [[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_PostFinalShape_LoQueYaEraVerdad]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_VaultOfGlass_LaCabana]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-01_ElCaballo]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 8 del libro (Capítulo 1 de Part 01), "The Last Board" (título anterior: "The Porch", ajustado por Codex/Víctor el 2026-07-27) — apertura enteramente nueva de Book 02, Part 01, diseñada y aprobada con el autor el 2026-07-26 antes de escribir. Sin escena fuente en `05_Dialogues/`. Kyle termina de construir, con sus propias manos, el porche de la cabaña que a lo largo del resto de la saga va a ser escenario de la mayoría de sus momentos domésticos más importantes (`Guardian_Familia_FinalShape_LasManzanasQueNoCayeron`, `Guardian_Zavala_PostFinalShape_UnaCervezaDeViejos`, `Guardian_Sai_PostFinalShape_LaHijaQueElegimos`, `Elsie_FinalShape_VuelveACasa`, entre otras 28 escenas que lo usan como locación) — la cabaña ya existe desde Age I; el porche es una construcción nueva de esta ventana temporal. Función de apertura: pura paz doméstica antes de que la campaña de Oryx empiece, simétrica con el cierre del Prólogo de Carina/Lena (`00_Prologue/07_The_Last_Line_In_The_Ledger.md`) — dos protagonistas, dos escenas de calma interrumpida, cerrando el mismo umbral desde ángulos distintos.
+*Nota narrativa: Capítulo 8 del libro (Capítulo 1 de Part 01), "The Day Before the King" (títulos anteriores: "The Last Board", "The Porch") — apertura enteramente nueva de Book 02, Part 01, diseñada y aprobada con el autor el 2026-07-26 antes de escribir. Sin escena fuente en `05_Dialogues/`. Kyle termina de construir, con sus propias manos, el porche de la cabaña que a lo largo del resto de la saga va a ser escenario de la mayoría de sus momentos domésticos más importantes (`Guardian_Familia_FinalShape_LasManzanasQueNoCayeron`, `Guardian_Zavala_PostFinalShape_UnaCervezaDeViejos`, `Guardian_Sai_PostFinalShape_LaHijaQueElegimos`, `Elsie_FinalShape_VuelveACasa`, entre otras 28 escenas que lo usan como locación) — la cabaña ya existe desde Age I; el porche es una construcción nueva de esta ventana temporal. Función de apertura: pura paz doméstica antes de que la campaña de Oryx empiece, simétrica con el cierre del Prólogo de Carina/Lena (`00_Prologue/07_The_Last_Line_In_The_Ledger.md`) — dos protagonistas, dos escenas de calma interrumpida, cerrando el mismo umbral desde ángulos distintos.
 
 **Calibrado explícitamente contra el mapa de relación Kyle-Elsie (2026-07-26, corrección del autor):** en esta ventana (Age II-III, etapa 3 — "Observación" de `Guardian_Elsie_Bray.md`), Elsie **no** es un fijo en la cabaña — la vio por primera vez recién al final de Age I y sigue siendo, en esta etapa, una visitante ocasional, no alguien que vive ahí. La charla inicial con Ghost es un catch-up nostálgico sobre las aventuras de Age I (Atheon/Vault of Glass, Crota y el nacimiento del apodo "Matadioses", Skolas y House of Wolves) — no una escena de pareja. La línea de Atheon ("fue el primero que le conté a ella antes que a nadie") ya estaba fijada como beat de Age I (`Elsie_VaultOfGlass_PrimeraVisita`) — aquí se recuerda, no se reescribe.
 

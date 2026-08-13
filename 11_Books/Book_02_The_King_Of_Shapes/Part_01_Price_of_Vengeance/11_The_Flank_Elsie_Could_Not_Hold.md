@@ -1,4 +1,4 @@
-# Chapter 18 — The Flank She Could Not Hold
+# Chapter 18 — The Flank Elsie Could Not Hold
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -44,7 +44,7 @@ No lo dijo como intuición. Lo dijo como dato ya procesado — la misma lectura 
 
 ---
 
-## III. The Flank She Could Not Hold
+## III. The Flank Elsie Could Not Hold
 
 Carina la miró con algo parecido a la sorpresa.
 
@@ -120,7 +120,7 @@ La guerra, no.
 
 *Conecta con: [[02_Characters/Elsie]], [[02_Characters/Carina]], [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_The_Cathedral_Of_Voices]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 18 de Part 01 (capítulo local 11) — cierre de la Parte completa. Adapta `Elsie_Carina_TakenKing_ElFlancoQueNoPudoAcompanar` (Secciones I-V) casi verbatim — único ajuste real: la referencia de "el Acorazado" en el contexto original se corrigió a un registro más ambiguo ("un lugar que todavía no sé cómo nombrar del todo"), coherente con que el segundo regicidio ocurrió en el Mundo Cadáver/Grimworld, no en el Acorazado (Cap. 17), y con que el nombre real del planeta sigue vetado de la prosa. Cierra el mini-arco de Elsie fijado al inicio del diseño de esta Parte 1 ("la mujer que normalmente sabe más que los demás descubre que no puede leer esta guerra completa y aprende a acompañar sin controlar") — la línea final invierte deliberadamente esa idea de derrota a alivio.
+*Nota narrativa: Capítulo 18 de Part 01 (capítulo local 11), "The Flank Elsie Could Not Hold" (título anterior: "The Flank She Could Not Hold") — cierre de la Parte completa. Adapta `Elsie_Carina_TakenKing_ElFlancoQueNoPudoAcompanar` (Secciones I-V) casi verbatim — único ajuste real: la referencia de "el Acorazado" en el contexto original se corrigió a un registro más ambiguo ("un lugar que todavía no sé cómo nombrar del todo"), coherente con que el segundo regicidio ocurrió en el Mundo Cadáver/Grimworld, no en el Acorazado (Cap. 17), y con que el nombre real del planeta sigue vetado de la prosa. Cierra el mini-arco de Elsie fijado al inicio del diseño de esta Parte 1 ("la mujer que normalmente sabe más que los demás descubre que no puede leer esta guerra completa y aprende a acompañar sin controlar") — la línea final invierte deliberadamente esa idea de derrota a alivio.
 
 **Sección VI, prosa enteramente nueva — cierre de Part 01 completa.** Paga, por primera vez visible para el lector, el costo que Elsie asumió al final del Cap. 16 (extender su resistencia a ser redefinida para cubrir a Kyle y Carina) — la fuga real, no controlada, entre ella y otras versiones de sí misma de líneas que ya no existen, tal como se fijó en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`. Deliberadamente breve y sin nombrar cuál Elsie se filtró — gancho abierto hacia una futura entrada de `06_Timeline_Archives/`, no resuelto aquí. Cierra con un resumen de estado que no repite información ya narrada, sino que la nombra en conjunto por primera vez: Eirene perdido, Oryx herido pero vivo, la Primera Escuadra a punto de partir hacia King's Fall (ya escrito, Parte 3), Mara todavía esperando en el Mundo Trono (Cluster 1, todavía sin dramatizar en tiempo real). **Con este capítulo, Part 01 — Price of Vengeance queda completa: 11 de 11 capítulos (Caps. 8-18) más el interludio "The Queen Who Would Not Kneel".** Siguiente en el libro: Part 02 — The Taken War (Caps. 19-25), con las 6 escenas de Guerra de los Poseídos ya escritas desde 2026-07-19, todavía sin novelar en prosa de capítulo.
 

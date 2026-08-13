@@ -6,7 +6,7 @@ Exo, armero de la Torre. Terco, seco, práctico — sin ninguna paciencia para p
 
 ## Rol
 
-El banco de trabajo donde Kyle lleva su arsenal a revisar antes de cualquier campaña grande — la primera parada de "otro día más en la oficina" antes de que empiece la Guerra de los Poseídos (`11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board.md`, Sección I, "Another Day at the Office"). Ahí Kyle le lleva tres engramas sin decodificar del cinturón — dos púrpura, uno dorado — y Banshee los abre uno por uno, en la escena donde el arsenal de Kyle se nombra por primera vez en todo el vault:
+El banco de trabajo donde Kyle lleva su arsenal a revisar antes de cualquier campaña grande — la primera parada de "otro día más en la oficina" antes de que empiece la Guerra de los Poseídos (`11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King.md`, Sección I, "Another Day at the Office"). Ahí Kyle le lleva tres engramas sin decodificar del cinturón — dos púrpura, uno dorado — y Banshee los abre uno por uno, en la escena donde el arsenal de Kyle se nombra por primera vez en todo el vault:
 
 - **El Predestinador** (púrpura, arquitectura Vex de la Falla de los Oráculos): Banshee reconoce el origen y le ofrece el nombre a Kyle, leyendo el arma como "una decisión ya tomada antes de apretar el gatillo."
 - **El Martillo Negro** (púrpura, chasis oscuro con luces enfermas verde esmeralda e incrustaciones de quitina, origen en las profundidades donde cayó Crota): esta vez Banshee no ofrece nada — se queda callado y deja que Kyle lo nombre solo, por instinto, aunque el arma sea un rifle de precisión y no un martillo literal.
@@ -18,4 +18,4 @@ Sembrado como posible motivo recurrente — la armería como escenario que puede
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Day_Before_The_King]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_The_Alarm_That_Learned_His_Name]]*

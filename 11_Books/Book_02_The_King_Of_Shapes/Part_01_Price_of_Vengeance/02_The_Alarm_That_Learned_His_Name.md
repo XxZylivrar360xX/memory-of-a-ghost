@@ -1,4 +1,4 @@
-# Chapter 9 — Phobos
+# Chapter 9 — The Alarm That Learned His Name
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## I. The Three-Day Alarm
+## I. The Alarm That Would Not Stop
 
 Ikora seguía con el informe abierto cuando Kyle llegó, como si no hubiera dejado de mirarlo desde la llamada — cabeza rapada, la piel oscura tensa sobre rasgos angulares que no necesitaban levantar la voz para imponer autoridad, los ojos color café fijos en la pantalla con la misma intensidad calculadora que aplicaba a todo lo demás.
 
@@ -66,7 +66,7 @@ Ikora no la detuvo. Sabía, por años de experiencia propia, que había pregunta
 
 ---
 
-## II. The Altar in the Hellmouth
+## II. The Altar Beneath the Moon
 
 Apenas habían pasado unos meses desde la noche en que el Guardian, sin saberlo, abrió el Templo de Crota y el sello que la había mantenido contenida cedió lo suficiente para que ella encontrara la salida. Desde entonces, nadie había vuelto a bajar tan hondo. Ni siquiera ella.
 
@@ -102,7 +102,7 @@ Abrió el canal, en cambio, hacia la única persona cuya seguridad podía, en es
 
 ---
 
-## III. The Empty Outpost
+## III. The Outpost Without Bodies
 
 Phobos no tenía atmósfera propia que hablara de nada — una roca gris, bombardeada, con la clase de silencio que en cualquier otro lugar del sistema habría sido tranquilizador y que ahí, por razones que Kyle no podía nombrar todavía, no lo era.
 
@@ -258,7 +258,7 @@ Cruzó.
 
 ---
 
-## VI. The Exit, Not a Victory
+## VI. The Exit That Was Not Mercy
 
 —Ghost, necesito una salida, no una victoria.
 
@@ -410,7 +410,7 @@ Y para Elsie, que llevaba semanas aprendiendo a leer las cosas que él no decía
 
 ---
 
-## VIII. The King's Order
+## VIII. The Order of the King
 
 No había estado ahí, en el sentido en que un cuerpo está en un lugar.
 
@@ -492,7 +492,7 @@ Pero lo custodió, de todas formas, junto con todo lo demás que custodiaba sin 
 
 *Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Elsie]], [[02_Characters/Eris_Morn]], [[02_Characters/Oryx]], [[02_Characters/Ecthar]], [[01_Timeline/Age_II_The_Taken_King]], [[05_Dialogues/Dialogue_Guardian/Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos]], [[05_Dialogues/Dialogue_Oryx/Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/01_The_Last_Board]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 9 del libro (Capítulo 2 de Part 01), "Phobos", adaptando completas `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos` (Secciones I-V) y `Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion` (Sección VI), preservadas verbatim o casi verbatim — ambas fuentes ya tenían calidad de capítulo de libro completo. Enlace directo con el Capítulo 8 ("The Last Board"): la Sección I retoma exactamente donde cortó la llamada de Ikora, sin repetir la premisa completa de la alarma (ya establecida ahí), y cierra con una línea nueva de una frase ("El barniz del porche iba a tener que esperar más de un fin de semana") que ancla la escena al capítulo anterior sin alargarla. La Sección V se ajustó con una frase mínima ("un porche recién terminado") para reflejar que el Capítulo 1 ya lo dejó construido. Ningún otro cambio de contenido — el resto del capítulo es la adaptación de formato (numeración romana, títulos en inglés) de las dos fuentes.
+*Nota narrativa: Capítulo 9 del libro (Capítulo 2 de Part 01), "The Alarm That Learned His Name" (título anterior: "Phobos"), adaptando completas `Guardian_Ghost_Elsie_TakenKing_LoQueLlegoAPhobos` (Secciones I-V) y `Oryx_Ecthar_TakenKing_ElFiloDeLaDesesperacion` (Sección VI), preservadas verbatim o casi verbatim — ambas fuentes ya tenían calidad de capítulo de libro completo. Enlace directo con el Capítulo 8 ("The Day Before the King"): la Sección I retoma exactamente donde cortó la llamada de Ikora, sin repetir la premisa completa de la alarma (ya establecida ahí), y cierra con una línea nueva de una frase ("El barniz del porche iba a tener que esperar más de un fin de semana") que ancla la escena al capítulo anterior sin alargarla. La Sección V se ajustó con una frase mínima ("un porche recién terminado") para reflejar que el Capítulo 1 ya lo dejó construido. Ningún otro cambio de contenido — el resto del capítulo es la adaptación de formato (numeración romana, títulos en inglés) de las dos fuentes.
 
 **Decisión estructural clave de este capítulo (2026-07-26):** a diferencia del resto de Part 01, la Sección VI mantiene el POV de Oryx/Ecthar en tiempo real — no se difiere como memoria, porque el foco fijado por el autor para esta Parte es "Kyle/Carina/Ghost/Oryx" explícitamente, y Oryx es foco propio, no material de los conspiradores (Eris/Osiris/Mara/Petra) que sí quedó diferido como recuerdo futuro de Eris (ver `Plan_TakenKing_Parte1.md`, "Ajuste estructural mayor"). Este capítulo es, por tanto, el primero en dramatizar la estrategia real detrás de la Mano del Rey — la Mano del Rey no es invasión aleatoria, es una trampa diseñada para atraer específicamente a quien mató a Crota. El lector la conoce en el mismo capítulo en que Kyle sobrevive a Phobos, antes de que el resto del elenco (Elsie, Eris) empiece a leer el patrón desde afuera en el Capítulo 10.
 

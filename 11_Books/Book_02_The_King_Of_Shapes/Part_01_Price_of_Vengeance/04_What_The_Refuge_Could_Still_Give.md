@@ -1,4 +1,4 @@
-# Chapter 11 — What the Ledger Kept
+# Chapter 11 — What the Refuge Could Still Give
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 01: Price of Vengeance*
 
@@ -84,7 +84,7 @@ Solo las dos, ignorando al mundo entero con toda la deliberación que podían re
 
 ---
 
-## IV. The Weight Without a Joke
+## IV. Weight Without a Joke
 
 Carina abrió los ojos.
 
@@ -208,7 +208,7 @@ Empezó a caminar hacia su casa a juntar lo poco que se podía llevar.
 
 Nadie más discutió después de eso.
 
-## VIII. What the Desk Would Have to Wait
+## VIII. The Desk That Had to Wait
 
 Antes de irse —a donde fuera que "irse" significara todavía esa mañana— Carina subió una última vez al cuarto de Lena, y dejó que los ojos lo cruzaran completo, sin apurar nada.
 
@@ -442,7 +442,7 @@ Ninguno de los que la esperaban más adelante, en lugares que ella todavía no p
 
 *Conecta con: [[02_Characters/Carina]], [[02_Characters/Hornet]], [[02_Characters/Lena]], [[02_Characters/Teodor]], [[02_Characters/Aisha]], [[02_Characters/Reed-7]], [[02_Characters/Ghost]], [[08_Core_Relationships/Carina_Lena]], [[05_Dialogues/Dialogue_Carina/Carina_TakenKing_LoQueQuedoDelRefugio]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso]], [[05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_KingsFall_03_ElSacerdote]], [[09_Roadmaps/Plan_BeyondLight_Carina_Shayura_LasCenizasVacias]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos]], [[09_Roadmaps/Plan_RiseOfIron_Nemo]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_Phobos]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Kings_Hand]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_The_Hellmouth_Descent]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
-*Nota narrativa: Capítulo 11 de Part 01 (capítulo local 4), originalmente "The Little Box" (título anterior: "What the Refuge Kept"), adaptando `Carina_TakenKing_LoQueQuedoDelRefugio.md`. Preservado verbatim o casi verbatim en las Secciones I-VI.
+*Nota narrativa: Capítulo 11 de Part 01 (capítulo local 4), "What the Refuge Could Still Give" (títulos anteriores: "What the Ledger Kept", "The Little Box", "What the Refuge Kept"), adaptando `Carina_TakenKing_LoQueQuedoDelRefugio.md`. Preservado verbatim o casi verbatim en las Secciones I-VI.
 
 **Reestructuración completa (2026-07-31), a petición del autor.** El capítulo se renombró a **"What the Ledger Kept"** y perdió el hallazgo del anillo, que se traslada a una escena futura después del regicidio físico (ver más abajo). En su lugar, la Sección VII en adelante dramatiza un evento nuevo: el Sacerdote de Guerra —ya descrito en el Capítulo 9, Sección VIII— pasa por el Refugio del Muelle como parte de la misma barrida del Frente Tierra que ya se vio en el Capítulo 10 (Omnigul-eco en la ZME), sin saber ni que Carina existe — regla dura protegida: en esta línea de tiempo Kyle y Carina todavía no se han conocido, así que Oryx no tiene forma de conocer su existencia. Carina organiza la evacuación de los más vulnerables (Nastia, Teodor, la familia de seis ya sembrada en la Sección II) contactando a Aisha, quien menciona un sitio en la EDZ cerca de la Zona Muerta Europea —una granja, sin ninguna infraestructura de resistencia todavía— y resuelve el problema del transporte transcontinental enviando a Reed-7 con un carguero de la Vanguardia. El Refugio queda dañado pero en pie — el Sacerdote no vino a conquistarlo, solo pasó por encima de camino a otro lugar. La Sección "Teodor at the Door" se retiró por redundancia (su despedida con Carina ya ocurre en la sección de abordaje del carguero). El cierre ("The Road Away") ya no dice que se va "para siempre" — el escritorio de Lena, con lo que sea que haya encima, queda sin abrir por falta de tiempo, no por decisión.
 
