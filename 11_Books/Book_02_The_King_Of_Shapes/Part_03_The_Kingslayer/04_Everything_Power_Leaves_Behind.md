@@ -30,7 +30,7 @@ Algo golpeaba a intervalos, en algún punto detrás de las paredes. No tenía el
 
 Joe dividió el avance en dos ramas cortas para ganar tiempo — Kyle, Kevin y Angie por la izquierda; él, Tiago y Resner por la derecha, con la orden de reconverger en el primer cruce marcado que cualquiera de los dos grupos encontrara.
 
-—Resner, cierra la fila —dijo Joe.
+—Bastion, cierra la fila —dijo Joe.
 
 Resner no respondió con palabras. Simplemente lo hizo, ocupando la retaguardia con el paso medido de siempre, el arma baja pero lista, mirando atrás cada pocos metros por costumbre más que por miedo.
 
@@ -155,4 +155,6 @@ Kyle pensó en el corredor sin luz, media hora atrás. En cinco personas arrodil
 
 *Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`, capítulo citado explícitamente por ambas reglas — el más corto de Part 03 en la medición de Codex, ~0.7k palabras):* añadida la Celda de Infinito como espacio físico (paredes curvadas sin techo visible, ceniza en el suelo) y a Golgoroth mismo una descripción física real (tamaño, placas agrietadas, ojos múltiples sin simetría) — antes el monstruo central del capítulo no tenía ni una línea de descripción visual. La secuencia de rotaciones, antes resuelta en un salto directo de "Kyle aguantó... Rotación" a "Golgoroth cayó en la cuarta rotación", ganó las rotaciones 2 y 3 con beats corporales concretos (el rugido, el suelo temblando, Kevin esquivando por centímetros, el polvo en el aire) — aplicando directamente la regla 02. Ningún diálogo ni hecho de canon se modificó.
 
-**Actualización (2026-08-10, repasada de King's Fall):** el capítulo, que ya era el más corto de Part 03, casi se triplicó con el laberinto y el revive #1 — el ejemplo más completo de aplicar la regla 01 desde cero a un espacio que antes ni siquiera existía en prosa.*
+**Actualización (2026-08-10, repasada de King's Fall):** el capítulo, que ya era el más corto de Part 03, casi se triplicó con el laberinto y el revive #1 — el ejemplo más completo de aplicar la regla 01 desde cero a un espacio que antes ni siquiera existía en prosa.
+
+**Retrofit de call signs (2026-08-13).** "—Resner, cierra la fila —dijo Joe." se convirtió a "—Bastion, cierra la fila —dijo Joe." — orden táctica de formación, candidata clara según la convención fijada en el Cap. 26 (`What Six Ships Carried`). La segunda mención de su nombre, segundos después ("—¿Resner? —dijo Joe, ya girando sobre sus pasos"), **se dejó intacta**: es el instante exacto en que algo le pasa en la oscuridad — peligro real, la excepción que la regla misma protege.*

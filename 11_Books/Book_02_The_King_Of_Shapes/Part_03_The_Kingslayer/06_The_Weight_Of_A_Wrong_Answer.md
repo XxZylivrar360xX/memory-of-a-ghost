@@ -46,7 +46,7 @@ Los Ogros Tomados emergieron desde los bordes — cuatro, en los puntos cardinal
 
 Kyle las miró y sintió algo que no era miedo sino reconocimiento.
 
-—Resner —dijo.
+—Bastion —dijo.
 
 Resner ya estaba en movimiento.
 
@@ -222,7 +222,7 @@ Oryx estaba en el centro de la sala, el corazón expuesto, la arquitectura de su
 
 Kyle miró a Resner.
 
-—Res. El Símil del Sueño.
+—Bastion. El Símil del Sueño.
 
 Resner lo miró un segundo —ese segundo de reconocimiento de alguien que sabe exactamente para qué sirve lo que tiene— y lo arrojó.
 
@@ -294,7 +294,7 @@ No como respuesta. Como la primera pieza de algo que todavía no tenía nombre.
 
 La partida había comenzado.
 
-En algún lugar de la Torre, Carina se ponía de pie al escuchar por radio la voz de Joe: *Oryx ha caído.*
+En algún lugar de la Torre, Carina se ponía de pie al escuchar por radio la voz de Joe, ya reducida a un solo nombre de guerra en el canal abierto: *Marshal a la Torre. Oryx ha caído.*
 
 ---
 
@@ -304,5 +304,7 @@ En algún lugar de la Torre, Carina se ponía de pie al escuchar por radio la vo
 *Nota narrativa: Capítulo 33 del libro (Capítulo 6 de Part 03; antes Capítulo 32, previo a la inserción de "What Six Ships Carried" como nuevo Cap. 26 en Part 02, el 2026-08-13; antes de eso Capítulo 31 tras la expansión de King's Fall del 2026-08-10, y antes de eso Capítulo 30/Capítulo 5; renumerado de nuevo el mismo 2026-08-10 tras insertarse *The Ascending Regicide* como Cap. 25 de Part 02), "The Weight of a Wrong Answer", adapta completo `Guardian_Equipo_KingsFall_06_Oryx`, casi verbatim — fuente que ya fusiona el combate, el duelo contra el Eco y el epílogo de celebración/pregunta en un solo arco continuo, así que este capítulo absorbe también lo que el mapa original reservaba como "The Question He Left in the Room" (Cap. 32 provisional en el diseño original) sin necesitar un capítulo separado — la Sección VI cumple esa función íntegra dentro del mismo capítulo. Único añadido real (hasta la repasada de 2026-08-10, ver Calibración abajo): la última línea, que ancla la transición directa hacia `Carina_Lena_KingsFall_SeisMesesEnFragmentos` (Cap. 34) — Carina escuchando por radio el reporte de Joe es, literalmente, el instante que abre esa escena. Restricciones duras verificadas sin cambios: la muerte de Oryx sigue sin sonar a cierre filosófico limpio; el reclamo dormido de Kyle sigue completamente mudo — nunca siente, nombra ni usa herencia o trono; Oryx no es omnisciente en ningún momento.*
 
 *Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):* capítulo no citado en la auditoría — es el más sólido de Part 03 en ambas reglas por diseño. La escala de Oryx, los Ogros y sus esferas de energía, el domo del duelo, cada intercambio de espada: todo ya está anclado en cuerpo y espacio, sin un solo salto de "resumen funcional" en los seis encuentros que contiene. Cierra el pase de Part 03 sin cambios de prosa.
+
+**Retrofit de call signs (2026-08-13).** Dos conversiones tácticas: "—Resner —dijo" (activación del Aura de Inmortalidad contra los Ogros) y "—Res. El Símil del Sueño." (Kyle pidiendo el relic en pleno duelo contra Oryx) pasaron a "—Bastion —dijo" y "—Bastion. El Símil del Sueño." — la segunda ya era un apodo de cercanía ("Res"), no el nombre completo, pero sigue siendo comunicación de misión bajo fuego directo, así que se uniformó con el resto de la convención en vez de tratarla como excepción. "—¡Kevin!" (Sección del domo cerrado, Angie golpeando la pared que la separa de él) **se dejó intacto** — peligro real, la excepción que la regla protege. Se sumó además "Marshal" a la línea de cierre del capítulo: "la voz de Joe" pasó a "la voz de Joe, ya reducida a un solo nombre de guerra en el canal abierto: Marshal a la Torre. Oryx ha caído." — reporte formal de misión, el uso más natural posible del call sign, escuchado por Carina como el disparador directo del Cap. 35 (`Six Months in Fragments`).*
 
 **Actualización (2026-08-10, repasada de King's Fall):** la Sección III (antes dos frases: "el equipo sobrevivió el azote... tampoco estaba ninguno en el mismo lugar que antes") se expandió a la escena completa de Shade of Oryx — los seis domos individuales de energía poseída, cinco resueltos rápido y el de Kevin resistiéndose, hasta el tercer y último revive-en-oscuridad de la repasada: el resto de la escuadra, separados en sus propios domos ya disueltos, canaliza su Luz a través del domo todavía cerrado de Kevin, sin poder tocarlo, solo reconociendo su firma a distancia — la versión más extrema de la mecánica ya establecida en los Caps. 30 y 31, que aquí no se re-explica. La escena paga literalmente la tesis que este mismo libro ya había fijado sobre Kevin en el Cap. 30 ("Kevin dejaría más huella en el universo que Golgoroth"). **Restricción dura respetada: ningún cambio en Secciones I-II ni IV-VI** — el duelo contra el Eco, la muerte de Oryx y el epílogo/pregunta final, ya auditados por Codex el 2026-08-09 (ver `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`), quedan exactamente como estaban. La línea de apertura de la Sección IV ("El domo de energía poseída se cerró alrededor de Kyle antes de que pudiera reaccionar") sigue leyéndose sin fricción después del añadido — el domo de Kyle es, explícitamente, el único que seguía cerrado al cierre de la Sección III nueva.*
