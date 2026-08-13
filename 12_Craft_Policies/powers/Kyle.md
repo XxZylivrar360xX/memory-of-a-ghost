@@ -55,7 +55,7 @@ quizás un poco de Exploración inmediata en el resto del mismo libro o el sigui
 **silencio deliberado** hasta Forsaken/Chaos Reach — el Arco vuelve por dolor y urgencia, no por
 entrenamiento. No forzar Construcción/Dominio de Stormcaller antes de esa fecha.
 
-**Súper:** Stormtrance. Despertar crudo y primer cast completo, ambos en `08_The_Third_Element.md`
+**Súper:** Stormtrance. Despertar crudo y primer cast completo, ambos en `08_The_Storm_Learns_A_Name.md`
 (Cap. 15), Sección VIII — nombrada, descrita y pagada con toda su épica: un rayo lo evapora en
 el sitio, la tormenta se abre en un anillo expansivo, el mismo rayo lo devuelve entero con
 Stormtrance ya activo, y él mismo decide apagarlo. Ya no es solo la chispa — es la primera Súper

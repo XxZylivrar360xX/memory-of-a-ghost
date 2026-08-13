@@ -78,7 +78,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** al sacar a Kyle y Carina con vida de Eirene, Elsie fuerza una fuga real entre
   ella y otras versiones de sí misma de líneas que ya no existen — deliberadamente sin
   nombrar cuál se filtró.
-- **Se revela en:** pagado sin nombre en Cap. 18 (*The Flank She Could Not Hold*) — visible
+- **Se revela en:** pagado sin nombre en Cap. 18 (*The Flank Elsie Could Not Hold*) — visible
   para el lector como costo, pero sin detalle.
 - **Quién ya lo sabe (desde cuándo):** Elsie, desde el momento mismo del rescate — nadie más
   lo sabe.
@@ -109,15 +109,27 @@ misterios" — este archivo es el detalle completo de esa tabla.
 
 ## Filo Cero / el primer rescate de Carina
 
-- **Qué es:** el prototipo de Espada que Shaxx le entrega a Kyle en el Cap. 8 (`01_The_Last_Board.md`, Sección II) se rompe en un duelo contra Oryx en el Cap. 16 (`09_Eirene.md`, Secciones XI-XIV) — Kyle cae al borde de morir, y Carina lo salva formando su Vacío completo (sin nombrarlo en prosa) por primera vez.
+- **Qué es:** el prototipo de Espada que Shaxx le entrega a Kyle en el Cap. 8 (`01_The_Day_Before_The_King.md`, Sección II) se rompe en un duelo contra Oryx en el Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Secciones XI, XIII-XV) — Kyle cae al borde de morir, y Carina lo salva formando su Vacío completo (sin nombrarlo en prosa) por primera vez.
 - **Se revela en:** sembrado en Cap. 8; pagado en Cap. 16; consolidado como frase en Cap. 34 (`Six_Months_In_Fragments.md`, "hasta que te vuelva a salvar"); pagado por segunda vez en *Justo a Tiempo* (Aftermath, Movimiento VIII, `Carina_Guardian_TakenKing_JustoATiempo.md`), cuya Sección IX ya estaba titulada "sin saber que era la segunda vez" antes de que existiera una primera vez en prosa.
 - **Quién ya lo sabe:** Kyle y Carina, desde el momento mismo del rescate en Cap. 16.
 - **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban ignorar, es una revelación que se paga dentro del mismo libro y se completa en el Aftermath.
 - **Foreshadowing ya sembrado:** el arma sin nombre e "sin filosofía todavía" que Shaxx entrega en el Cap. 8; el despertar crudo del Vacío de Carina en el Cap. 15, ahora anclado en el arco de un cazador caído y el método de lectura que le enseñó Lena con *El asesinato de Roger Ackroyd* (ver `08_Core_Relationships/Carina_Lena.md`, símbolo "El libro").
 - **Líneas o gestos prohibidos:** ningún personaje debe llamar a la habilidad de Carina "Shadowshot" ni "Nightstalker" en diálogo — se describe siempre en términos sensoriales de arco (arco, cuerda, tensión, atar, cortar), **nunca "hilos"** (reservado para Threadrunner/Hebra, ver `02_Characters/Carina.md`) — igual que "Stormcaller" nunca se dice en voz alta y solo existe como "Chispitas".
-- **Regla dura reformulada (2026-08-12):** hasta esta fecha, el vault fijaba que el Vacío formado de Carina no llegaba hasta Season of the Seraph. Por decisión explícita del autor, esa regla queda sustituida — ver footer de `08_The_Third_Element.md` y `02_Characters/Carina.md`, sección Nightstalker.
-- **Reformulación del origen (2026-08-12):** el diseño original (Carina siente un "hilo" ambiental sin forma) se reemplazó por completo — ahora encuentra los restos de un cazador muerto en el Jardín Negro junto a un arco de Vacío, y lo lee como una escena de detective en vez de tocarlo. Detalle completo del cambio y su razón (colisión de vocabulario con Threadrunner, foreshadowing del libro de Lena) en el footer de `08_The_Third_Element.md`.
+- **Regla dura reformulada (2026-08-12):** hasta esta fecha, el vault fijaba que el Vacío formado de Carina no llegaba hasta Season of the Seraph. Por decisión explícita del autor, esa regla queda sustituida — ver footer de `08_The_Storm_Learns_A_Name.md` y `02_Characters/Carina.md`, sección Nightstalker.
+- **Reformulación del origen (2026-08-12):** el diseño original (Carina siente un "hilo" ambiental sin forma) se reemplazó por completo — ahora encuentra los restos de un cazador muerto en el Jardín Negro junto a un arco de Vacío, y lo lee como una escena de detective en vez de tocarlo. Detalle completo del cambio y su razón (colisión de vocabulario con Threadrunner, foreshadowing del libro de Lena) en el footer de `08_The_Storm_Learns_A_Name.md`.
 - **Estado:** **pagado dentro de Book 02** (Eirene); paga de nuevo, ya fuera de este libro, en el Aftermath de Taken King.
+
+---
+
+## El Sacerdote de Guerra — de la derrota total al primer golpe real
+
+- **Qué es:** el arco de tres encuentros de Carina contra el Sacerdote de Guerra. Cap. 11 (`04_What_The_Refuge_Could_Still_Give.md`, Sección XI, "The Priest at the Tree Line"): lo enfrenta en el Refugio del Muelle, el Arma Dorada lo atraviesa sin efecto ("presente solo a medias, anclado en otro lugar"), y él la derriba de un golpe sin mirarla dos veces — derrota total. Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XII, "Anchored for a Second"): en Eirene, una ola cegadora de un Capitán Poseído lo roza por accidente y lo saca un instante de "otro lugar" — el Arma Dorada conecta de verdad con la hombrera por primera vez, aunque él sigue de pie. Cap. 29 (`Part_03_The_Kingslayer/03_The_Ones_Who_Stayed.md`): en King's Fall, Tiago articula el mecanismo en voz alta ("su poder viene de Oryx, no de sí mismo... su verdad es una delegación"), la mecánica de Tótems/glifos del Santuario despoja esa protección, y Carina lo ancla con Shadowshot — el golpe que decide cómo cae.
+- **Se revela en:** sembrado en Cap. 11 (derrota) y Cap. 16 (primer golpe real, sin comprensión); pagado y explicado en Cap. 29.
+- **Quién ya lo sabe (desde cuándo):** Carina y Hornet, desde el Cap. 11, saben que es intocable por medios normales — pero no saben por qué hasta el Cap. 29, cuando Tiago lo explica en voz alta.
+- **Quién NO debe saberlo/insinuarlo todavía:** ningún personaje debe articular el mecanismo ("su verdad es una delegación", "no está del todo aquí" con explicación) antes del Cap. 29 — Carina solo puede *sentir* que algo lo sacó de "otro lugar" en el Cap. 16, sin nombrar el porqué.
+- **Foreshadowing ya sembrado:** Cap. 11 (encuentro inicial, derrota total); Cap. 16 (primer golpe real, sin explicación).
+- **Líneas o gestos prohibidos antes del Cap. 29:** nadie debe explicar por qué el Arma Dorada a veces no lo toca y a veces sí; Carina no debe formular la teoría completa en voz alta ni para sí misma, solo la sensación cruda.
+- **Estado:** parcial — dos de tres encuentros escritos (Caps. 11 y 16); el Cap. 29 ya está escrito y paga el arco completo, sin necesitar ajustes por esta adición.
 
 ---
 

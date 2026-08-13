@@ -372,7 +372,7 @@ Bajaron de Vigilancia Ciega juntos, la tormenta apagándose despacio a sus espal
 
 ---
 
-*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[10_Chapters/Age_I/Cap_01_A_New_Shape]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-02_Apodos_ChispitasPistolera]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/04_The_Asclepeion]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/07_The_Second_Seat]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
+*Conecta con: [[02_Characters/Guardian]], [[02_Characters/Ghost]], [[02_Characters/Carina]], [[02_Characters/Hornet]], [[10_Chapters/Age_I/Cap_01_A_New_Shape]], [[04_Concepts/Ascendant_Plane]], [[09_Roadmaps/Plan_TakenKing_Reimaginacion_TheKingOfShapes]], [[09_Roadmaps/Plan_TakenKing_Parte1]], [[07_Unsorted_Ideas/Semillas_2026-08-02_Apodos_ChispitasPistolera]], [[11_Books/Book_02_The_King_Of_Shapes/00_Prologue/04_The_Asclepeion]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/07_A_Door_For_Two]], [[11_Books/Book_02_The_King_Of_Shapes/00_Book_Map]], [[11_Books/Book_02_The_King_Of_Shapes/01_Source_Index]]*
 
 *Nota narrativa: Capítulo 15 de Part 01 (capítulo local 8), "The Storm Learns a Name" (título anterior: "The Third Element"), capítulo enteramente nuevo, insertado el 2026-08-02 entre "A Door for Two" y "The Moon That Could Not Stay". Prosa completamente original, sin escena fuente en `05_Dialogues/`.
 
