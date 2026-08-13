@@ -18,7 +18,7 @@ El techo bajó hasta obligarlos a andar con los hombros encogidos. El aire se vo
 
 —Sótano —dijo Joe, más para sí mismo que para el resto—. Todo lo que Oryx guarda tiene que estar en alguna parte.
 
-Marcó el primer cruce con el haz de su arma, un gesto simple que el resto adoptó sin que nadie lo pidiera: cada bifurcación, una marca. Cada corredor reconocido, confirmado en voz baja por radio antes de seguir.
+Marcó el primer cruce con el haz de su arma, un gesto simple que el resto adoptó sin que nadie lo pidiera: cada bifurcación, una marca. Cada corredor reconocido, confirmado en voz baja por radio antes de seguir — "Cipher, despejado", "Beacon, despejado", el mismo patrón repitiéndose cada vez que alguien doblaba una esquina.
 
 Algo golpeaba a intervalos, en algún punto detrás de las paredes. No tenía el ritmo de una máquina. Tenía el ritmo de algo respirando.
 
@@ -28,9 +28,11 @@ Algo golpeaba a intervalos, en algún punto detrás de las paredes. No tenía el
 
 —No. Pero es más honesto que inventar una respuesta.
 
-Joe dividió el avance en dos ramas cortas para ganar tiempo — Kyle, Kevin y Angie por la izquierda; él, Tiago y Resner por la derecha, con la orden de reconverger en el primer cruce marcado que cualquiera de los dos grupos encontrara.
+Joe dividió el avance en dos ramas cortas para ganar tiempo.
 
-—Bastion, cierra la fila —dijo Joe.
+—Resolve, Wildcard, Beacon: izquierda —dijo—. Cipher, Bastion, conmigo: derecha. Reconvergen en el primer cruce marcado.
+
+—Bastion, cierra la fila —agregó, ya moviéndose.
 
 Resner no respondió con palabras. Simplemente lo hizo, ocupando la retaguardia con el paso medido de siempre, el arma baja pero lista, mirando atrás cada pocos metros por costumbre más que por miedo.
 
@@ -157,4 +159,6 @@ Kyle pensó en el corredor sin luz, media hora atrás. En cinco personas arrodil
 
 **Actualización (2026-08-10, repasada de King's Fall):** el capítulo, que ya era el más corto de Part 03, casi se triplicó con el laberinto y el revive #1 — el ejemplo más completo de aplicar la regla 01 desde cero a un espacio que antes ni siquiera existía en prosa.
 
-**Retrofit de call signs (2026-08-13).** "—Resner, cierra la fila —dijo Joe." se convirtió a "—Bastion, cierra la fila —dijo Joe." — orden táctica de formación, candidata clara según la convención fijada en el Cap. 26 (`What Six Ships Carried`). La segunda mención de su nombre, segundos después ("—¿Resner? —dijo Joe, ya girando sobre sus pasos"), **se dejó intacta**: es el instante exacto en que algo le pasa en la oscuridad — peligro real, la excepción que la regla misma protege.*
+**Retrofit de call signs (2026-08-13).** "—Resner, cierra la fila —dijo Joe." se convirtió a "—Bastion, cierra la fila —dijo Joe." — orden táctica de formación, candidata clara según la convención fijada en el Cap. 26 (`What Six Ships Carried`). La segunda mención de su nombre, segundos después ("—¿Resner? —dijo Joe, ya girando sobre sus pasos"), **se dejó intacta**: es el instante exacto en que algo le pasa en la oscuridad — peligro real, la excepción que la regla misma protege.
+
+**Segunda pasada (2026-08-13), a petición del autor — el diálogo táctico sin nombre también cuenta.** La primera pasada solo había buscado nombres de pila ya existentes en diálogo; el autor señaló, con razón, que eso deja afuera la mayor parte de la coordinación real de un raid (confirmaciones, callouts sin destinatario nombrado). Verificado con un segundo levantamiento: la Sección I ya afirmaba en narración que había "confirmado en voz baja por radio antes de seguir" sin mostrarlo — se sumó el ejemplo en diálogo ("Cipher, despejado", "Beacon, despejado"). La orden de Joe dividiendo al equipo en dos ramas (izquierda/derecha) tampoco tenía diálogo citado — se agregó como la orden real: "Resolve, Wildcard, Beacon: izquierda. Cipher, Bastion, conmigo: derecha." Es el candidato más natural de todo Part 03 — literalmente una orden partiendo al equipo en dos canales. Descartado a propósito: forzar call sign en callouts de combate sin destinatario específico (ej. "Diez segundos", "Rotación") — ya funcionan como broadcast implícito, pegarles un nombre sonaría a decoración.*
