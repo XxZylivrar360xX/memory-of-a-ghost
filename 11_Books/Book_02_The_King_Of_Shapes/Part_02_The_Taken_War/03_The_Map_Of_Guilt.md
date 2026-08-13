@@ -3,7 +3,7 @@
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 02: The Taken War*
 
 **Protagonistas:** Kyle, Elsie, Ghost, Carina (frente civil paralelo)
-**Ventana temporal:** The Taken King — Guerra de los Poseídos, después de varios frentes ganados a medias
+**Ventana temporal:** The Taken King — Guerra de los Poseídos, mes y medio después del regicidio físico en el Mundo Cadáver — pleno invierno
 **Lugar:** I. Un asentamiento sin nombre. II-VI. La cabaña.
 
 ---
@@ -24,7 +24,7 @@ A varios sistemas de distancia, sin saberlo, Kyle estaba a punto de hacer la mis
 
 ## II. Routes of Response, Not Routes of Attack
 
-La cabaña recibió a Kyle con el mismo olor de siempre — madera, ceniza fría del fuego de la noche anterior, algo cocinándose despacio que nadie había venido a revisar — pero la mesa central, la que normalmente cargaba herramientas o platos a medio lavar, estaba cubierta de proyecciones que Elsie no apagó al oírlo entrar.
+Afuera, el claro llevaba semanas cubierto de una escarcha que ya no terminaba de derretirse ni a mediodía, y el caballo —todavía sin nombre, pero ya lo bastante confiado como para acercarse solo— resopló una nube de vapor cuando Kyle pasó junto al corral. La cabaña lo recibió con el mismo olor de siempre — madera, ceniza fría del fuego de la noche anterior, algo cocinándose despacio que nadie había venido a revisar — pero la mesa central, la que normalmente cargaba herramientas o platos a medio lavar, estaba cubierta de proyecciones que Elsie no apagó al oírlo entrar.
 
 —Pensé que ibas a mostrarme dónde atacó —dijo, quitándose el peso de la armadura de los hombros con el cansancio específico de una semana que no había tenido un solo día de verdad tranquilo, dejándola caer sobre la silla más cercana en vez de colgarla donde correspondía.
 
@@ -129,3 +129,5 @@ Y que esa certeza, por primera vez, no lo iba a dejar elegir tranquilo nunca má
 **Calibración de voz — auditoría Part 02 (Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** normalizado a `tú` el voseo suelto de Kyle, Elsie y Ghost en las Secciones II, III y V (venía de la fuente casi verbatim, no de una decisión de voz — el resto del vault los trata como hablantes de `tú`). Sección IV, cierre de Elsie: "La palabra que no quiero usar es amor. Pero es esa." se reescribió a "Es el punto donde siempre respondes primero" — todavía muy frontal para su etapa de confianza incipiente en Taken King, aun después del ajuste anterior de la misma línea. Sección VI: el pasaje de Ghost que resumía el dilema completo en una sola intervención simétrica se fragmentó en un intercambio con Kyle, con una autocorrección de Ghost a media frase ("Entonces ganas la posición. —No. No siempre...") antes de llegar a "No hay opción limpia" — conserva esa línea y la lealtad final intactas, pero ya no llega por fórmula perfecta.
 
 **Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):** anclada la cabaña con textura propia al llegar Kyle (olor a madera y ceniza fría, algo cocinándose sin revisar) y su transición a la noche (el fuego reavivado, la luz de la proyección apagándose sola); Ghost gana una entrada física propia en la Sección III (quieto junto a la ventana, iluminándose apenas al hablar) en vez de aparecer solo por diálogo; frases puente entre las 6 secciones reemplazando el corte seco. Ningún diálogo ni hecho de canon se modificó — la escena ya venía calibrada en voz por las auditorías anteriores.
+
+**Re-cronología de Part 02 (2026-08-13), `09_Roadmaps/Plan_TakenKing_LineaDeTiempo.md`.** Este capítulo pasa de "después de varios frentes ganados a medias" (sin ancla firme) a **mes y medio dentro de la Guerra de los Poseídos** — la Parte completa se estira de ~4 a ~11-12 semanas para que una guerra multi-frente contra Oryx no se resuelva en semanas. Verificado antes de tocar nada: las menciones internas de "semana"/"días" en este capítulo (Sección I, II, III) describen el ritmo reciente de Carina y de los ataques, no el tiempo transcurrido desde el inicio de la guerra — compatibles sin editar ninguna línea de diálogo. Se agregó una sola línea de textura al abrir la Sección II (escarcha que no derrite ni a mediodía, el caballo del Cap. 8 ya más confiado) para que "mes y medio" se sienta, no solo se lea en el header — sin tocar diálogo ni hechos de canon.

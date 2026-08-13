@@ -324,11 +324,29 @@ Carina lo midió un segundo más de lo que la urgencia del dron debería haberle
 
 —Esto no es lo mismo.
 
-—Es exactamente lo mismo. —Se quedó mirando el dron, la forma en que se recomponía cada vez—. Hace media hora leíste una muerte entera solo mirando dónde había caído un cuerpo. No estabas forzando nada entonces. Estabas entendiendo. Haz eso. No puedes consumir algo sin entenderlo primero. Eso es lo que el Vacío te está pidiendo. No la fuerza. La comprensión.
+—No dije que lo fuera. —Kyle no apartó la vista del dron, la carcasa recomponiéndose otra vez, un poco más lenta ahora, en la quietud que habían ganado con solo dejar de dispararle—. Digo que hace media hora te vi hacer esto mismo con un cuerpo. No mirabas todo lo que había ahí. Mirabas hacia dónde apuntaba lo poco que quedaba.
 
 Carina no respondió de inmediato, la vista fija en el dron.
 
-—Detente —dijo Kyle, más despacio—. Antes de disparar otra vez. Mira qué lo sostiene, no solo dónde le duele.
+Algo en cómo lo había dicho —despacio, sin la certeza fácil con la que él solía dar una orden— hizo que ella lo mirara a él un segundo, no al dron.
+
+—Eso no suena a ti.
+
+—¿Qué parte?
+
+—Toda. —No bajó del todo la guardia—. Normalmente me dices qué hacer. Eso sonó más a esperar a ver qué es verdad antes de decidir nada.
+
+Kyle no tuvo una respuesta lista, lo cual, viniendo de él, ya era casi una respuesta.
+
+—Alguien hace eso todo el tiempo —dijo, al fin—. No sé si se me pegó o si se lo robé sin darme cuenta.
+
+—¿Quién?
+
+—Elsie.
+
+El nombre no le dijo nada a Carina — nadie con ese nombre había estado en ninguna sala en la que ella hubiera estado presente. Pero algo en cómo Kyle lo dijo, corto y sin ofrecer más, le dijo que no era el momento de preguntar el resto. Archivó la curiosidad para después, con la misma disciplina que aplicaba a cualquier pista que todavía no fuera urgente.
+
+—Detente —dijo Kyle, más despacio—. No dispares todavía. Mira qué lo sostiene, no solo dónde le duele.
 
 Ella se detuvo. Miró.
 
@@ -396,4 +414,6 @@ Bajaron de Vigilancia Ciega juntos, la tormenta apagándose despacio a sus espal
 
 **Actualizaciones fuera de este archivo, misma sesión:** `02_Characters/Carina.md` (sección Nightstalker) y `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md` (entrada "Filo Cero / el primer rescate de Carina") actualizadas para reflejar el nuevo origen y el vocabulario sensorial correcto (arco, cuerda, tensión, atar, cortar — nunca "hilos", reservado para Threadrunner).
 
-**Escalada del tercer intento — clímax de Stormtrance (2026-08-12), a petición explícita del autor, Sección VIII.** El logro dejó de ser un beat contenido (energía recorriéndolo, un rayo cayendo cerca, luces parpadeando) y se convirtió en la primera Súper completa y pagada con toda su épica, siguiendo la regla de vocabulario fijada en `12_Craft_Policies/powers/README.md` ("la Súper se nombra, describe y paga, nunca se esconde"): un rayo cae directo sobre Kyle y lo evapora en el sitio; la tormenta entera se detiene y se abre desde el centro en un anillo de cielo despejado que crece como onda expansiva; el mismo rayo vuelve a caer en el punto exacto donde desapareció, devolviéndolo entero, envuelto en Arco vivo y con Stormtrance ya activo — esta vez sin dañarlo, sin dejarlo temblando; él mismo decide apagarlo, cerrando la mano, en vez de que se le acabe. El sol termina de salir sobre Marte, completo. Cierra con banter nuevo pedido por el autor verbatim: "Ok. Ahora estás presumiendo." / "Pude evitarlo. Pero dijiste que lo dejara fluir." La línea de Ghost en la Sección IX se ajustó de "un tercero sin ningún control real" a "un tercero donde literalmente desapareciste", y la apertura de esa misma sección cambia de "la tormenta todavía descargándose, más contenida" a un cielo ya despejado, para no contradecir que la tormenta terminó por completo, no solo se calmó. **Actualizado también:** `12_Craft_Policies/powers/Kyle.md`, entrada de Stormtrance — este ya no es el "despertar crudo" sin más, es el primer cast completo de la Súper, con pago narrativo real (el sol volviendo, la broma de Carina).*
+**Escalada del tercer intento — clímax de Stormtrance (2026-08-12), a petición explícita del autor, Sección VIII.** El logro dejó de ser un beat contenido (energía recorriéndolo, un rayo cayendo cerca, luces parpadeando) y se convirtió en la primera Súper completa y pagada con toda su épica, siguiendo la regla de vocabulario fijada en `12_Craft_Policies/powers/README.md` ("la Súper se nombra, describe y paga, nunca se esconde"): un rayo cae directo sobre Kyle y lo evapora en el sitio; la tormenta entera se detiene y se abre desde el centro en un anillo de cielo despejado que crece como onda expansiva; el mismo rayo vuelve a caer en el punto exacto donde desapareció, devolviéndolo entero, envuelto en Arco vivo y con Stormtrance ya activo — esta vez sin dañarlo, sin dejarlo temblando; él mismo decide apagarlo, cerrando la mano, en vez de que se le acabe. El sol termina de salir sobre Marte, completo. Cierra con banter nuevo pedido por el autor verbatim: "Ok. Ahora estás presumiendo." / "Pude evitarlo. Pero dijiste que lo dejara fluir." La línea de Ghost en la Sección IX se ajustó de "un tercero sin ningún control real" a "un tercero donde literalmente desapareciste", y la apertura de esa misma sección cambia de "la tormenta todavía descargándose, más contenida" a un cielo ya despejado, para no contradecir que la tormenta terminó por completo, no solo se calmó. **Actualizado también:** `12_Craft_Policies/powers/Kyle.md`, entrada de Stormtrance — este ya no es el "despertar crudo" sin más, es el primer cast completo de la Súper, con pago narrativo real (el sol volviendo, la broma de Carina).
+
+**Reescritura del tramo instructivo del dron (2026-08-13), a petición del autor.** La Sección XI original hacía que Kyle cerrara con una tesis explícita sobre el mecanismo del Vacío ("No puedes consumir algo sin entenderlo primero. Eso es lo que el Vacío te está pidiendo. No la fuerza. La comprensión.") — sonaba analítico al punto de infantil, como si Kyle ya dominara conceptualmente un poder que nunca ha sentido de primera mano. Reemplazado por un método de lectura tomado de Elsie (observar el patrón sin generalizarlo de más, proponer una lectura tentativa en vez de una regla cerrada — ver `12_Craft_Policies/voice/elsie-bray.md`) pero traducido al vocabulario concreto y de campo que sí es de Kyle (ver `12_Craft_Policies/voice/guardian-kyle.md`: "cuando explique un poder, debe sonar a experiencia probada en campo, no a doctrina cerrada"). Se agregó un beat nuevo: Carina nota el cambio de registro ("Eso no suena a ti") y Kyle nombra a Elsie sin explicarla — primera vez que Carina oye ese nombre, antes de conocerla en persona en el Cap. 18 (`11_The_Flank_Elsie_Could_Not_Hold.md`, ya marcado ahí como su primer encuentro). Verificado antes de escribir: Carina y Kyle no se conocen siquiera hasta el Cap. 13 (nota del Cap. 12, `05_The_Key_That_Wasnt.md`), así que no hay ninguna escena previa donde Carina pudiera haber oído el nombre de Elsie — esta queda como la primera mención real, sembrando la curiosidad que paga en el Cap. 18.*

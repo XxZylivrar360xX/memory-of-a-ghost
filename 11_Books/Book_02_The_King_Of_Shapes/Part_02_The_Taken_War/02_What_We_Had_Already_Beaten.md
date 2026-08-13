@@ -30,6 +30,8 @@ Nadie respondió enseguida.
 
 Nadie encendió la proyección esa reunión. No hacía falta. Los seis salieron de la sala en silencio, cada uno hacia un extremo distinto del sistema, cargando la misma palabra nueva.
 
+En el pasillo principal, alguien ya había empezado a colgar las primeras guirnaldas de la Aurora — temprano, o tarde, nadie se detuvo a decidir cuál de las dos. Ninguno de los seis las miró al salir.
+
 ---
 
 ## II. The Guardian and Joe, in the Hellmouth Again
@@ -153,3 +155,5 @@ En algún otro punto del sistema, muy lejos de ahí, en un mundo que ninguno de 
 **Calibración de voz (auditoría de Codex, 2026-08-09, `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-dialogos-book02-part02.md`):** en la Sección IV, la línea de Tiago sobre el Custodio Ciego nombraba mal al enemigo ("un Guardián de Hierro convertido en herramienta"), contradiciendo la propia línea anterior del mismo párrafo ("esto no es Zydron") y el frente fijado en los roadmaps (Zydron/Custodio Ciego es un eco Vex, no un Iron Lord) — corregido a "un custodio Vex convertido en herramienta". El cierre de la misma línea ("Alguien tiene que conservar la diferencia. Si no lo hago yo, no lo hace nadie") sonaba a lema cerrado en medio de una evacuación urgente — reescrito a algo más literal de Tiago, grabando el registro en vivo en vez de declarando su función en voz alta. Referencia desactualizada corregida también en esta nota: decía que el Cap. 21 estaba "todavía sin escribir"; ya existe.
 
 **Calibración de escenografía (2026-08-09, `12_Craft_Policies/staging_rules/`):** las cinco escenas de combate/campo (Secciones I-V) ganaron anclaje físico propio al abrir — la sala de briefing de la Torre con Eris de pie sin proyección encendida, la cámara del Hellmouth con su musgo y su eco de pasos, el calor y la arena de las Arenas Rojas, los túneles recién derrumbados bajo el Cráter, las murallas cicatrizadas del Arrecife — y frases puente entre secciones que reemplazan el corte seco. El combate contra el eco de Crota (Sección II), antes resuelto en una sola frase de resumen, ganó una microsecuencia de 2-3 beats (Joe cubriendo el ángulo, el Guardian respondiendo de memoria, la distancia acortándose) antes de la resolución — aplicando directamente la regla 02 (encuentro grande resuelto por resumen funcional). Ningún diálogo ni hecho de canon se modificó.
+
+**Ancla de textura — Aurora (2026-08-13), `09_Roadmaps/Plan_TakenKing_LineaDeTiempo.md`.** Se agregó una línea de cierre a la Sección I: alguien ya cuelga las primeras guirnaldas de la Aurora en el pasillo principal mientras los seis salen de la reunión con Eris — ninguno las mira. Consistente con `Sai_Familia_Seraph_LaPrimeraAurora` (Season of the Seraph, años después, la "primera Aurora familiar" real de Kyle/Elsie/Sai) — aquí la fiesta es puro ruido de fondo que la guerra atraviesa sin que nadie tenga espacio para notarla, sin robarle nada a esa primera vez futura. Sin tocar diálogo ni hechos de canon.

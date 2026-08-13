@@ -3,8 +3,8 @@
 *Destiny: Renewed Fate — Book 02: The King of Shapes, Part 02: The Taken War*
 
 **Protagonistas:** Kyle, Kevin, Angie, Resner, Tiago, Joe, Carina, Eris, Osiris (Echo)
-**Ventana temporal:** The Taken King — las últimas horas de la Guerra de los Poseídos, en paralelo exacto con el cierre de *Always Eager to Die* (Cap. 26); termina en el instante anterior a *The Ship That Believed It Was a God* (Cap. 27).
-**Lugar:** I. Marte, las Arenas Rojas. II. La Luna, el Cráter. III-V. Una nave sin registro en los canales de la Vanguardia, oculta en la sombra de Saturno. VI. El muelle de transporte.
+**Ventana temporal:** The Taken King — las últimas horas de la Guerra de los Poseídos. Termina en el instante anterior al despegue de las seis naves hacia el Acorazado (Cap. 26, "What Six Ships Carried").
+**Lugar:** I. Marte, las Arenas Rojas. II. La Luna, el Cráter. III-V. El taller de Eris, en los bordes de la Torre. VI. El hangar principal de la Torre.
 
 ---
 
@@ -42,7 +42,7 @@ Resner ya estaba guardando el escudo.
 
 —¿Cuánto tiempo tenemos? —preguntó.
 
-—El que tarde el transporte en llegar a la Luna —dijo Kyle—. Faltan dos.
+—El que tarden ustedes en alcanzarnos en la Torre —dijo Kyle—. Voy por Tiago y Angie. Faltan dos.
 
 ## II. What Tiago Had Already Calculated
 
@@ -72,15 +72,15 @@ Kyle no lo negó. Tampoco lo confirmó en voz alta todavía; dejó que el silenc
 
 Angie miró a Tiago. Tiago miró a Angie. No fue una consulta — fue el tipo de comunicación que ya no necesitaba palabras después de semanas resolviendo el mismo frente en pareja.
 
-—Entonces vámonos —dijo Angie, y ya estaba caminando hacia la rampa antes de terminar la frase.
+—Entonces vámonos —dijo Angie, y ya estaba caminando hacia su propia nave antes de terminar la frase—. Nos vemos en la Torre.
 
 ## III. Six, Again
 
-No hubo discurso cuando los seis quedaron por fin en la misma cabina de transporte, camino a la nave sin registro que Eris había insistido en usar en vez de cualquier canal de la Vanguardia.
+No hubo discurso cuando los seis se encontraron, por fin, en el mismo corredor de la Torre — cada nave propia ya asegurada en su muelle, cada uno llegando por su cuenta al mismo punto exacto, sin haber tenido que coordinarlo.
 
 Hubo, en cambio, geometría.
 
-Kevin se dejó caer junto a Angie sin preguntar, el hombro contra el hombro, la clase de cercanía que ninguno de los dos necesitaba anunciar. Resner ocupó el asiento más próximo a la escotilla, el cuerpo orientado hacia la salida por costumbre, no por desconfianza. Tiago sacó el dataslate otra vez, pero esta vez no calculó nada — solo lo sostuvo, un ancla física más que una herramienta. Joe se quedó de pie el tiempo justo para revisar que los otros cinco estuvieran donde debían estar, y solo entonces se sentó.
+Kevin se dejó caer contra la pared junto a Angie sin preguntar, el hombro contra el hombro, la clase de cercanía que ninguno de los dos necesitaba anunciar. Resner se quedó cerca de la puerta, el cuerpo orientado hacia la salida por costumbre, no por desconfianza. Tiago sacó el dataslate otra vez, pero esta vez no calculó nada — solo lo sostuvo, un ancla física más que una herramienta. Joe llegó al final, el tiempo justo para revisar que los otros cinco estuvieran donde debían estar, y solo entonces dejó que la puerta se abriera.
 
 Kyle los miró a los cinco, uno por uno, sin decir nada todavía.
 
@@ -94,7 +94,7 @@ Nadie discutió eso. Todos, incluso Kevin, sabían exactamente lo que significab
 
 ## IV. The Council Mara Could Not Give
 
-Eris los esperaba de pie en el centro de la bodega de carga, el espacio despojado de todo lo que no fuera funcional — mapas proyectados, restos de instrumentación Hive requisada, y un asiento vacío al frente que nadie había ocupado todavía y que, a juzgar por el gesto rápido que Eris le dedicó antes de empezar a hablar, no estaba vacío por accidente.
+Eris los esperaba de pie en el centro de su propio taller, en los bordes de la Torre, la puerta ya sellada detrás de los seis — el espacio despojado de todo lo que no fuera funcional — mapas proyectados, restos de instrumentación Hive requisada, y un asiento vacío al frente que nadie había ocupado todavía y que, a juzgar por el gesto rápido que Eris le dedicó antes de empezar a hablar, no estaba vacío por accidente.
 
 —Seis —dijo, contándolos con la mirada—. Bien. Eso es lo que hace falta.
 
@@ -180,29 +180,31 @@ Kyle no prometió nada. Le apretó la mano de vuelta, lo cual, entre los dos, ya
 
 ## VI. The Threshold Before the Threshold
 
-El transporte de descenso los esperaba en el muelle, seis asientos dispuestos en dos filas frente a frente, el Acorazado ya visible más allá del cristal de proa como una mancha oscura que crecía sin prisa contra las estrellas.
+Sus propias naves los esperaban alineadas en el hangar principal de la Torre, seis siluetas distintas —ninguna igual a otra, cada una marcada por semanas de vuelo separado— el Acorazado todavía invisible desde ahí, apenas un conjunto de coordenadas que cada nave ya llevaba cargadas.
 
-Joe fue el último en subir, como siempre. Se detuvo un momento en la rampa, mirando hacia atrás — no a Carina, no a Eris, no al punto vacío del aire donde el Echo de Osiris se había disuelto sin despedida, la construcción devuelta a lo que fuera que la sostenía en otra parte. A los cinco que tenía delante.
+Joe fue el último en moverse hacia la suya, como siempre. Se detuvo un momento antes de subir, mirando hacia atrás — no a Carina, no a Eris, no al punto vacío del aire donde el Echo de Osiris se había disuelto sin despedida, la construcción devuelta a lo que fuera que la sostenía en otra parte. A los cinco que tenía delante, cada uno ya a un paso de su propia escotilla.
 
 —¿Todos listos? —preguntó, aunque la pregunta ya sabía su respuesta.
 
 Nadie dijo que sí en voz alta. No hacía falta.
 
-Kyle fue el último en hablar antes de que la escotilla empezara a sellarse, la voz baja, sin ceremonia, la clase de frase que no necesitaba ser más larga de lo que era.
+Kyle fue el último en hablar antes de que las seis escotillas empezaran a sellarse, cada una por su cuenta, la voz baja, sin ceremonia, la clase de frase que no necesitaba ser más larga de lo que era.
 
 —Bien —dijo—. Es hora... de la caída del rey.
 
-La escotilla se cerró.
+Seis escotillas se cerraron, casi al mismo tiempo.
 
 ---
 
 *Pilares activos: [[04_Concepts/Sword_Logic|Lógica de la Espada]], [[04_Concepts/Hope|Esperanza]], [[04_Concepts/Identity|Identidad]]*
-*Conecta con: [[08_Core_Relationships/Primera_Escuadra]], [[02_Characters/Eris_Morn]], [[02_Characters/Osiris]], [[02_Characters/Mara_Sov]], [[04_Concepts/Fragmentos_Calcificados_Libros_Del_Dolor]], [[05_Dialogues/Dialogue_Eris/Eris_Osiris_TakenKing_ElPadreDebajoDelRey]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_GuerraDeLosPoseidos_LoQueYaVencimosRegresa]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/06_The_Wounded_Wish]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/08_Always_Eager_To_Die]], [[11_Books/Book_02_The_King_Of_Shapes/Part_03_The_Kingslayer/01_The_Ship_That_Believed_It_Was_A_God]]*
+*Conecta con: [[08_Core_Relationships/Primera_Escuadra]], [[02_Characters/Eris_Morn]], [[02_Characters/Osiris]], [[02_Characters/Mara_Sov]], [[04_Concepts/Fragmentos_Calcificados_Libros_Del_Dolor]], [[05_Dialogues/Dialogue_Eris/Eris_Osiris_TakenKing_ElPadreDebajoDelRey]], [[05_Dialogues/Dialogue_Guardian/Guardian_Equipo_GuerraDeLosPoseidos_LoQueYaVencimosRegresa]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/06_The_Wounded_Wish]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/08_What_Six_Ships_Carried]], [[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/09_Always_Eager_To_Die]]*
 
 *Nota narrativa (integrado 2026-08-10): Capítulo 25 del libro (Capítulo 7 de Part 02), "The Ascending Regicide" — capítulo nuevo, no existía en el mapa original de Part 02 (19-25, 7 capítulos). Escrito primero como borrador de `05_Dialogues/` (`Guardian_Equipo_KingsFall_00_AntesDeEntrar`, 2026-08-09) para cerrar el hueco que `09_Roadmaps/Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` había dejado abierto a propósito en su sección "Frontera con Parte 3, Sesión F"; integrado al libro a petición del autor el 2026-08-10, ya con Part 03 estable tras su propia repasada de King's Fall. Cubre tres cosas que el vault todavía no tenía dramatizadas: (1) la búsqueda física de la Primera Escuadra, cada quien ocupado en su frente como teniente de facto de una guerra distribuida (usa la geografía ya fijada en el Frente 2 de `Plan_TakenKing_Parte2_GuerraDeLosPoseidos.md` — Marte/Ta'aurc con Kevin+Resner, Luna/Zydron con Tiago+Angie, Joe ya con Kyle); (2) el consejo de guerra con Eris y Osiris como arquitectos, retomando explícitamente la tríada Descubrimiento/Engaño/Guerra formulada en `Eris_Osiris_TakenKing_ElPadreDebajoDelRey` (Cluster 1 de Part 01) y dándole su tercer corte; (3) la línea de cierre de Kyle pedida verbatim por el autor. **A pedido explícito del autor, la frase "regicidio ascendente" no aparece en ningún punto de la prosa** — el concepto se muestra (una corte que juzga, una muerte que solo cuenta si ocurre dentro del propio Mundo Trono de Oryx) sin nombrarlo con ese término; el título del capítulo es la única instancia autorizada de la frase.
 
 **Mecanismo de presencia de Osiris:** no aparece en persona ni como transmisión en tiempo real — aparece como **un Echo**, una construcción/fragmento de su propia consciencia, técnica que en canon real de Destiny se asocia al Bosque Infinito y al material de Curse of Osiris (concepto tomado de canon, primera vez que "Echo" aparece como mecanismo concreto en escena en este vault, más allá de figurar como antecedente biográfico en `12_Craft_Policies/voice/osiris.md`, sección "Anclas canon obligatorias"). Es explícitamente menos que una presencia real — preserva intacto el hito futuro "Osiris y el espacio entre el mito y el hombre" (`12_Craft_Policies/milestones/INDEX.md`, era Curse of Osiris) como su primer encuentro real y en persona con Kyle. Diálogo calibrado contra `12_Craft_Policies/voice/osiris.md`: cadencia observación→hipótesis→corrección→instrucción, vocabulario de modelo/horizonte/dirección, brevedad de Commander bajo presión.
 
-La ausencia de Mara se trata exactamente como fija el Frente 5 del roadmap de Parte 2: Eris y el Echo de Osiris tienen indicios fragmentarios de que sigue viva, pero ni ayudan con eso ni se lo dicen a Kyle — el beat queda en un silencio compartido entre los dos, notado por Ghost, nunca explicado en la escena. No se nombra "Lubrae"; no se confirma a Mara como la luz verde del Prólogo; no se dramatiza ningún Fragmento Calcificado nuevo (se referencian como ya leídos, sin inventar contenido que pudiera chocar con `04_Concepts/Fragmentos_Calcificados_Libros_Del_Dolor.md`); "Chispitas" se usa una sola vez, ya sembrado y disponible desde los Caps. 14-15 según el ledger de revelaciones. Cero combate directo con Oryx, cero presencia física suya, respetando la regla de "Frontera con Parte 3" del roadmap de Parte 2. Termina en el instante anterior a `The Ship That Believed It Was a God` (Cap. 27), en paralelo exacto con el cierre de `Always Eager to Die` (Cap. 26) — los seis abordando mientras, a la vez, Oryx se queda solo tras la última conversación con Savathûn.*
+La ausencia de Mara se trata exactamente como fija el Frente 5 del roadmap de Parte 2: Eris y el Echo de Osiris tienen indicios fragmentarios de que sigue viva, pero ni ayudan con eso ni se lo dicen a Kyle — el beat queda en un silencio compartido entre los dos, notado por Ghost, nunca explicado en la escena. No se nombra "Lubrae"; no se confirma a Mara como la luz verde del Prólogo; no se dramatiza ningún Fragmento Calcificado nuevo (se referencian como ya leídos, sin inventar contenido que pudiera chocar con `04_Concepts/Fragmentos_Calcificados_Libros_Del_Dolor.md`); "Chispitas" se usa una sola vez, ya sembrado y disponible desde los Caps. 14-15 según el ledger de revelaciones. Cero combate directo con Oryx, cero presencia física suya, respetando la regla de "Frontera con Parte 3" del roadmap de Parte 2.*
 
-*Calibración de escenografía: aplica `staging_rules/01` (cada lugar se ancla en cuerpo antes de la tesis — las Arenas Rojas humeantes, el silencio diseñado del Cráter, la geometría de la cabina, la bodega despojada) antes de cualquier explicación operativa. Sin encuentros de peligro que requieran la regla 02 — es un capítulo de reunión y planeación, no de combate.*
+*Calibración de escenografía: aplica `staging_rules/01` (cada lugar se ancla en cuerpo antes de la tesis — las Arenas Rojas humeantes, el silencio diseñado del Cráter, la geometría del corredor, el taller despojado) antes de cualquier explicación operativa. Sin encuentros de peligro que requieran la regla 02 — es un capítulo de reunión y planeación, no de combate.*
+
+**Re-escenografía (2026-08-13), a petición explícita del autor.** El consejo de guerra se mueve de "una nave sin registro, oculta en la sombra de Saturno" al **taller de Eris, en los bordes de la Torre** (ya establecido como su espacio en el Cap. 22, "A Sword Is Not an Answer") — razón dada por el autor: solo estos seis van al Acorazado, nadie más, así que no hace falta una posición avanzada secreta para planear. Se elimina también el transporte compartido de las Secciones III y VI ("seis asientos... dos filas frente a frente") — regla dura nueva, fijada por el autor: **ningún Guardián de la Primera Escuadra comparte nave. Cada uno vuela la suya, siempre**, incluido este capítulo. La Sección III pasa de "geometría de cabina" a "geometría de corredor" (mismo principio — la unidad se lee por posición física, no por discurso — trasladado a pie). La Sección VI pasa de un solo transporte a seis naves individuales alineadas en el hangar de la Torre, con la línea final de Kyle ("Es hora... de la caída del rey", pedida verbatim por el autor en la integración original) intacta, ahora cerrando sobre seis escotillas en vez de una. Ningún diálogo del consejo de guerra (Sección IV) se modificó — el taller de Eris explica igual de bien los mapas, los restos de instrumentación Hive requisada y el asiento vacío de Mara que la bodega de carga que reemplaza. El capítulo ya no termina en el instante anterior a un capítulo de Part 03 — ahora enlaza directo con el capítulo nuevo insertado a continuación, **Cap. 26, "What Six Ships Carried"** (el vuelo de las seis naves hacia el Acorazado, con la escena Kyle/Ghost y el pase de lista de la escuadra), que a su vez termina en paralelo con el cierre de *Always Eager to Die* (ahora Cap. 27, cascada de +1 desde aquí hasta el cierre del libro).*
