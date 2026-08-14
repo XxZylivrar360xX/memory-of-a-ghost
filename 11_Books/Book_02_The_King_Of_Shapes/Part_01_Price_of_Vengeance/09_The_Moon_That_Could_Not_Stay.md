@@ -338,6 +338,10 @@ Ninguna de las dos llegó a tocarlo.
 
 Una de las alas se abrió apenas — un gesto mínimo, casi displicente — y las apartó a las dos de su camino con el mismo cuidado indiferente con el que alguien corre una cortina que le estorba. Elsie golpeó el suelo rodando. Carina resbaló contra los restos de un transmat cercano, el aire saliéndole de los pulmones de golpe, ninguna herida real detrás del dolor.
 
+Los ojos de Oryx no se movieron ni una vez durante todo eso.
+
+Se quedaron exactamente donde habían estado desde el primer paso — fijos en Kyle, sin parpadear, sin desviarse ni un grado para mirar a las dos mujeres que acababa de apartar como quien aparta ramas del camino. Kyle ya había visto esa clase de mirada antes, en otros enemigos, en otras guerras. Nunca así de sostenida. Nunca sin una sola fisura.
+
 Ghost llegó junto a Elsie antes de que terminara de rodar. Hornet ya estaba sobre Carina, la carcasa interponiéndose entre ella y cualquier cosa que viniera después.
 
 Nadie llegó a Kyle a tiempo.
@@ -426,9 +430,15 @@ El espacio que los recibió no pertenecía a Eirene — piedra que no era piedra
 
 Oryx lo soltó.
 
-—El que mató a Crota —dijo, la voz llenando el espacio entero sin necesitar volumen—. Cazándolo a través de sombras prestadas mientras yo medía lo que era. Hallazgo interesante, encontrarlo aquí, sobre la tumba de mi guardiana fallida.
+Y siguió sin apartar la mirada.
 
-—No es tu tumba —dijo Kyle, el Predestinador todavía en la funda, sin sentir, por primera vez en mucho tiempo, que un arma de fuego fuera la respuesta correcta—. Es de la gente que vivía aquí.
+Kyle lo entendió antes de que nadie tuviera que explicárselo — no hacía falta ningún manual de la Colmena para reconocer ese idioma. Una mirada que no se mueve ni se rompe no era solo atención. Era un reto, dicho en el único vocabulario que la Lógica de la Espada reconocía como verdad: acero contra acero, sin nada de por medio que pudiera llamarse trampa.
+
+No tocó al Predestinador. Tampoco ninguna otra arma que llevara encima.
+
+—El que mató a Crota —dijo Oryx, la voz llenando el espacio entero sin necesitar volumen—. Cazándolo a través de sombras prestadas mientras yo medía lo que era. Hallazgo interesante, encontrarlo aquí, sobre la tumba de mi guardiana fallida.
+
+—No es tu tumba —dijo Kyle, la vista fija en la suya, sin apartarla tampoco—. Es de la gente que vivía aquí.
 
 —La gente que vivía aquí ya no es una variable que importe. —Oryx dio un paso, el suelo mismo pareciendo ceder bajo el peso de una presencia que no necesitaba pisar fuerte para hacerse sentir—. Tú sí. Heriste algo mío sin entender qué estabas hiriendo. Eso exige una prueba distinta a la que le di a Avarra.
 
@@ -436,7 +446,7 @@ Oryx lo soltó.
 
 —La única que siempre ha importado. —Oryx levantó la hoja — ancha, irregular, negra en la mayor parte de su longitud, recorrida en otros ángulos por una luz fría que no reflejaba ninguna estrella cercana—. La Lógica de la Espada no pregunta si mereces ganar. Pregunta si mereces sostener el filo el tiempo suficiente para averiguarlo.
 
-Kyle desenvainó Filo Cero — el prototipo sin nombre, sin historia, la única arma que llevaba encima que todavía no le debía nada a una victoria propia — y entendió, en el mismo instante en que el acero encontró el aire frío de Eirene, que probablemente acababa de tomar la peor decisión posible con la mejor información que tenía.
+Kyle desenvainó Filo Cero con las dos manos — el prototipo sin nombre, sin historia, la única arma que llevaba encima que todavía no le debía nada a una victoria propia — y entendió, en el mismo instante en que el acero encontró el aire frío de Eirene, que probablemente acababa de tomar la peor decisión posible con la mejor información que tenía.
 
 ---
 
@@ -705,6 +715,8 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 **Reescritura de la Sección XII — la entrada de Oryx, referencia explícita a Thanos en Wakanda (2026-08-13), a petición del autor.** Antes, Oryx cruzaba junto con la marea de lacayos, en el mismo instante — todo llegaba a la vez. Reescrito para separar los dos golpes en el tiempo: primero Oryx cruza **solo y en silencio** ("no hubo naves, no hubo ningún anuncio de nada"), camina hacia Kyle con paciencia sin decir una palabra, y Elsie lo nombra casi en un susurro — "Es Él" — antes de que nadie más reaccione. Aparta a Elsie y a Carina de su camino con un solo movimiento de ala, sin herirlas de gravedad (el dolor es real, la herida no); Ghost va hacia Elsie, Hornet hacia Carina, y por eso nadie llega a cubrir a Kyle a tiempo. Oryx hunde a Willbreaker en el suelo —gesto nuevo, reemplaza la mano cerrada sobre el hombro de la versión anterior— y el piso cede bajo los dos. **Recién después de la caída**, con Elsie todavía gritando el nombre de Kyle, se libera la horda real desde la grieta del ancla: cien o más lacayos y psiónicos Poseídos juntos, más decenas de plagas Poseídas apareciendo a la vez en distintas zonas de Eirene, todas con la misma dirección — el núcleo de la luna, no la gente. La escala de la amenaza ahora llega después del golpe personal contra Kyle, no simultánea con él.
 
 **Diálogo ajustado en la misma escena.** La línea de Carina "Elsie, no puedes bajar ahí, no todavía" se reemplazó por "Puedo con esto. Puedo con esto." — dicha para sí misma, bajo presión, en vez de dirigida a Elsie. **La decisión de Elsie de quedarse (no perseguir a Kyle de inmediato) se muestra en prosa, no en diálogo** — el peso del cuerpo ya trasladado hacia el flanco de Carina antes de que ella "decida" nada en voz alta. Elsie levanta el fusil y dice "No time to explain" — **primera vez que se establece un arma propia para Elsie en el vault**: un fusil de pulsos exótico cuyo perk despliega un orbe/torreta oscuro que dispara por su cuenta, "desde alguna otra línea temporal" (coherente a propósito con toda su relación con líneas temporales alternativas — el nombre del arma funciona como diálogo real y como guiño). Carina lo nota y reacciona con humor táctico, "Oh, eso es genial", sin dejar de disparar — coherente con su ficha de voz. La transición hacia la Sección XIII se ajustó para que el Sacerdote de Guerra cruce "la grieta del ancla" (la misma por la que salió la horda) en vez de "el hueco por el que Oryx acababa de irse" (que ahora es un punto distinto — el piso colapsado, no la grieta).
+
+**La mirada como lenguaje de la Lógica de la Espada (2026-08-13), a petición del autor.** Se sumó que Oryx no aparta la vista de Kyle en ningún momento desde el primer paso de su entrada — ni siquiera al apartar a Elsie y Carina con el ala (Sección XII: "Los ojos de Oryx no se movieron ni una vez durante todo eso"). Al caer al nivel inferior (Sección XIV), Kyle lee esa mirada sostenida como el reto formal de la Lógica de la Espada antes de que Oryx diga una sola palabra — por eso no desenfunda el Predestinador ni ninguna otra arma que lleve encima, y responde el reto sosteniéndole la mirada de vuelta en su primera línea ("la vista fija en la suya, sin apartarla tampoco"). El desenvaine de Filo Cero, ya establecido más abajo en la misma sección, ahora es explícitamente **con las dos manos** — la única arma que lleva encima que responde en el mismo idioma que Oryx está hablando.
 
 **Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVIII, "Three Costs": "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
 
