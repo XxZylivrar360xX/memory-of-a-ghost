@@ -96,3 +96,15 @@ van en `revelations/Book_XX_Titulo.md`.
 - **Líneas o gestos prohibidos antes del reveal:** ningún personaje además de Sai debe
   mostrar consciencia de que el trono/vacante existe como amenaza activa.
 - **Estado:** sembrado (diseño fijado, cero prosa).
+
+---
+
+## El medallón de Yeva (Juegos de los Guardianes → Lightfall)
+
+- **Qué es:** en Eirene, antes de que la luna caiga (Book 02, Cap. 16, `Part_01_Price_of_Vengeance/09_The_Moon_That_Could_Not_Stay.md`, Sección II), Carina le da a Yeva —la vendedora del mercado que le regaló una bufanda sin pedir nada a cambio— un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material real, pidiéndole que se lo guarde. Yeva no vuelve a aparecer en el capítulo — Carina la busca durante la evacuación y no la encuentra, sin confirmación de si sobrevivió. El autor planea un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar, sin canon fijado para esa época.
+- **Se revela en:** Lightfall — libro/capítulo exacto sin fijar todavía; trama del payoff sin diseñar (el autor especificó que no se redacta con peso real todavía).
+- **Quién ya lo sabe (desde cuándo):** Carina sabe que le dio el medallón a Yeva desde el Cap. 16 de Book 02. Nadie más del elenco lo sabe ni lo vio.
+- **Quién NO debe saberlo/insinuarlo todavía:** ningún personaje debe mencionar el medallón, a Yeva, ni el destino de ninguno de los dos entre el Cap. 16 de Book 02 y el capítulo del payoff en Lightfall — incluye cualquier escena de duelo de Carina por Eirene ya escrita o futura (Cap. 17-18 de Book 02) donde no se nombra específicamente a Yeva por su nombre después de este capítulo.
+- **Foreshadowing ya sembrado:** el intercambio mismo (Cap. 16, Sección II) — Carina explícitamente incómoda con recibir algo sin devolver nada ("sin saber todavía qué hacer con la costumbre de que alguien le diera algo sin condición"), y la pregunta de Yeva sin responder del todo ("¿Y si nunca vuelve a buscarlo?" / "Entonces alguien más se queda con algo que a mí me importó").
+- **Líneas o gestos prohibidos antes del reveal:** confirmar en prosa, antes de Lightfall, si Yeva sobrevivió a la Toma de Eirene o no — el destino de Yeva y del medallón deben resolverse juntos, en el mismo capítulo del payoff, no antes.
+- **Estado:** sembrado (Cap. 16 de Book 02 ya escrito con el intercambio; cero diseño del payoff de Lightfall).
