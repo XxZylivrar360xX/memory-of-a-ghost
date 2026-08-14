@@ -524,29 +524,35 @@ Golpeó el nivel inferior con una onda que se sintió, por un instante, más gra
 
 No llegó a pensar en un plan antes de aterrizar. No hizo falta uno. Aterrizó ya corriendo.
 
-Lo que quedaba de los últimos minutos —Avarra, el ancla, Yeva perdida en algún corredor que no había alcanzado a abrir a tiempo, cada segundo que le había costado no ser suficiente— se convirtió, de golpe, en una sola pregunta sin palabras: *¿qué sostiene esto?*
+Lo que quedaba de los últimos minutos —Avarra, el ancla, Yeva perdida en algún corredor que no había alcanzado a abrir a tiempo, cada segundo que le había costado no ser suficiente— se convirtió, de golpe, en una sola pregunta sin palabras. No *¿qué sostiene esto?* Esta vez no.
 
-No pensó en Kyle como en Chispitas, ni en nada que tuviera todavía nombre propio entre los dos. Pensó en él como piensa cualquiera que ha jurado lo mismo que ella juró una vez: un Portaluz caído en el peor momento posible, alguien que todavía podía respirar si alguien más decidía, ahora, que respirar seguía siendo posible.
+*¿Qué elijo sostener?*
+
+Pensó en él como piensa cualquiera que ha jurado lo mismo que ella juró una vez: un Portaluz caído en el peor momento posible, alguien que todavía podía respirar si alguien más decidía, ahora, que respirar seguía siendo posible.
 
 No apuntó con Última Palabra. No había tiempo, ni distancia limpia, ni un disparo que pudiera llegar antes que la hoja.
 
-Cerró la mano en el aire.
+El arco se formó en su mano sin que tuviera que pedírselo dos veces esta vez — no la chispa cruda e insegura del Jardín Negro, no la tensión a medias del dron en Marte. Vacío puro tomando la forma exacta que había estado buscando toda la noche: la curva completa, tensa, elegante, algo que por fin encontraba el cuerpo correcto para existir.
 
-La cuerda respondió sin que ella tuviera que pedírselo dos veces esta vez — no la chispa cruda e insegura del Jardín Negro, no la tensión a medias del dron en Marte. Algo más grande, más seguro de sí mismo, como si las últimas semanas enteras hubieran sido, sin que ella lo supiera, el entrenamiento de un único momento como este.
+Tensó la cuerda.
 
-No apuntó al cuerpo de Oryx. Apuntó a lo que lo sostenía de pie sobre Eirene — la misma conexión que Ghost llevaba minutos incapaz de nombrar, la cuerda entre su voluntad y el suelo que ya se creía suyo.
+No apuntó al cuerpo de Oryx. Apuntó al suelo bajo sus pies — un instinto que no se detuvo a explicarse, la certeza limpia de que ahí, exactamente ahí, era donde tenía que caer si quería detener a algo que no podía herir de ninguna otra forma.
 
-Tiró.
+Soltó.
+
+La flecha de energía violeta-oscura cruzó el espacio entre los dos sin errar ni un centímetro, y cayó justo a los pies de Oryx.
+
+El impacto liberó el tether.
 
 Oryx se detuvo a mitad de golpe — no derribado, no herido, atado por un instante que ningún dios debería tener que conceder a algo que no podía cortar con la misma facilidad con que cortaba todo lo demás.
 
-—¡Ahora! —gritó Carina, ya corriendo hacia Kyle, sin soltar la cuerda, sin saber cuánto tiempo más iba a aguantar.
+—¡Ahora! —gritó Carina, ya corriendo hacia Kyle, sabiendo que el tether no iba a aguantar mucho más.
 
 Hornet cubrió el resto de la distancia por ella, la carcasa interponiéndose entre Kyle y cualquier cosa que Oryx pudiera intentar en el segundo que le quedaba libre. Carina lo levantó con una fuerza que no le pertenecía del todo —el mismo resto que le había arrancado a los dos Acólitos seguía corriéndole por los brazos, prestado, con hora de devolución—, el peso completo de él contra su hombro, la sangre de Kyle empapándole el costado antes de que terminara de calcular cuánto de esa sangre era demasiada.
 
 —Te tengo —dijo, sin saber si él podía oírla—. Te tengo. No te vas a morir hoy. No así. No sin que yo lo decida.
 
-La cuerda cedió sola, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
+El tether cedió, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
 
 —Interesante —dijo, en voz baja, mirando la dirección exacta en que Carina ya corría con Kyle a cuestas—. Muy interesante.
 
@@ -717,6 +723,10 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 **Diálogo ajustado en la misma escena.** La línea de Carina "Elsie, no puedes bajar ahí, no todavía" se reemplazó por "Puedo con esto. Puedo con esto." — dicha para sí misma, bajo presión, en vez de dirigida a Elsie. **La decisión de Elsie de quedarse (no perseguir a Kyle de inmediato) se muestra en prosa, no en diálogo** — el peso del cuerpo ya trasladado hacia el flanco de Carina antes de que ella "decida" nada en voz alta. Elsie levanta el fusil y dice "No time to explain" — **primera vez que se establece un arma propia para Elsie en el vault**: un fusil de pulsos exótico cuyo perk despliega un orbe/torreta oscuro que dispara por su cuenta, "desde alguna otra línea temporal" (coherente a propósito con toda su relación con líneas temporales alternativas — el nombre del arma funciona como diálogo real y como guiño). Carina lo nota y reacciona con humor táctico, "Oh, eso es genial", sin dejar de disparar — coherente con su ficha de voz. La transición hacia la Sección XIII se ajustó para que el Sacerdote de Guerra cruce "la grieta del ancla" (la misma por la que salió la horda) en vez de "el hueco por el que Oryx acababa de irse" (que ahora es un punto distinto — el piso colapsado, no la grieta).
 
 **La mirada como lenguaje de la Lógica de la Espada (2026-08-13), a petición del autor.** Se sumó que Oryx no aparta la vista de Kyle en ningún momento desde el primer paso de su entrada — ni siquiera al apartar a Elsie y Carina con el ala (Sección XII: "Los ojos de Oryx no se movieron ni una vez durante todo eso"). Al caer al nivel inferior (Sección XIV), Kyle lee esa mirada sostenida como el reto formal de la Lógica de la Espada antes de que Oryx diga una sola palabra — por eso no desenfunda el Predestinador ni ninguna otra arma que lleve encima, y responde el reto sosteniéndole la mirada de vuelta en su primera línea ("la vista fija en la suya, sin apartarla tampoco"). El desenvaine de Filo Cero, ya establecido más abajo en la misma sección, ahora es explícitamente **con las dos manos** — la única arma que lleva encima que responde en el mismo idioma que Oryx está hablando.
+
+**Mecánica real de Shadowshot en la Sección XVI (2026-08-13), a petición del autor.** El disparo que detiene a Oryx dejó de ser una "cuerda" abstracta que Carina cierra en el aire y sostiene con la mano — ahora se describe el arco de Vacío formándose completo y elegante ("la curva completa, tensa, elegante, algo que por fin encontraba el cuerpo correcto para existir"), y ella tensa la cuerda del arco y suelta una flecha de energía violeta-oscura que cae **a los pies de Oryx**, no contra su cuerpo — la puntería nunca falla, como si el instinto ya supiera dónde tiene que caer para detener a un oponente. El impacto libera el tether (mecánica real de Shadowshot), no una cuerda que ella sostiene y puede soltar — se ajustaron en cascada las dos menciones siguientes ("sin soltar la cuerda" → "sabiendo que el tether no iba a aguantar mucho más"; "la cuerda cedió sola" → "el tether cedió"). También se cambió la pregunta interna de Carina de *¿qué sostiene esto?* (lectura táctica, eco literal del dron del Cap. 15) a **¿qué elijo sostener?* — de leer un mecanismo externo a una decisión propia, con Kyle como esa decisión. Se cortó "No pensó en Kyle como en Chispitas, ni en nada que tuviera todavía nombre propio entre los dos" — el autor señaló que el apodo sobraba en esta escena; el resto de la frase (pensarlo como un Portaluz caído, alguien que juró lo mismo que ella) se conserva intacto.
+
+**Pendiente de decidir con el autor:** el resto de la Sección XVI (Carina trepando de vuelta con Kyle por el mismo hueco, el reencuentro con Elsie) y las Secciones XVII-XIX (la huida final, el costo de Elsie, la sustitución del planeta) **todavía no se tocaron** — el autor propuso un final distinto para este rescate (Carina saltando con Kyle a un vacío/acantilado cercano y llamando a Aspect of Glass por transmat, mientras Elsie/Ghost/Hornet escapan en la nave de Elsie, y Carina ve la sustitución completa del planeta desde la ventana de su propia nave) que **contradice directamente** el final ya escrito, donde Elsie fuerza una grieta compartida para que los tres crucen juntos en el último segundo, pagando un costo real ya registrado en `SAGA_LEVEL.md` y pagado más adelante en el Cap. 18. Necesita resolverse con el autor antes de tocar esas secciones — no aplicado todavía.
 
 **Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVIII, "Three Costs": "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
 
