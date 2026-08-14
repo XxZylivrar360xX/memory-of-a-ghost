@@ -109,7 +109,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 
 ## Filo Cero / el primer rescate de Carina
 
-- **Qué es:** el prototipo de Espada que Shaxx le entrega a Kyle en el Cap. 8 (`01_The_Day_Before_The_King.md`, Sección II) se rompe en un duelo contra Oryx en el Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Secciones XI, XIII-XV) — Kyle cae al borde de morir, y Carina lo salva formando su Vacío completo (sin nombrarlo en prosa) por primera vez.
+- **Qué es:** el prototipo de Espada que Shaxx le entrega a Kyle en el Cap. 8 (`01_The_Day_Before_The_King.md`, Sección II) se rompe en un duelo contra Oryx en el Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Secciones XII, XIV-XVI) — Kyle cae al borde de morir, y Carina lo salva formando su Vacío completo (sin nombrarlo en prosa) por primera vez.
 - **Se revela en:** sembrado en Cap. 8; pagado en Cap. 16; consolidado como frase en Cap. 34 (`Six_Months_In_Fragments.md`, "hasta que te vuelva a salvar"); pagado por segunda vez en *Justo a Tiempo* (Aftermath, Movimiento VIII, `Carina_Guardian_TakenKing_JustoATiempo.md`), cuya Sección IX ya estaba titulada "sin saber que era la segunda vez" antes de que existiera una primera vez en prosa.
 - **Quién ya lo sabe:** Kyle y Carina, desde el momento mismo del rescate en Cap. 16.
 - **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban ignorar, es una revelación que se paga dentro del mismo libro y se completa en el Aftermath.

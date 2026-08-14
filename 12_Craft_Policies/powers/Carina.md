@@ -64,7 +64,7 @@ escena de detective con el método del libro de Lena. Ver footer de
 `11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/08_The_Storm_Learns_A_Name.md`.
 
 **Súper:** Shadowshot (variantes Deadfall/Mobius Quiver — sin decidir cuál domina primero;
-abierto). Formado con control completo en el Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XIV). Spectral
+abierto). Formado con control completo en el Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XVI). Spectral
 Blades **reservado** — ligado al duelo por Lena, sin fecha fijada (ver `Carina.md`, sección
 Arcstrider, "Hilo pendiente").
 
@@ -72,7 +72,7 @@ Arcstrider, "Hilo pendiente").
 
 | Aspecto (referencia interna) | Verbo / qué se ve en prosa | Etapa actual | Dramatizado en |
 |---|---|---|---|
-| Trapper's Ambush | En el aire, consume su impulso y se deja caer con el Vacío ya encima — un descenso con la intención de un arma, no una caída. El impacto despeja lo que tenga alrededor y le devuelve algo de vitalidad. | **Formación** (primer uso) | Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XIV — descenso hacia Kyle) |
+| Trapper's Ambush | En el aire, consume su impulso y se deja caer con el Vacío ya encima — un descenso con la intención de un arma, no una caída. El impacto despeja lo que tenga alrededor y le devuelve algo de vitalidad. | **Formación** (primer uso) | Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XVI — descenso hacia Kyle) |
 | Stylish Executioner | Un cierre limpio sobre un blanco ya debilitado la esconde del todo por un instante, y el golpe que sigue, ya invisible, deja al siguiente blanco debilitado también. | Sin dramatizar | — |
 | Vanishing Step | El mismo giro de siempre — solo que esta vez nadie la ve terminar. | Sin dramatizar | — |
 | On the Prowl | Al desaparecer, deja marcado a quien hay que cazar primero, y esa marca se comparte sola con el resto del equipo. | Sin dramatizar | — |

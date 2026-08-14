@@ -108,31 +108,77 @@ No dijo nada más. No hacía falta.
 
 ## IV. Elsie Arrives Without Permission
 
-Elsie llegó a Eirene por su cuenta, dos días después, sin nave asignada, sin invitación formal — solo el patrón que llevaba semanas leyendo, cinco frentes de la Mano del Rey convirtiéndose, ante sus propios ojos, en algo que ya no cabía en la palabra "asedio."
+Elsie llegó a Eirene por su cuenta, dos días después, sin nave asignada, sin invitación formal.
 
-—No son ataques dispersos —le dijo a Kyle, apenas encontrándolo—. Ya te lo dije una vez, sobre otra cosa, y ahora lo veo aquí otra vez, más claro. Esto es preparación. Algo se está armando alrededor de este lugar, y no tiene la forma de una invasión normal.
+—Los mundos interiores están ardiendo —dijo, apenas encontrando a Kyle, sin preámbulo—. Mercurio. Venus. Marte. La Tierra. Cinco frentes de la Mano del Rey, cada uno más denso que el anterior. No son ataques dispersos. Es presión sostenida, coordinada — la clase de patrón que solo tiene sentido si alguien está midiendo cuánto puede resistir cada uno antes de romperse.
 
-—¿Qué forma tiene?
+—¿Y los mundos exteriores?
 
-—No lo sé todavía. —Elsie miró hacia el cielo de Eirene, algo en su expresión más tenso de lo habitual—. Pero llevo diez años aprendiendo a reconocer cuándo un lugar está a punto de dejar de ser lo que era. Este lo está.
+—Nada. —Elsie dijo la palabra como si le costara confiar en ella—. Ni un frente nuevo. Ni una incursión. A Oryx no parece importarle nada más allá de Marte.
 
-Carina la observó con la misma curiosidad cautelosa que había sentido, meses atrás, hacia cualquier persona que Kyle mencionara sin explicar del todo. No hubo tiempo para presentaciones completas. El cielo ya estaba empezando a cambiar.
+—Salvo Eirene.
+
+—Salvo Eirene. —Repitió el nombre como si todavía no terminara de gustarle cómo sonaba—. Está marcada en cada mapa que hemos podido leer del Acorazado. Un objetivo real, no un error de traducción, no un dato viejo. Pero no hay flota en la órbita. No hay incursión. No hay nada de lo que ya vimos en los otros cinco frentes — ningún patrón de ataque, ninguna presión creciente. Solo la marca. Sola, y quieta.
+
+—¿Qué significa eso?
+
+—No lo sé.
+
+Y ahí estaba, algo que Kyle no le había escuchado decir así en todo el tiempo que llevaba siendo Guardián — no la duda calculada de alguien que todavía no terminó de leer un patrón, sino algo más parecido a la frustración genuina de no encontrarlo del todo.
+
+—En todos mis viajes, la Colmena jamás había mostrado un comportamiento similar —dijo, casi para sí misma, la vista fija en el mapa proyectado como si mirarlo con más fuerza fuera a cambiar lo que decía—. Oryx no deja objetivos marcados sin tocar. No es su forma de hacer las cosas.
+
+Rael, que había estado escuchando desde el borde de la conversación sin querer interrumpir, se acercó.
+
+—Quizás perdieron el interés —dijo, con la misma calma práctica con la que hablaba de todo lo demás—. O la atención se les fue a otra parte. A veces un blanco deja de ser prioridad sin que nadie del otro lado sepa nunca por qué.
+
+—Es posible. —Elsie no sonó convencida—. No puedo confirmar que sea eso. Tampoco puedo confirmar que no lo sea.
+
+No le gustó decirlo. Kyle lo notó en la forma en que cerró la mano, un gesto pequeño, casi nada — Elsie no dejaba que la incertidumbre se le notara nunca, y ahí estaba, notándose.
+
+Carina la observó con la misma curiosidad cautelosa que había sentido, meses atrás, hacia cualquier persona que Kyle mencionara sin explicar del todo. No hubo tiempo para presentaciones completas.
+
+El cielo ya estaba empezando a cambiar.
 
 ---
 
 ## V. The First Wrong Stars
 
-Empezó con las estrellas.
+Empezó con las estrellas, y con lo fácil que fue no hacerles caso.
 
-No todas — solo algunas, un puñado disperso en el firmamento nocturno de Eirene, que parpadearon una vez, fuera de sincronía con cualquier ritmo astronómico conocido, y volvieron a brillar en una posición que no era exactamente la que habían tenido un segundo antes.
+Fue Ghost quien las vio primero — un puñado disperso en el firmamento nocturno de Eirene, parpadeando fuera de sincronía con cualquier ritmo astronómico conocido, y volviendo a brillar en una posición que no era exactamente la que habían tenido un segundo antes. Lo mencionó de pasada, sin alarma real en la voz, mientras ayudaba a Rael a reubicar un generador portátil cerca del sector este.
 
-—¿Alguien más vio eso? —preguntó Ghost.
+—Probablemente un efecto óptico —dijo Rael, sin levantar la vista de los cables que estaba empalmando—. Saturno hace cosas raras con la luz. Llevo años viéndolo.
 
-—Yo lo vi —dijo Elsie—. Y no me gustó.
+Nadie discutió el punto. Había demasiado que hacer — refugiados que acomodar, cúpulas que revisar, la vida ordinaria de un lugar que seguía necesitando funcionar aunque algo, en algún borde de la percepción, ya hubiera dejado de encajar del todo.
 
-El horizonte empezó a sentirse, sin que nadie pudiera medirlo con un instrumento, ligeramente más cerca de lo que debería. Las sombras dejaron de coincidir con la posición del sol — proyectándose en ángulos que ningún objeto real las hubiera producido. Las comunicaciones con la Torre empezaron a fallar, no por interferencia sino por algo más fundamental: como si la dirección misma en la que había que enviar la señal hubiera dejado de ser una dirección fija.
+Pasaron las horas. El mercado cerró. Los niños volvieron a sus cúpulas. Nadie más mencionó las estrellas.
 
-—Los transmats están fallando —reportó Rael, la voz tensa por el canal—. No hay error de sistema. Es como si el destino ya no existiera del todo cuando llegamos a confirmarlo.
+## VI. What the Body Knows Before the Mind Does
+
+Fue Kyle quien lo sintió primero como algo físico, no como un dato.
+
+Estaba ayudando a Carina a mover cajas de suministro cerca del puerto cuando notó que el aire se sentía distinto — no frío, no caliente, solo mal, de una forma que todavía no tenía vocabulario. Se detuvo un segundo, la caja a medio camino, esperando que la sensación pasara.
+
+No pasó.
+
+—¿Estás bien? —preguntó Carina.
+
+—No sé. —Se pasó la mano por la nuca, como si eso fuera a explicar algo—. Se siente como cuando vas a enfermarte. Antes de saber que te vas a enfermar. Ese momento en que el cuerpo ya lo sabe y la cabeza todavía no.
+
+Carina no se rió del comentario, aunque en cualquier otro día lo habría hecho. Miró hacia el horizonte, y notó, sin darse cuenta hasta ese momento, que llevaba mirándolo más tiempo del necesario — como si algo en él exigiera atención sin ofrecer ninguna razón concreta para merecerla.
+
+Ghost llegó volando bajo, más rápido de lo habitual.
+
+—Las sombras —dijo, sin preámbulo—. Llevo dos horas revisando el registro. No coinciden con la posición del sol. Empezó despacio, casi nada. Ya no es nada.
+
+—¿Desde cuándo?
+
+—Desde después de las estrellas, creo. No estoy seguro de dónde termina una cosa y empieza la otra.
+
+Elsie los encontró minutos después, la calma profesional que la caracterizaba visiblemente más delgada de lo normal.
+
+—Los transmats están fallando —reportó Rael por el canal abierto, la voz tensa—. No hay error de sistema. Es como si el destino ya no existiera del todo cuando llegamos a confirmarlo.
 
 Elsie cerró los ojos un momento, algo en su rostro cediendo a una certeza que no quería tener.
 
@@ -140,7 +186,7 @@ Elsie cerró los ojos un momento, algo en su rostro cediendo a una certeza que n
 
 ---
 
-## VI. Superposition
+## VII. Superposition
 
 El Acorazado no llegó.
 
@@ -162,7 +208,7 @@ Carina no tuvo tiempo de esperar para confirmar que lo hiciera.
 
 ---
 
-## VII. The Orbit Revoked
+## VIII. The Orbit Revoked
 
 —El planeta está siendo desplazado.
 
@@ -182,13 +228,17 @@ Elsie ya estaba corriendo cálculos que ningún instrumento de la Vanguardia pod
 
 ---
 
-## VIII. While There Is Still a Here
+## IX. While There Is Still a Here
 
 Los tres se encontraron en el punto más alto del puerto, el cielo de Eirene ya visiblemente mal — las estrellas equivocadas asentándose en su lugar, el horizonte curvándose hacia algo que ningún planeta debería curvarse.
 
-Kyle miró a Carina. Miró a Elsie. Y dijo, sin ningún registro de general, sin ningún peso de Matadioses, con el horror crudo y sin filtro de alguien que por fin entendía la escala completa de lo que enfrentaba:
+Kyle miró a Carina. Miró a Elsie.
 
-—Necesitamos salir de este lugar.
+No dijo nada durante un momento — no porque le faltaran palabras, sino porque decirlo en voz alta significaba admitir algo que ya llevaba minutos sintiendo sin nombre: que esto no iba a terminar bien, no del todo, y que la única pregunta real que quedaba era cuánto de "bien" iban a alcanzar a salvar.
+
+—Necesitamos salir de este lugar —dijo, al fin.
+
+No sonó a orden. Sonó a algo mucho más triste — el reconocimiento silencioso de que la meta ya no era ganar. Era sacar a los que se pudiera, y aprender a cargar, de alguna forma que todavía no sabía cómo hacer, con todos los que no iban a alcanzar a salir a tiempo.
 
 Nadie respondió de inmediato, porque los tres sabían, con la misma certeza exacta, que salir era exactamente lo que no tenían ninguna forma clara de hacer.
 
@@ -214,7 +264,7 @@ Se fue tan rápido como había llegado.
 
 ---
 
-## IX. Avarra
+## X. Avarra
 
 La encontraron en el centro del asentamiento, de pie sobre lo que hasta ese momento había sido la plaza principal de Eirene — una figura partida a la mitad, un lado con la geometría oscura y perfecta de los Poseídos, el otro con una armadura antigua, luminosa y erosionada, de un pueblo que ninguno de los tres reconoció.
 
@@ -236,7 +286,7 @@ El ancla de la Toma latía detrás de ella — un pilar de energía Ascendente c
 
 ---
 
-## X. The Anchor
+## XI. The Anchor
 
 La pelea no fue como ninguna de las anteriores.
 
@@ -260,7 +310,7 @@ Y se apagó, sin que ninguno de los tres entendiera del todo qué era lo que aca
 
 ---
 
-## XI. Ten Seconds of Mercy
+## XII. Ten Seconds of Mercy
 
 El ancla cayó con ella.
 
@@ -294,7 +344,7 @@ Elsie no llegó a decidir entre los dos. El cuerpo lo decidió por ella — más
 
 ---
 
-## XII. Anchored for a Second
+## XIII. Anchored for a Second
 
 Carina lo reconoció antes de que la armadura terminara de cruzar el hueco por el que Oryx acababa de irse — azul acerada, curva y pesada, el yelmo con forma de cráneo cornudo sin ningún rostro debajo, la placa partida del pecho con algo oscuro latiendo entre el metal.
 
@@ -340,7 +390,7 @@ No tuvo tiempo de pensar más en eso. La marea seguía cayendo.
 
 ---
 
-## XIII. The Sword Logic, in Person
+## XIV. The Sword Logic, in Person
 
 Cayeron juntos, aunque solo uno de los dos lo sintiera como caída.
 
@@ -362,7 +412,7 @@ Kyle desenvainó Filo Cero — el prototipo sin nombre, sin historia, la única 
 
 ---
 
-## XIV. What Filo Cero Was Not
+## XV. What Filo Cero Was Not
 
 El primer golpe de Oryx no fue el más fuerte que iba a dar. Fue, apenas, una pregunta — la clase de golpe que mide antes de comprometerse, lento lo suficiente para que Kyle alcanzara a leer el ángulo y meter a Filo Cero de través. El impacto le corrió por los brazos como si hubiera detenido un vehículo en marcha con las dos manos, los dientes apretados, las botas resbalando medio paso en la tierra suelta antes de encontrar apoyo.
 
@@ -422,7 +472,7 @@ Kyle no tuvo aire para responder nada de eso.
 
 ---
 
-## XV. The String That Held
+## XVI. The String That Held
 
 Elsie, cubierta de corrupción ajena hasta los codos, abrió el primer hueco real en la marea desde que había empezado.
 
@@ -480,7 +530,7 @@ Era, simplemente, una cuestión de escala.
 
 ---
 
-## XVI. The Worlds Behind the Door
+## XVII. The Worlds Behind the Door
 
 Ghost no esperó a que se lo pidieran. Se lanzó sobre la herida de Kyle apenas Carina lo dejó en el suelo, forzando cada fragmento de Luz que todavía respondía a través de un cuerpo que, minutos antes, había dejado de ser suyo en la forma que más importaba. No fue una reconstrucción completa — ni cerca. Cerró lo que tenía que cerrar para que Kyle no se desangrara ahí mismo, y dejó el resto para después, si es que había un después.
 
@@ -504,7 +554,7 @@ Nadie tuvo tiempo de procesar la escala completa de lo que estaban viendo. El su
 
 ---
 
-## XVII. Three Costs
+## XVIII. Three Costs
 
 —Tengo una forma de sacarnos —dijo Elsie, la voz tensa de una decisión que ya había tomado antes de anunciarla—. A los tres. No a todos los demás. Solo a nosotros tres, y eso ya va a costar más de lo que puedo permitirme decir en voz alta ahora mismo.
 
@@ -536,7 +586,7 @@ Lo que hizo después no tuvo nombre en ningún idioma que ella conociera complet
 
 ---
 
-## XVIII. Substitution
+## XIX. Substitution
 
 Kyle, Carina y Elsie cruzaron la fisura en el instante exacto en que Eirene terminó de dejar de estar donde había estado.
 
@@ -552,7 +602,7 @@ Ninguno de los tres, de pie en el borde de lo que quedaba, lo aceptó en absolut
 
 ---
 
-## XIX. The Minority That Escaped
+## XX. The Minority That Escaped
 
 Rael sobrevivió. Una fracción de los Corsarios refugiados sobrevivió con él, evacuados en los primeros minutos, antes de que las rutas dejaran de existir. El mercado, los niños, la mayoría de los nombres que Eirene había cargado durante generaciones — no.
 
@@ -616,6 +666,14 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 **Regla de Hornet respetada (2026-08-13), señalada por el autor.** Hornet decía "tú y Lena vieron la luz verde" sin que Carina hubiera nombrado a Lena primero en ese intercambio — viola su propia regla dura ya fijada (`12_Craft_Policies/voice/hornet.md`: "no será él quien diga ese nombre para forzar una conversación, una catarsis o una explicación"). Corregido con una fracción de segundo de duda antes de la frase —el nombre completo ya armado, descartado a propósito— y "ustedes dos" en vez del nombre.
 
-**Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVII: "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
+**El asedio real de Oryx y la infección lenta de Eirene (2026-08-13), a petición explícita del autor — el capítulo pasa de 19 a 20 secciones (todo desde la antigua Sección VI corrido +1; las referencias de sección en notas anteriores de este mismo footer, más arriba, quedan en la numeración vigente al momento en que se escribieron — identificar la sección por su título, no por el número, si no coincide).**
+
+**Sección IV reescrita — el rompecabezas real de la Mano del Rey.** Antes, Elsie llegaba con una lectura vaga ("cinco frentes... convirtiéndose en algo que ya no cabía en la palabra asedio"), sin datos concretos. Ahora trae información específica y verificable: los cinco frentes activos de la Mano del Rey son todos mundos interiores (Mercurio, Venus, Marte, la Tierra) — presión sostenida y coordinada. Los mundos exteriores no tienen ningún frente nuevo, salvo Eirene, que **está marcada como objetivo en los mapas del Acorazado pero sin ningún asedio activo** — sin flota en órbita, sin patrón de ataque. El rompecabezas (marcado pero intacto) es nuevo y deliberadamente sin resolver todavía para el elenco. Rael ofrece una teoría práctica y plausible (perdieron el interés, o la atención se desvió) que Elsie no puede confirmar ni descartar. **Beat nuevo, señalado por el autor como eco directo hacia el futuro Book 01 (Age I, sin escribir todavía):** en todo el tiempo que Kyle lleva siendo Guardián, nunca la había visto dudar así — no la duda calculada de quien todavía está leyendo un patrón, sino frustración genuina de no encontrarlo. Línea nueva, pedida verbatim por el autor: "En todos mis viajes, la Colmena jamás había mostrado un comportamiento similar."
+
+**Secciones V-VI reescritas/nuevas — la infección se siente antes de anunciarse.** El autor señaló que la transición de "mercado tranquilo" a "necesitamos evacuar" se sentía demasiado inmediata — pum, Poseídos, vámonos — cuando el pedido real era que el lector viva y respire el proceso como una enfermedad cósmica progresiva, no como un ataque puntual. Rediseño en dos etapas: **Sección V** ("The First Wrong Stars") ahora es explícitamente dismissible — Ghost ve las estrellas parpadear, Rael lo explica como efecto óptico de Saturno, nadie más lo discute, pasan las horas, el mercado cierra, la vida sigue. **Sección VI, nueva** ("What the Body Knows Before the Mind Does") — Kyle es quien lo siente primero como sensación física, no como dato, y lo nombra explícitamente en términos de enfermedad ("se siente como cuando vas a enfermarte... el cuerpo ya lo sabe y la cabeza todavía no"); Ghost reporta que las sombras llevan dos horas desviándose sin saber "dónde termina una cosa y empieza la otra"; solo entonces llegan el reporte de Rael sobre los transmats y la confirmación de Elsie ("el patrón... se está cerrando"), que en la versión anterior abrían la escalada de golpe.
+
+**Sección IX ("While There Is Still a Here"), la línea "Necesitamos salir de este lugar" recontextualizada.** Antes llegaba con "el horror crudo y sin filtro" — registro de acción/miedo. El autor pidió que se sintiera triste, incluso melancólica: reconocer que la prioridad ya no es ganar, sino salvar a los que se pueda y aceptar, de antemano, que van a fallar con algunos. Se cortó el registro de horror y se reemplazó con un beat de resignación silenciosa antes de la línea, sin cambiar la línea en sí ni lo que sigue (Hornet confirmando que no hay forma limpia de sacar a todos, Carina moviéndose de todas formas).
+
+**Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVIII, "Three Costs": "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
 
 **Corrección de spoiler (2026-08-13), señalada por el autor.** La primera línea de la Sección II ("Eirene no parecía un lugar condenado") confirmaba, en negativo, el destino del planeta justo al aterrizar — antes de que arrancara la escalada lenta (los restos de la Batalla en la Sección III, la advertencia de Elsie en la IV, las estrellas mal puestas en la V). El título del capítulo ya carga la ironía dramática necesaria; la prosa no debía adelantarla también con la palabra exacta. Reescrita para describir lo que Kyle percibe (vida, no ruina) sin que el narrador confirme el desenlace de entrada — "algo mucho más difícil de ver caer" en vez de nombrar la condena directamente.*
