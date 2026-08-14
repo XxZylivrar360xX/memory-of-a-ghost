@@ -86,6 +86,8 @@ Nadie en la nave dijo su nombre real, porque nadie lo sabía.
 
 Ninguno de los dos corrigió al otro. Los dos nombres se quedaron, cada uno usado por quien lo había dicho primero, ninguno más oficial que el otro.
 
+Donde antes había una luna pequeña y hospitalaria, ahora había un gran mundo nuevo en conflicto con un sistema que rechazaba su sola presencia en Sol.
+
 Entrar en la atmósfera fue como entrar en una noche que el propio sol se negaba a reconocer como suya — el disco amarillo, familiar, todavía visible en el cielo, dando de frente sobre una superficie que no recibía de él ninguna luz que pareciera del todo real. El cielo mismo se negaba a decidir un color: franjas de rojo vino sangrando hacia un violeta amargo, atravesadas por relámpagos que no anunciaban tormenta ninguna, solo aparecían, silenciosos, como si el clima entero estuviera discutiendo consigo mismo sobre qué forma tomar.
 
 —Aire denso —reportó Hornet—. Respirable, pero apenas. Y hay algo en la composición que ningún analizador que tengo sabe nombrar.
@@ -323,6 +325,8 @@ Y el trono, por primera vez en toda su historia, no iba a esperar a quien lo hab
 **La Desolación del Terror y la Catedral de las Voces (Secciones III-IV):** dramatizan el diseño de lugar fijado el mismo día — calles como líneas de visión, conductos nerviosos muertos, la hendidura de arrodillamiento a escala de Rhulk (sin nombrarlo, sin confirmarlo nunca en el texto), el destello mudo de Fundamento (visto y no comentado, coherente con el mismo recurso ya usado para el Winnower en el Cap. 13). La Catedral se presenta como sala de audiencia, nunca templo, con las Voces como testigos mudos — nunca hablan, nunca se explican, solo "registran."
 
 **Regla dura protegida:** cero lenguaje de "matar/derrotar definitivamente" a Oryx — el Guardian lo dice explícitamente en voz alta ("no lo maté... esto no terminó"), igual que en la fuente original. El reclamo dormido no aparece en el POV de Kyle. La credencial de Crota ahora abre también el paso al Mundo Cadáver, coherente con lo ya fijado en `Plan_TakenKing_Reimaginacion_TheKingOfShapes.md`, "Lo que NO cambia": el robo de la esencia de Crota funciona como credencial que ahora también abre paso al mundo nuevo, no solo a la cámara de Crota.
+
+**Línea añadida (2026-08-13), a petición del autor, Sección IV:** "Donde antes había una luna pequeña y hospitalaria, ahora había un gran mundo nuevo en conflicto con un sistema que rechazaba su sola presencia en Sol" — marca el contraste de escala justo antes de la descripción sensorial del descenso.
 
 **Cierre de Part 01, un capítulo por delante:** con este capítulo, Part 01 queda a un solo capítulo de completarse — el 18 (`The Flank She Could Not Hold`).
 
