@@ -324,29 +324,57 @@ Duró menos de diez segundos.
 
 El Acorazado no respondió con retirada.
 
-Respondió en persona — y no vino solo.
+No hubo naves. No hubo ningún anuncio de nada. Solo el aire sobre el ancla caída, abriéndose despacio, y una silueta cruzando a través sin apurar el paso, sin necesitar más presentación que su propio peso.
 
-El aire sobre el ancla caída se abrió, y por la misma abertura, junto a Oryx, se derramó algo más: una marea de lacayos Poseídos, docenas, cayendo sobre el puerto desde un ángulo que ninguna evacuación había considerado cubrir, directo hacia la gente que todavía esperaba su turno de escapar — hacia Carina, hacia Elsie, hacia cualquier cosa que todavía respirara sin ser suya.
+Nadie gritó todavía.
 
-—¡Carina! —gritó Elsie, ya moviéndose hacia ella antes de terminar de calcular la ruta.
+Elsie lo vio primero.
 
-Oryx no se detuvo a mirar la marea que acababa de soltar. Cruzó directo hacia Kyle, y el suelo bajo los dos cedió en el mismo instante en que su mano se cerró sobre el hombro de Kyle — no una grieta forzada, sino el mismo colapso que ya llevaba toda la escena royendo los cimientos de Eirene, encontrando por fin el punto exacto donde ceder.
+—Es Él —dijo, casi un susurro, pero lo bastante cerca para que Kyle y Carina lo oyeran los dos al mismo tiempo, sin que ella necesitara repetirlo.
+
+Oryx caminó hacia Kyle con la misma paciencia con la que había caminado hacia todo lo demás esa noche — sin prisa, sin desviarse, la clase de calma que no necesitaba fuerza para anunciar que ya había ganado la distancia. Elsie se movió hacia él antes de terminar de decidirlo. Carina, un instante detrás.
+
+Ninguna de las dos llegó a tocarlo.
+
+Una de las alas se abrió apenas — un gesto mínimo, casi displicente — y las apartó a las dos de su camino con el mismo cuidado indiferente con el que alguien corre una cortina que le estorba. Elsie golpeó el suelo rodando. Carina resbaló contra los restos de un transmat cercano, el aire saliéndole de los pulmones de golpe, ninguna herida real detrás del dolor.
+
+Ghost llegó junto a Elsie antes de que terminara de rodar. Hornet ya estaba sobre Carina, la carcasa interponiéndose entre ella y cualquier cosa que viniera después.
+
+Nadie llegó a Kyle a tiempo.
+
+Oryx hundió a Willbreaker en el suelo frente a él — no como amenaza, como una pregunta ya respondida — y el piso entero cedió bajo los dos, la misma fractura que llevaba toda la noche royendo los cimientos de Eirene encontrando, por fin, el punto exacto donde abrirse del todo.
 
 —¡Kyle!
 
-El grito de Elsie se cortó a mitad de la palabra, tragado por la distancia que se abrió entre un segundo y el siguiente — Kyle y Oryx cayendo hacia una oscuridad que ningún mapa de Eirene registraba, mientras arriba la marea de lacayos ya rompía sobre Carina en números que ni su Luz ni su puntería iban a poder cubrir solas.
+Elsie siguió gritando su nombre mucho después de que dejara de haber alguien ahí para escucharlo, la voz cortándose contra el vacío que había quedado donde antes había suelo.
 
-Elsie no llegó a decidir entre los dos. El cuerpo lo decidió por ella — más cerca de Carina, con la marea ya encima de las dos, sin ningún camino limpio hacia el punto donde Kyle acababa de desaparecer.
+Fue entonces que la grieta del ancla, todavía abierta, terminó de soltar lo que llevaba cargando.
 
-—¡Hornet, cúbreme la izquierda! —gritó Carina, ya disparando—. ¡Elsie, no puedes bajar ahí, no todavía!
+No fue una marea. Fue el infierno entero.
 
-—¡Lo sé! —La voz de Elsie se quebró en algo que no era solo esfuerzo físico—. Lo sé.
+Cien cuerpos, quizás más — lacayos y psiónicos Poseídos moviéndose juntos, sin la disciplina de una formación, con la certeza más simple de un número que no necesita estrategia para ganar. Sobre ellos, el cielo se llenó de algo peor: decenas de plagas Poseídas apareciendo a la vez en zonas distintas de Eirene, descendiendo hacia la superficie con la misma dirección exacta — no hacia el puerto, no hacia la gente. Hacia el núcleo de la luna.
+
+—Puedo con esto —dijo Carina, casi para sí misma, la voz baja, repitiéndolo como quien necesita decirlo dos veces para que aguante—. Puedo con esto.
+
+Elsie no dijo que se iba a quedar.
+
+Lo dijo con el cuerpo — el peso ya trasladado hacia el flanco de Carina, la mirada fija un instante más en la grieta por donde Kyle acababa de desaparecer, antes de decidir, sin palabras, que perseguirlo ahora mismo no iba a salvarlo, y que quedarse sí podía salvar a alguien.
+
+—No time to explain —dijo, en cambio, levantando el fusil.
+
+Un pulso de luz salió disparado desde algún punto sin nombre detrás del arma — un orbe oscuro, casi líquido, que se plantó en el aire junto a Carina y empezó a disparar por su cuenta, encontrando ángulos que ninguna de las dos había tenido tiempo de cubrir.
+
+Carina lo miró un segundo, sin dejar de disparar ella misma.
+
+—Oh, eso es genial —dijo.
+
+Siguieron limpiando el espacio juntas, Elsie cargando el peso de la marea desde un lado, el orbe cubriendo el otro, hasta que, entre los cuerpos que seguían cayendo, algo mucho más grande terminó de cruzar la misma grieta.
 
 ---
 
 ## XIII. Anchored for a Second
 
-Carina lo reconoció antes de que la armadura terminara de cruzar el hueco por el que Oryx acababa de irse — azul acerada, curva y pesada, el yelmo con forma de cráneo cornudo sin ningún rostro debajo, la placa partida del pecho con algo oscuro latiendo entre el metal.
+Carina lo reconoció antes de que la armadura terminara de cruzar la grieta del ancla — azul acerada, curva y pesada, el yelmo con forma de cráneo cornudo sin ningún rostro debajo, la placa partida del pecho con algo oscuro latiendo entre el metal.
 
 —Es él —dijo Hornet, la voz bajando a un registro que Carina no le había oído desde el bosque del Refugio—. El mismo.
 
@@ -673,6 +701,10 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 **Secciones V-VI reescritas/nuevas — la infección se siente antes de anunciarse.** El autor señaló que la transición de "mercado tranquilo" a "necesitamos evacuar" se sentía demasiado inmediata — pum, Poseídos, vámonos — cuando el pedido real era que el lector viva y respire el proceso como una enfermedad cósmica progresiva, no como un ataque puntual. Rediseño en dos etapas: **Sección V** ("The First Wrong Stars") ahora es explícitamente dismissible — Ghost ve las estrellas parpadear, Rael lo explica como efecto óptico de Saturno, nadie más lo discute, pasan las horas, el mercado cierra, la vida sigue. **Sección VI, nueva** ("What the Body Knows Before the Mind Does") — Kyle es quien lo siente primero como sensación física, no como dato, y lo nombra explícitamente en términos de enfermedad ("se siente como cuando vas a enfermarte... el cuerpo ya lo sabe y la cabeza todavía no"); Ghost reporta que las sombras llevan dos horas desviándose sin saber "dónde termina una cosa y empieza la otra"; solo entonces llegan el reporte de Rael sobre los transmats y la confirmación de Elsie ("el patrón... se está cerrando"), que en la versión anterior abrían la escalada de golpe.
 
 **Sección IX ("While There Is Still a Here"), la línea "Necesitamos salir de este lugar" recontextualizada.** Antes llegaba con "el horror crudo y sin filtro" — registro de acción/miedo. El autor pidió que se sintiera triste, incluso melancólica: reconocer que la prioridad ya no es ganar, sino salvar a los que se pueda y aceptar, de antemano, que van a fallar con algunos. Se cortó el registro de horror y se reemplazó con un beat de resignación silenciosa antes de la línea, sin cambiar la línea en sí ni lo que sigue (Hornet confirmando que no hay forma limpia de sacar a todos, Carina moviéndose de todas formas).
+
+**Reescritura de la Sección XII — la entrada de Oryx, referencia explícita a Thanos en Wakanda (2026-08-13), a petición del autor.** Antes, Oryx cruzaba junto con la marea de lacayos, en el mismo instante — todo llegaba a la vez. Reescrito para separar los dos golpes en el tiempo: primero Oryx cruza **solo y en silencio** ("no hubo naves, no hubo ningún anuncio de nada"), camina hacia Kyle con paciencia sin decir una palabra, y Elsie lo nombra casi en un susurro — "Es Él" — antes de que nadie más reaccione. Aparta a Elsie y a Carina de su camino con un solo movimiento de ala, sin herirlas de gravedad (el dolor es real, la herida no); Ghost va hacia Elsie, Hornet hacia Carina, y por eso nadie llega a cubrir a Kyle a tiempo. Oryx hunde a Willbreaker en el suelo —gesto nuevo, reemplaza la mano cerrada sobre el hombro de la versión anterior— y el piso cede bajo los dos. **Recién después de la caída**, con Elsie todavía gritando el nombre de Kyle, se libera la horda real desde la grieta del ancla: cien o más lacayos y psiónicos Poseídos juntos, más decenas de plagas Poseídas apareciendo a la vez en distintas zonas de Eirene, todas con la misma dirección — el núcleo de la luna, no la gente. La escala de la amenaza ahora llega después del golpe personal contra Kyle, no simultánea con él.
+
+**Diálogo ajustado en la misma escena.** La línea de Carina "Elsie, no puedes bajar ahí, no todavía" se reemplazó por "Puedo con esto. Puedo con esto." — dicha para sí misma, bajo presión, en vez de dirigida a Elsie. **La decisión de Elsie de quedarse (no perseguir a Kyle de inmediato) se muestra en prosa, no en diálogo** — el peso del cuerpo ya trasladado hacia el flanco de Carina antes de que ella "decida" nada en voz alta. Elsie levanta el fusil y dice "No time to explain" — **primera vez que se establece un arma propia para Elsie en el vault**: un fusil de pulsos exótico cuyo perk despliega un orbe/torreta oscuro que dispara por su cuenta, "desde alguna otra línea temporal" (coherente a propósito con toda su relación con líneas temporales alternativas — el nombre del arma funciona como diálogo real y como guiño). Carina lo nota y reacciona con humor táctico, "Oh, eso es genial", sin dejar de disparar — coherente con su ficha de voz. La transición hacia la Sección XIII se ajustó para que el Sacerdote de Guerra cruce "la grieta del ancla" (la misma por la que salió la horda) en vez de "el hueco por el que Oryx acababa de irse" (que ahora es un punto distinto — el piso colapsado, no la grieta).
 
 **Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVIII, "Three Costs": "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
 
