@@ -564,17 +564,15 @@ No hizo falta. Ya sabía, con la misma certeza fría con la que sabía todo lo d
 
 El borde quedó a unos pasos — el mismo nivel desde el que Oryx y Kyle habían caído, abierto ahora sobre algo mucho más profundo que la superficie de Eirene. Carina no se detuvo a medirlo.
 
-Saltó con Kyle a cuestas.
+—¡Hornet, la nave! —gritó, y saltó con Kyle a cuestas.
 
-Presionó el brazalete a mitad de la caída, la voz cortada por el peso y por el aire que ya empezaba a tragárselas a las dos.
+La luz los encontró a mitad de la caída, Hornet y Ghost trabajando juntos por primera vez en toda la noche — dos firmas distintas tirando de la misma transmisión hasta que el vacío dejó de importar y el interior de Aspect of Glass ocupó su lugar.
 
-—Aspect of Glass. Transmat, ya. Los dos.
+Kyle cayó sobre la plataforma de carga, entero, respirando, inconsciente.
 
-La luz las encontró antes de que el vacío terminara de decidir qué hacer con ellas.
+Arriba, en la superficie que acababan de dejar atrás, Elsie ya corría hacia Duality — la nave de Kyle, la más cercana, la única con los nodos de salto todavía calibrados para lo que venía. No pidió permiso. No hizo falta.
 
-Reaparecieron en la superficie, a unos metros del punto exacto donde el suelo se había abierto. No hizo falta explicarle nada a Hornet — la carcasa ya se retiraba a la distancia mínima que consideraba segura, lista para la próxima vez que hiciera falta.
-
-Carina no tuvo tiempo de agradecerle. Elsie seguía de pie entre los últimos lacayos caídos, y el cielo entero terminaba de decidir que ya no era un cielo confiable.
+Las dos naves se encontraron en el aire sobre lo que quedaba del puerto, rumbo a la zona de evacuación, mientras abajo el cielo entero terminaba de decidir que ya no era un cielo confiable.
 
 Las naves que habían empezado a despegar se inmovilizaron en el cielo, congeladas en un instante que ningún motor podía explicar. Las rutas de escape que un segundo antes existían dejaron de existir, no destruidas sino borradas, como si nunca hubieran sido reales.
 
@@ -590,13 +588,17 @@ Era, simplemente, una cuestión de escala.
 
 ## XVII. The Worlds Behind the Door
 
-Ghost no esperó a que se lo pidieran. Se lanzó sobre la herida de Kyle apenas Carina lo dejó en el suelo, forzando cada fragmento de Luz que todavía respondía a través de un cuerpo que, minutos antes, había dejado de ser suyo en la forma que más importaba. No fue una reconstrucción completa — ni cerca. Cerró lo que tenía que cerrar para que Kyle no se desangrara ahí mismo, y dejó el resto para después, si es que había un después.
+Ghost no esperó a que se lo pidieran. Se lanzó sobre la herida de Kyle apenas Carina lo dejó sobre la plataforma de carga de Aspect of Glass, forzando cada fragmento de Luz que todavía respondía a través de un cuerpo que, minutos antes, había dejado de ser suyo en la forma que más importaba. No fue una reconstrucción completa — ni cerca. Cerró lo que tenía que cerrar para que Kyle no se desangrara ahí mismo, y dejó el resto para después, si es que había un después.
 
 Kyle se incorporó, tambaleante, la mano izquierda todavía sin responder del todo, el costado ardiendo bajo la armadura rota.
 
 —Todavía estoy aquí —dijo, la voz más ronca de lo que pretendía.
 
 —Por poco —dijo Ghost, sin apartar la lente de él.
+
+Aspect of Glass tocó tierra en el borde de la zona de evacuación, entre las últimas naves que todavía intentaban formar una fila de despegue. Duality aterrizó segundos después, Elsie bajando antes de que el casco terminara de asentarse del todo, cruzando la distancia hacia ellos sin decir una palabra hasta estar lo bastante cerca para que los tres pudieran verse la cara.
+
+—Vivo —dijo, mirando a Kyle de arriba abajo, la voz más aliviada de lo que su expresión dejaba ver—. Bien. Eso simplifica lo que viene.
 
 El cielo, sobre los tres, eligió ese momento exacto para dejar de fingir que todavía era un cielo.
 
@@ -740,7 +742,9 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 **Mecánica real de Shadowshot en la Sección XVI (2026-08-13), a petición del autor.** El disparo que detiene a Oryx dejó de ser una "cuerda" abstracta que Carina cierra en el aire y sostiene con la mano — ahora se describe el arco de Vacío formándose completo y elegante ("la curva completa, tensa, elegante, algo que por fin encontraba el cuerpo correcto para existir"), y ella tensa la cuerda del arco y suelta una flecha de energía violeta-oscura que cae **a los pies de Oryx**, no contra su cuerpo — la puntería nunca falla, como si el instinto ya supiera dónde tiene que caer para detener a un oponente. El impacto libera el tether (mecánica real de Shadowshot), no una cuerda que ella sostiene y puede soltar — se ajustaron en cascada las dos menciones siguientes ("sin soltar la cuerda" → "sabiendo que el tether no iba a aguantar mucho más"; "la cuerda cedió sola" → "el tether cedió"). También se cambió la pregunta interna de Carina de *¿qué sostiene esto?* (lectura táctica, eco literal del dron del Cap. 15) a **¿qué elijo sostener?* — de leer un mecanismo externo a una decisión propia, con Kyle como esa decisión. Se cortó "No pensó en Kyle como en Chispitas, ni en nada que tuviera todavía nombre propio entre los dos" — el autor señaló que el apodo sobraba en esta escena; el resto de la frase (pensarlo como un Portaluz caído, alguien que juró lo mismo que ella) se conserva intacto.
 
-**Resuelto con el autor: el salto es un respiro táctico, no el escape final del planeta.** El pedido original (Carina+Kyle escapan por transmat, Elsie/Ghost/Hornet se van en la nave de Elsie, Carina ve la sustitución completa desde su ventana) habría contradicho el final ya escrito de las Secciones XVIII-XIX (Elsie fuerza una grieta compartida, los tres cruzan juntos, costo real ya registrado en `SAGA_LEVEL.md`, pagado en el Cap. 18). Confirmado que ese final **no se toca** — lo que se aplicó es solo el tramo de extracción inmediata: Carina, en vez de trepar de vuelta por el mismo hueco, salta con Kyle hacia un vacío más profundo cerca del borde del nivel donde cayeron, llama a Aspect of Glass por el brazalete ("Transmat, ya. Los dos.") y reaparece con él en la superficie, a metros del mismo punto — sigue siendo Eirene, siguen estando todos ahí, se reencuentran con Elsie en el mismo instante que ya estaba escrito. Se sumó el beat pedido: Kyle ve el ancla de luz violeta sosteniendo a Oryx como lo último antes de perder el conocimiento del todo (antes solo "empezaba a sentir que la Luz no iba a llegar a tiempo", nunca se apagaba del todo en la página) — **ajuste de continuidad en cascada**: la línea de la Sección XVII ("Kyle, apenas consciente contra el hombro de Carina") ya no era compatible con esa inconsciencia completa, así que se corrigió a "Kyle todavía inconsciente... sin oír ninguna parte de esto" — Ghost lo reanima recién al abrir la Sección XVII ("Ghost... se lanzó sobre la herida de Kyle... Kyle se incorporó, tambaleante"), que ya encajaba sin cambios.
+**Resuelto con el autor, en dos pasadas: el salto es un respiro táctico, la grieta de Elsie sigue siendo el escape final — pero el vehículo de en medio son dos naves reales, no una reaparición a pie.** Versión final de la Sección XVI: el tether cede, Carina grita "¡Hornet, la nave!" y salta con Kyle hacia el vacío; Hornet y Ghost transmatean a los dos juntos —trabajando en conjunto por primera vez en la noche— directo a la plataforma de carga de **Aspect of Glass**. Arriba, Elsie corre hacia **Duality** (la nave de Kyle, no la suya) y despega por su cuenta. Las dos naves se encuentran en el aire rumbo a la zona de evacuación — no aterrizan de vuelta en el punto donde cayeron. Se sumó el beat pedido: Kyle ve el ancla de luz violeta sosteniendo a Oryx como lo último antes de perder el conocimiento del todo (antes solo "empezaba a sentir que la Luz no iba a llegar a tiempo", nunca se apagaba del todo en la página).
+
+**Ajustes de continuidad en cascada, Secciones XVI-XVII.** La línea de la Sección XVII ("Kyle, apenas consciente contra el hombro de Carina") ya no era compatible con la inconsciencia completa recién establecida — corregida a "Kyle todavía inconsciente... sin oír ninguna parte de esto". Ghost cura a Kyle "sobre la plataforma de carga de Aspect of Glass" (antes "en el suelo") — la sanación ocurre a bordo, durante el vuelo corto. Se agregó un aterrizaje explícito en el borde de la zona de evacuación (Aspect of Glass primero, Duality segundos después) con Elsie cruzando a pie hasta reunirse con los otros dos ("Vivo. Bien. Eso simplifica lo que viene") — necesario para que "los tres" vuelvan a estar físicamente juntos antes de que se abra el cielo (Sección XVII) y Elsie pueda extender su resistencia sobre Kyle y Carina para forzar la grieta (Sección XVIII, sin cambios) — **el escape final del planeta sigue siendo exactamente el que ya estaba escrito**, con el costo real de Elsie intacto y sin tocar `SAGA_LEVEL.md` ni el Cap. 18.
 
 **Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVIII, "Three Costs": "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
 
