@@ -570,6 +570,12 @@ La luz los encontró a mitad de la caída, Hornet y Ghost trabajando juntos por 
 
 Kyle cayó sobre la plataforma de carga, entero, respirando, inconsciente.
 
+El rugido llegó un instante después — el mismo que Kyle había escuchado una sola vez, minutos antes, saliendo de la garganta de Oryx como algo que no necesitaba traducción. Esta vez no fue para él. Fue para las naves que se alejaban, para el tether roto, para lo que se le había escapado entre los dedos. Se sintió hasta dentro de la cabina blindada de Aspect of Glass, un sonido que no debería haber tenido forma de cruzar el casco y la encontró de todas formas.
+
+Carina cerró los ojos.
+
+—Creo que lo hice enojar —le dijo a Hornet, sin abrirlos todavía.
+
 Arriba, en la superficie que acababan de dejar atrás, Elsie ya corría hacia Duality — la nave de Kyle, la más cercana, la única con los nodos de salto todavía calibrados para lo que venía. No pidió permiso. No hizo falta.
 
 Las dos naves se encontraron en el aire sobre lo que quedaba del puerto, rumbo a la zona de evacuación, mientras abajo el cielo entero terminaba de decidir que ya no era un cielo confiable.
@@ -588,17 +594,17 @@ Era, simplemente, una cuestión de escala.
 
 ## XVII. The Worlds Behind the Door
 
-Ghost no esperó a que se lo pidieran. Se lanzó sobre la herida de Kyle apenas Carina lo dejó sobre la plataforma de carga de Aspect of Glass, forzando cada fragmento de Luz que todavía respondía a través de un cuerpo que, minutos antes, había dejado de ser suyo en la forma que más importaba. No fue una reconstrucción completa — ni cerca. Cerró lo que tenía que cerrar para que Kyle no se desangrara ahí mismo, y dejó el resto para después, si es que había un después.
+Ghost no esperó a que se lo pidieran. Se lanzó sobre la herida de Kyle apenas Carina lo dejó sobre la plataforma de carga de Aspect of Glass, forzando cada fragmento de Luz que todavía respondía a través de un cuerpo que, minutos antes, había dejado de ser suyo en la forma que más importaba. Cerró lo que tenía que cerrar — el costado, la mano, la peor de las quemaduras — hasta que el cuerpo dejó de estar en peligro inmediato.
 
-Kyle se incorporó, tambaleante, la mano izquierda todavía sin responder del todo, el costado ardiendo bajo la armadura rota.
+Kyle no se movió.
 
-—Todavía estoy aquí —dijo, la voz más ronca de lo que pretendía.
+—El cuerpo va a sanar —dijo Ghost, y por primera vez en mucho tiempo su voz no sonó segura de sí misma—. Lo que no sé es a dónde se fue lo demás. No puedo curar cansado, Carina. No sé curar esto.
 
-—Por poco —dijo Ghost, sin apartar la lente de él.
+Carina lo sostuvo contra ella, un brazo bajo los hombros de Kyle, sin soltarlo.
 
-Aspect of Glass tocó tierra en el borde de la zona de evacuación, entre las últimas naves que todavía intentaban formar una fila de despegue. Duality aterrizó segundos después, Elsie bajando antes de que el casco terminara de asentarse del todo, cruzando la distancia hacia ellos sin decir una palabra hasta estar lo bastante cerca para que los tres pudieran verse la cara.
+Aspect of Glass tocó tierra en el borde de la zona de evacuación, entre las últimas naves que todavía intentaban formar una fila de despegue. Duality aterrizó segundos después, Elsie bajando antes de que el casco terminara de asentarse del todo, cruzando la distancia hacia ellos sin decir una palabra hasta estar lo bastante cerca para ver lo que Carina sostenía.
 
-—Vivo —dijo, mirando a Kyle de arriba abajo, la voz más aliviada de lo que su expresión dejaba ver—. Bien. Eso simplifica lo que viene.
+—Vivo —dijo, la voz más aliviada de lo que su expresión dejaba ver, mirando el peso muerto de Kyle contra el hombro de Carina—. Bien. Eso simplifica lo que viene.
 
 El cielo, sobre los tres, eligió ese momento exacto para dejar de fingir que todavía era un cielo.
 
@@ -618,6 +624,8 @@ Nadie tuvo tiempo de procesar la escala completa de lo que estaban viendo. El su
 
 —Tengo una forma de sacarnos —dijo Elsie, la voz tensa de una decisión que ya había tomado antes de anunciarla—. A los tres. No a todos los demás. Solo a nosotros tres, y eso ya va a costar más de lo que puedo permitirme decir en voz alta ahora mismo.
 
+Kyle abrió los ojos el tiempo justo para encontrar los de ella. No se enderezó. No hizo falta más que eso — todavía sostenido por Carina, la voz reducida a un hilo que apenas salió de su pecho.
+
 —Hazlo —dijo Kyle.
 
 —Todavía no. —Elsie miró hacia el puerto, hacia las naves congeladas, hacia la gente que Carina seguía empujando hacia cualquier salida que quedara—. Denme el tiempo que puedan. El máximo. Cada minuto es gente real saliendo de aquí antes de que deje de haber un aquí.
@@ -636,7 +644,7 @@ Kyle sintió el peso de la esencia de Crota en su pecho, la credencial fría y s
 
 —Estoy contigo.
 
-Extendió la mano derecha —la única que todavía le respondía sin protestar— hacia el aire que ya no se sentía del todo real, buscando no un portal sino una grieta — el mismo tipo de fisura que una vez se había negado a reconocerlo en el Acorazado, forzada ahora desde el lado equivocado, con una credencial que nunca había sido diseñada para esto. El aire se abrió, resistiéndose, cediendo solo porque algo en la credencial insistía en que Kyle tenía, técnicamente, el derecho de forzarla.
+Carina le sostuvo el brazo derecho por el codo, guiándolo, prestándole la fuerza que a Kyle ya no le quedaba para levantarlo por su cuenta. Juntos lo extendieron hacia el aire que ya no se sentía del todo real, buscando no un portal sino una grieta — el mismo tipo de fisura que una vez se había negado a reconocerlo en el Acorazado, forzada ahora desde el lado equivocado, con una credencial que nunca había sido diseñada para esto. El aire se abrió, resistiéndose, cediendo solo porque algo en la credencial insistía en que Kyle tenía, técnicamente, el derecho de forzarla.
 
 Elsie cerró los ojos.
 
@@ -650,7 +658,9 @@ Lo que hizo después no tuvo nombre en ningún idioma que ella conociera complet
 
 Kyle, Carina y Elsie cruzaron la fisura en el instante exacto en que Eirene terminó de dejar de estar donde había estado.
 
-Desde el otro lado, lo último que Kyle alcanzó a ver fue el cielo entero de Eirene cerrándose sobre sí mismo, la luz del sol amarillo que lo había iluminado toda la tarde reemplazada, en el mismo parpadeo, por algo mucho más viejo y mucho menos dispuesto a compartir su luz con nada.
+Desde el otro lado, Kyle encontró la fuerza para un último instante de foco — no para el cielo, no para lo que quedaba detrás de ellos, sino para Carina, todavía de pie, y para Elsie, todavía entera, las dos ahí, las dos a salvo. Fue suficiente. Se dejó ir, el peso completo de su cuerpo cediendo por fin contra el brazo de Carina, la conciencia apagándose sin drama, sin resistencia, como algo que llevaba minutos esperando el permiso para hacerlo.
+
+Detrás de ellos, el cielo entero de Eirene se cerró sobre sí mismo, la luz del sol amarillo que lo había iluminado toda la tarde reemplazada, en el mismo parpadeo, por algo mucho más viejo y mucho menos dispuesto a compartir su luz con nada. Kyle no lo vio. Carina sí, sosteniéndolo, y no apartó la mirada hasta que no quedó nada más que mirar.
 
 Cuando la sustitución terminó, en la posición orbital donde una luna colonizada había sostenido asentamientos, mercados, niños corriendo entre puestos de vigilancia, había algo más.
 
@@ -658,7 +668,7 @@ Primero una sombra circular. Después una atmósfera que ningún instrumento hum
 
 El universo pareció aceptar la sustitución.
 
-Ninguno de los tres, de pie en el borde de lo que quedaba, lo aceptó en absoluto.
+Ni Elsie ni Carina, de pie en el borde de lo que quedaba —Kyle inconsciente entre ellas, sostenido por las dos—, lo aceptaron en absoluto.
 
 ---
 
@@ -678,9 +688,11 @@ Ghost no pudo responder eso tampoco.
 
 Fue peor que cualquier cifra que hubiera podido ofrecer.
 
-Kyle se quedó mirando el punto donde Eirene había estado — donde ahora había algo más, algo sin nombre todavía para ninguno de los tres, algo que se sentía, incluso desde la distancia segura donde estaban parados, profundamente mal de una forma que ningún campo de batalla anterior había logrado sentirse. Elsie, a su lado, se llevó una mano a la sien, un gesto pequeño, casi invisible, que solo Kyle notó — el primer indicio, silencioso, de que algo en ella ya no estaba del todo donde debía estar.
+Elsie se quedó mirando el punto donde Eirene había estado — donde ahora había algo más, algo sin nombre todavía para ninguna de las dos, algo que se sentía, incluso desde la distancia segura donde estaban paradas, profundamente mal de una forma que ningún campo de batalla anterior había logrado sentirse. Se llevó una mano a la sien, un gesto pequeño, casi invisible, que solo Carina notó — el primer indicio, silencioso, de que algo en ella ya no estaba del todo donde debía estar.
 
-Ninguno de los tres dijo nada durante un tiempo que ninguno se molestó en medir.
+Kyle no vio nada de esto. Seguía donde Carina lo había dejado, la cabeza contra su hombro, respirando, ausente de una forma que ni Ghost ni la Luz de nadie parecían poder alcanzar.
+
+Ninguna de las dos dijo nada durante un tiempo que ninguna se molestó en medir.
 
 Habían hecho todo correctamente.
 
@@ -743,6 +755,8 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 **Mecánica real de Shadowshot en la Sección XVI (2026-08-13), a petición del autor.** El disparo que detiene a Oryx dejó de ser una "cuerda" abstracta que Carina cierra en el aire y sostiene con la mano — ahora se describe el arco de Vacío formándose completo y elegante ("la curva completa, tensa, elegante, algo que por fin encontraba el cuerpo correcto para existir"), y ella tensa la cuerda del arco y suelta una flecha de energía violeta-oscura que cae **a los pies de Oryx**, no contra su cuerpo — la puntería nunca falla, como si el instinto ya supiera dónde tiene que caer para detener a un oponente. El impacto libera el tether (mecánica real de Shadowshot), no una cuerda que ella sostiene y puede soltar — se ajustaron en cascada las dos menciones siguientes ("sin soltar la cuerda" → "sabiendo que el tether no iba a aguantar mucho más"; "la cuerda cedió sola" → "el tether cedió"). También se cambió la pregunta interna de Carina de *¿qué sostiene esto?* (lectura táctica, eco literal del dron del Cap. 15) a **¿qué elijo sostener?* — de leer un mecanismo externo a una decisión propia, con Kyle como esa decisión. Se cortó "No pensó en Kyle como en Chispitas, ni en nada que tuviera todavía nombre propio entre los dos" — el autor señaló que el apodo sobraba en esta escena; el resto de la frase (pensarlo como un Portaluz caído, alguien que juró lo mismo que ella) se conserva intacto.
 
 **Resuelto con el autor, en dos pasadas: el salto es un respiro táctico, la grieta de Elsie sigue siendo el escape final — pero el vehículo de en medio son dos naves reales, no una reaparición a pie.** Versión final de la Sección XVI: el tether cede, Carina grita "¡Hornet, la nave!" y salta con Kyle hacia el vacío; Hornet y Ghost transmatean a los dos juntos —trabajando en conjunto por primera vez en la noche— directo a la plataforma de carga de **Aspect of Glass**. Arriba, Elsie corre hacia **Duality** (la nave de Kyle, no la suya) y despega por su cuenta. Las dos naves se encuentran en el aire rumbo a la zona de evacuación — no aterrizan de vuelta en el punto donde cayeron. Se sumó el beat pedido: Kyle ve el ancla de luz violeta sosteniendo a Oryx como lo último antes de perder el conocimiento del todo (antes solo "empezaba a sentir que la Luz no iba a llegar a tiempo", nunca se apagaba del todo en la página).
+
+**Segunda ronda de ajustes sobre la misma extracción (2026-08-13).** Tres detalles nuevos pedidos por el autor: (1) Oryx, al soltarse del tether, suelta el rugido característico del personaje in-game — se escucha incluso dentro de la cabina blindada de Aspect of Glass; Carina reacciona con "Creo que lo hice enojar" a Hornet, aliviando el tono un instante antes de que la escala del desastre vuelva a caer encima. (2) Kyle deja de despertar en la cabina (se cortó "Kyle se incorporó, tambaleante" / "Todavía estoy aquí") — Ghost cierra las heridas físicas pero es explícito en que no puede curar el agotamiento mental ("No puedo curar cansado... No sé curar esto"); Carina lo sostiene físicamente el resto del capítulo, resolviendo cómo se le mueve. (3) Cascada hacia el clímax ya escrito de la grieta (Secc. XVIII-XIX), resuelta con el autor vía pregunta directa: Kyle no queda inconsciente de golpe — se aferra a un hilo de conciencia lo justo para decir "Hazlo" (Carina sosteniéndole el brazo para extenderlo) y, ya del otro lado, para confirmar con la mirada que Elsie y Carina están a salvo antes de dejarse vencer del todo por el cansancio; el cielo de Eirene cerrándose pasa a ser algo que Carina ve y él ya no. Secc. XX ajustada en consecuencia (Elsie es quien "se queda mirando" el punto donde estuvo Eirene; Kyle sigue inconsciente contra el hombro de Carina) — coincide sin fricción con la apertura ya escrita del Cap. 17 ("Kyle despertó despacio... tal como la fisura lo había dejado caer", Carina ya con equipo médico de campo abierto).
 
 **Ajustes de continuidad en cascada, Secciones XVI-XVII.** La línea de la Sección XVII ("Kyle, apenas consciente contra el hombro de Carina") ya no era compatible con la inconsciencia completa recién establecida — corregida a "Kyle todavía inconsciente... sin oír ninguna parte de esto". Ghost cura a Kyle "sobre la plataforma de carga de Aspect of Glass" (antes "en el suelo") — la sanación ocurre a bordo, durante el vuelo corto. Se agregó un aterrizaje explícito en el borde de la zona de evacuación (Aspect of Glass primero, Duality segundos después) con Elsie cruzando a pie hasta reunirse con los otros dos ("Vivo. Bien. Eso simplifica lo que viene") — necesario para que "los tres" vuelvan a estar físicamente juntos antes de que se abra el cielo (Sección XVII) y Elsie pueda extender su resistencia sobre Kyle y Carina para forzar la grieta (Sección XVIII, sin cambios) — **el escape final del planeta sigue siendo exactamente el que ya estaba escrito**, con el costo real de Elsie intacto y sin tocar `SAGA_LEVEL.md` ni el Cap. 18.
 
