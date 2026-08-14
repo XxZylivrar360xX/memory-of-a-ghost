@@ -83,11 +83,11 @@ ambos lados. Mara es peligrosa para Riven porque sabe esperar.
 
 - ✅ "Los insomnes son ahora mi familia. Y yo, soy su reina." — emoción convertida en institución,
   no solemnidad vacía.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Sacrifice_Under_The_Rings]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Queen_Who_Would_Not_Kneel]])
 - ✅ "Mara Sov no se inclina ante nadie." — autoridad frontal, dicha como hecho político.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Sacrifice_Under_The_Rings]])
-- ✅ "Los insomnes han cumplido con su parte [...] Guíalos, mi amiga Oculta. Ahora todo depende de ti." — costo nombrado mientras ocurre; no borra la pérdida.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Sacrifice_Under_The_Rings]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Queen_Who_Would_Not_Kneel]])
+- ✅ "Guíalos, mi amiga Oculta. Lo que quede de ellos. Lo que puedas." — costo nombrado en el momento, sin certeza narrativa sobre su propio destino.
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Queen_Who_Would_Not_Kneel]])
 - ✅ "No voy a ser una frase de tu discurso. Voy a ser la excepción que tu lógica no puede explicar." — resistencia como arquitectura mental.
   ([[11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/05_The_Fold_That_Resists]])
 - ❌ "Todo salió exactamente como lo planeé." — chessmaster meme; borra costos reales y falibilidad.

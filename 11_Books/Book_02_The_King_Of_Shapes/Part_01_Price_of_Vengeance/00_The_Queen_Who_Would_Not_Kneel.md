@@ -1,4 +1,4 @@
-# Interlude — The Sacrifice Under the Rings
+# Interlude — The Queen Who Would Not Kneel
 
 *Destiny: Renewed Fate — Book 02: The King of Shapes*
 *Puente entre el Prólogo y Part 01 — sin número de capítulo global*
@@ -91,7 +91,7 @@ Se irguió un centímetro más, algo en su postura endureciéndose de un modo qu
 
 ---
 
-## IV. The Message Beneath the Sacrifice
+## IV. The Message to the Cave
 
 Detrás de ella aguardaban las Techeuns — cuatro figuras envueltas en túnicas blancas cruzadas por una franja roja que caía recta desde el cuello hasta el suelo, los rostros ocultos detrás de máscaras plateadas y sin rasgos, las capuchas altas volviéndolas indistinguibles entre sí salvo por la forma exacta en que cada una sostenía las manos.
 
@@ -105,7 +105,7 @@ Y en ese instante exacto, mientras la corriente todavía se construía, la voz d
 
 Habló hacia la Luna. Hacia una cueva bajo el Foso Infernal, donde una mujer sin ojos escuchaba lo que nadie más en el Sistema Solar tenía permitido escuchar todavía.
 
-—Tú y yo sabemos cómo termina esto, Eris —dijo, la voz llevada por el mismo tejido paracausal que estaba a punto de invocar a los Heraldos, tan quieta que sonaba menos a confesión que a un hecho ya asentado—. Lo sabemos desde que escapaste de aquel pozo.
+—Sabes lo que esto va a costar, Eris —dijo, la voz llevada por el mismo tejido paracausal que estaba a punto de invocar a los Heraldos, tan quieta que sonaba menos a confesión que a un hecho ya asentado—. Lo supiste desde que escapaste de aquel pozo.
 
 Más allá del casco de la nave, una línea de luz se abrió en medio del vacío.
 
@@ -149,7 +149,7 @@ La luz de sus ojos empezó a apagarse mientras contemplaba el resultado. Por pri
 
 No miedo. No exactamente.
 
-El reconocimiento de que había llegado, por fin, el momento que llevaba mucho tiempo previendo.
+El reconocimiento de que la batalla acababa de decidirse, y no a su favor.
 
 En una abertura del Acorazado apareció Oryx.
 
@@ -201,25 +201,21 @@ Las primeras naves capitales desaparecieron dentro del resplandor. Los galiotes 
 
 No fue suficiente.
 
-Y fue en ese momento exacto — con la onda todavía cruzando el espacio, todavía a segundos de tragarse a su propio hermano, no después, no como un pensamiento sobre una derrota ya consumada — que Mara volvió a hablarle a la Luna.
+Fue en ese momento — con la onda todavía cruzando el espacio, todavía a segundos de tragarse a su propio hermano — que Mara volvió a hablarle a la Luna.
 
-—Los insomnes han cumplido con su parte —dijo, la voz tan firme como lo había sido al principio de la noche, sin ningún temblor que delatara lo que estaba a punto de perder—. Todo esto formaba parte del plan.
+—Los insomnes hicieron lo que vinieron a hacer —dijo, la voz tan firme como lo había sido al principio de la noche—. Eso no se lo va a quitar nadie.
 
 Uno tras otro, los galiotes quedaron atrapados. Las embarcaciones se desintegraron alrededor de sus tripulantes antes de que el fuego pudiera alcanzarlos siquiera. Las luces de navegación se apagaron. Las comunicaciones se convirtieron en estática. Las formaciones que habían cruzado juntas desde el Arrecife desaparecieron sin dejar nada que pudiera reconocerse después como una tumba.
 
-—Guíalos, mi amiga Oculta —dijo Mara, la esfera ya visible en el ventanal, creciendo hacia el puente donde estaba de pie—. Ahora todo depende de ti.
+—Retirada —dijo Mara, la voz cortando por primera vez en toda la noche—. Todos los que puedan salir, que salgan ahora.
 
-En el puente de la nave de mando, los oficiales insomnes observaban cómo se acercaba la luz. Las Techeuns se prepararon para abrir sus propias rutas de escape — todas, salvo una. Horas antes, en privado, lejos de cualquier oficial, Mara les había dado una orden distinta: no un escape para ella, sino un cauce. Un pliegue trazado con precisión hacia el único lugar del universo donde esa esfera, además de destrucción, tenía una puerta.
+No fue una orden que nadie tuviera tiempo real de ejecutar.
 
-Mara no se movió.
+En el puente de la nave de mando, los oficiales insomnes intentaban abrir rutas de escape que la esfera ya empezaba a tragarse antes de que terminaran de trazarse. Las Techeuns se dispersaron hacia sus propios pliegues, gritando coordenadas que dejaban de ser válidas apenas se pronunciaban — todas, salvo una, que llevaba horas preparada en privado, sin que ningún oficial en el puente supiera bien hacia dónde apuntaba.
 
-No retrocedió. No buscó refugio. No porque no hubiera adónde ir, sino porque ya sabía exactamente adónde iba a caer.
+—Guíalos, mi amiga Oculta —dijo Mara, la esfera ya visible en el ventanal, creciendo hacia el puente donde estaba de pie—. Lo que quede de ellos. Lo que puedas.
 
-Durante un instante, toda la carga de las vidas entregadas se reflejó en su rostro — no eran piezas abstractas sobre un tablero. Eran su pueblo. Sus pilotos. Sus soldados. Los insomnes que habían confiado en que su reina los conduciría de regreso a casa.
-
-Mara sintió cómo morían.
-
-Y aun así sostuvo el plan.
+No hubo tiempo de saber si Eris alcanzó a hacer algo con esa orden. Tampoco hubo tiempo de saber qué pasó con el pliegue que nadie en el puente supo explicar después.
 
 La esfera llenó el ventanal.
 
@@ -274,5 +270,7 @@ Nota narrativa: interludio añadido 2026-07-30, a petición del autor, rebautiza
 **Corrección de continuidad (2026-07-30), a petición del autor: la escena del holomapa en la Torre (Zavala/Ikora/Cayde/Eris) se retiró de este interludio.** Se había insertado como Sección VIII, justo después de la batalla, pero eso es cronológicamente imposible dentro del propio canon adaptado: la Vanguardia solo conecta la destrucción de la flota insomne con la llegada de Oryx *después* de recibir el reporte de Phobos (Cap. 9) — Ikora aporta el dato de Saturno (el arma del Acorazado disparada una sola vez), Zavala aporta lo que el Guardian presenció en Phobos (Cabal vueltos contra Cabal), y solo entonces Eris identifica a los Poseídos y anuncia que Oryx ha llegado. Colocar esa escena antes de Phobos rompía esa cadena de descubrimiento. La escena completa (holomapa, la línea de Eris "no fue una derrota... fue un precio") queda guardada como semilla en `07_Unsorted_Ideas/Semillas_2026-07-30_HolomapaVanguardia.md`, para insertarse en su lugar correcto — después del Cap. 9 ("Phobos") y antes o al inicio del Cap. 10 ("The King's Hand"), donde Elsie ya empieza a leer el patrón desde afuera.
 
 **Hilo pendiente para el futuro Capítulo 14 ("The Physical Regicide"):** el autor señaló que el cierre de esa escena —después de que el Guardian derrota físicamente a Oryx— debería responder directamente a esta conversación: Eris dirigiéndose a Mara, confirmando que tenía razón, porque Kyle era la clave. No aplicado todavía; anotado aquí para cuando se redacte ese capítulo, sin tocar el archivo fuente existente sin instrucción explícita.
+
+**Reframing: derrota de la flota, no sacrificio confirmado (2026-08-13), a petición explícita del autor — revierte parcialmente una decisión previa del 2026-07-30.** El autor señaló que la escena le daba demasiado foco y certeza al "sacrificio" de Mara — debía leerse más como la derrota caótica de la flota insomne, sin que nadie (ni la prosa misma) asuma que ella realmente se sacrificó. Cambios aplicados: (1) **Título del archivo** cambiado de "The Sacrifice Under the Rings" a "The Queen Who Would Not Kneel" — completando un rebautizo que el footer original ya mencionaba pero que nunca se aplicó al header real. (2) **Sección IV** ("The Message Beneath the Sacrifice" → "The Message to the Cave"): la línea de Mara a Eris pasa de "Tú y yo sabemos cómo termina esto" a "Sabes lo que esto va a costar" — ya no confirma que ambas conocen de antemano el destino personal de Mara, solo el costo de la batalla. (3) **Sección V**: "el momento que llevaba mucho tiempo previendo" (framing de fatalismo personal) pasa a "la batalla acababa de decidirse, y no a su favor" (lectura táctica, no profecía sobre su propio fin). (4) **Sección VI**, el cambio central: se quita el narrador confirmando explícitamente que las líneas de Mara "no son un pensamiento posterior a la derrota... confirmando que el sacrificio ya estaba previsto" — ahora reacciona en el momento, sin ese sello de certeza retrospectiva. "Todo esto formaba parte del plan" (framing de plan personal con final ya sabido) pasa a "Eso no se lo va a quitar nadie" (orgullo táctico en el momento, no profecía). La orden "no un escape para ella, sino un cauce... hacia el único lugar del universo donde esa esfera tenía una puerta" —narrada con certeza total sobre su destino— se reemplaza por un pliegue entre muchos que "nadie en el puente supo explicar después": **el mecanismo causal que conecta con el atraco ya escrito en `05_Dialogues/Dialogue_Mara/Mara_Eris_TakenKing_LoQueNingunoModelo.md` (reservado como recuerdo retrospectivo futuro, no narrado todavía en tiempo real en Book 02) se preserva intacto, pero ya no se narra con la certeza omnisciente de "ella sabía exactamente adónde iba a caer"** — desde la perspectiva de cualquiera en ese puente, incluido el lector de Book 02, es un pliegue más entre el caos, sin explicación. Se cortó también "Mara sintió cómo morían. Y aun así sostuvo el plan." — la composición serena de alguien ejecutando un plan personal ya conocido. **Verificado sin romper nada:** Eris/Osiris siguen siendo, en su propia escena reservada, quienes de verdad saben que Mara sobrevivió por diseño — esa escena no se tocó y sigue sin narrarse en Book 02; la línea de Kyle en el Cap. 25 ("Se sacrificó en Saturno... eso ya lo sabemos" / Eris: "Eso es lo que el sistema entero cree que sabe") ya funcionaba correctamente como creencia popular no confirmada y no necesitó cambios. Sección VII ("Mara Sov ya no estaba allí para verlo") tampoco necesitó cambios — ya era apropiadamente ambigua.
 
 **Correcciones de continuidad (2026-07-30), aplicadas tras auditoría de Codex** (`99_Reference/Agent_Notes/codex/2026-07-30_auditoria-book02-interlude-queen-who-would-not-kneel.md`): (1) el cierre de Uldren en la Sección VI se reescribió para que la luz corte comunicación, no vida — pierde sistemas y telemetría, no queda declarado muerto, preservando su supervivencia necesaria para Forsaken (`Petra_Mara_TakenKing_LaBatallaDeSaturno.md` ya lo confirmaba a la deriva con sistemas mínimos); (2) se insertó una precisión mínima en la Sección VI — las Techeuns preparan, por orden previa de Mara, un cauce paracausal hacia el Mundo Trono en vez de solo una ruta de escape — para que su desaparición se lea como movimiento deliberado del atraco, no como evaporación pasiva, protegiendo la causalidad hacia `Mara_Eris_TakenKing_LoQueNingunoModelo`; (3) la línea de apertura de Ghost se suavizó de "el mismo día en que el Viajero murió" a "el mismo día en que el Viajero calló", evitando una afirmación cosmológica que el vault no sostiene (el Viajero queda herido/silencioso tras el Colapso, no muerto).

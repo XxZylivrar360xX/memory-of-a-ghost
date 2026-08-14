@@ -68,4 +68,4 @@ Solo quedó, en el centro, la sombra descomunal del Acorazado — intacta, inmó
 
 ---
 
-*Conecta con: [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_The_Alarm_That_Learned_His_Name]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Hand_That_Closed]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Sacrifice_Under_The_Rings]], [[02_Characters/Eris_Morn]], [[02_Characters/Zavala]], [[02_Characters/Ikora]], [[02_Characters/Cayde-6]]*
+*Conecta con: [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/02_The_Alarm_That_Learned_His_Name]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/03_The_Hand_That_Closed]], [[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/00_The_Queen_Who_Would_Not_Kneel]], [[02_Characters/Eris_Morn]], [[02_Characters/Zavala]], [[02_Characters/Ikora]], [[02_Characters/Cayde-6]]*
