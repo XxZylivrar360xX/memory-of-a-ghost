@@ -552,7 +552,9 @@ Hornet cubrió el resto de la distancia por ella, la carcasa interponiéndose en
 
 —Te tengo —dijo, sin saber si él podía oírla—. Te tengo. No te vas a morir hoy. No así. No sin que yo lo decida.
 
-El tether cedió, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
+Kyle alcanzó a ver el ancla de luz violeta todavía sosteniendo a Oryx, tenso contra algo que no debería poder tensarlo — lo último que su cuerpo le permitió registrar antes de que la oscuridad detrás de los ojos dejara de ser una amenaza y se convirtiera, sin más aviso, en el lugar donde estaba.
+
+El tether cedió un instante después, incapaz de sostener por más tiempo algo de esa escala. Oryx se enderezó, la sorpresa genuina cruzándole el rostro por primera vez en toda la pelea.
 
 —Interesante —dijo, en voz baja, mirando la dirección exacta en que Carina ya corría con Kyle a cuestas—. Muy interesante.
 
@@ -560,11 +562,23 @@ No los persiguió.
 
 No hizo falta. Ya sabía, con la misma certeza fría con la que sabía todo lo demás, que Eirene entera iba a terminar siendo suya de todas formas.
 
-Carina encontró el mismo hueco por el que había saltado y trepó de vuelta a la superficie con Kyle a cuestas y Hornet abriéndole camino, los brazos temblando por el esfuerzo — justo a tiempo para encontrar a Elsie todavía de pie entre los últimos lacayos caídos, y el cielo entero terminando de decidir que ya no era un cielo confiable.
+El borde quedó a unos pasos — el mismo nivel desde el que Oryx y Kyle habían caído, abierto ahora sobre algo mucho más profundo que la superficie de Eirene. Carina no se detuvo a medirlo.
+
+Saltó con Kyle a cuestas.
+
+Presionó el brazalete a mitad de la caída, la voz cortada por el peso y por el aire que ya empezaba a tragárselas a las dos.
+
+—Aspect of Glass. Transmat, ya. Los dos.
+
+La luz las encontró antes de que el vacío terminara de decidir qué hacer con ellas.
+
+Reaparecieron en la superficie, a unos metros del punto exacto donde el suelo se había abierto. No hizo falta explicarle nada a Hornet — la carcasa ya se retiraba a la distancia mínima que consideraba segura, lista para la próxima vez que hiciera falta.
+
+Carina no tuvo tiempo de agradecerle. Elsie seguía de pie entre los últimos lacayos caídos, y el cielo entero terminaba de decidir que ya no era un cielo confiable.
 
 Las naves que habían empezado a despegar se inmovilizaron en el cielo, congeladas en un instante que ningún motor podía explicar. Las rutas de escape que un segundo antes existían dejaron de existir, no destruidas sino borradas, como si nunca hubieran sido reales.
 
-—Eirene está siendo tomado —dijo Ghost, la voz quebrándose en un registro que Kyle, apenas consciente contra el hombro de Carina, no le había escuchado nunca—. Ahora mismo. Completo.
+—Eirene está siendo tomado —dijo Ghost, la voz quebrándose en un registro que Carina no le había escuchado nunca, Kyle todavía inconsciente contra su hombro, sin oír ninguna parte de esto—. Ahora mismo. Completo.
 
 No fue una derrota por incompetencia. Habían hecho todo bien — el ancla destruida, la guardiana derrotada, la evacuación abierta más tiempo del que nadie creía posible. No había sido suficiente, y la razón no tenía nada que ver con lo que habían hecho o dejado de hacer.
 
@@ -726,7 +740,7 @@ Y algo, en el lugar donde Eirene solía estar, ya empezaba a respirar de una for
 
 **Mecánica real de Shadowshot en la Sección XVI (2026-08-13), a petición del autor.** El disparo que detiene a Oryx dejó de ser una "cuerda" abstracta que Carina cierra en el aire y sostiene con la mano — ahora se describe el arco de Vacío formándose completo y elegante ("la curva completa, tensa, elegante, algo que por fin encontraba el cuerpo correcto para existir"), y ella tensa la cuerda del arco y suelta una flecha de energía violeta-oscura que cae **a los pies de Oryx**, no contra su cuerpo — la puntería nunca falla, como si el instinto ya supiera dónde tiene que caer para detener a un oponente. El impacto libera el tether (mecánica real de Shadowshot), no una cuerda que ella sostiene y puede soltar — se ajustaron en cascada las dos menciones siguientes ("sin soltar la cuerda" → "sabiendo que el tether no iba a aguantar mucho más"; "la cuerda cedió sola" → "el tether cedió"). También se cambió la pregunta interna de Carina de *¿qué sostiene esto?* (lectura táctica, eco literal del dron del Cap. 15) a **¿qué elijo sostener?* — de leer un mecanismo externo a una decisión propia, con Kyle como esa decisión. Se cortó "No pensó en Kyle como en Chispitas, ni en nada que tuviera todavía nombre propio entre los dos" — el autor señaló que el apodo sobraba en esta escena; el resto de la frase (pensarlo como un Portaluz caído, alguien que juró lo mismo que ella) se conserva intacto.
 
-**Pendiente de decidir con el autor:** el resto de la Sección XVI (Carina trepando de vuelta con Kyle por el mismo hueco, el reencuentro con Elsie) y las Secciones XVII-XIX (la huida final, el costo de Elsie, la sustitución del planeta) **todavía no se tocaron** — el autor propuso un final distinto para este rescate (Carina saltando con Kyle a un vacío/acantilado cercano y llamando a Aspect of Glass por transmat, mientras Elsie/Ghost/Hornet escapan en la nave de Elsie, y Carina ve la sustitución completa del planeta desde la ventana de su propia nave) que **contradice directamente** el final ya escrito, donde Elsie fuerza una grieta compartida para que los tres crucen juntos en el último segundo, pagando un costo real ya registrado en `SAGA_LEVEL.md` y pagado más adelante en el Cap. 18. Necesita resolverse con el autor antes de tocar esas secciones — no aplicado todavía.
+**Resuelto con el autor: el salto es un respiro táctico, no el escape final del planeta.** El pedido original (Carina+Kyle escapan por transmat, Elsie/Ghost/Hornet se van en la nave de Elsie, Carina ve la sustitución completa desde su ventana) habría contradicho el final ya escrito de las Secciones XVIII-XIX (Elsie fuerza una grieta compartida, los tres cruzan juntos, costo real ya registrado en `SAGA_LEVEL.md`, pagado en el Cap. 18). Confirmado que ese final **no se toca** — lo que se aplicó es solo el tramo de extracción inmediata: Carina, en vez de trepar de vuelta por el mismo hueco, salta con Kyle hacia un vacío más profundo cerca del borde del nivel donde cayeron, llama a Aspect of Glass por el brazalete ("Transmat, ya. Los dos.") y reaparece con él en la superficie, a metros del mismo punto — sigue siendo Eirene, siguen estando todos ahí, se reencuentran con Elsie en el mismo instante que ya estaba escrito. Se sumó el beat pedido: Kyle ve el ancla de luz violeta sosteniendo a Oryx como lo último antes de perder el conocimiento del todo (antes solo "empezaba a sentir que la Luz no iba a llegar a tiempo", nunca se apagaba del todo en la página) — **ajuste de continuidad en cascada**: la línea de la Sección XVII ("Kyle, apenas consciente contra el hombro de Carina") ya no era compatible con esa inconsciencia completa, así que se corrigió a "Kyle todavía inconsciente... sin oír ninguna parte de esto" — Ghost lo reanima recién al abrir la Sección XVII ("Ghost... se lanzó sobre la herida de Kyle... Kyle se incorporó, tambaleante"), que ya encajaba sin cambios.
 
 **Semilla saga — el medallón de Yeva (2026-08-13), a petición del autor.** Carina reciprocia la bufanda de Yeva (Sección II) con un medallón deslustrado de una edición pasada de los Juegos de los Guardianes, sin valor material, pidiéndole que se lo guarde — coherente con su ficha de voz (incomodidad ya establecida en la misma escena por recibir algo sin devolver nada, intimidad traducida en gesto práctico, no en palabras). Yeva no vuelve a aparecer en el capítulo; su destino queda tan ambiguo como ya estaba fijado (Sección XVIII, "Three Costs": "no hubo un cuerpo que confirmara nada, ni en un sentido ni en el otro"). El autor tiene planeado un payoff donde Carina reencuentra el medallón en Lightfall, para una trama todavía sin diseñar — registrado en `12_Craft_Policies/revelations/SAGA_LEVEL.md` ("El medallón de Yeva"). Regla dura nueva: el destino de Yeva no se confirma en prosa hasta ese capítulo futuro, ni antes ni de pasada.
 
