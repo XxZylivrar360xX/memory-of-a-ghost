@@ -10,6 +10,18 @@
 
 Rise of Iron reimaginado. La tesis central, fijada por el autor el 2026-08-08: este libro es un *space western* fusionado con filosofía samurái — donde la tecnología deliberadamente **no** es la respuesta a SIVA. Ya existe base para esto en `Plan_RiseOfIron_Nemo.md`: el caballo de Kyle como contraste directo (sin motor, sin transmat, sin vector para SIVA — "lo que sobrevive no es la forma más avanzada, es la que está fuera del sistema"), la gramática medieval de los Señores de Hierro, y ahora la filosofía de Jaden/Suetake como su contraparte oriental — dos tradiciones de combate premoderno, western y samurái, convergiendo contra una plaga que solo la tecnología más avanzada podría replicar.
 
+## Guía mecánica y estética — fijada 2026-08-16, para cuando arranque la redacción
+
+Decisión del autor: este debe ser un libro **mecánicamente único** dentro de todo lo escrito de Destiny — más foco en armas Tex Mechanica, medios de transporte a caballo, vestimenta de corte western — **sin caer en cliché.**
+
+La salida contra el cliché ya está en la propia tesis del libro (arriba), no hace falta inventar nada nuevo — el western que funciona no es el que se *ve* como western, es el que se *siente* como frontera: tecnología que falla o traiciona, comunidad forjada por necesidad más que por heroísmo individual, silencio y espacio en vez de tiroteos constantes. Tex Mechanica encaja solo, sin forzarlo — ya es, en el canon real, la marca de armas con más carácter/historia propia (Hawkmoon es la referencia obvia).
+
+Tres principios concretos a seguir en la redacción:
+
+1. **Objetos con historia, no con estilo.** Un revólver Tex Mechanica no debe sentirse "occidental" por su forma — debe sentirse así porque tiene desgaste, una muesca, un nombre que alguien le puso por una razón específica (mismo patrón que Última Palabra, Chispitas, Nemo). Especificidad vence a iconografía.
+2. **El caballo de Kyle ya está resuelto de la forma correcta** — no es decoración, es lo único fuera de la red cuando SIVA infecta todo lo demás (`Semillas_2026-08-01_ElCaballo.md`). Esa misma lógica es la brújula para toda la vestimenta y el transporte del libro: si algo se siente western, que sea porque la Edad de SIVA volvió obsoleta la tecnología de punta, no porque "se ve genial".
+3. **Comunidad, no pistolero solitario.** El género cae en cliché cuando se vuelve sobre un héroe silencioso enfrentando al pueblo solo. El antídoto ya está construido: Saladin, Efrideet, los Señores de Hierro como comunidad que se protege mutuamente — mantener eso como centro de gravedad en vez de convertir a Kyle en el forastero que resuelve todo solo.
+
 ## Función del Prólogo
 
 A diferencia del Prólogo de Book 02 (Carina/Lena, enteramente nuevo), el Prólogo de Book 03 se arma con tres capítulos **reubicados desde Book 02** el 2026-08-08, a petición del autor — el origen completo de Jaden como personaje, contado antes de que el libro entre en su presente narrativo:

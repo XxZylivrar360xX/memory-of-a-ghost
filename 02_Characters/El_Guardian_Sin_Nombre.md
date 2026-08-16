@@ -1,15 +1,20 @@
 ---
-title: "Vale — El Camino hacia Dredgen"
+title: "Alden — El Camino hacia Dredgen Vale"
 type: entity
-tags: [personaje, traicion, dredgen, semilla, sin-nombre, pendiente, filosofia]
+tags: [personaje, traicion, dredgen, semilla, filosofia, necromancia]
 created: 2026-06-09
-updated: 2026-06-09
-status: semilla — nombre de trabajo "Vale", nombre final pendiente
+updated: 2026-08-15
+status: nombre verdadero fijado (Alden, 2026-08-15) — antagonista final de la saga, arco completo diseñado en 09_Roadmaps/Plan_Book13_TheLastDebt.md
+aliases: [Alden, Dredgen Vale, Vale]
 ---
 
-# Vale *(nombre de trabajo)*
+# Alden
 
-*El nombre final llegará cuando el personaje se solidifique. "Vale" es la referencia interna hasta entonces.*
+*Nombre verdadero fijado el 2026-08-15. "Vale" fue el nombre de trabajo usado mientras el personaje se solidificaba — ya no aplica como su nombre real dentro de la ficción. **"Dredgen Vale" tampoco es su nombre de origen**: es un nombre robado, tomado (junto con una espada práxica) del cadáver de otro Guardian que él mismo mata mucho después de los eventos descritos en esta ficha. Ver el arco completo en `09_Roadmaps/Plan_Book13_TheLastDebt.md` — Book 13, "The Last Debt".*
+
+*Cualquier escena situada en la época que describe este documento (Vanilla, círculo temprano de Kyle) debe usar "Alden" — todavía no existe "Dredgen Vale" en su vida.*
+
+*Arco completo (necromancia, Los Nueve, el Ejecutor del Destino, doble prisión perpetua) ahora vive en `09_Roadmaps/Plan_Book13_TheLastDebt.md` — Book 13, "The Last Debt", que absorbe lo que antes eran dos apéndices separados.*
 
 Vale es la primera grieta en el patrón de confianza de Kyle. No lo traiciona por odio, por ambición, ni por corrupción simple. Lo traiciona desde una pregunta que empezó siendo casi la misma pregunta que Kyle.
 
@@ -130,7 +135,7 @@ Entra en Vanilla, no post-Crota — durante las semanas entre el Jardín Negro y
 
 ## Lo que queda por definir
 
-- [ ] Nombre final
+- [x] Nombre final — resuelto 2026-08-15: verdadero nombre **Alden**; nombre robado/público final **Dredgen Vale** (ver roadmap del arco completo)
 - [ ] Género / tipo de Guardian (clase)
 - [ ] El resto de los detalles de la operación de entrada (redactar junto con la escena)
 - [ ] ¿Ya tiene contacto Dredgen cuando entra, o el contacto llega durante la amistad?
@@ -141,4 +146,4 @@ Entra en Vanilla, no post-Crota — durante las semanas entre el Jardín Negro y
 
 ---
 
-*Conecta con: [[10_Chapters/Age_I/Cap_01_A_New_Shape]] (nota de desarrollo — el patrón de confianza), [[10_Chapters/Age_I/Cap_02_Bane_of_Hope]] (apertura del Hellmouth — origen de la pregunta de Vale), [[02_Characters/The_Drifter]] (el Dredgen como camino posible), [[02_Characters/Elsie]] (quien no reconocerá el nombre), [[00_Biblia/Los_Errores_De_Kyle]] (Error I — confianza antes de razones), [[08_Core_Relationships/Guardian_Elsie_Bray]]*
+*Conecta con: [[10_Chapters/Age_I/Cap_01_A_New_Shape]] (nota de desarrollo — el patrón de confianza), [[10_Chapters/Age_I/Cap_02_Bane_of_Hope]] (apertura del Hellmouth — origen de la pregunta de Alden), [[02_Characters/The_Drifter]] (el Dredgen como camino posible), [[02_Characters/Elsie]] (quien no reconocerá el nombre), [[00_Biblia/Los_Errores_De_Kyle]] (Error I — confianza antes de razones), [[08_Core_Relationships/Guardian_Elsie_Bray]], [[09_Roadmaps/Plan_Book13_TheLastDebt]] (arco completo: necromancia, Los Nueve, Dredgen Vale robado, Aunor Mahal, el Ejecutor del Destino, doble prisión perpetua)*

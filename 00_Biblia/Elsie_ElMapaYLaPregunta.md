@@ -162,6 +162,8 @@ Es la misma frase, a otra escala. El Viajero deja de huir porque no le queda a d
 
 Por eso Witch Queen, Lightfall y Final Shape son, para Elsie, la historia de su mapa nuevo. Ya no observa líneas — sostiene personas. En Lightfall se arroja al Velo por Ghost (una coordenada, no una línea): la prueba en acto de que la brújula cambió. El primer trazo de ese mapa fue el día que dijo "Kyle" en un transmat de Europa ([[05_Dialogues/Dialogue_Guardian_Elsie/Guardian_Elsie_BeyondLight_ElNombre]]); el "te amo" de Final Shape es el último.
 
+**Origen fijado (2026-08-16) de esa decisión — pendiente de dramatizar en Book 07 (*The Familiar Stranger*, sin `00_Book_Map.md` propio todavía):** justo antes de "The Last Reset", Elsie gasta su último salto posible visitando no una línea alterna más, sino el futuro real de su propia línea principal — un Kyle anciano, al final de su vida, en la mañana en la que comparte una última taza de café con ella antes de su propio cierre (ver [[09_Roadmaps/Plan_Book13_TheLastDebt]], Epílogo). Lo que ve ahí es lo que la convence de volver y demostrarlo en vez de decirlo. **Asimetría dura de la escena, no negociable:** Elsie nunca sabe que era su propio Kyle — ni en el momento, ni después, lo archiva como un Lost Guardian más. Kyle, del otro lado, sí sabe exactamente quién es ella — y no puede revelárselo sin romper el circuito. Cada uno aprende de ese encuentro exactamente lo que necesita para continuar su propio camino. Esta mitad de la escena (la de Elsie) se escribe cuando Book 07 tenga su Book Map; la mitad de Kyle vive en Book 13.
+
 ---
 
 ## Parte III — La Respuesta

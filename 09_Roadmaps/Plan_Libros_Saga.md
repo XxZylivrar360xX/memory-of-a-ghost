@@ -33,7 +33,7 @@
 | 10 | **The Heart of Memory and Bone** | Final Shape, parte 1 — campaña / entrada al Corazón Pálido / preparación de Salvation's Edge | Age XIV |
 | 11 | **A War of One and Many** | Final Shape, parte 2 — Excision y cierre inmediato del Testigo | Age XV |
 | 12 | **The Gambit of the Two Kings** | Final Shape, parte 3 — Echoes/Revenant/Heresy y cierre del Gambito | Ages XVI-XVIII |
-| 13 | **The Last Shape** | Coda final posterior a la saga | Epílogo |
+| 13 | **The Last Debt** *(renombrado 2026-08-15, era "The Last Shape")* | Coda final posterior a la saga — 4 actos: *The Prophecy of Doom* (cadena de reconocimiento Aunor/Orin/Kyle) → Revelación/Escala → Vale supera a Kyle (monólogo; **cae la Última Ciudad para siempre, nace la Confederación en Marte al mando de Caiatl**, causa retroactiva del cataclismo de [[06_Timeline_Archives/Lost_Guardians/El_Ultimo_Guardian]]) → Duelo Final (espadas práxicas, Kyle solo contra Alden/Dredgen Vale en Nueva Orleans, coreografía Prismatic completa, doble prisión) — fusionado con [[04_Concepts/The_Lord_of_Every_Nothing]] — más Epílogo (Ghost, Kyle y Elsie, Sai, eco final de Elsie-Beyond-Light, cierre en `10_Chapters/Epilogo/The_Last_Shape.md`). Diseño completo en [[09_Roadmaps/Plan_Book13_TheLastDebt]]. | Epílogo / "Age XIX provisional" |
 
 ## Decisiones fijadas en el triage del 2026-07-25
 
@@ -47,8 +47,7 @@
 
 No son libros principales de la saga. Quedan listados y reconocidos, fuera de la numeración 0-13, activables solo si el autor decide escribirlos en el futuro:
 
-- **The Prophecy of Doom** — apéndice/evento futuro tentativo para *Edge of Fate*.
-- **The Prisoner of Fate** — apéndice/evento futuro tentativo para *Renegades*.
+- ~~**The Prophecy of Doom**~~ y ~~**The Prisoner of Fate**~~ — **absorbidas (2026-08-15) dentro de Book 13 — The Last Debt**, como sus Partes 1 y 2 respectivamente. Dejan de ser apéndices sueltos/no numerados — ver [[09_Roadmaps/Plan_Book13_TheLastDebt]].
 - **A History of Dead Futures** — libro/apéndice dedicado a los timelines de Elsie (`06_Timeline_Archives/`).
 - **The Crownless Navigator** — libro/apéndice dedicado a Faris.
 - **The Northless King** — libro/apéndice dedicado al Kyle Oscuro del Mandato Cero.
