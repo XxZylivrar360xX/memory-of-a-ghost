@@ -18,20 +18,53 @@ van en `revelations/Book_XX_Titulo.md`.
 
 ---
 
-## Identidad de Vale (el Guardián sin nombre definitivo)
+## Identidad de Alden / Dredgen Vale (villano final, Book 13 — The Last Debt)
 
-- **Qué es:** Vale es un Guardián divergente cuya filosofía Dredgen nace de una pregunta
+- **Qué es:** Alden es un Guardián divergente cuya filosofía Dredgen nace de una pregunta
   hecha en el Hellmouth. Diverge de Kyle en un punto concreto de su cronología — la misma
-  pregunta, dos respuestas distintas.
-- **Se revela en:** sin fijar todavía (libro/capítulo pendiente de diseño).
-- **Quién ya lo sabe (desde cuándo):** nadie del elenco principal todavía.
-- **Quién NO debe saberlo/insinuarlo todavía:** Elsie no reconoce el nombre de Vale en
-  ninguna línea temporal que haya visto (ni en `06_Timeline_Archives/`) — cualquier escena
-  donde lo reconozca, aunque sea de pasada, rompe esto.
-- **Foreshadowing ya sembrado:** (ninguno registrado todavía — completar cuando se siembre).
-- **Líneas o gestos prohibidos antes del reveal:** cualquier personaje nombrando "Vale" con
-  reconocimiento (no solo oyendo el nombre por primera vez).
-- **Estado:** sembrado (solo como concepto en `project-vale-semilla`, sin prosa escrita).
+  pregunta, dos respuestas distintas. Antes de la Guerra de los Poseídos, **Los Nueve
+  purgan en silencio su Luz y a su Espectro "del flujo"**, sin que él lo sepa — un día su
+  Espectro simplemente se petrifica, sin épica. Por eso, cuando un eco Poseído de
+  **Skolas** —vivo en ese momento porque Kyle le perdonó la vida en
+  `01_Timeline/Raids/PrisonOfElders.md`— ataca su hogar en **Nueva Orleans** durante la
+  Guerra de los Poseídos (Age I) — el mismo lugar donde, libros después, Kyle lo derrota en
+  el Acto 4 —, Alden pelea solo con fuerza física, sin ningún poder, y pierde: quedan
+  muertos su esposa **Camille** y su hijo **Léon**; Skolas escapa sin ser destruido. La
+  línea ya publicada de Petra en Book 02 Cap. 19 sobre "el eco de Skolas" en el Arrecife no
+  contradice esto — es otro frente de la misma fuga, no el lugar de la muerte de la
+  familia. Esa pérdida lo
+  lanza a una búsqueda de necromancia que termina con el asesinato del Dredgen Vale
+  original (robo de nombre y espada práxica), y años después, tras Final Shape, con la
+  muerte de Los Nueve — quienes, por canon real del juego, ya habían "encausado" a Skolas
+  durante House of Wolves, y en esta versión también cortaron su Luz: dos intervenciones
+  separadas de la misma mano. Diseño completo en `09_Roadmaps/Plan_Book13_TheLastDebt.md`.
+- **Se revela en:** Book 13, The Last Debt — dramatizado por completo en el **Prólogo** desde
+  el POV de Alden (sin nombrarlo como tal), exclusivamente para el lector. Para el elenco
+  (Kyle, Aunor, Orin) sigue sin dramatizarse en flashback — se revela por la cadena de
+  reconocimiento del Acto 1 y se confirma sin ambigüedad tras el monólogo del Acto 3. El
+  Prólogo convierte el Acto 1 de misterio puro a **ironía dramática**: el lector ya sabe,
+  la tensión es cuánto tarda el elenco en descubrirlo.
+- **Quién ya lo sabe (desde cuándo):** nadie del elenco principal todavía. El lector, desde
+  el Prólogo del libro.
+- **Quién NO debe saberlo/insinuarlo todavía:** Elsie no reconoce el nombre de "Vale"/Alden
+  en ninguna línea temporal que haya visto (ni en `06_Timeline_Archives/`) — cualquier
+  escena donde lo reconozca, aunque sea de pasada, rompe esto. Ningún personaje debe conectar
+  el escape del eco Poseído de Skolas (Book 02, Cap. 19-20) con ninguna víctima nombrada —
+  ese capítulo se queda exactamente como está escrito, sin tocarse.
+- **Foreshadowing ya sembrado:**
+  - `01_Timeline/Raids/PrisonOfElders.md` (Age I) — Kyle perdona a Skolas, lo entrega vivo
+    a la Reina; cierra con "el universo le cobre facturas que todavía no sabe que está
+    acumulando".
+  - `11_Books/Book_02_The_King_Of_Shapes/Part_02_The_Taken_War/01_The_War_That_Did_Not_Stay_In_Saturn.md`,
+    Sección IV — "el eco de Skolas todavía era una herida reciente, apenas cerrada" (Arrecife).
+    Ninguna de las dos líneas necesita editarse — ya funcionan como pista sin que nadie las
+    hubiera pagado hasta ahora.
+- **Líneas o gestos prohibidos antes del reveal:** cualquier personaje nombrando "Vale"/Alden
+  con reconocimiento (no solo oyendo el nombre por primera vez); cualquier escena que revele
+  en prosa, antes de Book 13, que el eco de Skolas mató a alguien con nombre propio.
+- **Estado:** sembrado (diseño completo en `project-vale-semilla` y el roadmap del libro;
+  cero prosa de Book 13 escrita todavía; el foreshadowing de Skolas ya existe en Book 02,
+  publicado, sin cambios necesarios).
 
 ---
 
