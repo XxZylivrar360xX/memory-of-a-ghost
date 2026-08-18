@@ -87,7 +87,7 @@ creado junto con este mapa) — ver ahí el detalle completo de cada entrada.
 |----------|--------------------|----------------------------------|-----------------|-------------------|
 | La luz verde de la Batalla de Saturno | Sembrado (Cap. 7, Prólogo) | Sembrado Cap. 7, atado a la escala real en Cap. 16 (Eirene) | Carina (ata la escala, no el nombre) | El nombre de quién se sacrificó (¿Mara?) — sin decidir |
 | El nombre "Lubrae" | Reservado, nunca dicho | No se nombra en ningún capítulo de este libro | Nadie en el elenco | Witch Queen |
-| La carta y el anillo de Lena | Sin abrir | Encontrados en Cap. 35; abiertos sin abrirse del todo | Carina (los tiene, no los lee completos) | Post Final Shape (ver `02_Characters/Lena.md`) |
+| La carta y el anillo de Lena | Sin abrir | Recibidos cerrados en Cap. 11; abiertos sin abrirse del todo en Cap. 36 | Carina (los tiene, no los lee completos) | Post Final Shape (ver `02_Characters/Lena.md`) |
 | El costo de Elsie en Eirene (fuga entre versiones) | No existe todavía | Pagado sin nombre en Cap. 18 | Elsie (nadie más) | `06_Timeline_Archives/` — línea sin decidir |
 | "Chispitas" / "Pistolera" | No existen todavía | Sembrados Caps. 15 y 29; consolidados y pagados en Cap. 34 | Kyle y Carina | Pagado dentro de este mismo libro — no cruza a libros futuros |
 | Lo que Ghost vio en el porche | No existe todavía | Sembrado en Cap. 8 (escena privada Kyle/Ghost, Kyle se hace el loco) | Ghost (Kyle no confirma haberlo notado) | Book 03 |
@@ -275,8 +275,9 @@ Todas pendientes de ajuste del autor.
   Engaño/Guerra para darle el tercer corte. Mara sigue sin aparecer — su ausencia es,
   precisamente, el tema de la escena.
 - **El nombre "Lubrae" no puede aparecer en ningún capítulo** — reservado hasta Witch Queen.
-- **La carta y el anillo de Lena no se responden en este libro** — Carina los encuentra
-  (Cap. 34) pero la respuesta vive en Post Final Shape (ver `02_Characters/Lena.md`).
+- **La carta y el anillo de Lena no se responden en este libro** — Carina la recibe cerrada
+  en el Cap. 11 y la abre en el Cap. 36, pero la respuesta vive en Post Final Shape (ver
+  `02_Characters/Lena.md`).
 - **El eco paterno completo de Kyle (lo que Ghost sabe y calla) no se explica aquí** —
   semilla deliberada para Book 03.
 

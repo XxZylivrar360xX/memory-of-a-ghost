@@ -132,7 +132,7 @@ Fue suficiente.
 
 Carina disparó.
 
-El Shadowshot cruzó la cámara y ancló al Sacerdote al suelo del Santuario con la misma precisión silenciosa con la que había aprendido a cazar en el Cosmódromo, en el Refugio, en cada patrulla que Lena nunca llegó a ver terminar. No fue el golpe que lo mató —Kevin y Tiago ya estaban rematando la secuencia final cuando la flecha llegó—, pero fue el golpe que decidió cómo caía.
+El disparo de Vacío cruzó la cámara y ancló al Sacerdote al suelo del Santuario con la misma precisión silenciosa con la que había aprendido a cazar en el Cosmódromo, en el Refugio, en cada patrulla que Lena nunca llegó a ver terminar. No fue el golpe que lo mató —Kevin y Tiago ya estaban rematando la secuencia final cuando la flecha llegó—, pero fue el golpe que decidió cómo caía.
 
 El Sacerdote de Guerra cayó.
 
