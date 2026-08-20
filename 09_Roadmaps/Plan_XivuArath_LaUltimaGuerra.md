@@ -7,6 +7,12 @@ levantar). No modifica ninguna escena ya escrita. Nace de dos piezas que ya exis
 pagarse: la escena [[06_Timeline_Archives/Alternate_Allies/Faris_Xivu_LoQueLaEspadaNoNombra]]
 y el Fragmento IV — Syzygy de [[04_Concepts/Fragmentos_Calcificados_Libros_Del_Dolor]].*
 
+*Los 5 pendientes originales quedaron triados con el autor el 2026-08-19 — ver "Pendientes"
+al final del documento para la decisión y el razonamiento de cada uno. El cuerpo del plan de
+arriba ya incorpora esas decisiones. Sigue sin levantarse: el plan de migración real de la
+canonización de Faris (mover su carpeta de origen, actualizar `Faris.md` y el status de sus
+escenas) — es trabajo de otra sesión, no de este triage.*
+
 ---
 
 ## La tesis del arco
@@ -95,9 +101,11 @@ rápido de la saga encontrando una guerra: llega antes que los Guardianes.
    secuestrada y solo los Surcanubes siguen en pie — sin mecanismo definido. Una dios de la
    guerra quemándose contra Vale para comprarle tiempo a una ciudad que le da completamente
    igual **es** ese mecanismo.
-2. **El peso de la muerte de Osiris.** Muere con una dios en el campo. Eso vuelve a Vale más
-   aterrador sin una sola explosión nueva — la escalada más barata que existe: un testigo que
-   debió bastar y no bastó.
+2. **El peso de la muerte de Osiris.** Muere con una dios en el campo — **durante** la pelea
+   de Xivu contra Vale, no antes ni después (triado 2026-08-19). Ella es testigo directo y no
+   se detiene ni se conmueve: su guerra nunca fue sobre él. Eso vuelve a Vale más aterrador
+   sin una sola explosión nueva — la escalada más barata que existe: un testigo que debió
+   bastar y no bastó.
 3. **La escala de Book 13.** El combate no puede ser coreografía; si lo es, compite con Final
    Shape (ver `09_Roadmaps/Plan_Escalada_Unica_FinalShape_LastDebt.md`). Es una escena de
    personaje vestida de batalla — exactamente el principio del vault: *las batallas son
@@ -111,6 +119,17 @@ Xivu y Faris **nunca se alían.** Nunca dicen la palabra. Pelean apuntados a lo 
 razones que no comparten — él porque Neomuna es el primer lugar que lo dejó existir, ella
 porque Vale le robó un derecho. No se coordinan. Solo coinciden.
 
+**No es la primera vez que se ven (triado 2026-08-19).** `Faris_Xivu_LoQueLaEspadaNoNombra`
+queda canonizada como su primer encuentro real, situado antes de Book 13, durante el año de
+Lightfall — no en Neomuna, en otro lugar del sistema solar, poco después de que Faris ya
+tuviera nombre. Ahí ya peleó con ella, ya la derrotó, y ya le dio la respuesta que la rompió
+("No lo sé" — no encontró suficiente historia con ella para que su muerte significara algo).
+Xivu ya se fue de ese encuentro con la certeza de que su hermano no existe (ver "Pendientes",
+punto 3, para el razonamiento completo). Para cuando Neomuna ocurre, ese duelo ya está
+cerrado — ella no descubre nada nuevo sobre Faris en su muerte, lo carga desde antes. Eso
+también resuelve, sin necesidad de una escena de reconocimiento: Faris sí sabe quién es ella
+cuando coinciden en el campo. No son dos desconocidos.
+
 Y coincidir es, exactamente, lo único que Xivu Arath pidió en toda su existencia. Su propia
 escena lo dice:
 
@@ -119,7 +138,7 @@ escena lo dice:
 > los tres se movían en la misma dirección."*
 
 Lo obtiene. En una ciudad que no le importa, el peor día de su existencia, al lado de un
-desconocido con la cara de su hermano que no la recuerda.
+hermano que ya le dijo, una vez, que no sabía por qué no la había matado.
 
 **Consigue literalmente lo que llevaba eones exigiendo, y no cuenta — porque nunca se trató
 de pelear juntos. Se trataba de con quién.**
@@ -143,6 +162,28 @@ que su teología tiene.
 No la llora. **Le cierra la cuenta.**
 
 Ese es el acto de amor, y no requiere que se suavice ni un grado.
+
+---
+
+## El combate — el pago del Fragmento XXXV (This Love Is War)
+
+*(Triado 2026-08-19: el Fragmento XXXV se teje en el propio duelo contra Vale, no en la
+visión final — deja a Syzygy como el único pago de la muerte, sin duplicar el mecanismo de
+"fragmento no nombrado" en el mismo beat.)*
+
+El Fragmento XXXV dice:
+
+> *"Ella no sabía amar sin desafiar. Cada gesto de cariño le salía con la forma de una
+> provocación, cada 'te quiero' con la estructura de un reto que esperaba, genuinamente, que
+> alguien tuviera la fuerza de rechazar."*
+
+Eso **es** la forma en que Xivu pelea contra Vale — no como una cita, sino como registro:
+cada intercambio lleva el peso de una pregunta sin responder, la misma ferocidad que la
+propia escena de Faris ya describió ("cada golpe tenía el peso de una pregunta sin
+respuesta"). No hay línea que la nombre. El lector que conoce el Fragmento reconoce el verso
+en el propio ritmo del combate — el que no lo conoce, lee simplemente una diosa peleando como
+si estuviera discutiendo con alguien. Ambas lecturas funcionan, que es la prueba de que está
+bien resuelto.
 
 ---
 
@@ -210,30 +251,70 @@ es el universo mostrándole, un segundo tarde, que nunca fueron lo mismo.
 5. **El combate nunca es el punto.** Si la escena se lee como coreografía, falló.
 6. **Vale no gana un intercambio filosófico contra ella.** No la convence ni la desprecia:
    la trata como lo que para él es — algo que sí pertenece a este universo, y por lo tanto
-   no le interesa corregir. (Ver "Pendientes", punto 2.)
+   no le interesa corregir. **Adoptado 2026-08-19** — no viene por ella; ser perdonada por
+   ser legítima sería, para Xivu, peor que morir: la confirma como parte del decorado, no
+   como rival. Rima con la herida de la escena de Faris ("no alcanzaba el umbral") sin
+   repetirla, porque el motivo es opuesto — Faris no la mató por indiferencia genuina; Vale
+   no la corrige por la indiferencia contraria, la de alguien que no encuentra nada que
+   arreglar en ella.
+7. **Xivu y Faris ya se conocían.** Su primer encuentro (`Faris_Xivu_LoQueLaEspadaNoNombra`,
+   canonizada, antes de Book 13) ya ocurrió. En Neomuna no hay reconocimiento ni sorpresa de
+   ningún lado — solo dos que ya se rindieron cuentas una vez, coincidiendo otra vez sin
+   nombrarlo. **Fijado 2026-08-19.**
 
 ---
 
-## Pendientes
+## Pendientes — triados con el autor (2026-08-19)
 
 1. **Los tres ojos.** El autor describe "la luz de sus tres ojos" al morir. La ficha de
    `Xivu_Arath.md` no fija rasgos oculares, y tres ojos es la firma visual establecida de
    [[02_Characters/Eris_Morn]] (los ojos de Acólita). Confirmar si es deliberado, o cambiar
    a una formulación que no eche mano del mismo detalle.
+
+   **Resolución: cambiar.** Xivu no tiene rasgos oculares fijados — es libre variarlo. En el
+   momento más grande de su muerte, compartir el detalle más reconocible de Eris se leería
+   como referencia involuntaria. La sección "La visión final" ya usaba "la luz de sus ojos"
+   sin especificar número — queda así, sin necesidad de más ajuste en el cuerpo del plan.
+
 2. **La reacción de Vale ante Xivu.** Idea propuesta en sesión, sin fijar: Vale **no** viene
    por ella. Xivu Arath existe en el canon real de *Destiny* — no es una desviación, así que
    no entra en su corrección. Ser perdonada por ser legítima sería, para ella, peor que
    morir: la confirma como parte del decorado, no como rival. Eso rima con la herida de la
    escena de Faris (*"no alcanzaba el umbral"*) sin repetirla, porque el motivo es opuesto.
    Decidir si se adopta.
+
+   **Resolución: adoptada.** Promovida a "Reglas duras del arco", punto 6.
+
 3. **Si Xivu llega a saber que Faris fue Oryx antes de morir**, o muere creyendo que su
    hermano simplemente no existe. (Recomendación: lo segundo — es más cruel y evita una
    escena de reconocimiento que el arco no necesita.)
+
+   **Resolución: muere sin saberlo — pero no en la escena de muerte.** Al releer
+   `Faris_Xivu_LoQueLaEspadaNoNombra` para este triage, se confirmó que la escena ya entrega
+   exactamente ese cierre ("Se fue con la certeza de que su hermano no existía"). En vez de
+   repetir el descubrimiento en Neomuna, esa escena queda canonizada como su primer
+   encuentro real, situado antes de Book 13 (año de Lightfall). Xivu llega a la muerte
+   cargando un duelo ya cerrado, no viviendo uno nuevo — ver "El cierre de arco" y "Reglas
+   duras del arco", punto 7. **Dependencia abierta:** esto refuerza la canonización de Faris
+   ya decidida en la sesión del 2026-08-18, pero el plan de migración real (mover el archivo
+   fuera de `Alternate_Allies`, actualizar su frontmatter y `Faris.md`) sigue sin levantarse
+   — es trabajo de otra sesión.
+
 4. **El Fragmento XXXV — "This Love Is War"** todavía no está dramatizado y su título es,
    literalmente, la tesis de Xivu. Evaluar si le corresponde a esta escena o si sembrarlo
    antes, en otro libro, para que este pago llegue con eco.
+
+   **Resolución: se teje en el combate contra Vale, no en la visión final.** Syzygy (Fragmento
+   IV) ya paga el momento de la muerte; XXXV paga el duelo mismo — dos fragmentos, dos beats
+   distintos de la misma escena, sin sembrarlo antes ni duplicar el mecanismo de "fragmento no
+   nombrado" dos veces seguidas. Ver sección nueva "El combate — el pago del Fragmento XXXV".
+
 5. Ubicación exacta dentro de la Parte 02 respecto a la muerte de Osiris/Geppetto — antes,
    durante o después.
+
+   **Resolución: durante.** Xivu es testigo directo cuando Osiris cae, y no la detiene ni la
+   conmueve — refuerza que su guerra nunca fue sobre él. Ver "Ubicación — Neomuna, Parte 02",
+   punto 2.
 
 ---
 
