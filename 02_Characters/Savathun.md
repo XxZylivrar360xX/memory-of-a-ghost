@@ -36,7 +36,8 @@ Porque pasó demasiado tiempo observando cómo todas terminan rompiéndose.
 
 # Apariencia
 
-*(Referencia visual: `99_Reference/personajes_canon/savathun.webp`, `savathun_immaru.webp`.)*
+*(Referencia visual: `99_Reference/personajes_canon/savathun.webp`, `savathun_immaru.webp`,
+`savathun_pre_lightbearer.webp`, `sathona_worm_familiar.jpg`.)*
 
 Savathûn no tiene una sola apariencia — es coherente con quién es. Pero ciertos rasgos se
 repiten en cada máscara que se pone:
@@ -55,6 +56,27 @@ repiten en cada máscara que se pone:
 - alas membranosas, grandes, con bordes irregulares como si algo las hubiera desgarrado hace
   mucho y nunca terminaran de sanar del todo.
     
+
+**La armadura de corte (`savathun_pre_lightbearer.webp`).** Su forma más completa y "de
+Estado": placas óseas talladas con el mismo detalle ornamental que su corona, pechera con
+relieve casi arquitectónico, hombreras que se abren en aletas óseas ribeteadas — más
+armadura ceremonial que caparazón de guerra — y una capa larga que se pierde en el suelo. Es
+la Savathûn que se presenta como reina, no la que entra en combate.
+
+**El nombre del archivo es una nota de continuidad, no solo un rótulo.** "Pre-Lightbearer"
+marca esta apariencia como *anterior* a que se vuelva Portaluz — el giro que
+`09_Roadmaps/Plan_XivuArath_LaUltimaGuerra.md` fija para Book 13 (Vale le quita el Espectro
+antes de matarla). Si esa escena llega a escribirse en prosa, la apariencia post-Portaluz
+debería marcar el contraste: Luz real en el cuerpo de algo que sigue siendo, estructuralmente,
+Colmena. Todavía no diseñado — queda como nota disponible.
+
+**El familiar del gusano (`sathona_worm_familiar.jpg`).** El único registro visual donde
+Savathûn no está en pose de mando: sostiene a su gusano contra el pecho con las dos manos,
+en un gesto que es más cuna que sujeción. Los tres ojos, aquí, están encendidos en verde
+sereno, no calculador. Vale la pena para cualquier escena que necesite mostrar, sin decirlo,
+que el Pacto empezó como intimidad antes de convertirse en teología — el mismo argumento que
+`Faris_LibrosDelDolor_PorqueAunLosMonstruosPuedenAmar` ya hace para Oryx ("porque aún los
+monstruos pueden amar").
 
 **Immaru**, su Espectro, orbita cerca de ella como una estrella de picos metálicos con un
 núcleo verde — nunca quieto, siempre a la distancia exacta de alguien que vigila sin
