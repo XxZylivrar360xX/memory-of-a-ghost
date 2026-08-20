@@ -267,14 +267,20 @@ es el universo mostrándole, un segundo tarde, que nunca fueron lo mismo.
 ## Pendientes — triados con el autor (2026-08-19)
 
 1. **Los tres ojos.** El autor describe "la luz de sus tres ojos" al morir. La ficha de
-   `Xivu_Arath.md` no fija rasgos oculares, y tres ojos es la firma visual establecida de
+   `Xivu_Arath.md` no fija rasgos oculares, y tres ojos parecía la firma visual de
    [[02_Characters/Eris_Morn]] (los ojos de Acólita). Confirmar si es deliberado, o cambiar
    a una formulación que no eche mano del mismo detalle.
 
-   **Resolución: cambiar.** Xivu no tiene rasgos oculares fijados — es libre variarlo. En el
-   momento más grande de su muerte, compartir el detalle más reconocible de Eris se leería
-   como referencia involuntaria. La sección "La visión final" ya usaba "la luz de sus ojos"
-   sin especificar número — queda así, sin necesidad de más ajuste en el cuerpo del plan.
+   **Resolución (corregida 2026-08-19, tras verificar `99_Reference/personajes_canon/`):
+   mantener "tres ojos".** El supuesto conflicto era al revés. Tres ojos en configuración
+   triangular es rasgo de la realeza Colmena en el canon real de *Destiny* — visible en las
+   referencias de este mismo vault (`savathun.webp`, con tres luces verdes en triángulo sobre
+   la corona; Oryx y Xivu comparten el diseño). Eris Morn no originó el rasgo: lo tomó
+   prestado con magia de Acólita para sobrevivir, precisamente porque es Colmena, no al
+   revés. Que Xivu muera con "la luz de sus tres ojos" apagándose es **más** preciso al canon
+   de su especie, no una coincidencia con Eris. Sección "La visión final" no requiere cambio
+   — ya decía "la luz de sus ojos" sin número; queda igual de válida, y si en algún momento
+   se redacta la prosa completa de la muerte, puede nombrar los tres sin problema.
 
 2. **La reacción de Vale ante Xivu.** Idea propuesta en sesión, sin fijar: Vale **no** viene
    por ella. Xivu Arath existe en el canon real de *Destiny* — no es una desviación, así que
