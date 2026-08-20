@@ -36,6 +36,37 @@ Y aun así la defiende.
 
 ---
 
+# Apariencia
+
+*(Referencia visual: `99_Reference/personajes_canon/oryx_battle_of_saturn.jpeg`,
+`Oryx_regicidio_fisico.webp`, `oryx_taken_war.webp`, `oryx_phobos.jpg`, `shadow_of_oryx.jpeg`.)*
+
+En su forma física, Oryx es una masa de:
+
+- placas óseas fundidas al propio cuerpo, negras y de un rojo oscuro casi orgánico,
+    
+- un yelmo-corona que se curva hacia arriba en espinas, más alto que cualquier Guardián,
+    
+- tres ojos pequeños, casi perdidos en la escala del resto — el rostro no busca expresar,
+  busca imponer,
+    
+- alas colosales, membranosas, más de dragón caído que de insecto, que se despliegan hasta
+  tapar el cielo detrás de él,
+    
+- capas y tela desgarrada colgando de los hombros como si el cuerpo mismo fuera demasiado
+  grande para vestirse del todo.
+    
+
+No se mueve como algo vivo se movería. Se mueve como algo que dejó de necesitar convencer a
+nadie de que lo era.
+
+En su forma Tomada — sombra, no carne — pierde el color por completo. Queda humo y hueso
+azul-blanco, los tres ojos reducidos a puntos de luz fría, y una mano que se extiende
+incandescente, quemando blanco puro, cuando decide alcanzar algo. Esa mano es lo único de él
+que sigue pareciendo, por un instante, un gesto y no una amenaza.
+
+---
+
 # Aurash
 
 Antes de convertirse en Oryx, fue Aurash.

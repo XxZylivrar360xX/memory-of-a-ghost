@@ -34,6 +34,38 @@ Porque pasó demasiado tiempo observando cómo todas terminan rompiéndose.
 
 ---
 
+# Apariencia
+
+*(Referencia visual: `99_Reference/personajes_canon/savathun.webp`, `savathun_immaru.webp`.)*
+
+Savathûn no tiene una sola apariencia — es coherente con quién es. Pero ciertos rasgos se
+repiten en cada máscara que se pone:
+
+- una corona de espinas óseas, delgadas y afiladas como huesos de ala, mucho más verticales y
+  angostas que la de Oryx — menos peso, más filo,
+    
+- la mandíbula parcialmente expuesta bajo el resto del rostro cubierto, fija en algo entre
+  sonrisa y mueca — nunca del todo una cosa ni la otra,
+    
+- tres ojos, siempre en el mismo triángulo que comparte con sus hermanos — el color cambia
+  según el registro de la escena: verde enfermizo cuando actúa desde el ritual y el poder
+  Colmena crudo, blanco-hielo cuando se muestra en su aspecto más "cortesano", cerca de
+  Immaru,
+    
+- alas membranosas, grandes, con bordes irregulares como si algo las hubiera desgarrado hace
+  mucho y nunca terminaran de sanar del todo.
+    
+
+**Immaru**, su Espectro, orbita cerca de ella como una estrella de picos metálicos con un
+núcleo verde — nunca quieto, siempre a la distancia exacta de alguien que vigila sin
+acercarse del todo.
+
+El triángulo de tres ojos es rasgo de la realeza Colmena, no exclusivo de Savathûn — lo
+comparte con Oryx y Xivu Arath. Ver `09_Roadmaps/Plan_XivuArath_LaUltimaGuerra.md`,
+"Pendientes", punto 1, para la corrección de canon que confirmó esto.
+
+---
+
 # Sathona
 
 Antes de convertirse en Savathûn, fue Sathona.

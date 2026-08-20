@@ -30,6 +30,35 @@ Pelea porque ya no sabe existir de otra manera.
 
 ---
 
+# Apariencia
+
+*(Referencia visual: `99_Reference/personajes_canon/xivu_arath.webp`.)*
+
+De las tres hermanas, Xivu es la más vertical, la más quieta en pose — no encorvada como
+Oryx, no abierta en alas como Savathûn en pleno vuelo. Se para como alguien que nunca
+necesitó moverse para que el espacio le perteneciera.
+
+- un yelmo-corona de cuernos curvos, barridos hacia atrás y arriba, más agresivo en silueta
+  que el de sus hermanos — menos espinas dispersas, más una sola forma afilada,
+    
+- el rostro casi fundido con el yelmo, sin distinción clara entre máscara y cráneo,
+    
+- **tres ojos**, encendidos en un verde fijo, sin parpadeo — el mismo triángulo de luz que
+  comparten Oryx y Savathûn, rasgo de la realeza Colmena, no un préstamo ni una coincidencia
+  con nadie más (ver `09_Roadmaps/Plan_XivuArath_LaUltimaGuerra.md`, "Pendientes", punto 1),
+    
+- una capa densa, casi sólida, que cae y se acumula alrededor de ella como si la oscuridad
+  misma tuviera peso,
+    
+- postura de mando — un brazo suele estar alzado, no empuñando un arma visible, sino
+  ordenando. Ella no necesita sostener nada para que se entienda que está al mando.
+    
+
+Al morir, en la escena de Book 13, "la luz de sus tres ojos" apagándose es literal y precisa
+al diseño — no una cita accidental de otro personaje.
+
+---
+
 # Xi Ro
 
 Antes de convertirse en Xivu Arath, fue Xi Ro.
