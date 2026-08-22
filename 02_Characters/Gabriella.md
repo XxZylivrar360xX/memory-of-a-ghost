@@ -20,9 +20,13 @@ aliases: [Gabriel, Gab, Gabi, Bella, Gabriella]
 
 ## Apariencia
 
-> **Pendiente (2026-08-18):** el rostro se cierra con la referencia visual del autor. Reemplazar `99_Reference/apariencias_personajes/gabriel.png` por `gabriella.png`.
+> **Cerrado (2026-08-22):** rostro fijado con referencia visual del autor. Pendiente técnico menor: falta depositar el archivo de imagen como `99_Reference/apariencias_personajes/gabriella.png` (reemplazando `gabriel.png`).
 
-Insomne. Piel lavanda pálido con la luminiscencia fría de su raza — pero en ella está **calibrada, presentada, casi deliberada**, como si su propio cuerpo hubiera aprendido a moverse bajo la luz correcta. Cabello rubio, que sobre ese tono de piel es contraste alto y elegido: no es un color que pase desapercibido, y esa es exactamente la razón. Ojos azul brillante.
+Insomne. Piel lavanda pálido, casi blanca, con la luminiscencia fría de su raza — pero en ella está **calibrada, presentada, casi deliberada**, como si su propio cuerpo hubiera aprendido a moverse bajo la luz correcta. Cabello rubio corto, erizado hacia arriba en vez de caer — otra decisión, no un descuido — que sobre ese tono de piel es contraste alto y elegido: no es un color que pase desapercibido, y esa es exactamente la razón. Ojos azul brillante, casi luminiscente.
+
+Una marca negra le cruza el rostro como una máscara: le enmarca los ojos y sube hacia las sienes en dos puntas, como alas o cuernos pequeños, con motas sueltas — casi pecas rituales — bajo cada ojo. No es cicatriz ni herida: es pintura, deliberada, repuesta. La misma tesis que la armadura y la visera arriba: **la cara también se prepara.**
+
+**Expresión por defecto — nota de redacción:** la referencia visual (modelo in-game, pose neutra) la muestra seria porque así se ve un Cazador parado en el HUD, no porque así viva Gab. Su default es lo opuesto: sonrisa amplia, luminosa, tipo Sabrina Carpenter — coqueta, consciente de sí misma, nunca accidental. Escribirla seria solo cuando la escena lo pida de verdad (Espinas en la mano, algo salió mal, el trabajo se puso serio). El resto del tiempo, sonríe.
 
 **1.57m.** Es la persona más pequeña del equipo por un margen cómodo, y lo usa: nadie calcula bien la distancia a la que puede llegar, ni la velocidad con la que la recorre. Lo que en otro sería desventaja de alcance, en ella es una lectura equivocada que el enemigo hace una sola vez.
 
