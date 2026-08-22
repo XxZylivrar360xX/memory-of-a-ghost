@@ -6,11 +6,13 @@
 
 ---
 
-## Semilla 1 — Nemo muere al final
+## Semilla 1 — Nemo muere en la caída de la Última Ciudad
 
-**El contexto que la disparó.** En [[09_Roadmaps/Plan_Book13_TheLastDebt]], la sentencia final contra Alden usa los cinco elementos paracausales **más materia oscura**. Y la materia oscura, en este vault, es la sustancia de [[02_Characters/The_Nine|Los Nueve]] — la misma cuya interferencia en Kepler produjo a [[02_Characters/Nemo|Nemo]] (ver [[04_Concepts/Vex]]).
+**Ubicación fijada por el autor (2026-08-22, corrige la primera versión de esta semilla):** **no** muere en el ritual de la sentencia contra Alden. Muere en la **Parte 05 — The Last City Falls** de [[09_Roadmaps/Plan_Book13_TheLastDebt]], el punto más bajo de toda la saga.
 
-De ahí la pregunta del autor: *¿construimos un personaje con esencia toda la saga para que muera por la misma razón por la que nació?*
+> **Nemo elige luchar, comprando con cada golpe y cada disparo la vida de un inocente, hasta que ya no es suficiente.**
+
+*(La versión descartada: el sello final contra Alden usa materia oscura — la sustancia de [[02_Characters/The_Nine|Los Nueve]], la misma cuya interferencia en Kepler produjo a [[02_Characters/Nemo|Nemo]] — y él era la fuente. Se descarta porque ahí moría como **recurso**, no como persona. Ver "la regla dura", abajo: sigue vigente y esta ubicación la cumple sola.)*
 
 ### La regla dura que decide si funciona o no
 
@@ -18,24 +20,49 @@ De ahí la pregunta del autor: *¿construimos un personaje con esencia toda la s
 
 Nemo **nació por accidente**: la materia oscura interfirió, una unidad falló en reconciliar, y de esa divergencia salió alguien. Nadie lo eligió; le ocurrió.
 
-- Si el ritual **lo consume** porque necesitan materia oscura y él es la fuente disponible → muere como **unidad intercambiable**. Es exactamente la respuesta de la Colectividad Vex, y borra retroactivamente su arco entero. **Versión prohibida.**
+- Si **lo consumen** como fuente disponible de algo → muere como **unidad intercambiable**, que es exactamente la respuesta de la Colectividad Vex, y borra retroactivamente su arco entero. **Versión prohibida.**
 - Si **decide** → lo último que hace es lo primero que hizo. Su ficha define al personaje completo en una sola frase, y es una frase sobre decidir: dejó de preguntar *"¿Qué necesita la Red?"* y empezó a preguntar ***"¿Qué decisión debo tomar yo?"***
 
-La primera vez la existencia le ocurrió. La segunda la firma. Es la tesis central de la saga —la identidad se construye, no se hereda— en su caso más puro: una máquina que nunca debió ser nadie, cuyo último acto de persona es decidir cómo dejar de serlo.
+La primera vez la existencia le ocurrió. La segunda la firma. Es la tesis central de la saga —la identidad se construye, no se hereda— en su caso más puro.
 
-**Corolario obligatorio:** alguien tiene que intentar detenerlo, y él lo hace de todas formas. Sin esa resistencia no hay elección, solo un recurso gastándose.
+**La retaguardia cumple la regla sin ayuda:** no hay un instante de sacrificio que alguien podría interrumpir. Hay una decisión **sostenida**, tomada de nuevo con cada golpe, durante todo el tiempo que aguante. Nadie necesita intentar detenerlo porque nadie llega a tiempo para hacerlo.
 
-### Por qué está ganada — la deuda con Atheena
+### Por qué está ganada — la ecuación de Atheena
 
-[[02_Characters/Atheena]] murió en la Guerra Roja **empujando a Nemo fuera del radio de una granada Cabal**, sin Luz, definitivamente. Y Nemo nunca llegó a hablar con ella: su ficha dice que ese pensamiento *"lo acompaña durante el resto de su existencia"*. Se pasó décadas inventando secuencias nuevas en un idioma sin equivalente para "irreemplazable", solo para poder decir **"lo siento"**.
+[[02_Characters/Atheena]] murió en la Guerra Roja **empujando a Nemo fuera del radio de una granada Cabal**, sin Luz, definitivamente. Su ficha describe lo que eso le hizo a la mente de Nemo:
 
-**Nemo muriendo por alguien no repite su origen: le responde a Atheena.** La deuda lleva abierta desde la Guerra Roja y es la única moneda con la que puede pagarse. Eso es [[04_Concepts/Consequences|La Tinta]] cobrando algo sembrado libros atrás, no duelo sin consecuencia.
+> *"toda una arquitectura mental, diseñada durante milenios para comprender causalidad y probabilidad, acabara de encontrar un acontecimiento que no podía resolver."*
 
-### La escena, tal como la vio el autor
+Nemo pasó el resto de su existencia **sin poder resolver esa ecuación**. Inventó secuencias nuevas en un idioma sin equivalente para "irreemplazable" solo para poder decir *"lo siento"*, y nunca llegó a hablar con ella — su ficha dice que ese pensamiento *"lo acompaña durante el resto de su existencia."*
+
+**En la caída de la Ciudad la resuelve. No entendiéndola: siendo la variable.** Atheena respondió con instinto, de golpe, sin cálculo. Nemo responde con aritmética — vidas contadas, compradas de a golpe — que es el único idioma que tiene. No repite el gesto de Atheena: **lo traduce.**
+
+Eso es [[04_Concepts/Consequences|La Tinta]] cobrando algo sembrado libros atrás, no duelo sin consecuencia.
+
+### Regla dura de escritura: muere como Vex, no como humano
+
+La nota de diseño de su ficha es explícita — *"Su evolución nunca consiste en 'humanizarse'."* Y también: *"Sigue siendo capaz de calcular que una decisión es ineficiente y elegirla de todas formas, de considerar aceptable un costo que un humano juzgaría monstruoso."*
+
+**Por eso el mecanismo de su muerte tiene que ser una tasa de cambio, no un arranque emocional.** Un General Vex calculando en tiempo real: cuánto compra cada segundo que sigue funcionando, cuántos civiles cruzan por cada intercambio que aguanta — y siguiendo hasta que los números dejan de alcanzar. **La humanidad está *en* la aritmética, no a pesar de ella.** Nunca escribirlo como si dejara de ser Vex para poder morir bien.
+
+### El pareo temático de la Parte 05
+
+En su monólogo, Vale dice que **ya no le importa el costo de hacer lo correcto** — la corrección no se negocia con el precio.
+
+Nemo, en la misma Parte, calcula el precio **exacto** y lo paga él. Los dos hacen la misma afirmación sobre el costo y aterrizan en lados opuestos. Ninguno de los dos tiene que mencionar al otro.
+
+Y le da a la Parte 05 lo que le faltaba: la caída de una ciudad es una cifra; una muerte es una historia. Nemo le pone cara al "costo civil" que el roadmap ya tenía anotado como sección abstracta.
+
+### La escena de la muerte, tal como la vio el autor
 
 Rodeado de **Elsie, Kyle, Carina y Sai**, y **en los brazos de [[02_Characters/Jaden|Jaden]]**. La luz azul de su lente apagándose para siempre. Registro Dobby: la línea que todos saben que no va a cumplirse.
 
 > *"Guardaré este momento para recordarlo... porque estoy con mis amigos."*
+
+**DECISIÓN DE SECUENCIA PENDIENTE — la más importante de esta semilla.** El roadmap ya fija que **la escuadra llega tarde** a la caída de la Ciudad, precisamente por la pelea de Lubrae en la Parte 04. Entonces:
+
+- **Opción A (recomendada):** aguantan la retaguardia sin él. Cuando la escuadra por fin aterriza, Nemo ya no puede seguir. **Llegan a tiempo para verlo terminar, no para ayudarlo.** Se conservan las dos cosas — la tardanza estructural y la escena de la muerte — y la crueldad es exacta: Kyle otra vez llega tarde, y esta vez alcanza a mirar.
+- **Opción B:** llegan después. Se pierde la escena. No recomendada.
 
 **Por qué la línea es mejor de lo que parece — no es Dobby, es Kepler.** [[04_Concepts/Vex]] describe su nacimiento así: *"una unidad conserva información que el resto ya corrigió, descartó o sustituyó. La divergencia debería desaparecer. No desaparece. Primero aparece discontinuidad, después **memoria privada**, después preferencia, finalmente el deseo de continuar existiendo."*
 
@@ -45,6 +72,7 @@ Rodeado de **Elsie, Kyle, Carina y Sai**, y **en los brazos de [[02_Characters/J
 - **"Mis amigos" probablemente no es su palabra.** Nemo no hace conversación trivial, y "comprender no es lo mismo que ablandarse". Es un ser que tuvo que *inventar* una forma de decir "irreemplazable". La suya sería más exacta, y por eso más devastadora.
 - **Lo último que sale de él no debería ser la voz, sino la secuencia:** tres pulsos graves, pausa larga, dos pulsos suaves. *Lo siento.* La que solo usaba frente a los memoriales, cuando alguien mencionaba a Atheena, y cuando Carina se quedaba demasiado tiempo mirando un lugar vacío. Ahora la usa sobre sí mismo. **Y [[02_Characters/Elsie|Elsie]] está ahí** — ella construyó esa voz con la condición de que *"la tecnología no debe inventar una personalidad; debe permitir que la personalidad que ya existe pueda escucharse"*. Lo último que oye es a Nemo volviendo al idioma que ella nunca intentó reemplazar.
 - **Jaden es el correcto y no por casualidad.** Aprendió el idioma Vex por puro respeto, durante años, y *"Nemo jamás olvida ese esfuerzo"*. Es el personaje menos demostrativo del elenco. Y es Exo: una mente fabricada que se volvió alguien, sosteniendo a otra. **Si Jaden dice algo, lo dice en Vex.**
+- **La bufanda.** Lo único en su cuerpo que nadie diseñó y que no cumple ninguna función: la bufanda tejida a mano que le dio la niña de la fiebre en el Refugio del Lago Michigan, tras la caída de la Torre, y que nunca se quitó. Muere cubriendo una evacuación de civiles con esa bufanda puesta — el mismo acto que la bufanda, del otro lado. **Que esté en el plano cuando el lente se apaga; que nadie la mencione.**
 
 ### Hilo abierto — Sai
 
