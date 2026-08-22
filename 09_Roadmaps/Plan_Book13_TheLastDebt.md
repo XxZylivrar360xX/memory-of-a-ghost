@@ -201,11 +201,15 @@ Se cae la máscara, o se confirma sin ambigüedad de otra forma: esto era Alden.
 
 ---
 
-### La derrota — doble prisión, perpetua
+### La sentencia — el sello y los nueve fragmentos (reescrito 2026-08-22, aportado por el autor)
 
-No lo matan — matarlo no basta contra alguien que ya violó la muerte una vez. Kyle lo sella ahí mismo en un **capullo de Stasis y Strand combinados**, y regresa **solo, sin escolta, sin ceremonia** — con Elsie, cargando el cuerpo dormido. La separación en las dos prisiones finales llega después: cuerpo en **Stasis**, en el Mundo del Trono de **Eris Morn**; mente en **Strand**, en **Eleusinia**, el Mundo del Trono de **Mara Sov**. Ambas perpetuas a la existencia del Velo.
+> **Reemplaza por completo la versión anterior ("La derrota — doble prisión, perpetua": cuerpo en Estasis con Eris, mente en Hebra en Eleusinia).** El cambio **resuelve el Pendiente #13** — ya no hace falta Eleusinia ni una carcelera viva, así que la muerte de Mara Sov en la Parte 05 deja de contradecir nada.
 
-**La rodilla y el silencio (fijado 2026-08-22, aportado por el autor).** Sin manos, arrodillado, Vale pide lo único que le queda:
+No lo matan — matarlo no basta contra alguien que ya violó la muerte una vez.
+
+**El sello inmediato (en el duelo, Kyle solo).** Sin manos, Kyle lo encierra ahí mismo en un **capullo de Estasis y Hebra combinados** y se lo lleva dormido. Esto no es la prisión final: es el traslado.
+
+**La rodilla y el silencio (fijado 2026-08-22, aportado por el autor).** Antes del capullo, arrodillado, Vale pide lo único que le queda:
 
 > *"Si me niegas la corrección, entonces al menos devuélveme con mi familia."*
 
@@ -217,15 +221,52 @@ Neutro, con algo de molestia contenida por la cantidad de vidas que costó la cr
 
 **Por qué esto NO repite el perdón de Skolas — es su inversión exacta.** Vale pide la muerte como **liberación** — volver con Camille y Léon — y Kyle se la **niega como condena**. Con Skolas, Kyle regaló una salida por confiar de más, y el costo lo pagó un tercero. Aquí retiene una salida a propósito, sabiendo exactamente lo que hace, y el costo lo paga el prisionero. Kyle sí aprendió. Lo que no hizo fue endurecerse: sigue sin matar. Solo dejó de confundir clemencia con alivio.
 
+---
+
+**El sello definitivo — la escuadra completa.** Kyle no puede sostenerlo solo, y esa es la razón estructural de que la escuadra exista. **Kyle, Carina, Jaden, Gabriella, Jin y Amir canalizan juntos los cinco elementos paracausales — Arco, Solar, Vacío, Estasis y Hebra — junto con materia oscura**, y con eso aprisionan el cuerpo de Alden en el **Mundo del Trono de Eris Morn**.
+
+**Regla de secuencia, para no romper la Parte 06:** el **duelo** es a solas, sin público, espada contra espada — eso no cambia. La **sentencia** es colectiva y ocurre después, en otro lugar. Kyle lo vence solo; no puede *retenerlo* solo.
+
+**Y eso cierra el arco más largo de la saga.** La segunda huella existencial de Kyle, fijada en Age I al salir de la Bóveda de Cristal, es exactamente esta frase: *"la fuerza no vive solo en él"* (ver [[02_Characters/Guardian]]). El último acto de poder de toda la saga es el que lo demuestra. La Bóveda se lo enseñó con cinco personas que después murieron; la sentencia se lo cobra con las cinco que quedaron.
+
+**La materia oscura ya es canon del vault**, y ligada precisamente a Los Nueve: en Kepler (Age II) la materia oscura de Los Nueve interfirió con una red Vex menor y de esa interferencia nació [[02_Characters/Nemo|Nemo]] (ver [[04_Concepts/Vex]]). No es un ingrediente nuevo — es la sustancia de los seres a los que Alden mató.
+
+---
+
+**La fragmentación — lo que nadie planeó.**
+
+Los cuerpos celestes necesitan **anclas**, o los mundos mueren. Los Nueve eran esas anclas. Alden los mató, y desde entonces **los mundos de Sol empezaron a cambiar** — el daño disperso y sin explicación que la Parte 01 ya tenía fijado como su "costo tangible".
+
+**Esta sección es la explicación de ese costo, y su cura.** La ley causal, en una línea:
+
+> **La decadencia se detiene cuando el poder que mató a Los Nueve se usa para detener las consecuencias de haber matado a Los Nueve.**
+
+Al sellarlo, la mente de Alden **se fragmenta en nueve pedazos** para compensar la ausencia. Ya no pueden existir en el mundo material: existen **perpetuamente en la cuarta dimensión, separados entre sí, sin volver a tocarse jamás.** Uno por uno, ocupa el lugar de cada uno de los que asesinó — incluido **[VI]**, el que le respondió con la verdad completa creyendo que ayudaba.
+
+No es una prisión. Es una **condena a sostener**. Alden pasa la eternidad haciendo el trabajo de los seres que mató, y el sistema solar sigue existiendo porque él está ahí.
+
+**Los espejos, que se cierran solos:**
+- Alden pasó su arco entero intentando **reunir** lo que la muerte separó. Ahora está separado **de sí mismo**, nueve veces, para siempre. No es solo que no vuelva con Camille y Léon — es que **se convierte en la forma geométrica de su propio duelo**: pedazos que se saben unos a otros y no pueden alcanzarse.
+- Pidió corrección para toda una línea temporal. Termina siendo **la corrección**, literalmente: el parche que sostiene el universo que quería deshacer.
+- Los Nueve estaban obsesionados con el hambre de significado. Alden termina siendo Los Nueve.
+- Sus propias disciplinas de Oscuridad (Estasis y Hebra) siguen siendo el capullo que lo traslada — se conserva ese eco de la idea original.
+
+---
+
+**Dos decisiones abiertas (propuestas del agente, esperan confirmación del autor):**
+
+1. **¿Kyle sabía?** Recomendación: **no.** La escuadra canaliza para *aprisionar*; la fragmentación en nueve es el universo corrigiéndose solo, no una sentencia que Kyle diseñó. Kyle dijo "antes tienes que pagar tus crímenes" — no dijo *esto*. Que se entere después de lo que causó es el último peso que carga hacia el Epílogo, y le da a "Vive." de Ghost un destinatario que necesita el permiso. Si en cambio Kyle **sí** lo diseña, el final es mucho más oscuro y hay que asumirlo a propósito.
+2. **¿Los nueve fragmentos son conscientes?** Esta decisión define si el final es justicia o tortura eterna. Recomendación: **conscientes, pero sin voz y sin tiempo** — saben que existen y saben que los otros ocho existen, y eso es todo. Si son plenamente conscientes y sufrientes por la eternidad, Kyle queda del lado equivocado de su propia tesis. Si son inertes, la condena no significa nada.
+
+**Costo que hay que nombrar:** el Mundo del Trono de **Eris Morn** queda cargando un cuerpo para siempre. Eso no es un favor — es una carga perpetua sobre alguien que ya cargó con la Luna. Merece al menos una escena donde ella decide aceptarlo.
+
+---
+
 En algún punto de este proceso, Kyle también completa lo que quedó interrumpido post-Final Shape: **libera a los Poseídos** que se habían condensado en torno a Alden — la resolución original del Lord, un acto de amor, soltar en vez de retener. Una liberación y un sello — no una guerra más grande. Coherente con la regla dura ya fijada para el Lord: nunca "más grande que el Testigo".
 
-Círculos que se cierran solos:
-- **Stasis y Strand son la primera idea de esta sesión completa** ("maestro en el uso de oscuridad: stasis y strand") — sus propias disciplinas se vuelven su jaula.
-- Alden pasó su arco entero intentando **reunir** lo que la muerte separó. El castigo es el espejo exacto: queda **separado para siempre**.
-- Eris Morn y Mara Sov como carceleras no es azar — ambas se ganaron ese rol con su propio arco.
-- **Espadas práxicas cerrando el duelo, no poderes** — coherente con que la deuda entre Aunor y Kyle ("un duelo empatado... una espada práxica no perdona la deuda") por fin encuentra su pago, aunque no sea directamente entre ellos dos.
+**Espadas práxicas cerrando el duelo, no poderes** — coherente con que la deuda entre Aunor y Kyle ("un duelo empatado... una espada práxica no perdona la deuda") por fin encuentra su pago, aunque no sea directamente entre ellos dos. Los poderes no ganan el duelo: sellan al vencido.
 
-**Pendiente:** quién exactamente maneja el traslado a las dos prisiones finales (¿Elsie, dado su vínculo con ambas mundotronistas? ¿Eris y Mara mismas?); ubicación exacta dentro de "Age XIX provisional" / *Fate Saga*.
+**Pendiente:** ubicación exacta dentro de "Age XIX provisional" / *Fate Saga*; y si la fragmentación se dramatiza en escena o se descubre después (ligado a la decisión 1).
 
 ---
 
@@ -314,7 +355,7 @@ La primera pasada de esta regla (misma sesión) decía que solo Kyle, Elsie y Gh
 10. Mecanismo exacto de la maldición que separaba a Sjur Eido de Mara Sov (quién la impuso, por qué, desde cuándo) — solo está fijado que se rompe cuando Mara muere.
 11. Nombre de la nueva Surcanubes de Neomuna, aprendiz de Nimbus.
 12. Ubicación de Eramis y Rendel dentro de la nueva estructura de 6 Partes — el resto de las bajas ya tiene Parte y lugar asignado (ver "El saldo del libro" y "La ruta de Vale").
-13. **Contradicción detectada en revisión de cierre (2026-08-17), sin resolver:** la doble prisión de Alden (ver "La derrota — doble prisión, perpetua") pone su mente en **Eleusinia, el Mundo del Trono de Mara Sov** — pero Mara muere en la Parte 05, antes del duelo de la Parte 06 donde se establece esa prisión. ¿Sigue funcionando Eleusinia como prisión sin su soberana viva? Idea suelta sin decidir: Sjur Eido, liberada por la muerte de Mara, podría heredar la custodia de Eleusinia.
+13. ~~**Contradicción detectada en revisión de cierre (2026-08-17):** la doble prisión de Alden ponía su mente en Eleusinia, el Mundo del Trono de Mara Sov — pero Mara muere en la Parte 05.~~ **RESUELTO 2026-08-22:** la doble prisión se eliminó por completo (ver "La sentencia — el sello y los nueve fragmentos"). El cuerpo queda en el Mundo del Trono de Eris Morn; la mente no va a ningún mundo trono — se fragmenta en nueve y pasa a la cuarta dimensión. Eleusinia y Sjur Eido ya no hacen falta.
 13. Nombre nuevo de la capital de la Confederación en Marte (antes Freehold).
 
 *Todo lo demás — nombres (Camille y Léon), estructura de Prólogo + 4 actos, causa de la muerte de la familia de Alden y el corte de su Luz por Los Nueve, [VI], la caída de la Última Ciudad y la Confederación bajo Caiatl, por qué Kyle tiene espada práxica, la coreografía Prismatic del duelo, el eco final de Elsie (Beyond Light), la regla de exención verificada, el reparto completo de bajas y la ruta geográfica de Vale — quedó fijado en esta sesión (2026-08-16/17).*
