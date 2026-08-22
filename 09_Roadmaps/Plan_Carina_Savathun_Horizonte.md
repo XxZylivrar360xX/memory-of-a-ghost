@@ -42,6 +42,8 @@ Ninguna de las dos cosas hace "más débil" a nadie en el momento. Al contrario:
 
 **Nota de continuidad (no confundir):** existe ya, sin resolver, un Guardian-sin-nombre de trabajo "Vale" (`02_Characters/El_Guardian_Sin_Nombre.md`) que también deriva hacia el camino Dredgen — historia distinta, entra al círculo de confianza de Kyle en Age I y lo traiciona filtrando inteligencia. El Dredgen de esta etapa no tiene nombre todavía y es una persona distinta; el autor decidirá su nombre cuando le llegue la inspiración, igual que con Vale.
 
+**Tendril deniable en Book 02 (2026-08-21) — el mural de Grimworld:** en el Cap. 17 (*Grimworld*, `11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_Grimworld.md`), Carina, Kyle y Elsie encuentran, en una gruta del Mundo Cadáver, un mural de las tres hermanas proto-Colmena con el Pantheon actual debajo — plantado por Savathûn (Oryx nunca lo ve), aunque esto nunca se confirma en la prosa. La iconografía de Savathûn da la sensación de estar observando a Carina; la siguiente vez que el grupo vuelve a esa zona, el mural ya no está. Ver la entrada completa en `12_Craft_Policies/revelations/Book_02_The_King_Of_Shapes.md`, "El mural de Grimworld — Savathûn observando a Carina". Esto es **concurrente con esta Etapa 0** (Savathûn ya opera en la sombra durante Taken King) — **no adelanta la Etapa 2** ("La observación"), que sigue fija en Forsaken/Age VI sin moverse. El mural es deniable en primera lectura: ningún personaje lo identifica como obra de Savathûn ni nota conscientemente que algo los observa.
+
 ---
 
 ## Etapa 1 — Taken King, Aftermath: Malok, la interrupción
@@ -59,6 +61,8 @@ Carina mata a Malok, hijo menor de Savathûn, no por venganza ni por ambición d
 Savathûn no ataca. Observa cómo Carina acompaña a Kyle durante su caída (la venganza vacía contra Uldren, ya escrita en `Sai_Guardian_WitchQueen_ElLoboMasJoven` desde el ángulo de Sai — esta etapa necesita su propio ángulo, el de Carina). Prueba, mediante voces, rumores o intermediarios, qué clase de historia necesita Carina para traicionarse a sí misma. No hay confrontación directa. Es la etapa más silenciosa a propósito — Savathûn todavía está decidiendo si Carina merece atención sostenida.
 
 **Pendiente real:** encontrar el ángulo concreto (¿un rumor que le llega a Carina? ¿algo que Carina nota y descarta como paranoia?). No bloquea nada — puede escribirse o dejarse implícita.
+
+**Nota (2026-08-21):** el mural de Grimworld en Book 02 (Etapa 0, ver arriba) es concurrente con Taken King, no con esta etapa — **esta etapa sigue fija en Forsaken/Age VI, sin mover fecha.** El mural es una semilla deniable separada, no el comienzo dramatizado de "La observación".
 
 ---
 
@@ -152,6 +156,7 @@ Si Savathûn participa en la coalición contra el Testigo, Carina debe aceptar c
 - **(Etapa 0)** "Oryx nunca supo que el Refugio del Muelle existió" — sigue siendo cierto al pie de la letra. La corrupción que se filtra con su llegada es la cobertura de Savathûn, no una acción suya.
 - **(Etapa 0)** La escena ya publicada de la muerte de Lena (`Carina_Lena_TakenKing_LoQueOryxSeLlevoDePaso`) — ni una línea se toca. Esta etapa cambia la causa detrás de la posesión, nunca lo que Carina vivió, vio o hizo esa mañana.
 - **(Etapa 0)** `02_Characters/Riven.md`, sección "Relationship with Oryx" — ya "fijada" por el autor. Esta etapa no la reescribe; solo propone, en un documento aparte, una causa no revelada para la caída de Vesta que esa página ya deja sin explicar.
+- **(Etapa 0 / mural de Grimworld)** La fecha de la Etapa 2 ("La observación", Forsaken/Age VI) — el mural del Cap. 17 de Book 02 no la mueve ni la anticipa dramatizada; es una semilla deniable aparte.
 
 ---
 

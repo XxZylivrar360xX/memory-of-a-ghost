@@ -39,8 +39,9 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Se revela en:** Witch Queen (libro futuro, sin fijar todavía).
 - **Quién ya lo sabe (desde cuándo):** nadie del elenco, en ningún capítulo de Book 02.
 - **Quién NO debe saberlo/insinuarlo todavía:** todos — regla dura, cero excepciones dentro
-  de este libro (ver Caps. 16-17, ya verificados limpios por auditoría de Codex el
-  2026-08-02).
+  de este libro (ver Caps. 16-18, ya verificados limpios por auditoría de Codex el
+  2026-08-02; Cap. 17 "Grimworld" — insertado 2026-08-21 — también verificado limpio por
+  diseño, ver footer de `10_Grimworld.md`).
 - **Foreshadowing ya sembrado:** ninguno explícito — el lugar existe en prosa, el nombre no.
 - **Líneas o gestos prohibidos antes del reveal:** cualquier personaje pronunciando o
   escribiendo "Lubrae" dentro de Book 02.
@@ -53,13 +54,13 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** una carta reescrita "mil veces" pidiéndole a Carina compartir su camino, y un
   anillo dentro de una cajita de terciopelo — Lena nunca llegó a entregarla.
 - **Se revela en:** Carina encuentra, abre y lee la carta completa, y ve el anillo, en
-  Cap. 35 (*What They Found in Exile*) — el "primer golpe": lee la nota, abre la cajita,
+  Cap. 37 (*What They Found in Exile*) — el "primer golpe": lee la nota, abre la cajita,
   formula internamente "Me eligió a mí para esto", pero no responde. Cierra la cajita, guarda
   ambas cosas, y se las lleva sin decírselo a nadie. La respuesta real (ponerse el anillo,
   decir en voz alta "quiero compartir tu camino") ocurre muchos libros después, en
   `05_Dialogues/Dialogue_Carina/Carina_Lena_PostFinalShape_LaRespuesta` (ver
   `02_Characters/Lena.md`).
-- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 35 — ya leyó el contenido completo
+- **Quién ya lo sabe (desde cuándo):** Carina, desde Cap. 37 — ya leyó el contenido completo
   dentro de este libro; lo que no ha hecho todavía es responder.
 - **Quién NO debe saberlo/insinuarlo todavía:** nadie más del elenco sabe que la caja existe
   hasta que Carina decida compartirlo (no ocurre dentro de Book 02).
@@ -68,7 +69,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Líneas o gestos prohibidos antes del reveal:** Carina no puede ponerse el anillo ni
   confirmar su respuesta en voz alta ("quiero compartir tu camino") en ningún capítulo de
   este libro ni de los libros intermedios antes de Post Final Shape. Citar o parafrasear el
-  contenido de la carta sí está permitido a partir del Cap. 35 — ya ocurrió en prosa ahí.
+  contenido de la carta sí está permitido a partir del Cap. 37 — ya ocurrió en prosa ahí.
 - **Estado:** parcial — encontrada y leída, no respondida.
 
 ---
@@ -78,7 +79,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** al sacar a Kyle y Carina con vida de Eirene, Elsie fuerza una fuga real entre
   ella y otras versiones de sí misma de líneas que ya no existen — deliberadamente sin
   nombrar cuál se filtró.
-- **Se revela en:** pagado sin nombre en Cap. 18 (*The Flank Elsie Could Not Hold*) — visible
+- **Se revela en:** pagado sin nombre en Cap. 19 (*The Flank Elsie Could Not Hold*) — visible
   para el lector como costo, pero sin detalle.
 - **Quién ya lo sabe (desde cuándo):** Elsie, desde el momento mismo del rescate — nadie más
   lo sabe.
@@ -97,7 +98,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 - **Qué es:** los apodos que Kyle y Carina se dan mutuamente, nacidos de Stormcaller (Cap.
   15) y de la puntería exacta de Carina (Cap. 14).
 - **Se revela en:** sembrados en Caps. 14-15, consolidados y pagados como cierre emocional
-  en Caps. 29 y 34.
+  en Caps. 31 y 36.
 - **Quién ya lo sabe:** Kyle y Carina, desde que se los dan.
 - **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban
   ignorar, es una revelación que se paga por completo dentro del mismo libro.
@@ -110,7 +111,7 @@ misterios" — este archivo es el detalle completo de esa tabla.
 ## Filo Cero / el primer rescate de Carina
 
 - **Qué es:** el prototipo de Espada que Shaxx le entrega a Kyle en el Cap. 8 (`01_The_Day_Before_The_King.md`, Sección II) se rompe en un duelo contra Oryx en el Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Secciones XII, XIV-XVI) — Kyle cae al borde de morir, y Carina lo salva formando su Vacío completo (sin nombrarlo en prosa) por primera vez.
-- **Se revela en:** sembrado en Cap. 8; pagado en Cap. 16; consolidado como frase en Cap. 34 (`Six_Months_In_Fragments.md`, "hasta que te vuelva a salvar"); pagado por segunda vez en *Justo a Tiempo* (Aftermath, Movimiento VIII, `Carina_Guardian_TakenKing_JustoATiempo.md`), cuya Sección IX ya estaba titulada "sin saber que era la segunda vez" antes de que existiera una primera vez en prosa.
+- **Se revela en:** sembrado en Cap. 8; pagado en Cap. 16; consolidado como frase en Cap. 36 (`Six_Months_In_Fragments.md`, "hasta que te vuelva a salvar"); pagado por segunda vez en *Justo a Tiempo* (Aftermath, Movimiento VIII, `Carina_Guardian_TakenKing_JustoATiempo.md`), cuya Sección IX ya estaba titulada "sin saber que era la segunda vez" antes de que existiera una primera vez en prosa.
 - **Quién ya lo sabe:** Kyle y Carina, desde el momento mismo del rescate en Cap. 16.
 - **Quién NO debe saberlo/insinuarlo todavía:** N/A — no es un misterio que otros deban ignorar, es una revelación que se paga dentro del mismo libro y se completa en el Aftermath.
 - **Foreshadowing ya sembrado:** el arma sin nombre e "sin filosofía todavía" que Shaxx entrega en el Cap. 8; el despertar crudo del Vacío de Carina en el Cap. 15, ahora anclado en el arco de un cazador caído y el método de lectura que le enseñó Lena con *El asesinato de Roger Ackroyd* (ver `08_Core_Relationships/Carina_Lena.md`, símbolo "El libro").
@@ -123,13 +124,13 @@ misterios" — este archivo es el detalle completo de esa tabla.
 
 ## El Sacerdote de Guerra — de la derrota total al primer golpe real
 
-- **Qué es:** el arco de tres encuentros de Carina contra el Sacerdote de Guerra. Cap. 11 (`04_What_The_Refuge_Could_Still_Give.md`, Sección XI, "The Priest at the Tree Line"): lo enfrenta en el Refugio del Muelle, el Arma Dorada lo atraviesa sin efecto ("presente solo a medias, anclado en otro lugar"), y él la derriba de un golpe sin mirarla dos veces — derrota total. Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XII, "Anchored for a Second"): en Eirene, una ola cegadora de un Capitán Poseído lo roza por accidente y lo saca un instante de "otro lugar" — el Arma Dorada conecta de verdad con la hombrera por primera vez, aunque él sigue de pie. Cap. 29 (`Part_03_The_Kingslayer/03_The_Ones_Who_Stayed.md`): en King's Fall, Tiago articula el mecanismo en voz alta ("su poder viene de Oryx, no de sí mismo... su verdad es una delegación"), la mecánica de Tótems/glifos del Santuario despoja esa protección, y Carina lo ancla con Shadowshot — el golpe que decide cómo cae.
-- **Se revela en:** sembrado en Cap. 11 (derrota) y Cap. 16 (primer golpe real, sin comprensión); pagado y explicado en Cap. 29.
-- **Quién ya lo sabe (desde cuándo):** Carina y Hornet, desde el Cap. 11, saben que es intocable por medios normales — pero no saben por qué hasta el Cap. 29, cuando Tiago lo explica en voz alta.
-- **Quién NO debe saberlo/insinuarlo todavía:** ningún personaje debe articular el mecanismo ("su verdad es una delegación", "no está del todo aquí" con explicación) antes del Cap. 29 — Carina solo puede *sentir* que algo lo sacó de "otro lugar" en el Cap. 16, sin nombrar el porqué.
+- **Qué es:** el arco de tres encuentros de Carina contra el Sacerdote de Guerra. Cap. 11 (`04_What_The_Refuge_Could_Still_Give.md`, Sección XI, "The Priest at the Tree Line"): lo enfrenta en el Refugio del Muelle, el Arma Dorada lo atraviesa sin efecto ("presente solo a medias, anclado en otro lugar"), y él la derriba de un golpe sin mirarla dos veces — derrota total. Cap. 16 (`09_The_Moon_That_Could_Not_Stay.md`, Sección XII, "Anchored for a Second"): en Eirene, una ola cegadora de un Capitán Poseído lo roza por accidente y lo saca un instante de "otro lugar" — el Arma Dorada conecta de verdad con la hombrera por primera vez, aunque él sigue de pie. Cap. 31 (`Part_03_The_Kingslayer/03_The_Ones_Who_Stayed.md`): en King's Fall, Tiago articula el mecanismo en voz alta ("su poder viene de Oryx, no de sí mismo... su verdad es una delegación"), la mecánica de Tótems/glifos del Santuario despoja esa protección, y Carina lo ancla con Shadowshot — el golpe que decide cómo cae.
+- **Se revela en:** sembrado en Cap. 11 (derrota) y Cap. 16 (primer golpe real, sin comprensión); pagado y explicado en Cap. 31.
+- **Quién ya lo sabe (desde cuándo):** Carina y Hornet, desde el Cap. 11, saben que es intocable por medios normales — pero no saben por qué hasta el Cap. 31, cuando Tiago lo explica en voz alta.
+- **Quién NO debe saberlo/insinuarlo todavía:** ningún personaje debe articular el mecanismo ("su verdad es una delegación", "no está del todo aquí" con explicación) antes del Cap. 31 — Carina solo puede *sentir* que algo lo sacó de "otro lugar" en el Cap. 16, sin nombrar el porqué.
 - **Foreshadowing ya sembrado:** Cap. 11 (encuentro inicial, derrota total); Cap. 16 (primer golpe real, sin explicación).
-- **Líneas o gestos prohibidos antes del Cap. 29:** nadie debe explicar por qué el Arma Dorada a veces no lo toca y a veces sí; Carina no debe formular la teoría completa en voz alta ni para sí misma, solo la sensación cruda.
-- **Estado:** parcial — dos de tres encuentros escritos (Caps. 11 y 16); el Cap. 29 ya está escrito y paga el arco completo, sin necesitar ajustes por esta adición.
+- **Líneas o gestos prohibidos antes del Cap. 31:** nadie debe explicar por qué el Arma Dorada a veces no lo toca y a veces sí; Carina no debe formular la teoría completa en voz alta ni para sí misma, solo la sensación cruda.
+- **Estado:** parcial — dos de tres encuentros escritos (Caps. 11 y 16); el Cap. 31 ya está escrito y paga el arco completo, sin necesitar ajustes por esta adición.
 
 ---
 
@@ -186,8 +187,9 @@ vault, sección "Pendiente real de Book 02").
   matar/terminar/derrotar definitivamente) — no incluía contrastar `Oryx.md` ni este capítulo
   contra la biblia de personaje nueva, porque el encargo se escribió antes de que esa biblia
   y `voice/oryx.md` existieran en el vault. Codex sí encontró, por su cuenta, un hallazgo
-  adyacente (severidad media): Cap. 32 (numeración vigente tras la expansión de King's Fall y
-  la integración de la escena puente de Part 02, ambas del 2026-08-10 — Cap. 30 al momento de
+  adyacente (severidad media): Cap. 34 (numeración vigente tras la expansión de King's Fall,
+  la integración de la escena puente de Part 02 y de "What Six Ships Carried" (2026-08-10 y
+  2026-08-13), y la inserción de "Grimworld" en Part 01 (2026-08-21) — Cap. 30 al momento de
   la auditoría original, 2026-08-09) usa "Oryx estaba muerto, de verdad"
   — demasiado definitivo, sugiere suavizarlo a "había caído en su propio Mundo Trono" o
   similar. Ese hallazgo ataca el mismo síntoma desde el ángulo de redacción, pero no resuelve
@@ -196,11 +198,49 @@ vault, sección "Pendiente real de Book 02").
   auditar.
 - **Estado:** **resuelto (2026-08-09).** Codex respondió en
   `99_Reference/Agent_Notes/codex/2026-08-09_auditoria-final-oryx.md` confirmando la redención
-  velada en `Oryx.md` (severidad alta) y un gesto de aceptación faltante en Cap. 32 (antes
-  Cap. 31, y antes de eso Cap. 30 — severidad media). Aplicado con autorización del autor: `Oryx.md` — "The Collapse
+  velada en `Oryx.md` (severidad alta) y un gesto de aceptación faltante en Cap. 34 (antes
+  Cap. 32, antes Cap. 31, y antes de eso Cap. 30 — severidad media). Aplicado con autorización del autor: `Oryx.md` — "The Collapse
   of the Sword Logic" y "Final Tragedy" reescritas para que la derrota sea epistemológica, no
-  moral; Cap. 32 —
+  moral; Cap. 34 —
   párrafo del grito ampliado con un gesto de medición/reconocimiento antes del sonido, sin
   diálogo nuevo (opción preferida por Codex y por el autor). El título del capítulo
   ("The Weight of a Wrong Answer") se mantiene sin cambios — Codex lo recomendó así una vez
   aplicados los otros dos ajustes, y quedó aceptado.
+
+---
+
+## El mural de Grimworld — Savathûn observando a Carina
+
+- **Qué es:** en la galería/gruta del Cap. 17 (*Grimworld*), Carina, Kyle y Elsie (por
+  comms) encuentran un mural de las tres hermanas proto-Colmena en la superficie, con el
+  Pantheon actual (Auryx, Savathûn, Xivu Arath, ya con el pacto hecho) en las profundidades
+  debajo — eco externo, para Carina, de lo que Kyle ya vio en privado vía Fragmentos
+  Calcificados. La iconografía de Savathûn en particular da la sensación de estar *observando*
+  a Carina — algo insidioso que no está realmente ahí, al estilo del retrato de la monja en
+  *The Conjuring*. La siguiente vez que el grupo vuelve a esa zona (Cap. 18, *Where the Voices
+  Knelt*, Sección "Not Dead, Not Done"), el mural ya no está — Hornet confirma que su escaneo
+  no coincide con el anterior, sin explicación. Grimworld entero se reescribe entre pasadas;
+  nada coincide dos veces.
+- **Verdad de diseño (nunca confirmada en la prosa):** el mural lo planta Savathûn, no Oryx —
+  Oryx nunca lo ve, no sabe que existe. Savathûn ya empezó a observar a Carina en secreto;
+  Carina no lo sabe. Los especímenes de la galería (gusanos de la Colmena, Cabal, Eliksni y
+  otras especies en algo similar al ámbar) son todos de Rhulk — el mural es lo único que
+  desentona con esa arquitectura, y los personajes solo llegan a notar la discrepancia, nunca
+  a identificar quién la causó.
+- **Se revela en:** nunca, dentro de Book 02 — la autoría del mural y la observación de
+  Savathûn quedan deliberadamente sin confirmar en la prosa. Documentado aquí solo para que
+  quede rastreado antes del libro donde sí se paga.
+- **Quién ya lo sabe (desde cuándo):** nadie del elenco. Solo el lector recibe la sensación
+  (el mural "mirando" a Carina) sin explicación.
+- **Quién NO debe saberlo/insinuarlo todavía:** todos — ni Carina, ni Kyle, ni Elsie, ni
+  Hornet pueden nombrar a Savathûn como autora del mural, ni deben notar conscientemente que
+  algo las observa desde fuera de la escena.
+- **Foreshadowing ya sembrado:** ninguno anterior a este libro — nace en el Cap. 17.
+- **Líneas o gestos prohibidos antes del reveal:** ningún personaje puede nombrar a Savathûn
+  en relación con el mural; ningún capítulo puede confirmar en prosa que ella los está
+  observando. El gesto queda reservado exclusivamente al lector.
+- **Relación con el roadmap:** **no adelanta** la Etapa 2 ("La observación") de
+  `09_Roadmaps/Plan_Carina_Savathun_Horizonte.md`, fijada en Forsaken/Age VI — esa etapa
+  sigue sin moverse. Este beat es una semilla deniable, concurrente con la Etapa 0 de ese
+  mismo roadmap (la manipulación oculta vía la muerte de Lena), no un adelanto de etapa.
+- **Estado:** sembrado — gancho abierto, sin capítulo de pago asignado todavía.

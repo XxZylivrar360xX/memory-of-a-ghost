@@ -123,7 +123,7 @@ pasa — ya conocía el nombre dicho sin ese peso.
   ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/06_Two_Descents]])
 - ✅ "Que no pude terminarlo solo, y que no debería intentar terminarlo solo." — liderazgo de
   Book 02: pedir a la escuadra sin convertir su "sí" en alivio barato.
-  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/10_Where_The_Voices_Knelt]])
+  ([[11_Books/Book_02_The_King_Of_Shapes/Part_01_Price_of_Vengeance/11_Where_The_Voices_Knelt]])
 - ❌ "Soy el arma de la Ciudad, pero todavía conservo mi humanidad." — correcto como resumen
   de ficha, falso como voz; suena a tesis explicada por el propio personaje.
 - ❌ "Al final, la responsabilidad es la forma que toma el amor cuando la guerra nos alcanza."
