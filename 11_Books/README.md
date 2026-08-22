@@ -18,7 +18,7 @@ La ambición declarada de esta colección es más grande: construir, con el tiem
 
 Cada libro, al planear su lista de capítulos, debe buscar activamente espacio para:
 
-1. **Vidas propias de otros personajes del elenco creado**, en especial Carina, Jaden, el resto de la escuadra (Amir, Jin, Gabriel, y quienes se sumen) y sus Espectros — capítulos que exploran quiénes son fuera de su función de apoyo a Kyle, incluso si eso significa una ventana temporal donde Kyle no aparece en absoluto.
+1. **Vidas propias de otros personajes del elenco creado**, en especial Carina, Jaden, el resto de la escuadra (Amir, Jin, Gabriella, y quienes se sumen) y sus Espectros — capítulos que exploran quiénes son fuera de su función de apoyo a Kyle, incluso si eso significa una ventana temporal donde Kyle no aparece en absoluto.
 2. **Capítulos centrados en antagonistas**, que los desarrollan como personas con lógica propia, no solo como obstáculos — mientras protejan las reglas duras ya fijadas de cada uno (ver `04_Concepts/` y las fichas de personaje correspondientes).
 3. **Escenas complementarias o deliberadamente fuera de la trama principal** — cultura cotidiana de la saga (el Torneo de los Velocistas / SRL, festivales, rituales domésticos), momentos de pareja o de familia que no mueven ninguna pieza del conflicto central, y cualquier otro material que enriquezca el mundo sin necesitar justificarse como "progreso de la trama".
 4. **Personajes fuera del triángulo Kyle/Elsie/Ghost** que merecen su propio capítulo simplemente porque ya existen en el vault con suficiente profundidad como para sostener uno.

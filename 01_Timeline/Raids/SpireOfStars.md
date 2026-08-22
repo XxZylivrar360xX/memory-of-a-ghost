@@ -235,13 +235,13 @@ Algo en la forma en que lo dijo — el detalle específico de la taza, la tarde 
 
 Silencio más largo.
 
-— Gabriel llega — dice Kyle finalmente.
+— Gabriella llega — dice Kyle finalmente.
 
 — Ya lo sé.
 
 — Cuando llegue el equipo va a ser seis y—
 
-— El problema no es el número — dice Elsie. — El problema es que llevas tres meses tratando la ausencia de Gabriel como si fuera un fallo tuyo que compensar. — Pausa corta. — No lo es. Un equipo incompleto no es un líder que falló. Es un equipo esperando completarse. Y esperando no es lo mismo que roto.
+— El problema no es el número — dice Elsie. — El problema es que llevas tres meses tratando la ausencia de Gabriella como si fuera un fallo tuyo que compensar. — Pausa corta. — No lo es. Un equipo incompleto no es un líder que falló. Es un equipo esperando completarse. Y esperando no es lo mismo que roto.
 
 Kyle no dice nada.
 
@@ -295,7 +295,7 @@ Pero Hornet lo ve.
 
 ## Arcos activos
 
-**Kyle:** La confrontación de Elsie no produce una transformación inmediata — produce un reconocimiento. Kyle sabe lo que hacía. Ahora sabe también por qué lo hacía: no solo porque el equipo lo necesitaba, sino porque la ausencia de Gabriel se sentía como una deuda suya. Nombrar eso no lo resuelve de golpe. Pero cambia la textura de lo que viene. Los diez metros finales — dejar que el equipo encuentre el ritmo antes de tomar la posición — son el primer gesto de algo que va a tomar tiempo construir.
+**Kyle:** La confrontación de Elsie no produce una transformación inmediata — produce un reconocimiento. Kyle sabe lo que hacía. Ahora sabe también por qué lo hacía: no solo porque el equipo lo necesitaba, sino porque la ausencia de Gabriella se sentía como una deuda suya. Nombrar eso no lo resuelve de golpe. Pero cambia la textura de lo que viene. Los diez metros finales — dejar que el equipo encuentre el ritmo antes de tomar la posición — son el primer gesto de algo que va a tomar tiempo construir.
 
 **Hornet:** El momento de los tres niveles es el que Hornet va a cargar hasta que pueda decírselo a Kyle directamente. No como acusación — como la conversación que los dos necesitan tener cuando no haya raid activa. El asentimiento final de Kyle, visto por Hornet en los diez metros, es suficiente para ahora.
 
@@ -314,7 +314,7 @@ Pero Hornet lo ve.
 - La taza fría que Elsie menciona conecta directamente con [[06_Timeline_Archives/Lost_Guardians/El_Guardian_del_Sacrificio]] — Elsie no lo explica, no da contexto, lo dice como alguien que comparte un recuerdo. Kyle no tiene acceso a ese recuerdo. No lo necesita para entender el peso de cómo se dijo.
 - Calus como el testigo más inesperado del arco: su observación en Leviathan fue descartable ("animal de carga"). Su observación aquí no lo es — "construyendo un equipo que no puede funcionar sin él" es la misma estructura del problema que Elsie nombra, dicha desde afuera por alguien sin inversión emocional. Que Calus y Elsie lleguen a la misma observación desde ángulos completamente diferentes le da peso al diagnóstico.
 - "¿Y si no es suficiente?" — la pregunta que Kyle finalmente hace en voz alta es la que llevaba tres raids sin poder formular. Es también la pregunta más honesta del arco: no "¿estoy haciendo demasiado?" sino "¿qué pasa si sin mí en dos roles el equipo no alcanza?". Elsie no la descarta. La redirige.
-- Los diez metros finales son el primer gesto del cambio. No la resolución — el primer gesto. El arco de este cambio continúa hasta que Gabriel y Maverick lleguen en Forsaken y Kyle tenga que aprender activamente a no cubrir los ángulos que ya están cubiertos.
+- Los diez metros finales son el primer gesto del cambio. No la resolución — el primer gesto. El arco de este cambio continúa hasta que Gabriella y Maverick lleguen en Forsaken y Kyle tenga que aprender activamente a no cubrir los ángulos que ya están cubiertos.
 - La observación de Calus sobre los líderes queda sin respuesta de Kyle. Kyle no sabe todavía en cuál categoría está. Eso también es parte del arco.
 
 ---

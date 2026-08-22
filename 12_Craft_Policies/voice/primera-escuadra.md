@@ -59,7 +59,7 @@ seguirse por posiciones aunque se quitaran varias líneas de diálogo.
 La Primera Escuadra enseña pertenencia: "nadie vuelve solo". Escuadra Cero y la segunda escuadra
 heredan esa filosofía, pero la transforman en protección, rescate, hogar y oficio sostenido.
 
-La Primera Escuadra no debe sonar como la versión madura de Jaden, Carina, Amir, Jin y Gabriel.
+La Primera Escuadra no debe sonar como la versión madura de Jaden, Carina, Amir, Jin y Gabriella.
 Es más temprana, más encontrada por accidente, menos formalizada. Todavía hay descubrimiento,
 improvisación y juventud emocional, incluso cuando Joe ya trae guerras antiguas en el cuerpo.
 

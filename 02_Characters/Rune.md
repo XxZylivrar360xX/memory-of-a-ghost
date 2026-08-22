@@ -89,15 +89,15 @@ Amir aprecia que Rune responda preguntas simples con respuestas comprensibles cu
 
 Entre ambos existe un acuerdo tácito de traducción mutua.
 
-Con Gabriel mantiene una fascinación constante.
+Con Gabriella mantiene una fascinación constante.
 
 No por Thorn.
 
-Por Gabriel.
+Por Gabriella.
 
 Rune considera estadísticamente improbable que una persona tan extrovertida tome decisiones tan consistentes bajo presión.
 
-Gabriel considera divertidísimo que Rune lo estudie como si fuera una reliquia arqueológica.
+Gabriella considera divertidísimo que Rune la estudie como si fuera una reliquia arqueológica.
 
 Ambos están satisfechos con la situación.
 
@@ -159,4 +159,4 @@ Y porque alguien tiene que recordar.
 
 ---
 
-*Conecta con: [[02_Characters/Jin]], [[02_Characters/Amir]], [[02_Characters/Gabriel]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Gambito_de_los_Dos_Reyes]]*
+*Conecta con: [[02_Characters/Jin]], [[02_Characters/Amir]], [[02_Characters/Gabriella]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Gambito_de_los_Dos_Reyes]]*

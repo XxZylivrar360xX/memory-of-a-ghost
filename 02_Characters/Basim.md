@@ -119,11 +119,11 @@ Los dos consideran que el otro tiene prioridades cuestionables.
 
 Los dos se tienen mucho más respeto del que admiten.
 
-Con Gabriel existe una dinámica sencilla:
+Con Gabriella existe una dinámica sencilla:
 
-Basim cree que Gabriel es un problema.
+Basim cree que Gabriella es un problema.
 
-Gabriel cree que Basim es divertido.
+Gabriella cree que Basim es divertido.
 
 Ninguno de los dos ha conseguido convencer al otro.
 

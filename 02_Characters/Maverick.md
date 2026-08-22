@@ -2,7 +2,7 @@
 *Destiny: Renewed Fate — Ficha de Personaje*
 
 **Tipo:** Espectro
-**Guardián:** Gabriel
+**Guardián:** Gabriella
 **Rol en el equipo:** La conciencia emocional. No la que corrige decisiones tácticas — la que recuerda por qué esas decisiones importan.
 **Estado:** Activa
 **Aparece en:** [[01_Timeline/Age_VI_Forsaken]]
@@ -17,7 +17,7 @@ Ella prefiere que sea así.
 
 Su ojo central brilla con una luz azul clara y tranquila, casi siempre estable. Cuando se siente nerviosa, las placas exteriores se repliegan apenas unos milímetros alrededor del núcleo, un gesto tan sutil que la mayoría de las personas jamás lo percibe.
 
-Gabriel sí.
+Gabriella sí.
 
 Siempre lo percibe.
 
@@ -57,21 +57,21 @@ Quienes la conocen aprenden rápidamente que cuando Maverick decide decir algo, 
 
 ---
 
-## Con Gabriel
+## Con Gabriella
 
-Nadie entiende completamente cómo terminaron juntos.
+Nadie entiende completamente cómo terminaron juntas.
 
-Ni siquiera ellos.
+Ni siquiera ellas.
 
-Gabriel es visible.
+Gabriella es visible.
 
 Maverick es discreta.
 
-Gabriel ocupa una habitación completa.
+Gabriella ocupa una habitación completa.
 
 Maverick parece intentar ocupar el menor espacio posible.
 
-Gabriel habla con cualquiera.
+Gabriella habla con cualquiera.
 
 Maverick necesita tiempo para abrirse incluso con amigos.
 
@@ -79,7 +79,7 @@ Y sin embargo funcionan.
 
 Perfectamente.
 
-Porque Gabriel jamás intenta cambiarla.
+Porque Gabriella jamás intenta cambiarla.
 
 Nunca termina sus frases.
 
@@ -89,17 +89,17 @@ Nunca interpreta su silencio como debilidad.
 
 Y porque Maverick es una de las pocas personas capaces de ver más allá de la actuación.
 
-Ella conoce al Gabriel que existe cuando nadie está mirando.
+Ella conoce a la Gabriella que existe cuando nadie está mirando.
 
-El que carga responsabilidades que no comenta.
+La que carga responsabilidades que no comenta.
 
-El que duda.
+La que duda.
 
-El que sangra.
+La que sangra.
 
-El que sigue adelante de todos modos.
+La que sigue adelante de todos modos.
 
-A veces sospecha que lo conoce mejor que él mismo.
+A veces sospecha que la conoce mejor que ella misma.
 
 ---
 
@@ -203,4 +203,4 @@ Y una vida puede cambiar por completo porque alguien decidió escuchar.
 
 ---
 
-*Conecta con: [[02_Characters/Gabriel]], [[02_Characters/Kyle]], [[02_Characters/Amir]], [[02_Characters/Basim]], [[02_Characters/Jin]], [[02_Characters/Rune]]*
+*Conecta con: [[02_Characters/Gabriella]], [[02_Characters/Kyle]], [[02_Characters/Amir]], [[02_Characters/Basim]], [[02_Characters/Jin]], [[02_Characters/Rune]]*

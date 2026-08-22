@@ -32,7 +32,7 @@ Conoce los *Libros del Dolor* mejor que casi nadie fuera de Eris Morn. La filoso
 
 Su interés en las Armas del Dolor — Espinas, Necrochasm, la Caricia de Malicia — viene de la misma lógica: estas armas fueron diseñadas para canalizar la muerte como combustible. Lo que Jin estudia es si ese mecanismo puede ser reconducido. Si la misma arquitectura que hace a Espinas crecer con cada muerte puede sostener algo que no sea muerte como propósito.
 
-Es una pregunta que Eris Morn encuentra inquietante y fascinante en igual medida. Que Gabriel encuentra personalmente relevante. Que Kyle entiende de formas que Jin todavía no termina de cartografiar.
+Es una pregunta que Eris Morn encuentra inquietante y fascinante en igual medida. Que Gabriella encuentra personalmente relevante. Que Kyle entiende de formas que Jin todavía no termina de cartografiar.
 
 ---
 
@@ -50,7 +50,7 @@ Tardó tres misiones en preguntarle directamente a Kyle qué recordaba de la sal
 
 Con Kyle hay una relación que tardó en calibrarse porque ninguno de los dos esperaba al otro: Kyle no esperaba a alguien que supiera más sobre la filosofía de Oryx que él mismo, y Jin no esperaba a alguien que la hubiera vivido desde adentro. Lo que resulta es una conversación que lleva años sin terminar y que ninguno de los dos quiere que termine.
 
-Con Gabriel hay una afinidad que el equipo no terminó de anticipar. Jin estudia las Armas del Dolor desde afuera; Gabriel vive con una desde adentro. La diferencia de perspectiva produce conversaciones que los demás abandonan a los diez minutos y que los dos pueden sostener durante horas.
+Con Gabriella hay una afinidad que el equipo no terminó de anticipar. Jin estudia las Armas del Dolor desde afuera; Gabriella vive con una desde adentro. La diferencia de perspectiva produce conversaciones que los demás abandonan a los diez minutos y que los dos pueden sostener durante horas.
 
 Con Jaden hay fricción productiva: Jaden procesa el mundo en estructuras funcionales. Jin procesa el mundo en contexto histórico. Los dos tienen razón sobre cosas diferentes y ninguno lo concede fácilmente.
 
@@ -66,7 +66,7 @@ Lo que deja en Kyle es más difícil de nombrar: la certeza de que las preguntas
 
 ---
 
-*Conecta con: [[02_Characters/Amir]], [[02_Characters/Gabriel]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Gambito_de_los_Dos_Reyes]], [[01_Timeline/Age_V_The_Red_War]]*
+*Conecta con: [[02_Characters/Amir]], [[02_Characters/Gabriella]], [[04_Concepts/Sword_Logic]], [[04_Concepts/Gambito_de_los_Dos_Reyes]], [[01_Timeline/Age_V_The_Red_War]]*
 
 ---
 

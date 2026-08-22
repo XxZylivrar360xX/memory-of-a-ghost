@@ -4,7 +4,7 @@ type: concept
 category: narrative-structure
 status: activo
 related: [Consequences, Identity, Sword_Logic, Torneo_De_Los_Velocistas]
-characters: [Kyle, Carina, Jaden, Amir, Jin, Gabriel, Shayura]
+characters: [Kyle, Carina, Jaden, Amir, Jin, Gabriella, Shayura]
 ---
 
 # Mazmorras — Pruebas Personales
@@ -27,7 +27,7 @@ Salvo que el autor decida fusionarlas, se escriben como dos piezas separadas: m�
 
 ## Por qué importa la distinción
 
-Las mazmorras existen para dar a personajes del elenco secundario/de apoyo (Jin, Amir, Gabriel) el mismo tipo de escena de definición que el elenco principal recibe por defecto — y para dar al elenco principal (Kyle, Carina, Jaden) una faceta que un raid, por su naturaleza coral, no puede aislar. Un raid siempre reparte el peso emocional entre seis. Una mazmorra se lo niega a los otros cinco a propósito.
+Las mazmorras existen para dar a personajes del elenco secundario/de apoyo (Jin, Amir, Gabriella) el mismo tipo de escena de definición que el elenco principal recibe por defecto — y para dar al elenco principal (Kyle, Carina, Jaden) una faceta que un raid, por su naturaleza coral, no puede aislar. Un raid siempre reparte el peso emocional entre seis. Una mazmorra se lo niega a los otros cinco a propósito.
 
 ## Matriz vigente
 
