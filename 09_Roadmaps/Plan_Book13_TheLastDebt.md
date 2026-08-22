@@ -174,9 +174,48 @@ Se cae la máscara, o se confirma sin ambigüedad de otra forma: esto era Alden.
 
 **El duelo — fijado, con carga filosófica (ajuste 2026-08-17: este es EL duelo final real del libro, no un segundo espectáculo repetido).** Kyle va **solo**. Duelo a muerte, **sin público**. Espada contra espada — la misma escuela práxica enfrentada consigo misma a través de dos caminos opuestos: uno que la desertó para robar un nombre, otro que la adoptó después de perderlo casi todo. A diferencia de Lubrae (Parte 04, donde el punto era la conversación sostenida por el combate de toda la escuadra), aquí **una conversación es también el punto del enfrentamiento** — pero sostenida por el combate más personal e íntimo de todos, uno contra uno, sin la red de la escuadra detrás. En el último minuto, Kyle lo derrota con una **coreografía digna de Prismatic** — Arc, Solar, Vacío, Strand y Stasis, los cinco en secuencia, la prueba máxima de cuánto ha crecido desde que tocó Prismatic por primera vez en Final Shape. El libro se gana este espectáculo porque ya demostró en Lubrae que sabe contenerse.
 
+### El desarme — Finality's Auger y la torreta (fijado 2026-08-22)
+
+**El arma:** *Finality's Auger*, fusil lineal de Estasis dejado por **Rhulk** post mortem en Sundered Doctrine. Herencia deliberada del Primer Discípulo al único ser que alguna vez oyó su pregunta real y no su argumento (ver [[05_Dialogues/Dialogue_Guardian/Guardian_Rhulk_VotoDelDiscipulo_ElDiscipulo]] — *"la que Rhulk nunca había podido hacer en voz alta porque hacerla era admitir que no sabía la respuesta"*). Segunda capa: Rhulk odiaba Lubrae, su propio mundo; Kyle sangró por él (Book 02, Part 01 — Avarra, Filo Cero roto, el duelo con Oryx). El arma se la deja el ser que perforó hasta el núcleo el lugar que Kyle no pudo salvar.
+
+**Dónde encaja en el duelo: al final, no al principio.** La coreografía prismática de cinco elementos ocurre primero **y no basta** — pago directo de lo ya fijado en la Parte 04 ("ni Luz ni Oscuridad combinadas bastan para vencer a Vale"). Kyle agota todo lo que es, Vale responde a todo. Lo que abre la ventana no es poder. Es astucia.
+
+**La mecánica, traducida a prosa — nunca nombrar perks en el texto.** El arma se ceba y **se dispara al cielo**; lo que baja es una torreta autónoma que dura poco más de veinte segundos, rastrea a distancia y lanza un proyectil cada dos segundos. Un segundo modo permite **marcar un blanco**: la torreta redirige el disparo hacia la marca.
+
+**La trampa, y por qué funciona:**
+- Kyle marca a Vale. El proyectil llega **desde una dirección donde Kyle no está**, contra el blanco exacto que Kyle está mirando.
+- Eso no se lee como fuego automático. Se lee como **coordinación** — un tirador oculto recibiendo designación.
+- El trato era **sin público, uno contra uno**. Vale concluye —solo, sin que nadie se lo diga— que Kyle rompió su palabra y trajo a alguien.
+
+**Regla dura: Kyle no miente.** Kyle despliega un arma; es Vale quien saca la conclusión. Antes hay un gesto que Vale no puede interpretar (Kyle disparando al cielo, sin explicación) y dos segundos de intervalo donde Vale llena el hueco con su propia tesis.
+
+**Y por eso cae.** La herida entera de Vale es que la palabra de Kyle no vale nada — perdonó a Skolas, y Camille y Léon murieron por una promesa que Kyle le hizo al universo y no le hizo a él. Toda su vida estuvo equivocado sobre eso. En el único segundo que importa, **tiene razón**. No baja la guardia por confusión táctica: baja la guardia por el alivio horrible de que el mundo por fin confirme lo que siempre supo.
+
+**El costo — el último error de Kyle.** Kyle tiene medio segundo para corregirlo. No lo corrige. Ese silencio es el precio del duelo final y se escribe como precio, no como ingenio: lo bastante pequeño para ser humano, lo bastante grande para que Kyle lo cargue después. Se integra al mapa de errores de Kyle como el último de la lista — el único que comete sabiendo exactamente lo que hace.
+
+**El desarme.** Dentro de esa ventana: forcejeo corto, torpe, sin coreografía lucida. La espada práxica de Kyle le **cercena las dos manos** a Vale — la refutación más literal posible de la Lógica de la Espada: nunca vuelve a sostener nada. **Regla de redacción:** rápido, feo, y Kyle no lo disfruta. El silencio de después dura más que el acto ([[00_Biblia/Narrative_Principles]] — el espectáculo nunca gana sobre la emoción).
+
+**El detalle que cierra la herencia:** el arma de Rhulk **nunca le dispara a Vale**. El taladro que abrió un mundo hasta el núcleo, en el duelo final de la saga, no hace un solo agujero — solo miente. Rhulk, que en diez mil años no supo hacer otra cosa que romper, le deja a Kyle la herramienta con la que Kyle termina **sin romper a nadie**.
+
+**Cuando la torreta se apaga**, se acabó la ventaja. Lo que queda sobre esa ruina son dos hombres solos — como tenía que terminar de todos modos.
+
+---
+
 ### La derrota — doble prisión, perpetua
 
 No lo matan — matarlo no basta contra alguien que ya violó la muerte una vez. Kyle lo sella ahí mismo en un **capullo de Stasis y Strand combinados**, y regresa **solo, sin escolta, sin ceremonia** — con Elsie, cargando el cuerpo dormido. La separación en las dos prisiones finales llega después: cuerpo en **Stasis**, en el Mundo del Trono de **Eris Morn**; mente en **Strand**, en **Eleusinia**, el Mundo del Trono de **Mara Sov**. Ambas perpetuas a la existencia del Velo.
+
+**La rodilla y el silencio (fijado 2026-08-22, aportado por el autor).** Sin manos, arrodillado, Vale pide lo único que le queda:
+
+> *"Si me niegas la corrección, entonces al menos devuélveme con mi familia."*
+
+Kyle **no responde**. Consolida el capullo en silencio y lo levanta para llevárselo. Solo cuando Vale ya está dormido —cuando ya no puede oírlo— dice:
+
+> *"Antes tienes que pagar tus crímenes contra todos a los que heriste."*
+
+Neutro, con algo de molestia contenida por la cantidad de vidas que costó la cruzada de Alden. **No es consuelo y no es discurso.** Que lo diga cuando el otro no puede oírlo importa: no es para Vale. Es para los muertos, o para él mismo.
+
+**Por qué esto NO repite el perdón de Skolas — es su inversión exacta.** Vale pide la muerte como **liberación** — volver con Camille y Léon — y Kyle se la **niega como condena**. Con Skolas, Kyle regaló una salida por confiar de más, y el costo lo pagó un tercero. Aquí retiene una salida a propósito, sabiendo exactamente lo que hace, y el costo lo paga el prisionero. Kyle sí aprendió. Lo que no hizo fue endurecerse: sigue sin matar. Solo dejó de confundir clemencia con alivio.
 
 En algún punto de este proceso, Kyle también completa lo que quedó interrumpido post-Final Shape: **libera a los Poseídos** que se habían condensado en torno a Alden — la resolución original del Lord, un acto de amor, soltar en vez de retener. Una liberación y un sello — no una guerra más grande. Coherente con la regla dura ya fijada para el Lord: nunca "más grande que el Testigo".
 
